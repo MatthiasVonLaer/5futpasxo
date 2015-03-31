@@ -1,14 +1,23 @@
-cd Sites                // ŝanĝu al dosierujo 'Sites'
-cd ..                   // ŝanĝu al superdosierujo
-cd ~                    // ŝanĝu al hejmdosierujo
+sudo apachectl start    // ruli lokan servilon
+
+cd Sites/drakoj_kaj_nerdoj
+
+git pull                // tiru el deponejo
+git add .               // aldoni novajn dosierojn al la deponejo
+git commit -a           // enmeti ŝanĝojn surloke
+git push                // puŝu al deponejo
+
+
+
+Stir-x Stir-s           // en Emacs: konservu
+Stir-x Stir-c           // en Emacs: eliru
+
+
+
+---------------------------------------------------------------------------------
 
 ls                      // montru dosierojn
 mkdir drakoj nerdoj     // kreu dosierojn "drakoj" kaj "nerdoj"
 
-git pull                // tiru el deponejo
-git commit -a           // enmeti ŝanĝojn surloke
-git push                // puŝu al deponejo
-
-git add .               // aldoni novajn dosierojn al la deponejo
-
-sudo apachectl start    // ruli lokan servilon
+cd ..                   // ŝanĝu al superdosierujo
+cd ~                    // ŝanĝu al hejmdosierujo
