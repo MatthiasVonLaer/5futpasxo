@@ -1,0 +1,23 @@
+body {
+    color: #333333;
+    background-color: #DDDDDD;
+    font-family: Georgia;
+}
+
+tradukinda {
+    background-color: yellow;
+}
+
+ul li {
+    list-style-type: none;
+    text-indent: -2em;
+    padding: 3;
+}
+
+th {
+    background-color: #AAAAAA;
+}
+
+td {
+    padding-right: 1em;
+}

@@ -1,4 +1,8 @@
+<?php header('Content-type: text/html; charset=utf-8'); ?>
 <html>
-    <?php header('Content-type: text/html; charset=utf-8'); ?>
+    <head>
+        <title>Danĝerejoj kaj Drakoj</title>
+        <link rel="stylesheet" type="text/css" href="stilfolio.css">
+    </head>
     <body>
 
