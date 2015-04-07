@@ -4,6 +4,16 @@
 
 <table>
     <tr>
+        <th>terminoj</th>
+    </tr><tr>
+        <td>eblecoj</td><td>abilities</td>
+    </tr><tr>
+        <td>kapablecoj</td><td>skills</td>
+    </tr><tr>
+        <td>talentoj</td><td>feats</td>
+    </tr>
+
+    <tr>
         <th>rasoj</th>
     </tr><tr>
         <td>goblino</td><td>goblin</td>

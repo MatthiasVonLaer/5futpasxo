@@ -2,7 +2,21 @@
 
 <h1>Popoloj</h1>
 <h2>Duonelfoj</h2>
+<ul>
+    <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, duonelfoj povas aldoni bonon de +2 al iu atributo dum la kreado de la rolulo.</li>
+    <li><b>Mezgranda:</b> Duonelfoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
+    <li><b>Normala moviĝrapideco:</b> Duonelfoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Krepuskovido:</b> Duonelfoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
+    <li><b>Subtilaj sensoj:</b> Duonelfoj havas popolbonon de +2 por perceptĵetoj.</li>
+    <li><b>Elfa imuneco:</b> Duonelfoj estas imunaj kontraŭ magiaj endormigefektoj kaj havas popolbonon de +2 por savĵetoj kontraŭ sorĉoj aŭ magiaj efektoj de la skolo transsorĉado.</li>
+    <li><b>Adaptiĝemo:</b> Kiel kroma talento duonelfoj ricevas je la unua nivelo la talenton kapablecofokuson.</li>
+    <li><b>Elfosango:</b> Por ĉiu efekto kiu rilatas al popolo, duonelfoj estas traktataj kaj kiel elfoj kaj kiel homoj.</li>
+    <li><b>Multtalento:</b> Duonelfoj povas elekti du preferatajn klasojn je la unua nivelo kaj ricevas aŭ +1 vivpoenton aŭ +1 kapablecpoenton, kiam ili altiĝas en unu el tiuj klasoj.</li>
+    <li><b>Lingvoj:</b> Je la ludkomenco duonelfoj parolas la komunan lingvon kaj la elfan. Elfoj kun alta inteligenteco povas ankaŭ elekti ĉiun alian lingvon (krom sektretaj lingvoj kiel la druidan).</li>
+</ul>
+
 <h2>Duonorkoj</h2>
+
 <h2>Elfoj</h2>
 <ul>
     <li><b>+2 Lerteco, +2 Inteligenteco, -2 Konstitucio:</b> Elfoj estas mense kiel fizike viglaj, tamen ili estas de delikata figuro.</li>

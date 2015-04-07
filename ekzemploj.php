@@ -1,37 +1,39 @@
-<html>
-    <body>
-        <h1>Nerdoj</h1>
+<?php require 'pagxkapo.php' ?>
 
-        <h2>Ekzemploj</h2>
+<h1>Nerdoj</h1>
 
-        <hr>
+<h2>Ekzemploj</h2>
 
-        <h3>Listoj</h3>
+<hr>
 
-        <ul>
-            <li>Saluton Mondo!</li>
-            <li>Saluton Drakoj!</li>
-            <li>Saluton Nerdoj!</li>
-        </ul>
+<h3>Listoj</h3>
 
-        <h3>Tabeloj</h3>
+<ul>
+    <li>Saluton Mondo!</li>
+    <li>Saluton Drakoj!</li>
+    <li>Saluton Nerdoj!</li>
+</ul>
 
-        <table>
-            <tr>
-                <th>drakoj</th> <th>nerdoj</th>
-            </tr>
-            <tr>
-                <td>E@i</td> <td>Rasmus</td>
-            <tr>
-            </tr>
-                <td>UEA</td> <td>Alberto</td>
-            <tr>
-            </tr>
-                <td>TEJO</td> <td>Matthias</td>
-            </tr>
-        </table>
+<h3>Tabeloj</h3>
 
-        <hr>
+<table>
+    <tr>
+        <th>drakoj</th> <th>nerdoj</th>
+    </tr>
+    <tr>
+        <td>E@i</td> <td>Rasmus</td>
+    <tr>
+    </tr>
+        <td>UEA</td> <td>Alberto</td>
+    <tr>
+    </tr>
+        <td>TEJO</td> <td>Matthias</td>
+    </tr>
+    </tr>
+        <td><tradukinda>houlala</tradukinda></td> <td>Anja</td>
+    </tr>
+</table>
 
-    </body>
-</html>
+<hr>
+
+<?php require 'pagxpiedo.php' ?>
