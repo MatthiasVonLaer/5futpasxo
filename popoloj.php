@@ -4,23 +4,50 @@
 <h2>Duonelfoj</h2>
 <h2>Duonorkoj</h2>
 <h2>Elfoj</h2>
+<ul>
+    <li><b>+2 Lerteco, +2 Inteligenteco, -2 Konstitucio:</b> Elfoj estas mense kiel fizike viglaj, tamen ili estas de delikata figuro.</li>
+    <li><b>Mezgranda:</b> Elfoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
+    <li><b>Normala moviĝrapideco:</b> Elfoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Krepuskovido:</b> Elfoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
+    <li><b>Subtilaj sensoj:</b> Elfoj havas popolbonon de +2 por perceptĵetoj.</li>
+    <li><b>Elfa imuneco:</b> Elfoj estas imunaj kontraŭ magiaj endormigefektoj kaj havas popolbonon de +2 por savĵetoj kontraŭ sorĉoj aŭ magiaj efektoj de la skolo transsorĉado.</li>
+    <li><b>Elfa magio:</b> Elfoj havas popolbonon de +2 por sorĉnivelĵetoj se temas pri superi sorĉreziston. Krome ili havas popolbonon de +2 por tiuj sorĉartĵetoj kiuj servas por determini ecojn de magiaj objektoj.</li>
+    <li><b>Armilsperto:</b> Elfoj estas spertuloj por longaj arkoj (ankaŭ kunmetitaj), longaj glavoj, rapiroj kaj kurtaj arkoj (ankaŭ kunmetitaj) kaj ili uzas ĉiujn armilojn kiuj estas nomitaj "elfaj" kiel militarmiloj.</li>
+    <li><b>Lingvoj:</b> Je la ludkomenco elfoj parolas la komunan lingvon kaj la elfan. Elfoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: draka, gnoma, goblina, orka, celestia, gnola, silvana.</li>
+</ul>
+
 <h2>Gnomoj</h2>
+<ul>
+    <li><b>+2 Konstitucio, +2 Karismo, -2 Forto:</b> Gnomoj estas fizike malfortaj, tamen mirige persistemaj, kaj en ilia sinteno manifestas ilia alloga karaktero.</li>
+    <li><b>malgranda:</b> Gnomoj estas malgrandaj, pro tio ili havas grandecbonon de +1 por sia armaĵklaso <i>(AK)</i>, grandecbonon de +1 por atakĵetoj kaj grandecbonon de +4 por sekretĵetoj. Tamen ili havas malbonon de -1 por sia batalmanovrobono <i>(BMB)</i> kaj por sia batalmanovrodefendo <i>(BMD)</i>.
+    <li><b>Malrapida:</b> Gnomoj havas bazmoviĝrapidecon de 6 metroj.</li>
+    <li><b>Krepuskovido:</b> Gnomoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
+    <li><b>Subtilaj sensoj:</b> Gnomoj havas popolbonon de +2 por perceptĵetoj.</li>
+    <li><b>Diligenta:</b> Gnomoj havas popolbonon de +2 por unu metio aŭ profesio je via elekto.</li>
+    <li><b>Iluziresisto:</b> Gnomoj havas popolbonon de +2 por savĵetoj kontraŭ iluziefektoj.</li>
+    <li><b>Gnoma magio:</b> Gnomoj altigas la gradon de malfacileco je +1 por savĵetoj kontraŭ iliaj iluzisorĉoj. Gnomoj kun karismo 11 aŭ pli havas krome la sekvantajn sorĉsimilajn eblecojn: 1/tago - <i>dancantaj lumoj</i>, <i>fantoma sono</i>, <i>paroli kun bestoj</i>, <i>artifiko</i>. La sorĉnivelo por tiuj efektoj egalas al la rolulnivelo de la gnomo. La grado de malfacileco por savĵetoj kontraŭ tiuj sorĉoj egalas al 10 + sorĉgrado + karismamodifilo de la gnomo.</li>
+    <li><b>Armilsperto:</b> Gnomoj uzas ĉiujn armilojn kiuj estas nomitaj "gnomaj" kiel militarmiloj.</li>
+    <li><b>Malamo:</b> Pro specifika edukado gnomoj havas bonon de +1 por atakĵetoj kontraŭ kreitaĵoj kiuj apartenas al subspeco reptilio aŭ goblino.</li>
+    <li><b>Defendotrejniĝo:</b> Kontraŭ atakoj de monstroj de la speco gigantoj, gnomoj havas evitobonon de +4 por sia armaĵklaso.</li>
+    <li><b>Lingvoj:</b> Je la ludkomenco gnomoj parolas la komunan lingvon, la gnoman kaj la silvanan. Gnomoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: draka, elfa, giganta, goblina, nana, orka.</li>
+</ul>
+
 <h2>Hobitoj</h2>
 <h2>Homoj</h2>
 <h2>Nanoj</h2>
 <ul>
     <li><b>+2 Konstitucio, +2 Saĝeco, -2 Karismo:</b> Nanoj estas tiel persistemaj kiel saĝaj, tamen iomete bruska interrilate kun aliaj.</li>
-    <li><b>Mezgranda:</b> Nanoj estas mezgrandaj kaj havas nek bonojn nek malbonojn pro sia grandeco</li>
+    <li><b>Mezgranda:</b> Nanoj estas mezgrandaj kaj havas nek bonojn nek malbonojn pro sia grandeco.</li>
     <li><b>Malrapida sed fortika:</b> Nanoj havas bazmoviĝrapidecon de 6 metroj, tamen ilia moviĝrapideco ne ŝanĝiĝas pro ŝarĝo aŭ armaĵo.</li>
     <li><b>Mallumovido:</b> Nanoj povas vidi en mallumo ĝis 18 metroj.</li>
     <li><b>Ŝtonsensiveco:</b> Nanoj havas bonon de +2 por perceptĵetoj por rekoni malkutimajn ŝtonmurojn aŭ masonaĵojn, kiel kaptiloj aŭ sekretpordoj kiuj troviĝas en ŝtonaj muroj aŭ plankoj. Ili rajtas fari perceptĵeton ĉiam kiam ili eniras distancon de 3 metroj, eĉ se ili ne estas serĉantaj.</li>
     <li><b>Avido:</b> Nanoj havas popolbonon de +2 por taksoĵetoj por eltrovi la prezon de nemagiaj produktoj, kiuj enhavas valorajn metalojn aŭ ŝtonojn.</li>
-    <li><b>Hardita:</b> Nanoj havas popolbonon de +2 por savĵetoj kontraŭ venenoj, ensorĝoj kaj sorĝaj kapablecoj.</li>
+    <li><b>Hardita:</b> Nanoj havas popolbonon de +2 por savĵetoj kontraŭ venenoj, sorĝoj kaj sorĝaj kapablecoj.</li>
     <li><b>Armilsperto:</b> Nanoj estas spertuloj por batalhakiloj, pezaj pioĉoj kaj militaj marteloj. Ili uzas ĉiujn armilojn kiuj estas nomitaj "nanaj", kiel militarmiloj.</li>
-    <li><b>Malamo:</b> Pro specifika edukado nanoj havas bonon de +1 por atakĵetoj kontraŭ kreaturoj kiuj apartenas al subspeco de orkoj aŭ goblinoj.</li>
+    <li><b>Malamo:</b> Pro specifika edukado nanoj havas bonon de +1 por atakĵetoj kontraŭ kreitaĵoj kiuj apartenas al subspeco de orkoj aŭ goblinoj.</li>
     <li><b>Defendotrejniĝo:</b> Kontraŭ atakoj de monstroj de la speco giganto, nanoj havas evitobonon de +4 por sia armaĵklaso.</li>
     <li><b>Necedema:</b> Nanoj havas popolbonon de +4 por sia batalmanovrodefendo, se ili volas kontraŭstari kuratakon aŭ faligatakon, se ili staras sur firma grundo.</li>
-    <li><b>Lingvoj:</b> Je la ludkomenco nanoj parolas la komunan lingvon kaj la nanan. Nanoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: giganta, gnoma, goblina, orka, <tradukinda>terran, undercommon</tradukinda>.
+    <li><b>Lingvoj:</b> Je la ludkomenco nanoj parolas la komunan lingvon kaj la nanan. Nanoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: giganta, gnoma, goblina, orka, terana, subkomuna.
 </ul>
 
 <?php require 'pagxpiedo.php' ?>

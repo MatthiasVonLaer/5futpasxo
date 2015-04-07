@@ -8,6 +8,8 @@
 <br>
 <a href="ekipajxo.php">Ekipaĵo</a>
 <hr>
+<a href="vortaro.php">Vortaro</a>
+<br>
 <a href="ekzemploj.php">Ekzemploj</a>
 
 <?php require 'pagxpiedo.php' ?>

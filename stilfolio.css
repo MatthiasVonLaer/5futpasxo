@@ -1,6 +1,6 @@
 body {
     color: #333333;
-    background-color: #DDDDDD;
+    background-color: #E0E0E0;
     font-family: Georgia;
 }
 
@@ -11,7 +11,7 @@ tradukinda {
 ul li {
     list-style-type: none;
     text-indent: -2em;
-    padding: 3;
+    padding: 5;
 }
 
 th {
