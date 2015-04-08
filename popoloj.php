@@ -44,7 +44,7 @@
 <h2>Gnomoj</h2>
 <ul>
     <li><b>+2 Konstitucio, +2 Karismo, -2 Forto:</b> Gnomoj estas fizike malfortaj, tamen mirige persistemaj, kaj en ilia sinteno manifestas ilia alloga karaktero.</li>
-    <li><b>malgranda:</b> Gnomoj estas malgrandaj, pro tio ili havas grandecbonon de +1 por sia armaĵklaso <i>(AK)</i>, grandecbonon de +1 por atakĵetoj kaj grandecbonon de +4 por sekretĵetoj. Tamen ili havas malbonon de -1 por sia batalmanovrobono <i>(BMB)</i> kaj por sia batalmanovrodefendo <i>(BMD)</i>.
+    <li><b>Malgranda:</b> Gnomoj estas malgrandaj, pro tio ili havas grandecbonon de +1 por sia armaĵklaso <i>(AK)</i>, grandecbonon de +1 por atakĵetoj kaj grandecbonon de +4 por sekretĵetoj. Tamen ili havas malbonon de -1 por sia batalmanovrobono <i>(BMB)</i> kaj por sia batalmanovrodefendo <i>(BMD)</i>.
     <li><b>Malrapida:</b> Gnomoj havas bazmoviĝrapidecon de 6 metroj.</li>
     <li><b>Krepuskovido:</b> Gnomoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
     <li><b>Subtilaj sensoj:</b> Gnomoj havas popolbonon de +2 por perceptĵetoj.</li>
@@ -58,8 +58,28 @@
 </ul>
 
 <h2>Hobitoj</h2>
+<ul>
+    <li><b>+2 Lerteco, +2 Karismo, -2 Forto:</b> Hobitoj estas lertmovaj kaj fortvolaj, tamen ilia malgranda staturo faras ilin malpli fortaj ol aliaj popoloj.</li>
+    <li><b>Malgranda:</b> Hobitoj estas malgrandaj, pro tio ili havas grandecbonon de +1 por sia armaĵklaso <i>(AK)</i>, grandecbonon de +1 por atakĵetoj kaj grandecbonon de +4 por sekretĵetoj. Tamen ili havas malbonon de -1 por sia batalmanovrobono <i>(BMB)</i> kaj por sia batalmanovrodefendo <i>(BMD)</i>.
+    <li><b>Malrapida:</b> Hobitoj havas bazmoviĝrapidecon de 6 metroj.</li>
+    <li><b>Subtilaj sensoj:</b> Hobitoj havas popolbonon de +2 por perceptĵetoj.</li>
+    <li><b>Lertmova:</b> Hobitoj havas popolbonon de +2 por akrobataĵ- kaj grimpĵetoj.</li>
+    <li><b>Hobitbonŝanco:</b> Hobitoj havas popolbonon de +1 por ĉiuj savĵetoj.</li> 
+    <li><b>Sentima:</b> Hobitoj havas popolbonon de +2 por ĉiuj savĵetoj kontraŭ timo. Tiu bono sumiĝas al hobitbonŝanco.</li>
+    <li><b>Armilsperto:</b> Hobitoj estas spertuloj por ŝtonĵetiloj kaj ili uzas ĉiujn armilojn kiuj estas nomitaj "hobitaj" kiel militarmiloj.</li>
+    <li><b>Lingvoj:</b> Je la ludkomenco hobitoj parolas la komunan lingvon kaj la hobitan. Hobitoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: elfa, gnoma, goblina kaj nana.</li>
+</ul>
 
 <h2>Homoj</h2>
+<ul>
+    <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, homoj ricevas bonon de +2 al iu atributo dum la kreado de la rolulo.</li>
+    <li><b>Mezgranda:</b> Homoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
+    <li><b>Normala moviĝrapideco:</b> Homoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Kroma talento:</b> Homoj elektas unu plian talenton je la unua nivelo.</li>
+    <li><b>Trejnita:</b> Homoj ricevas unu plian kapablecrangon je la unua nivelo kaj unu plian kapablecrangon dum ĉiu nivelaltiĝo.</li>
+    <li><b>Lingvoj:</b> Je la ludkomenco homoj parolas la komunan lingvon. Homoj kun alta inteligenteco povas ankaŭ elekti ĉiun alian lingvon (krom sektretaj lingvoj kiel la druidan).</li>
+</ul>
+
 
 <h2>Nanoj</h2>
 <ul>
