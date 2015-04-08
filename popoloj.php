@@ -3,7 +3,7 @@
 <h1>Popoloj</h1>
 <h2>Duonelfoj</h2>
 <ul>
-    <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, duonelfoj povas aldoni bonon de +2 al iu atributo dum la kreado de la rolulo.</li>
+    <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, duonelfoj ricevas bonon de +2 al iu atributo dum la kreado de la rolulo.</li>
     <li><b>Mezgranda:</b> Duonelfoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
     <li><b>Normala moviĝrapideco:</b> Duonelfoj havas bazmoviĝrapidecon de 9 metroj.</li>
     <li><b>Krepuskovido:</b> Duonelfoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
@@ -16,6 +16,17 @@
 </ul>
 
 <h2>Duonorkoj</h2>
+<ul>
+    <li><b>+2 por unu atributo:</b> Duonorkoj ricevas dum la kreado de la rolulo bonon de +2 por iu atributo. Tiu reprezentas la diverseco de tiu popolo.</li>
+    <li><b>Mezgranda:</b> Duonorkoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
+    <li><b>Normala moviĝrapideco:</b> Duonorkoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Mallumovido:</b> Duonorkoj povas vidi en mallumo ĝis 18 metroj.</li>
+    <li><b>Armilsperto:</b> Duonorkoj estas spertuloj por falkatoj kaj labrisoj kaj ili uzas ĉiujn armilojn kiuj estas nomitaj "orkaj" kiel militarmiloj.</li>
+    <li><b>Orka sovaĝeco:</b> Unufoje tage, se duonorko estas reduktita sub 0 vivpoentoj, sen morti, li povas daŭrigi tiel kiel li nur estus nebatalkapabla. Se li ne rehavas pli ol 0 vivpoentoj je la komenco de sia venonta vico, li subite estas senkonscia kaj komencas mortadi.</li>
+    <li><b>Orksango:</b> Por ĉiu efekto kiu rilatas al popolo, duonorkoj estas traktataj kaj kiel orkoj kaj kiel homoj.</li>
+    <li><b>Timiga:</b> Duonorkoj havas popolbonon de +2 por timigĵetoj ĉar ili ja faras timigan impreson.</li>
+    <li><b>Lingvoj:</b> Je la ludkomenco duonorkoj parolas la komunan lingvon kaj la orkan. Elfoj kun alta inteligenteco povas ankaŭ inter la sekvantaj lingvoj: draka, giganta, gnola, goblina, abisa.</li>
+</ul>
 
 <h2>Elfoj</h2>
 <ul>
@@ -47,7 +58,9 @@
 </ul>
 
 <h2>Hobitoj</h2>
+
 <h2>Homoj</h2>
+
 <h2>Nanoj</h2>
 <ul>
     <li><b>+2 Konstitucio, +2 Saĝeco, -2 Karismo:</b> Nanoj estas tiel persistemaj kiel saĝaj, tamen iomete bruska interrilate kun aliaj.</li>

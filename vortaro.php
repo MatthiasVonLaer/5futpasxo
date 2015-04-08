@@ -22,6 +22,8 @@
     <tr>
         <th>lingvoj</th>
     </tr><tr>
+        <td>abisa</td><td>abyssal</td>
+    </tr><tr>
         <td>celestia</td><td>celestial</td>
     </tr><tr>
         <td>gnola</td><td>gnoll</td>
