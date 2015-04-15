@@ -1,4 +1,4 @@
-<?php require 'pagxkapo.php' ?>
+<?php require '../../pagxkapo.php' ?>
 
 <h1>Ekipaĵo</h1>
 <h2>Armiloj</h2>
@@ -216,4 +216,4 @@
     </tr>
 </table>
 
-<?php require 'pagxpiedo.php' ?>
+<?php require '../../pagxpiedo.php' ?>

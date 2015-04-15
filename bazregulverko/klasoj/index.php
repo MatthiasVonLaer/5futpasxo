@@ -1,27 +1,27 @@
-<?php require 'pagxkapo.php' ?>
+<?php require '../../pagxkapo.php' ?>
 
 <h1>Klasoj</h1>
-<a href="arbarano.html">Arbarano</a>
+<a href="arbarano.php">Arbarano</a>
 <br>
-<a href="barbaro.html">Barbaro</a>
+<a href="barbaro.php">Barbaro</a>
 <br>
-<a href="bardo.html">Bardo</a>
+<a href="bardo.php">Bardo</a>
 <br>
-<a href="batalisto.html">Batalisto</a>
+<a href="batalisto.php">Batalisto</a>
 <br>
-<a href="druido.html">Druido</a>
+<a href="druido.php">Druido</a>
 <br>
-<a href="fripono.html">Fripono</a>
+<a href="fripono.php">Fripono</a>
 <br>
-<a href="kleriko.html">Kleriko</a>
+<a href="kleriko.php">Kleriko</a>
 <br>
-<a href="magiisto.html">Magiisto</a>
+<a href="magiisto.php">Magiisto</a>
 <br>
-<a href="monahxo.html">Monaĥo</a>
+<a href="monahxo.php">Monaĥo</a>
 <br>
-<a href="paladino.html">Paladino</a>
+<a href="paladino.php">Paladino</a>
 <br>
-<a href="sorcxisto.html">Sorĉisto</a>
+<a href="sorcxisto.php">Sorĉisto</a>
 
 <table>
     <tr>
@@ -69,4 +69,4 @@
     </tr>
 </table>
 
-<?php require 'pagxpiedo.php' ?>
+<?php require '../../pagxpiedo.php' ?>

@@ -4,8 +4,50 @@ body {
     font-family: Georgia;
 }
 
-tradukinda {
-    background-color: yellow;
+.navigado {
+    background-color: #222222;
+    float: left;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 150px;
+    height: 100%;
+
+    font-family: Verdana;
+    color: #AAAAAA;
+}
+
+.navigado a {
+    color: #EEEEEE;
+    text-decoration: none;
+    display: block;
+}
+
+.navigado a:hover {
+    text-decoration: underline;
+}
+
+.navigado ul {
+    margin-top: 0.5em;
+}
+
+.navigado hr {
+    border: solid green 1px;
+}
+
+.navigado .titolo {
+    color: green;
+    font-size: 24px;
+    text-align: center;
+}
+
+.enhavo {
+    margin-left: 150px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana;
+    font-weight: normal;
 }
 
 ul li {
@@ -21,3 +63,8 @@ th {
 td {
     padding-right: 1em;
 }
+
+tradukinda {
+    background-color: yellow;
+}
+
