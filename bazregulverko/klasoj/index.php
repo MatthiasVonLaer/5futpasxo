@@ -1,28 +1,52 @@
 <?php require '../../pagxkapo.php' ?>
 
 <h1>Klasoj</h1>
-<a href="arbarano.php">Arbarano</a>
-<br>
-<a href="barbaro.php">Barbaro</a>
-<br>
-<a href="bardo.php">Bardo</a>
-<br>
-<a href="batalisto.php">Batalisto</a>
-<br>
-<a href="druido.php">Druido</a>
-<br>
-<a href="fripono.php">Fripono</a>
-<br>
-<a href="kleriko.php">Kleriko</a>
-<br>
-<a href="magiisto.php">Magiisto</a>
-<br>
-<a href="monahxo.php">Monaĥo</a>
-<br>
-<a href="paladino.php">Paladino</a>
-<br>
-<a href="sorcxisto.php">Sorĉisto</a>
 
+<p>
+La klaso estas la plej grava karakterizaĵo de rolulo. Ĝi estas la fonto de la plejparto de liaj talentoj kaj eblecoj, kiuj donas al li specialan kaj gravan rolon en la grupo de aventuristoj. La sekvantaj 11 klasoj estas la bazklasoj de la ludo:
+</p>
+
+<ul>
+    <li>
+        <a href="arbarano.php">Arbarano</a>: Kiel spurlegisto kaj ĉasisto, la arbarano estas sovaĝulo kiu spertas trovi siajn ĝismortajn malamikojn.
+    </li>
+    <li>
+        <a href="barbaro.php">Barbaro</a>: La barbaro estas brutala berserko kies deveno estas for de ĉiu civilizo.
+    </li>
+    <li>
+        <a href="bardo.php">Bardo</a>: La bardo uzas siajn kapablecojn kaj sorĉojn por subteni siajn amikojn, por konfuzi siajn malamikojn kaj por pliigi sian famon.
+    </li>
+    <li>
+        <a href="batalisto.php">Batalisto</a>: Kuraĝe kaj brave la batalisto majstras armilojn kaj armaĵojn.
+    </li>
+    <li>
+        <a href="druido.php">Druido</a>: La druido estas adoranto de ĉiuj naturaĵoj - li scipovas sorĉi, li estas amiko de bestoj kaj sperta staturŝanĝanto.
+    </li>
+    <li>
+        <a href="fripono.php">Fripono</a>: La fripono estas ŝtelisto kaj spiono, li estas oportunisto kiu kapablas grave vundi neatentemajn kontraŭulojn.
+    </li>
+    <li>
+        <a href="kleriko.php">Kleriko</a>: Kiel kredanta sekvanto de unu dio, la kleriko scipovas sanigi vundojn, revivigi mortintojn kaj voki la koleron de la dioj.
+    </li>
+    <li>
+        <a href="magiisto.php">Magiisto</a>: La magiisto estas majstro de magio per daŭra studado kio donas al li nekredeblan magian potencon.
+    </li>
+    <li>
+        <a href="monahxo.php">Monaĥo</a>: Kiel lernanto de luktarto, la monaĥo trejnadas sian korpon por ke ĝi estu sia armilo kaj armaĵo.
+    </li>
+    <li>
+        <a href="paladino.php">Paladino</a>: La paladino estas kavaliro en brila armaĵo, li estas kredanta sekvanto de la ordo kaj la bono.
+    </li>
+    <li>
+        <a href="sorcxisto.php">Sorĉisto</a>: La sorĉisto estas denaska konanto de magio, li havas strangajn kaj timigajn fortojn.
+    </li>
+</ul>
+
+<p>
+La klasojn havas la sekvantajn mallongilojn: arbarano ARB, barbaro BBR, bardo BRD, batalisto BAT, druido DRU, fripono FRI, kleriko KLE, magiisto MAG, monaĥo MON, paladino PAL, sorĉisto SOR.
+</p>
+
+<h2>Rolulevoluigo</h2>
 <table>
     <tr>
         <th>Rolulnivelo</th><th>Malrapida</th><th>Mezrapida</th><th>Rapida</th><th>Talento</th><th>Atributpoento</th>

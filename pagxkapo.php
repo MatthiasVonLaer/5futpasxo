@@ -49,6 +49,9 @@ foreach($aro as $elemento) {
 
             <ul>
                 <li>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/ekludi">Ekludi</a>
+                </li>
+                <li>
                     <a href="<?php echo $indikilo; ?>/bazregulverko/popoloj">Popoloj</a>
                 </li>
                 <li>

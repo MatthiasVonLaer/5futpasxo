@@ -3,8 +3,8 @@
 <h1>Vortaro</h1>
 
 <table>
-    <tr>
-        <th>terminoj</th>
+    <tr class="nova-sekcio">
+        <td colspan="2">terminoj</td>
     </tr><tr>
         <td>eblecoj</td><td>abilities</td>
     </tr><tr>
@@ -13,14 +13,14 @@
         <td>talentoj</td><td>feats</td>
     </tr>
 
-    <tr>
-        <th>rasoj</th>
+    <tr class="nova-sekcio">
+        <td colspan="2">rasoj</td>
     </tr><tr>
         <td>goblino</td><td>goblin</td>
     </tr>
 
-    <tr>
-        <th>lingvoj</th>
+    <tr class="nova-sekcio">
+        <td colspan="2">lingvoj</td>
     </tr><tr>
         <td>abisa</td><td>abyssal</td>
     </tr><tr>
@@ -35,8 +35,8 @@
         <td>terana</td><td>terran</td>
     </tr>
 
-    <tr>
-        <th>sorĉoj</th>
+    <tr class="nova-sekcio">
+        <td colspan="2">sorĉoj</td>
     </tr><tr>
         <td>artifiko</td><td>prestidigitation</td>
     </tr><tr>

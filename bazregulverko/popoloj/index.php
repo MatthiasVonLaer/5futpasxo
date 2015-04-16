@@ -97,4 +97,4 @@
     <li><b>Lingvoj:</b> Je la ludkomenco nanoj parolas la komunan lingvon kaj la nanan. Nanoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: giganta, gnoma, goblina, orka, terana, subkomuna.
 </ul>
 
-<?php require '../pagxpiedo.php' ?>
+<?php require '../../pagxpiedo.php' ?>
