@@ -1,10 +1,9 @@
 <?php require '../../pagxkapo.php' ?>
 
+<title>Klasoj</title>
 <h1>Klasoj</h1>
 
-<p>
-La klaso estas la plej grava karakterizaĵo de rolulo. Ĝi estas la fonto de la plejparto de liaj talentoj kaj eblecoj, kiuj donas al li specialan kaj gravan rolon en la grupo de aventuristoj. La sekvantaj 11 klasoj estas la bazklasoj de la ludo:
-</p>
+<p> La klaso estas la plej grava karakterizaĵo de rolulo. Ĝi estas la fonto de la plejparto de liaj talentoj kaj eblecoj, kiuj donas al li specialan kaj gravan rolon en la grupo de aventuristoj. La sekvantaj 11 klasoj estas la bazklasoj de la ludo: </p>
 
 <ul>
     <li>
@@ -42,12 +41,14 @@ La klaso estas la plej grava karakterizaĵo de rolulo. Ĝi estas la fonto de la 
     </li>
 </ul>
 
-<p>
-La klasojn havas la sekvantajn mallongilojn: arbarano ARB, barbaro BBR, bardo BRD, batalisto BAT, druido DRU, fripono FRI, kleriko KLE, magiisto MAG, monaĥo MON, paladino PAL, sorĉisto SOR.
-</p>
+<p> La klasojn havas la sekvantajn mallongilojn: arbarano ARB, barbaro BBR, bardo BRD, batalisto BAT, druido DRU, fripono FRI, kleriko KLE, magiisto MAG, monaĥo MON, paladino PAL, sorĉisto SOR. </p>
 
 <h2>Rolulevoluigo</h2>
+
+<h3>Altiĝo de rolulo</h3>
+
 <table>
+    <caption>Tabelo: Rolulsperto kaj niveldependaj avantaĝoj</caption>
     <tr>
         <th>Rolulnivelo</th><th>Malrapida</th><th>Mezrapida</th><th>Rapida</th><th>Talento</th><th>Atributpoento</th>
     </tr><tr>

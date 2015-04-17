@@ -1,6 +1,6 @@
 <?php require 'pagxkapo.php' ?>
 
-<h1>Vortaro</h1>
+<title>Vortaro</title>
 
 <table>
     <tr class="nova-sekcio">
@@ -17,6 +17,9 @@
         <td colspan="2">rasoj</td>
     </tr><tr>
         <td>goblino</td><td>goblin</td>
+    </tr>
+    </tr><tr>
+        <td>ŝlimulo</td><td>ooze</td>
     </tr>
 
     <tr class="nova-sekcio">

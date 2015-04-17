@@ -34,7 +34,6 @@ foreach($aro as $elemento) {
 <?php header('Content-type: text/html; charset=utf-8'); ?>
 <html>
     <head>
-        <title>Danĝerejoj kaj Drakoj</title>
         <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/stilfolio.css">
     </head>
     <body>
@@ -58,12 +57,21 @@ foreach($aro as $elemento) {
                     <a href="<?php echo $indikilo; ?>/bazregulverko/klasoj">Klasoj</a>
                 </li>
                 <li>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/talentoj">Talentoj</a>
+                </li>
+                <li>
                     <a href="<?php echo $indikilo; ?>/bazregulverko/ekipajxo">Ekipaĵo</a>
+                </li>
+                <li>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/batalo">Batalo</a>
                 </li>
             </ul>
 
             <em>Aliaĵoj</em>
             <ul>
+                <li>
+                    <a href="<?php echo $indikilo; ?>/mallongiloj.php">Mallongiloj</a>
+                </li>
                 <li>
                     <a href="<?php echo $indikilo; ?>/vortaro.php">Vortaro</a>
                 </li>
