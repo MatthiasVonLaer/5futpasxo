@@ -1,5 +1,5 @@
-<html>
-	<body>
+<?php require 'pagxkapo.php' ?>
+
             <h1>Klasoj</h1>
             <a href="arbarano.html">Arbarano</a>
             <br>
@@ -22,7 +22,6 @@
             <a href="paladino.html">Paladino</a>
             <br>
             <a href="sorcxisto.html">Sorĉisto</a>
-	</body>
-</html>
 
+<?php require 'pagxpiedo.php' ?>
 
