@@ -5,6 +5,12 @@ body {
     text-align: justify;
 }
 
+.tradukinda {
+    background-color: #FFAA00;
+    color: #888888;
+    /*display: none;*/
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: #6B3510;
     font-family: Verdana;
@@ -32,12 +38,12 @@ h1 + p, h2 + p, h3 + p {
 }
 
 p {
-    margin-bottom: 0.7em;
+    margin-bottom: 0.5em;
     line-height: 1.5em;
 }
 
 p + p {
-    margin-top: 0.7em;
+    margin-top: 0.5em;
 }
 
 a {
@@ -65,6 +71,17 @@ table {
     border-top: none;
     margin-top: 2em; 
     margin-bottom: 2em; 
+}
+
+table.sen-sub-linio {
+    border-bottom: none;
+}
+
+table.glita {
+    page-break-inside: avoid;
+    float: right;
+    clear: right;
+    margin-left: 3em;
 }
 
 table caption {
@@ -97,6 +114,19 @@ tr {
     border-bottom: 1px solid #DDCCBB;
 }
 
+tr.malsupra-linio {
+    border-bottom: 2px solid #2A201A;
+}
+
+tr.supra-linio {
+    border-top: 2px solid #2A201A;
+}
+
+tr.aldono {
+    border-top: 2px solid #2A201A;
+    border-bottom: none;
+}
+
 td {
     padding-right: 1em;
     border-left: none;
@@ -111,16 +141,21 @@ tradukinda {
     text-indent: 1em;
 }
 
+.desxovo-2 {
+    text-indent: 2em;
+}
+
 .navigado {
     background-color: #222222;
     float: left;
     position: fixed;
     top: 0px;
     left: 0px;
-    width: 150px;
+    width: 170px;
     height: 100%;
 
     font-family: Verdana;
+    font-size: 10px;
     color: #AAAAAA;
 }
 
@@ -130,12 +165,28 @@ tradukinda {
     display: block;
 }
 
+.navigado a.malgranda {
+    font-size: 8px;
+}
+
 .navigado a:hover {
     text-decoration: underline;
 }
 
 .navigado ul {
     margin-top: 0.5em;
+}
+
+.navigado li.preta a {
+    color: #AAEEAA;
+ }
+
+.navigado li.en-traduko a {
+    color: #EEEEAA;
+}
+
+.navigado li.malplena a {
+    color: #EEAAAA;
 }
 
 .navigado hr {
@@ -149,7 +200,8 @@ tradukinda {
 }
 
 .enhavo {
-    margin-left: 200px;
+    margin-left: 220px;
     margin-right: 70px;
+    margin-bottom: 70px;
 }
 

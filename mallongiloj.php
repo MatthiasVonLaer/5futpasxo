@@ -20,13 +20,25 @@
         <td>BMD</td><td>Batalmanovra defendo</td>
     </tr>
     <tr>
+        <td>DR</td><td>Domaĝoredukto</td>
+    </tr>
+    <tr>
         <td>EE</td><td>Ekstraordinara ebleco</td>
+    </tr>
+    <tr>
+        <td>LR</td><td>Ludantroluloj</td>
+    </tr>
+    <tr>
+        <td>LG</td><td>Ludgvidanto</td>
     </tr>
     <tr>
         <td>MK</td><td>Monero kupra</td>
     </tr>
     <tr>
         <td>MA</td><td>Monero arĝenta</td>
+    </tr>
+    <tr>
+        <td>MFG</td><td>Malfacilecgrado</td>
     </tr>
     <tr>
         <td>MO</td><td>Monero ora</td>
@@ -36,6 +48,12 @@
     </tr>
     <tr>
         <td>NLR</td><td>Neludantroluloj</td>
+    </tr>
+    <tr>
+        <td>PM</td><td>Pensmaniero</td>
+    </tr>
+    <tr>
+        <td>SE</td><td>Supernatura ebleco</td>
     </tr>
     <tr>
         <td>SP</td><td>Spertpoentoj</td>

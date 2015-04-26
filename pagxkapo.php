@@ -47,23 +47,56 @@ foreach($aro as $elemento) {
             <em>Bazregulverko</em>
 
             <ul>
-                <li>
+                <li class="en-traduko">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/ekludi">Ekludi</a>
                 </li>
-                <li>
+                <li class="en-traduko">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/popoloj">Popoloj</a>
                 </li>
-                <li>
+                <li class="en-traduko">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/klasoj">Klasoj</a>
                 </li>
-                <li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/kapablecoj">Kapablecoj</a>
+                </li>
+                <li class="en-traduko">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/talentoj">Talentoj</a>
                 </li>
-                <li>
+                <li class="en-traduko">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/ekipajxo">Ekipaĵo</a>
                 </li>
-                <li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/pliaj_reguloj">Pliaj reguloj</a>
+                </li>
+                <li class="malplena">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/batalo">Batalo</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/magio">Magio</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/sorcxoj">Sorĉoj</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/prestigxklasoj">Prestiĝklasoj</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/gvidi_la_ludon">Gvidi la ludon</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/la_cxirkauxajxo">La ĉirkaŭaĵo</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/krei_nlr">Krei NLR</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/magiaj_objektoj">Magiaj objektoj</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/statoj">Statoj</a>
+                </li>
+                <li class="malplena">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/eksterordinaraj_eblecoj">Eksterordinaraj eblecoj</a>
                 </li>
             </ul>
 
@@ -74,6 +107,9 @@ foreach($aro as $elemento) {
                 </li>
                 <li>
                     <a href="<?php echo $indikilo; ?>/vortaro.php">Vortaro</a>
+                </li>
+                <li>
+                    <a class="malgranda" href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>
                 </li>
             </ul>
         </div>

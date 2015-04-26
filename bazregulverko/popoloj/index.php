@@ -6,7 +6,7 @@
 <ul>
     <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, duonelfoj ricevas bonon de +2 al iu atributo dum la kreado de la rolulo.</li>
     <li><b>Mezgranda:</b> Duonelfoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
-    <li><b>Normala moviĝrapideco:</b> Duonelfoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Normala moviĝorapideco:</b> Duonelfoj havas bazmoviĝorapidecon de 9 metroj.</li>
     <li><b>Krepuskovido:</b> Duonelfoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
     <li><b>Subtilaj sensoj:</b> Duonelfoj havas popolbonon de +2 por perceptĵetoj.</li>
     <li><b>Elfa imuneco:</b> Duonelfoj estas imunaj kontraŭ magiaj endormigefektoj kaj havas popolbonon de +2 por savĵetoj kontraŭ sorĉoj aŭ magiaj efektoj de la skolo transsorĉado.</li>
@@ -20,7 +20,7 @@
 <ul>
     <li><b>+2 por unu atributo:</b> Duonorkoj ricevas dum la kreado de la rolulo bonon de +2 por iu atributo. Tiu reprezentas la diverseco de tiu popolo.</li>
     <li><b>Mezgranda:</b> Duonorkoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
-    <li><b>Normala moviĝrapideco:</b> Duonorkoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Normala moviĝorapideco:</b> Duonorkoj havas bazmoviĝorapidecon de 9 metroj.</li>
     <li><b>Mallumovido:</b> Duonorkoj povas vidi en mallumo ĝis 18 metroj.</li>
     <li><b>Armilsperto:</b> Duonorkoj estas spertuloj por falkatoj kaj labrisoj kaj ili uzas ĉiujn armilojn kiuj estas nomitaj "orkaj" kiel militarmiloj.</li>
     <li><b>Orka sovaĝeco:</b> Unufoje tage, se duonorko estas reduktita sub 0 vivpoentoj, sen morti, li povas daŭrigi tiel kiel li nur estus nebatalkapabla. Se li ne rehavas pli ol 0 vivpoentoj je la komenco de sia venonta vico, li subite estas senkonscia kaj komencas mortadi.</li>
@@ -33,7 +33,7 @@
 <ul>
     <li><b>+2 Lerteco, +2 Inteligenteco, -2 Konstitucio:</b> Elfoj estas mense kiel fizike viglaj, tamen ili estas de delikata figuro.</li>
     <li><b>Mezgranda:</b> Elfoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
-    <li><b>Normala moviĝrapideco:</b> Elfoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Normala moviĝorapideco:</b> Elfoj havas bazmoviĝorapidecon de 9 metroj.</li>
     <li><b>Krepuskovido:</b> Elfoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
     <li><b>Subtilaj sensoj:</b> Elfoj havas popolbonon de +2 por perceptĵetoj.</li>
     <li><b>Elfa imuneco:</b> Elfoj estas imunaj kontraŭ magiaj endormigefektoj kaj havas popolbonon de +2 por savĵetoj kontraŭ sorĉoj aŭ magiaj efektoj de la skolo transsorĉado.</li>
@@ -46,11 +46,11 @@
 <ul>
     <li><b>+2 Konstitucio, +2 Karismo, -2 Forto:</b> Gnomoj estas fizike malfortaj, tamen mirige persistemaj, kaj en ilia sinteno manifestas ilia alloga karaktero.</li>
     <li><b>Malgranda:</b> Gnomoj estas malgrandaj, pro tio ili havas grandecbonon de +1 por sia armaĵklaso <i>(AK)</i>, grandecbonon de +1 por atakĵetoj kaj grandecbonon de +4 por sekretĵetoj. Tamen ili havas malbonon de -1 por sia batalmanovrobono <i>(BMB)</i> kaj por sia batalmanovrodefendo <i>(BMD)</i>.
-    <li><b>Malrapida:</b> Gnomoj havas bazmoviĝrapidecon de 6 metroj.</li>
+    <li><b>Malrapida:</b> Gnomoj havas bazmoviĝorapidecon de 6 metroj.</li>
     <li><b>Krepuskovido:</b> Gnomoj povas vidi en malhela lumo duoble pli malproksime ol homoj.</li>
     <li><b>Subtilaj sensoj:</b> Gnomoj havas popolbonon de +2 por perceptĵetoj.</li>
     <li><b>Diligenta:</b> Gnomoj havas popolbonon de +2 por unu metio aŭ profesio je via elekto.</li>
-    <li><b>Iluziresisto:</b> Gnomoj havas popolbonon de +2 por savĵetoj kontraŭ iluziefektoj.</li>
+    <li><b>Iluzirezisto:</b> Gnomoj havas popolbonon de +2 por savĵetoj kontraŭ iluziefektoj.</li>
     <li><b>Gnoma magio:</b> Gnomoj altigas la gradon de malfacileco je +1 por savĵetoj kontraŭ iliaj iluzisorĉoj. Gnomoj kun karismo 11 aŭ pli havas krome la sekvantajn sorĉsimilajn eblecojn: 1/tago - <i>dancantaj lumoj</i>, <i>fantoma sono</i>, <i>paroli kun bestoj</i>, <i>artifiko</i>. La sorĉnivelo por tiuj efektoj egalas al la rolulnivelo de la gnomo. La grado de malfacileco por savĵetoj kontraŭ tiuj sorĉoj egalas al 10 + sorĉgrado + karismamodifilo de la gnomo.</li>
     <li><b>Armilsperto:</b> Gnomoj uzas ĉiujn armilojn kiuj estas nomitaj "gnomaj" kiel militarmiloj.</li>
     <li><b>Malamo:</b> Pro specifika edukado gnomoj havas bonon de +1 por atakĵetoj kontraŭ kreitaĵoj kiuj apartenas al subspeco reptilio aŭ goblino.</li>
@@ -62,7 +62,7 @@
 <ul>
     <li><b>+2 Lerteco, +2 Karismo, -2 Forto:</b> Hobitoj estas lertmovaj kaj fortvolaj, tamen ilia malgranda staturo faras ilin malpli fortaj ol aliaj popoloj.</li>
     <li><b>Malgranda:</b> Hobitoj estas malgrandaj, pro tio ili havas grandecbonon de +1 por sia armaĵklaso <i>(AK)</i>, grandecbonon de +1 por atakĵetoj kaj grandecbonon de +4 por sekretĵetoj. Tamen ili havas malbonon de -1 por sia batalmanovrobono <i>(BMB)</i> kaj por sia batalmanovrodefendo <i>(BMD)</i>.
-    <li><b>Malrapida:</b> Hobitoj havas bazmoviĝrapidecon de 6 metroj.</li>
+    <li><b>Malrapida:</b> Hobitoj havas bazmoviĝorapidecon de 6 metroj.</li>
     <li><b>Subtilaj sensoj:</b> Hobitoj havas popolbonon de +2 por perceptĵetoj.</li>
     <li><b>Lertmova:</b> Hobitoj havas popolbonon de +2 por akrobataĵ- kaj grimpĵetoj.</li>
     <li><b>Hobitbonŝanco:</b> Hobitoj havas popolbonon de +1 por ĉiuj savĵetoj.</li> 
@@ -75,7 +75,7 @@
 <ul>
     <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, homoj ricevas bonon de +2 al iu atributo dum la kreado de la rolulo.</li>
     <li><b>Mezgranda:</b> Homoj estas mezgrandaj kaj havas nek bonon nek malbonon pro sia grandeco.</li>
-    <li><b>Normala moviĝrapideco:</b> Homoj havas bazmoviĝrapidecon de 9 metroj.</li>
+    <li><b>Normala moviĝorapideco:</b> Homoj havas bazmoviĝorapidecon de 9 metroj.</li>
     <li><b>Kroma talento:</b> Homoj elektas unu plian talenton je la unua nivelo.</li>
     <li><b>Trejnita:</b> Homoj ricevas unu plian kapablecrangon je la unua nivelo kaj unu plian kapablecrangon dum ĉiu nivelaltiĝo.</li>
     <li><b>Lingvoj:</b> Je la ludkomenco homoj parolas la komunan lingvon. Homoj kun alta inteligenteco povas ankaŭ elekti ĉiun alian lingvon (krom sektretaj lingvoj kiel la druidan).</li>
@@ -86,7 +86,7 @@
 <ul>
     <li><b>+2 Konstitucio, +2 Saĝeco, -2 Karismo:</b> Nanoj estas tiel persistemaj kiel saĝaj, tamen iomete bruska interrilate kun aliaj.</li>
     <li><b>Mezgranda:</b> Nanoj estas mezgrandaj kaj havas nek bonojn nek malbonojn pro sia grandeco.</li>
-    <li><b>Malrapida sed fortika:</b> Nanoj havas bazmoviĝrapidecon de 6 metroj, tamen ilia moviĝrapideco ne ŝanĝiĝas pro ŝarĝo aŭ armaĵo.</li>
+    <li><b>Malrapida sed fortika:</b> Nanoj havas bazmoviĝorapidecon de 6 metroj, tamen ilia moviĝorapideco ne ŝanĝiĝas pro ŝarĝo aŭ armaĵo.</li>
     <li><b>Mallumovido:</b> Nanoj povas vidi en mallumo ĝis 18 metroj.</li>
     <li><b>Ŝtonsensiveco:</b> Nanoj havas bonon de +2 por perceptĵetoj por rekoni malkutimajn ŝtonmurojn aŭ masonaĵojn, kiel kaptiloj aŭ sekretpordoj kiuj troviĝas en ŝtonaj muroj aŭ plankoj. Ili rajtas fari perceptĵeton ĉiam kiam ili eniras distancon de 3 metroj, eĉ se ili ne estas serĉantaj.</li>
     <li><b>Avido:</b> Nanoj havas popolbonon de +2 por taksoĵetoj por eltrovi la prezon de nemagiaj produktoj, kiuj enhavas valorajn metalojn aŭ ŝtonojn.</li>

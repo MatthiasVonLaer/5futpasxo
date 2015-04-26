@@ -3,8 +3,8 @@
 <title>Arbarano</title>
 <h1>Arbarano</h1>
 
-<p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj spertas pri mortigajn batalkapablecojn. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dum aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
-<p><b>Rolo:</b> Arbaranoj povas brili precipe en bataletoj - proksimaj aŭ distancaj - kaj ili kapablas senpene foriri kaj rekomenci la batalon. Iliaj eblecoj ebligas al ili fari grandan damaĝon al certaj malamikoj. Tamen ilia eblecoj estas helpaj kontraŭ ĉiaj malamikoj.</p>
+<p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj spertas pri mortigaj batalkapablecoj. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
+<p><b>Rolo:</b> Arbaranoj povas brili precipe en bataletoj - proksimaj aŭ distancaj - kaj ili kapablas senpene foriri de la batalon kaj rekomenci la batalon. Iliaj eblecoj ebligas al ili fari grandan damaĝon al certaj malamikoj. Tamen ilia eblecoj estas helpaj kontraŭ ĉiaj malamikoj.</p>
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k10</p>
 <p><b>Oro je la komenco:</b> 5k6 &times; 10mo (mezkvanta 175mo)
@@ -276,14 +276,8 @@
 
 <p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano spertas pri ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
-<p id="Gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, ekkoni motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
-
-<p> Je la 5a nivelo kaj je ĉiu kvina sekvanta nivelo (10, 15 kaj 20), la arbarano povas elekti plian ĝismortan malamikon. Plie ĉiam kiam li ricevas novan ĝismortan malamikon, li povas altigi la bonon de ĉiu ĝismorta malamiko, ankaŭ tiun de la ĵus elektita. </p>
-
-<p> Se la arbarano elektas humanoidon aŭ eksterulon kiel ĝismorta malamiko, li devas elekti subgrupon kiel indikita en la listo de ĝismortaj malamikoj. (Ĉi tie devas esti la rimarko ke en la monstro-manlibro troveblas aliaj specoj de humanoidoj, kiujn la arbarano povas elekti - la tabelo nur montras la plej oftajn). Se malamiko apartenas al du grupoj, la bonoj ne sumiĝas sed validas la pli alta. </p>
-
-<table>
-    <caption>Arbarano: ĝismortaj malamikoj</caption>
+<table class="glita">
+    <caption>ismortaj malamikoj</caption>
     <tr>
         <th>Grupo (subgrupo)</th><th>Grupo (subgrupo)</th>
     </tr>
@@ -337,12 +331,69 @@
     </tr>
 </table>
 
-<p id="Legi-spurojn"> <b>Legi spurojn:</b> La arbarano aldonas sian duonan nivelon (minimume 1) al ĉiuj kapablecĵetoj de transvivado se li sekvas aŭ identigas spurojn. </p>
+<p id="Gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, ekkoni motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
 
-<p id="Bestkunseto"> <b>Bestkunsento:</b> La arbarano povas plibonigi la sintenon de besto kontraŭ li. Tiu ebleco funkcias kiel kapablecĵeto de diplomatio por ŝanĝi la sintenon de persono. La arbarano ĵetas 1k20 kaj aldonas sian arbarano-nivelon kaj sian KAR-modifilon. Dombestoj havas komence indiferentan sintenon, tamen sovaĝaj bestoj havas unue malĝentilan sintenon. </p>
+<p> Je la 5a nivelo kaj je ĉiu kvina sekvanta nivelo (10, 15 kaj 20), la arbarano povas elekti plian ĝismortan malamikon. Plie ĉiam kiam li ricevas novan ĝismortan malamikon, li povas altigi la bonon de ĉiu ĝismorta malamiko, ankaŭ tiun de la ĵus elektita. </p>
+
+<p> Se la arbarano elektas humanoidon aŭ eksterulon kiel ĝismorta malamiko, li devas elekti subgrupon kiel indikita en la listo de ĝismortaj malamikoj. (Ĉi tie devas esti la rimarko ke en la monstro-manlibro troveblas aliaj specoj de humanoidoj, kiujn la arbarano povas elekti - la tabelo nur montras la plej oftajn). Se malamiko apartenas al du grupoj, la bonoj ne sumiĝas sed validas la pli alta. </p>
+
+<p id="Legi-spurojn"> <b>Legi spurojn (EE):</b> La arbarano aldonas sian duonan nivelon (minimume 1) al ĉiuj kapablecĵetoj de transvivado se li sekvas aŭ identigas spurojn. </p>
+
+<p id="Bestkunsento"> <b>Bestkunsento (EE):</b> La arbarano povas plibonigi la sintenon de besto kontraŭ li. Tiu ebleco funkcias kiel kapablecĵeto de diplomatio por ŝanĝi la sintenon de persono. La arbarano ĵetas 1k20 kaj aldonas sian arbarano-nivelon kaj sian KAR-modifilon. Dombestoj havas komence indiferentan sintenon, tamen sovaĝaj bestoj havas unue malĝentilan sintenon. </p>
 
 <p> Por uzi bestkunsenton la besto kaj la arbarano devas vidi unu la alian. Kutime ili ne povas esti pli malproksime ol 9 metrojn por tio kaj la interrilato daŭras ĉirkaŭ unu minuton. Sed same kiel kun homoj tio povas daŭri pli aŭ malpli longe. </p>
 
 <p> Per tiu ebleco la arbarano ankaŭ povas provi influi magiajn bestojn kiuj havas inteligentecon de 1 aŭ 2. Tiam li ricevas malbonon de -4.
+
+<p id="Batalstiltalento"> <b>Batalstiltalento (EE):</b> Je la 2a nivelo la arbarano devas elekti inter du batalstilojn: arkpafado aŭ batalo per du armiloj. Tiu elekto influas la klasajn karakterizaĵojn de la arbarano tamen ne restriktas siajn elektojn de talentoj kiujn li ricevas per nivelaltiĝo. La ekspertizo de la arbarano efektiviĝas en la kromtalentoj je la niveloj 2, 6, 10, 14 kaj 18. La arbarano povas elekti batalstiltalentojn ankaŭ se li ne plenumas la kondiĉojn. </p>
+
+<p> Se la arbarano elektas arkpafado, li povas ĉiufoje elekti el la sekvanta tabelo kiam li ricevas batalstiltalenton: kernpafo, malproksimpafo, precizpafo kaj rapida pafado. Je la 6a nivelo, la postajn talentojn estas aldonataj al la listo: precizpafo progresita kaj plurobla pafo. Je la 10a nivelo aldoniĝas la talentoj: punktpreciza celado kaj pafi kurante. </p>
+
+<p> Se la arbaranao elektas batalon per du armiloj, li povas ĉiufoje elekti el la posta listo kiam li ricevas batalstiltalenton: batalo per du armiloj, duobla tranĉo, rapida armpretigo kaj ŝildpuŝo progresita. Je la 6a nivelo la postaj talentoj aldoniĝas: batalo per du armiloj progresita kaj defendo per du armiloj. Je la 10a nivelo estas aldonataj la sekvantaj talentoj: batalo per du armiloj potenca kaj deŝiri per du armiloj. </p>
+
+<p> La arbarano nur ricevas la avantaĝojn de siaj batalstiltalentoj se li portas malpezan, mezpezan aŭ neniun armaĵon. Li perdas ĉiujn avantaĝojn kiam li surmetas pezan armaĵon. Tuj kiam la arbarano elektas batalstilon, li ne povas malfari tiun elekton. </p>
+
+<p id="Eltenemo"> <b>Eltenemo:</b> Je la 3a nivelo la arbarano ricevas eltenemon kiel kromtalento. </b>
+
+<table class="glita">
+    <caption>Preferataj terenoj</caption>
+    <tr class="supra-linio">
+        <td>Arbaro (folia kaj pingla)</td>
+    </tr>
+    <tr>
+        <td>Akvo (super kaj sub la surfaco)</td>
+    </tr>
+    <tr>
+        <td>Dezerto (sabla kaj ŝtona)</td>
+    </tr>
+    <tr>
+        <td>Ebenejo</td>
+    </tr>
+    <tr>
+        <td>La ebenoj (elektu alia ol la materiala ebeno)</td>
+    </tr>
+    <tr>
+        <td>Ĝangalo</td>
+    </tr>
+    <tr>
+        <td>Malvarmo (glacio, glaĉero, neĝo, tundro)</td>
+    </tr>
+    <tr>
+        <td>Marĉo</td>
+    </tr>
+    <tr>
+        <td>Montaro (inkluzive montetoj)</td>
+    </tr>
+    <tr>
+        <td>Subtera (kavervoj kaj karceroj)</td>
+    </tr>
+    <tr>
+        <td>Urba (domoj, stratoj, kloakreto)</td>
+    </tr>
+</table>
+
+<p id="Preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas ŝpurojn kaj ne povas esti sekvata per ŝpurlegado (tamen li povas lasi ŝpurojn se li volas). </p>
+
+<p> Je la 8a nivelo kaj je ĉiu kvina sekvanta nivelo (je la 13a kaj la 18a) la arbarano ricevas plian preferatan terenon. Krome ĉiam kiam li ricevas novan preferatan terenon, li povas aldoni +2 al ĉiu preferata nivelo, ankaŭ al la ĵus elektita. Se unu tereno apartenas al pliaj kategorioj, la bonoj ne sumiĝas, sed valoras la plej alta. </p>
 
 <?php require '../../pagxpiedo.php' ?>
