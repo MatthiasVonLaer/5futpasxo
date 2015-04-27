@@ -151,11 +151,11 @@ tradukinda {
     position: fixed;
     top: 0px;
     left: 0px;
-    width: 170px;
+    width: 180px;
     height: 100%;
 
     font-family: Verdana;
-    font-size: 10px;
+    font-size: 13px;
     color: #AAAAAA;
 }
 
@@ -163,10 +163,6 @@ tradukinda {
     color: #EEEEEE;
     text-decoration: none;
     display: block;
-}
-
-.navigado a.malgranda {
-    font-size: 8px;
 }
 
 .navigado a:hover {
@@ -200,7 +196,7 @@ tradukinda {
 }
 
 .enhavo {
-    margin-left: 220px;
+    margin-left: 230px;
     margin-right: 70px;
     margin-bottom: 70px;
 }

@@ -109,7 +109,7 @@ foreach($aro as $elemento) {
                     <a href="<?php echo $indikilo; ?>/vortaro.php">Vortaro</a>
                 </li>
                 <li>
-                    <a class="malgranda" href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>
+                    <a href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>
                 </li>
             </ul>
         </div>
