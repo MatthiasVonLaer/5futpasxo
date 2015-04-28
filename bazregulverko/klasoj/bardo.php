@@ -33,7 +33,7 @@
         <td>+2</td>
         <td>+2</td>
         <td>+0</td>
-        <td><a href="#Deflankigi">Deflankigi</a>, <a href="#Anatemkanto">Anatemkanto</a>, <a href="#Bardoprezentado">Bardoprezentado</a>, <a href="#Bardoscio">Bardoscio</a>, <a href="#Allogi">Allogi</a>, <a href="#Kanto-de-kuragxo">Kanto de kuraĝo +1</a>, <a href="#Artifikoj">Artifikoj</a></td>
+        <td><a href="#deflankigi">Deflankigi</a>, <a href="#anatemkanto">Anatemkanto</a>, <a href="#bardoprezentado">Bardoprezentado</a>, <a href="#bardoscio">Bardoscio</a>, <a href="#allogi">Allogi</a>, <a href="#kanto-de-kuragxo">Kanto de kuraĝo +1</a>, <a href="#artifikoj">Artifikoj</a></td>
         <td>1</td>
         <td>-</td>
         <td>-</td>
@@ -47,7 +47,7 @@
         <td>+3</td>
         <td>+3</td>
         <td>+0</td>
-        <td><a href="#Sperta">Sperta</a>, <a href="#Multflanka-prezento">Multflanka prezento</a></td>
+        <td><a href="#sperta">Sperta</a>, <a href="#multflanka-prezento">Multflanka prezento</a></td>
         <td>2</td>
         <td>-</td>
         <td>-</td>
@@ -61,7 +61,7 @@
         <td>+3</td>
         <td>+3</td>
         <td>+1</td>
-        <td><a href="#Kanto-de-sukceso">Kanto de sukceso +2</a></td>
+        <td><a href="#kanto-de-sukceso">Kanto de sukceso +2</a></td>
         <td>3</td>
         <td>-</td>
         <td>-</td>
@@ -89,7 +89,7 @@
         <td>+4</td>
         <td>+4</td>
         <td>+1</td>
-        <td><a href="#Sciulo">Sciulo 1/ Tag</a>, <a href="#Kanto-de-kuragxo">Kanto de kuraĝo +2</a></td>
+        <td><a href="#sciulo">Sciulo 1/ Tag</a>, <a href="#kanto-de-kuragxo">Kanto de kuraĝo +2</a></td>
         <td>4</td>
         <td>2</td>
         <td>-</td>
@@ -103,7 +103,7 @@
         <td>+5</td>
         <td>+5</td>
         <td>+2</td>
-        <td><a href="#Suflori">Suflori</a>, <a href="#Multflanka-prezento">Multflanka prezento</a></td>
+        <td><a href="#suflori">Suflori</a>, <a href="#multflanka-prezento">Multflanka prezento</a></td>
         <td>4</td>
         <td>3</td>
         <td>-</td>
@@ -117,7 +117,7 @@
         <td>+5</td>
         <td>+5</td>
         <td>+2</td>
-        <td><a href="#Kanto-de-sukceso">Kanto de sukceso +3</a></td>
+        <td><a href="#kanto-de-sukceso">Kanto de sukceso +3</a></td>
         <td>4</td>
         <td>3</td>
         <td>1</td>
@@ -131,7 +131,7 @@
         <td>+6</td>
         <td>+6</td>
         <td>+2</td>
-        <td><a href="#Lamentokanto">Lamentokanto</a></td>
+        <td><a href="#lamentokanto">Lamentokanto</a></td>
         <td>4</td>
         <td>4</td>
         <td>2</td>
@@ -145,7 +145,7 @@
         <td>+6</td>
         <td>+6</td>
         <td>+3</td>
-        <td><a href="#Kanto-de-grando">Kanto de grando</a></td>
+        <td><a href="#kanto-de-grando">Kanto de grando</a></td>
         <td>5</td>
         <td>4</td>
         <td>3</td>
@@ -159,7 +159,7 @@
         <td>+7</td>
         <td>+7</td>
         <td>+3</td>
-        <td><a href="#Multtalentulo">Multtalentulo</a>, <a href="#Multflanka-prezento">Multflanka prezento</a></td>
+        <td><a href="#multtalentulo">Multtalentulo</a>, <a href="#multflanka-prezento">Multflanka prezento</a></td>
         <td>5</td>
         <td>4</td>
         <td>3</td>
@@ -173,7 +173,7 @@
         <td>+7</td>
         <td>+7</td>
         <td>+3</td>
-        <td><a href="#Sciulo"> Sciulo 2/ Tag</a>, <a href="#Kanto-de-sukceso">Kanto de sukceso +4</a>, <a href="#Kanto-de-kuragxo">Kanto de kuraĝo +3</a></td>
+        <td><a href="#sciulo"> Sciulo 2/ Tag</a>, <a href="#kanto-de-sukceso">Kanto de sukceso +4</a>, <a href="#kanto-de-kuragxo">Kanto de kuraĝo +3</a></td>
         <td>5</td>
         <td>4</td>
         <td>4</td>
@@ -187,7 +187,7 @@
         <td>+8</td>
         <td>+8</td>
         <td>+4</td>
-        <td><a href="#Refresxiganta-prezento">Refreŝiganta prezento</a></td>
+        <td><a href="#refresxiganta-prezento">Refreŝiganta prezento</a></td>
         <td>5</td>
         <td>5</td>
         <td>4</td>
@@ -215,7 +215,7 @@
         <td>+9</td>
         <td>+9</td>
         <td>+4</td>
-        <td><a href="#Kanto-de-timigo">Kanto de timigo</a>, <a href="#Multflanka-prezento">Multflanka prezento</a></td>
+        <td><a href="#kanto-de-timigo">Kanto de timigo</a>, <a href="#multflanka-prezento">Multflanka prezento</a></td>
         <td>5</td>
         <td>5</td>
         <td>4</td>
@@ -229,7 +229,7 @@
         <td>+9</td>
         <td>+9</td>
         <td>+5</td>
-        <td><a href="#Kanto-de-sukceso">Kanto de sukceso +5</a>, <a href="#Kanto-de-herokuragxo">Kanto de herokuraĝo</a></td>
+        <td><a href="#kanto-de-sukceso">Kanto de sukceso +5</a>, <a href="#kanto-de-herokuragxo">Kanto de herokuraĝo</a></td>
         <td>5</td>
         <td>5</td>
         <td>5</td>
@@ -257,7 +257,7 @@
         <td>+10</td>
         <td>+10</td>
         <td>+5</td>
-        <td><a href="#Sciulo"> Sciulo 3/ Tag</a>, <a href="#Kanto-de-kuragxo">Kanto de kuraĝo +4</a></td>
+        <td><a href="#sciulo"> Sciulo 3/ Tag</a>, <a href="#kanto-de-kuragxo">Kanto de kuraĝo +4</a></td>
         <td>5</td>
         <td>5</td>
         <td>5</td>
@@ -271,7 +271,7 @@
         <td>+11</td>
         <td>+11</td>
         <td>+6</td>
-        <td><a href="#Amassuflori">Amassuflori</a>, <a href="#Multflanka-prezento">Multflanka prezento</a></td>
+        <td><a href="#amassuflori">Amassuflori</a>, <a href="#multflanka-prezento">Multflanka prezento</a></td>
         <td>5</td>
         <td>5</td>
         <td>5</td>
@@ -285,7 +285,7 @@
         <td>+11</td>
         <td>+11</td>
         <td>+6</td>
-        <td><a href="#Kanto-de-sukceso">Kanto de sukceso +6</a></td>
+        <td><a href="#kanto-de-sukceso">Kanto de sukceso +6</a></td>
         <td>5</td>
         <td>5</td>
         <td>5</td>
@@ -299,7 +299,7 @@
         <td>+12</td>
         <td>+12</td>
         <td>+6</td>
-        <td><a href="#Mortiga-melodio">Mortiga melodio</a></td>
+        <td><a href="#mortiga-melodio">Mortiga melodio</a></td>
         <td>5</td>
         <td>5</td>
         <td>5</td>

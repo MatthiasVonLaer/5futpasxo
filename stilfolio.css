@@ -14,6 +14,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     color: #6B3510;
     font-family: Verdana;
+    font-variant: small-caps;
     margin-bottom: 0px;
     margin-top: 25px;
 }
@@ -145,6 +146,36 @@ tradukinda {
     text-indent: 2em;
 }
 
+.enhavo {
+    position: fixed;
+    top: 45px;
+    left: 180px;
+    right: 0px;
+    bottom: 0px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-bottom: 65px;
+    overflow-y: scroll;
+}
+
+.supra-navigilo {
+    position: fixed;
+    top: 0px;
+    left: 180px;
+    right: 0px;
+    height: 40px;
+    font-family: Arial;
+    padding-left: 50px;
+    padding-right: 70px;
+    border-bottom: solid #DDCCBB 2px;
+    background-color: #DDD9D0;
+}
+
+.supra-ido {
+    position: relative;
+    margin-top: 10px;
+}
+
 .navigado {
     background-color: #222222;
     float: left;
@@ -154,8 +185,8 @@ tradukinda {
     width: 180px;
     height: 100%;
 
-    font-family: Verdana;
-    font-size: 13px;
+    font-family: Arial;
+    font-size: 14px;
     color: #AAAAAA;
 }
 
@@ -195,9 +226,38 @@ tradukinda {
     text-align: center;
 }
 
-.enhavo {
-    margin-left: 230px;
-    margin-right: 70px;
-    margin-bottom: 70px;
+.senerarigo {
+    margin-top: 3em;
+    color: #777777;
 }
 
+.sercx-enhavo {
+    color: #504940;
+}
+
+ul.sercxrezulto li a {
+    font-weight: bold;
+}
+
+form.sercxformularo {
+    float: right;
+    font-family: Arial;
+    font-size: 14px;
+    width = 500px;
+    margin-top: -3px;
+}
+
+input.sercxkesto {
+    border: none;
+    border-bottom: solid #6B3510 2px;
+    padding: 2px;
+    background-color: transparent;
+    outline: none;
+    font-size: 14px;
+
+    width: 200px;
+}
+
+input.sercxkesto:focus {
+    border-bottom: solid #356B10 2px;
+}

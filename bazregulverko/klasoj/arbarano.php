@@ -34,7 +34,7 @@
         <td>+2</td>
         <td>+0</td>
         <td>+2</td>
-        <td><a href="#Gxismorta-malamiko">1a ĝismorta malamiko</a>, <a href="#Legi-spurojn">Legi spurojn</a>, <a href="#Bestkunsento">Bestkunsento</a></td>
+        <td><a href="#gxismorta-malamiko">1a ĝismorta malamiko</a>, <a href="#legi-spurojn">Legi spurojn</a>, <a href="#bestkunsento">Bestkunsento</a></td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -46,7 +46,7 @@
         <td>+3</td>
         <td>+0</td>
         <td>+3</td>
-        <td><a href="#Batalstiltalento">Batalstiltalento</a></td>
+        <td><a href="#batalstiltalento">Batalstiltalento</a></td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -58,7 +58,7 @@
         <td>+3</td>
         <td>+1</td>
         <td>+3</td>
-        <td><a href="#Eltenemo">Eltenemo</a>, <a href="#Preferata-tereno">1a preferata tereno</a></td>
+        <td><a href="#eltenemo">Eltenemo</a>, <a href="#preferata-tereno">1a preferata tereno</a></td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -70,7 +70,7 @@
         <td>+4</td>
         <td>+1</td>
         <td>+4</td>
-        <td><a href="#Alianco-de-cxasisto">Alianco de ĉasisto</a></td>
+        <td><a href="#alianco-de-cxasisto">Alianco de ĉasisto</a></td>
         <td>0</td>
         <td>-</td>
         <td>-</td>
@@ -82,7 +82,7 @@
         <td>+4</td>
         <td>+1</td>
         <td>+4</td>
-        <td><a href="#Gxismorta-malamiko">2a ĝismorta malamiko</a></td>
+        <td><a href="#gxismorta-malamiko">2a ĝismorta malamiko</a></td>
         <td>1</td>
         <td>-</td>
         <td>-</td>
@@ -94,7 +94,7 @@
         <td>+5</td>
         <td>+2</td>
         <td>+5</td>
-        <td><a href="#Batalstiltalento">Batalstiltalento</a></td>
+        <td><a href="#batalstiltalento">Batalstiltalento</a></td>
         <td>1</td>
         <td>-</td>
         <td>-</td>
@@ -106,7 +106,7 @@
         <td>+5</td>
         <td>+2</td>
         <td>+5</td>
-        <td><a href="#Trapasi-subkreskajxon">Trapasi subkreskaĵon</a></td>
+        <td><a href="#trapasi-subkreskajxon">Trapasi subkreskaĵon</a></td>
         <td>1</td>
         <td>0</td>
         <td>-</td>
@@ -118,7 +118,7 @@
         <td>+6</td>
         <td>+2</td>
         <td>+6</td>
-        <td><a href="#Preferata-tereno">2a preferata tereno</a>, <a href="#Rapide-postcxasi">Rapide postĉasi</a></td>
+        <td><a href="#preferata-tereno">2a preferata tereno</a>, <a href="#rapide-postcxasi">Rapide postĉasi</a></td>
         <td>1</td>
         <td>1</td>
         <td>-</td>
@@ -130,7 +130,7 @@
         <td>+6</td>
         <td>+3</td>
         <td>+6</td>
-        <td><a href="#Eskapo">Eskapo</a></td>
+        <td><a href="#eskapo">Eskapo</a></td>
         <td>2</td>
         <td>1</td>
         <td>-</td>
@@ -142,7 +142,7 @@
         <td>+7</td>
         <td>+3</td>
         <td>+7</td>
-        <td><a href="#Gxismorta-malamiko">3a ĝismorta malamiko</a>, <a href="#Batalstiltalento">Batalstiltalento</a></td>
+        <td><a href="#gxismorta-malamiko">3a ĝismorta malamiko</a>, <a href="#batalstiltalento">Batalstiltalento</a></td>
         <td>2</td>
         <td>1</td>
         <td>0</td>
@@ -154,7 +154,7 @@
         <td>+7</td>
         <td>+3</td>
         <td>+7</td>
-        <td><a href="#Predo">Predo</a></td>
+        <td><a href="#predo">Predo</a></td>
         <td>2</td>
         <td>1</td>
         <td>1</td>
@@ -166,7 +166,7 @@
         <td>+8</td>
         <td>+4</td>
         <td>+8</td>
-        <td><a href="#Kamuflajxo">Kamuflaĵo</a></td>
+        <td><a href="#kamuflajxo">Kamuflaĵo</a></td>
         <td>2</td>
         <td>2</td>
         <td>1</td>
@@ -178,7 +178,7 @@
         <td>+8</td>
         <td>+4</td>
         <td>+8</td>
-        <td><a href="#Preferata-tereno">3a preferata tereno</a></td>
+        <td><a href="#preferata-tereno">3a preferata tereno</a></td>
         <td>3</td>
         <td>2</td>
         <td>1</td>
@@ -190,7 +190,7 @@
         <td>+9</td>
         <td>+4</td>
         <td>+9</td>
-        <td><a href="#Batalstiltalento">Batalstiltalento</a></td>
+        <td><a href="#batalstiltalento">Batalstiltalento</a></td>
         <td>3</td>
         <td>2</td>
         <td>1</td>
@@ -202,7 +202,7 @@
         <td>+9</td>
         <td>+5</td>
         <td>+9</td>
-        <td><a href="#Gxismorta-malamiko">4a ĝismorta malamiko</a></td>
+        <td><a href="#gxismorta-malamiko">4a ĝismorta malamiko</a></td>
         <td>3</td>
         <td>2</td>
         <td>2</td>
@@ -214,7 +214,7 @@
         <td>+10</td>
         <td>+5</td>
         <td>+10</td>
-        <td><a href="#Eskapo-progresita">Eskapo progresita</a></td>
+        <td><a href="#eskapo-progresita">Eskapo progresita</a></td>
         <td>3</td>
         <td>3</td>
         <td>2</td>
@@ -226,7 +226,7 @@
         <td>+10</td>
         <td>+5</td>
         <td>+10</td>
-        <td><a href="#Kasxado-vidalvide">Kaŝado vidalvide</a></td>
+        <td><a href="#kasxado-vidalvide">Kaŝado vidalvide</a></td>
         <td>4</td>
         <td>3</td>
         <td>2</td>
@@ -238,7 +238,7 @@
         <td>+11</td>
         <td>+6</td>
         <td>+11</td>
-        <td><a href="#Preferata-tereno">4a preferata tereno</a>, <a href="#Batalstiltalento">Batalstiltalento</a></td>
+        <td><a href="#preferata-tereno">4a preferata tereno</a>, <a href="#batalstiltalento">Batalstiltalento</a></td>
         <td>4</td>
         <td>3</td>
         <td>2</td>
@@ -250,7 +250,7 @@
         <td>+11</td>
         <td>+6</td>
         <td>+11</td>
-        <td><a href="#Predo-progresita">Predo progresita</a></td>
+        <td><a href="#predo-progresita">Predo progresita</a></td>
         <td>4</td>
         <td>3</td>
         <td>3</td>
@@ -262,7 +262,7 @@
         <td>+12</td>
         <td>+6</td>
         <td>+12</td>
-        <td><a href="#Gxismorta-malamiko">5a ĝismorta malamiko</a>, <a href="#Majstrocxasisto">Majstroĉasisto</a></td>
+        <td><a href="#gxismorta-malamiko">5a ĝismorta malamiko</a>, <a href="#majstrocxasisto">Majstroĉasisto</a></td>
         <td>4</td>
         <td>4</td>
         <td>3</td>
@@ -331,21 +331,21 @@
     </tr>
 </table>
 
-<p id="Gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, ekkoni motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
+<p id="gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, ekkoni motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
 
 <p> Je la 5a nivelo kaj je ĉiu kvina sekvanta nivelo (10, 15 kaj 20), la arbarano povas elekti plian ĝismortan malamikon. Plie ĉiam kiam li ricevas novan ĝismortan malamikon, li povas altigi la bonon de ĉiu ĝismorta malamiko, ankaŭ tiun de la ĵus elektita. </p>
 
 <p> Se la arbarano elektas humanoidon aŭ eksterulon kiel ĝismorta malamiko, li devas elekti subgrupon kiel indikita en la listo de ĝismortaj malamikoj. (Ĉi tie devas esti la rimarko ke en la monstro-manlibro troveblas aliaj specoj de humanoidoj, kiujn la arbarano povas elekti - la tabelo nur montras la plej oftajn). Se malamiko apartenas al du grupoj, la bonoj ne sumiĝas sed validas la pli alta. </p>
 
-<p id="Legi-spurojn"> <b>Legi spurojn (EE):</b> La arbarano aldonas sian duonan nivelon (minimume 1) al ĉiuj kapablecĵetoj de transvivado se li sekvas aŭ identigas spurojn. </p>
+<p id="legi-spurojn"> <b>Legi spurojn (EE):</b> La arbarano aldonas sian duonan nivelon (minimume 1) al ĉiuj kapablecĵetoj de transvivado se li sekvas aŭ identigas spurojn. </p>
 
-<p id="Bestkunsento"> <b>Bestkunsento (EE):</b> La arbarano povas plibonigi la sintenon de besto kontraŭ li. Tiu ebleco funkcias kiel kapablecĵeto de diplomatio por ŝanĝi la sintenon de persono. La arbarano ĵetas 1k20 kaj aldonas sian arbarano-nivelon kaj sian KAR-modifilon. Dombestoj havas komence indiferentan sintenon, tamen sovaĝaj bestoj havas unue malĝentilan sintenon. </p>
+<p id="bestkunsento"> <b>Bestkunsento (EE):</b> La arbarano povas plibonigi la sintenon de besto kontraŭ li. Tiu ebleco funkcias kiel kapablecĵeto de diplomatio por ŝanĝi la sintenon de persono. La arbarano ĵetas 1k20 kaj aldonas sian arbarano-nivelon kaj sian KAR-modifilon. Dombestoj havas komence indiferentan sintenon, tamen sovaĝaj bestoj havas unue malĝentilan sintenon. </p>
 
 <p> Por uzi bestkunsenton la besto kaj la arbarano devas vidi unu la alian. Kutime ili ne povas esti pli malproksime ol 9 metrojn por tio kaj la interrilato daŭras ĉirkaŭ unu minuton. Sed same kiel kun homoj tio povas daŭri pli aŭ malpli longe. </p>
 
 <p> Per tiu ebleco la arbarano ankaŭ povas provi influi magiajn bestojn kiuj havas inteligentecon de 1 aŭ 2. Tiam li ricevas malbonon de -4.
 
-<p id="Batalstiltalento"> <b>Batalstiltalento (EE):</b> Je la 2a nivelo la arbarano devas elekti inter du batalstilojn: arkpafado aŭ batalo per du armiloj. Tiu elekto influas la klasajn karakterizaĵojn de la arbarano tamen ne restriktas siajn elektojn de talentoj kiujn li ricevas per nivelaltiĝo. La ekspertizo de la arbarano efektiviĝas en la kromtalentoj je la niveloj 2, 6, 10, 14 kaj 18. La arbarano povas elekti batalstiltalentojn ankaŭ se li ne plenumas la kondiĉojn. </p>
+<p id="batalstiltalento"> <b>Batalstiltalento (EE):</b> Je la 2a nivelo la arbarano devas elekti inter du batalstilojn: arkpafado aŭ batalo per du armiloj. Tiu elekto influas la klasajn karakterizaĵojn de la arbarano tamen ne restriktas siajn elektojn de talentoj kiujn li ricevas per nivelaltiĝo. La ekspertizo de la arbarano efektiviĝas en la kromtalentoj je la niveloj 2, 6, 10, 14 kaj 18. La arbarano povas elekti batalstiltalentojn ankaŭ se li ne plenumas la kondiĉojn. </p>
 
 <p> Se la arbarano elektas arkpafado, li povas ĉiufoje elekti el la sekvanta tabelo kiam li ricevas batalstiltalenton: kernpafo, malproksimpafo, precizpafo kaj rapida pafado. Je la 6a nivelo, la postajn talentojn estas aldonataj al la listo: precizpafo progresita kaj plurobla pafo. Je la 10a nivelo aldoniĝas la talentoj: punktpreciza celado kaj pafi kurante. </p>
 
@@ -353,7 +353,7 @@
 
 <p> La arbarano nur ricevas la avantaĝojn de siaj batalstiltalentoj se li portas malpezan, mezpezan aŭ neniun armaĵon. Li perdas ĉiujn avantaĝojn kiam li surmetas pezan armaĵon. Tuj kiam la arbarano elektas batalstilon, li ne povas malfari tiun elekton. </p>
 
-<p id="Eltenemo"> <b>Eltenemo:</b> Je la 3a nivelo la arbarano ricevas eltenemon kiel kromtalento. </b>
+<p id="eltenemo"> <b>Eltenemo:</b> Je la 3a nivelo la arbarano ricevas eltenemon kiel kromtalento. </b>
 
 <table class="glita">
     <caption>Preferataj terenoj</caption>
@@ -392,7 +392,7 @@
     </tr>
 </table>
 
-<p id="Preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas ŝpurojn kaj ne povas esti sekvata per ŝpurlegado (tamen li povas lasi ŝpurojn se li volas). </p>
+<p id="preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas ŝpurojn kaj ne povas esti sekvata per ŝpurlegado (tamen li povas lasi ŝpurojn se li volas). </p>
 
 <p> Je la 8a nivelo kaj je ĉiu kvina sekvanta nivelo (je la 13a kaj la 18a) la arbarano ricevas plian preferatan terenon. Krome ĉiam kiam li ricevas novan preferatan terenon, li povas aldoni +2 al ĉiu preferata nivelo, ankaŭ al la ĵus elektita. Se unu tereno apartenas al pliaj kategorioj, la bonoj ne sumiĝas, sed valoras la plej alta. </p>
 

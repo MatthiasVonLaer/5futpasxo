@@ -9,7 +9,13 @@ $indikilo = substr($_SERVER['REQUEST_URI'], 0, $poz);
 $cxu = false;
 $supro_linio = "";
 $ligilo = "";
-$aro = explode('/', $_SERVER['REQUEST_URI']);
+
+$uri = $_SERVER['REQUEST_URI'];
+$poz = strpos($uri, "?");
+if($poz)
+    $uri = substr($uri, 0, $poz); 
+
+$aro = explode('/', $uri);
 foreach($aro as $elemento) {
     if($cxu and $elemento != 'index.php' and $elemento != '') {
         $ligilo .= '/' . $elemento;
@@ -96,7 +102,7 @@ foreach($aro as $elemento) {
                     <a href="<?php echo $indikilo; ?>/bazregulverko/statoj">Statoj</a>
                 </li>
                 <li class="malplena">
-                    <a href="<?php echo $indikilo; ?>/bazregulverko/eksterordinaraj_eblecoj">Eksterordinaraj eblecoj</a>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/eksterordinaraj_eblecoj">Eksterord. eblecoj</a>
                 </li>
             </ul>
 
@@ -113,5 +119,13 @@ foreach($aro as $elemento) {
                 </li>
             </ul>
         </div>
-        <div class="enhavo">
+        <div class="supra-navigilo">
+            <div class="supra-ido">
+            <form class="sercxformularo" action="<?php echo $indikilo;?>/sercxrezulto.php" method="get">
+                <label>SERĈI:</label>
+                <input class="sercxkesto" type="text" name="sercxvorto" placeholder="Tajpu laŭ x-sistemo">
+            </form>
             <?php echo $supro_linio; ?>
+            </div>
+        </div>
+        <div class="enhavo">
