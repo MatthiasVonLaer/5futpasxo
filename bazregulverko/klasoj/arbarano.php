@@ -277,7 +277,7 @@
 <p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano spertas pri ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <table class="glita">
-    <caption>ismortaj malamikoj</caption>
+    <caption>Ĝismortaj malamikoj</caption>
     <tr>
         <th>Grupo (subgrupo)</th><th>Grupo (subgrupo)</th>
     </tr>
