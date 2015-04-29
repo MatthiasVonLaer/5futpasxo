@@ -19,7 +19,7 @@
         <th>REF</th>
         <th>VOL</th>
         <th>PER</th>
-        <th>Speciala</th>
+        <th>Speciale</th>
         <th>Bono por atakhajlo</th>
         <th>Senarma damaĝo<sup>*</sup></th>
         <th>AK-bono</th>

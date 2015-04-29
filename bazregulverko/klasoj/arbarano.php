@@ -19,7 +19,7 @@
         <th rowspan="2">REF</th>
         <th rowspan="2">VOL</th>
         <th rowspan="2">PER</th>
-        <th rowspan="2">Speciala</th>
+        <th rowspan="2">Speciale</th>
         <th class="sen-sub-linio" colspan="4">Sorĉoj po tago</th>
     </tr>
     <tr>

@@ -19,8 +19,10 @@ function kontrolilo()
 
     $enhavo = file_get_contents($nuna_dosiero, "r");
     preg_match_all("/<a[^\>]*href=\"([^\>]*)\">/", $enhavo, $trovoj, PREG_SET_ORDER);
+
     foreach($trovoj as $trovo) {
-        $eroj = explode("#", $trovo[1]);
+        $href = $trovo[1];
+        $eroj = explode("#", $href);
 
         $indikilo = "";
         $celo = "";
@@ -35,10 +37,12 @@ function kontrolilo()
         if(strpos($indikilo, ".php") === false)
             $indikilo .= "/index.php";
 
-        if(!file_exists($indikilo))
-            echo "la dosiero ne ekzistas: " . $indikilo . "<br>";
-        else if($celo != "" and !cxu_celo($indikilo, $celo))
-            echo "la celo ne ekzistas: " . $indikilo . "#" . $celo . "<br>";
+        if(!file_exists($indikilo)) {
+            echo 'a[href="' . $href . '"] { color: #990000; } ';
+        }
+        else if($celo != "" and !cxu_celo($indikilo, $celo)) {
+            echo 'a[href="' . $href . '"] { color: #990000; } ';
+        }
     }
 }
 

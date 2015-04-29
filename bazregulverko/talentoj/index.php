@@ -319,7 +319,7 @@
 
 <h3 id="defensiva-bataltrejnado">Defensiva bataltrejnado [batalo]</h3>
 <p> Vi estas majstro en la defendo kontraŭ ĉiuj tipoj da batalmanovroj</p>
-<p> <b>Avantaĝo:</b> Via entuta nombro da vivkubetoj validas kiel bazataka bono por determini vian batalmanovran defendon (vidu ĉapitron <a href="../batalo">Batalo</a></p>
+<p> <b>Avantaĝo:</b> Via entuta nombro da vivkubetoj validas kiel bazataka bono por determini vian batalmanovran defendon (vidu ĉapitron <a href="../batalo">Batalo</a>).</p>
 
 <h3 id="deseligi">Deseligi [batalo]</h3>
 <p> Vi spertas pri faligi viajn kontraŭulojn de la selo. </p>

@@ -1,9 +1,9 @@
-            <div class="senerarigo">
+            <style>
                 <?php
                     require_once 'kontrolilo.php';
-                    kontrolilo();
+                    $mesagxo = kontrolilo();
                 ?>
-            </div>
+            </style>
         </div>
     </body>
     <title>Danĝerejoj kaj Nerdoj</title>

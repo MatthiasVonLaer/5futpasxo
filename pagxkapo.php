@@ -41,6 +41,8 @@ foreach($aro as $elemento) {
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/stilfolio.css">
+        <script type="text/javascript" src="<?php echo $indikilo; ?>/java.js"></script>
+        <script src="<?php echo $indikilo; ?>/jquery-2.1.3.js"></script>
     </head>
     <body>
         <div class="navigado">

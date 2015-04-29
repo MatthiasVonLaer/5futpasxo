@@ -5,17 +5,13 @@ body {
     text-align: justify;
 }
 
-*[id]:before { 
-    display: block; 
-    content: " "; 
+*[id] { 
     margin-top: -55px; 
-    height: 55px; 
-    visibility: hidden; 
+    padding-top: 55px; 
 }
 
 .tradukinda {
-    background-color: #FFAA00;
-    color: #888888;
+    color: #FFAA00;
     /*display: none;*/
 }
 
@@ -56,7 +52,7 @@ p + p {
 }
 
 a {
-    color: #10356B;
+    color: #10359B;
     text-decoration: none;
 }
 
@@ -98,6 +94,8 @@ table caption {
     font-family: Arial;
     font-weight: bold;
     font-size: 16;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.2em;
 }
 
 tr th {
@@ -138,6 +136,8 @@ tr.aldono {
 
 td {
     padding-right: 1em;
+    padding-top: 3px;
+    padding-bottom: 3px;
     border-left: none;
     border-right: none;
 }
@@ -232,8 +232,8 @@ tradukinda {
 }
 
 .senerarigo {
-    margin-top: 3em;
-    color: #777777;
+    margin-top: 10em;
+    color: #BBBBBB;
 }
 
 .sercx-enhavo {

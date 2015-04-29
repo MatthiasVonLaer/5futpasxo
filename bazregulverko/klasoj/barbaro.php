@@ -20,7 +20,7 @@
         <th>REF</th>
         <th>VOL</th>
         <th>PER</th>
-        <th>Speciala</th>
+        <th>Speciale</th>
     </tr>
     <tr>
         <td>1</td>
