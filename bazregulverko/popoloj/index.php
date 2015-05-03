@@ -51,7 +51,7 @@
     <li><b>Subtilaj sensoj:</b> Gnomoj havas popolbonon de +2 por perceptĵetoj.</li>
     <li><b>Diligenta:</b> Gnomoj havas popolbonon de +2 por unu metio aŭ profesio je via elekto.</li>
     <li><b>Iluzirezisto:</b> Gnomoj havas popolbonon de +2 por savĵetoj kontraŭ iluziefektoj.</li>
-    <li><b>Gnoma magio:</b> Gnomoj altigas la gradon de malfacileco je +1 por savĵetoj kontraŭ iliaj iluzisorĉoj. Gnomoj kun karismo 11 aŭ pli havas krome la sekvantajn sorĉsimilajn eblecojn: 1/tago - <i>dancantaj lumoj</i>, <i>fantoma sono</i>, <i>paroli kun bestoj</i>, <i>artifiko</i>. La sorĉnivelo por tiuj efektoj egalas al la rolulnivelo de la gnomo. La grado de malfacileco por savĵetoj kontraŭ tiuj sorĉoj egalas al 10 + sorĉgrado + karismamodifilo de la gnomo.</li>
+    <li><b>Gnoma magio:</b> Gnomoj altigas la gradon de malfacileco je +1 por savĵetoj kontraŭ iliaj iluzisorĉoj. Gnomoj kun karismo 11 aŭ pli havas krome la sekvantajn sorĉsimilajn eblecojn: 1/tago - <i>dancantaj lumoj</i>, <i>fantoma sono</i>, <i>paroli kun bestoj</i>, <i>sorĉartifiko</i>. La sorĉnivelo por tiuj efektoj egalas al la rolulnivelo de la gnomo. La grado de malfacileco por savĵetoj kontraŭ tiuj sorĉoj egalas al 10 + sorĉgrado + karismamodifilo de la gnomo.</li>
     <li><b>Armilsperto:</b> Gnomoj uzas ĉiujn armilojn kiuj estas nomitaj "gnomaj" kiel militarmiloj.</li>
     <li><b>Malamo:</b> Pro specifika edukado gnomoj havas bonon de +1 por atakĵetoj kontraŭ kreitaĵoj kiuj apartenas al subspeco reptilio aŭ goblino.</li>
     <li><b>Defendotrejniĝo:</b> Kontraŭ atakoj de monstroj de la speco gigantoj, gnomoj havas evitobonon de +4 por sia armaĵklaso.</li>
