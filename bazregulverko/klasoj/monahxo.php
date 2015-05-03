@@ -274,7 +274,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la monaĥo. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La monaĥo spertas pri arbalestoj (malpezaj kaj pezaj), bastonoj feritaj, glavoj kurtaj, ĵetlancoj, hakiloj, kamaoj, klaboj, lancoj, lancoj kurtaj, nunĉakoj, ponardoj, saioj, sianghamoj, ŝtonĵetiloj, ŝurikenoj. </p>
+<p><b>Sperto pri armiloj kaj armaĵoj:</b> La monaĥo spertas pri la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>), <a href="../ekipajxo/#jxetlanco">ĵetlanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#hakilo">hakilo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#kamao">kamao</a>, <a href="../ekipajxo/#nuncxako">nunĉako</a>, <a href="../ekipajxo/#saio">saio</a>, <a href="../ekipajxo/#sianghamo">sianghamo</a>, <a href="../ekipajxo/#sxurikenoj">ŝurikenoj</a>. </p>
 
 <p> Li entute ne spertas pri armaĵoj aŭ ŝildoj. </p>
 

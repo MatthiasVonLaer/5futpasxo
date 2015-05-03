@@ -187,8 +187,9 @@ tradukinda {
     position: fixed;
     top: 0px;
     left: 0px;
-    width: 180px;
+    width: 175px;
     height: 100%;
+    padding-left: 5px;
 
     font-family: Arial;
     font-size: 14px;

@@ -42,6 +42,8 @@ if (strlen($sercxvorto) >= $minimumo and $dosierujo = opendir("sercxo")) {
             $nomo = preg_replace("/Ux/", "Ŭ", $nomo);
             $nomo = preg_replace("/\/index/", "", $nomo);
 
+            $indikilo = preg_replace("/-/", "/", $indikilo);
+            $indikilo = preg_replace("/\.txt/", ".php", $indikilo);
             $indikilo = '<a href="' . $indikilo . '">' . $nomo . '</a>';
 
             preg_match_all("/(\s.{0,20})(" . preg_quote($sercxvorto) . ")(.{0,30})\s/i", $enhavo, $trovoj, PREG_SET_ORDER);
@@ -67,7 +69,7 @@ if (strlen($sercxvorto) >= $minimumo and $dosierujo = opendir("sercxo")) {
         echo '<li>' . $dosiero . ': <span class="sercx-enhavo">' . $enhavo . '</span></li>';
     }
     if(strlen($sercxvorto) < $minimumo)
-        echo "<li>La serĉvorto devas konsisti el minimume du literoj.</li>";
+        echo "<li>La serĉvorto devas konsisti el minimume $minimumo litero" . ($minimumo==1 ? "" : "j") . ".</li>";
     else if(count($tabelo) == 0)
         echo "<li>La serĉvorto ne troveblas.</li>";
     ?>
