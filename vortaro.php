@@ -41,13 +41,13 @@
     <tr class="nova-sekcio">
         <td colspan="2">sorĉoj</td>
     </tr><tr>
-        <td>artifiko</td><td>prestidigitation</td>
-    </tr><tr>
         <td>dancantaj lumoj</td><td>dancing lights</td>
     </tr><tr>
         <td>fantoma sono</td><td>ghost sound</td>
     </tr><tr>
         <td>paroli kun bestoj</td><td>speak with animals</td>
+    </tr><tr>
+        <td>sorĉartifiko</td><td>prestidigitation</td>
     </tr>
 </table>
 

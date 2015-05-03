@@ -33,7 +33,7 @@
         <td>+2</td>
         <td>+2</td>
         <td>+0</td>
-        <td><a href="#deflankigi">Deflankigi</a>, <a href="#anatemkanto">Anatemkanto</a>, <a href="#bardoprezentado">Bardoprezentado</a>, <a href="#bardoscio">Bardoscio</a>, <a href="#allogi">Allogi</a>, <a href="#kanto-de-kuragxo">Kanto de kuraĝo +1</a>, <a href="#artifikoj">Artifikoj</a></td>
+        <td><a href="#deflankigi">Deflankigi</a>, <a href="#anatemkanto">Anatemkanto</a>, <a href="#bardoprezentado">Bardoprezentado</a>, <a href="#bardoscio">Bardoscio</a>, <a href="#allogi">Allogi</a>, <a href="#kanto-de-kuragxo">Kanto de kuraĝo +1</a>, <a href="#sorcxartifikoj">Sorĉartifikoj</a></td>
         <td>1</td>
         <td>-</td>
         <td>-</td>

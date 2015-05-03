@@ -64,6 +64,7 @@ ul li {
     list-style-type: none;
     text-indent: -2em;
     padding: 5;
+    line-height: 1.5em;
 }
 
 table {

@@ -282,7 +282,7 @@
 
 <p><b>Armaĵklasa bono (EE):</b> Se la monaĥo estas sen armaĵo kaj neŝarĝita li povas adicii sian saĝecmodifilon (se li havas ĝin) al sia armaĵklaso kaj al sia batalmanovra defendo. Krome li ricevas je la 4a nivelo AK- kaj BMD-bonon de +1. Tiu bono altiĝas je ĉiu kvara nivelo je unu ĝis maksimumo de +5 je la 20a nivelo. </p>
 
-<p>Tiu bono ankaŭ helpas la monaĥon kontraŭ tuŝatakoj kaj surprizatakoj. Tamen li perdas ĝin se li estas nemoviĝkapabla aŭ senkapabla, se li portas armaĵon aŭ uzas ŝildon aŭ se li portas mezpezan aŭ pezan ŝarĝon. </p>
+<p>Tiu bono ankaŭ helpas la monaĥon kontraŭ tuŝatakoj kaj kiam li estas surprizata sur la malĝusta piedo. Tamen li perdas ĝin se li estas nemoviĝkapabla aŭ senkapabla, se li portas armaĵon aŭ uzas ŝildon aŭ se li portas mezpezan aŭ pezan ŝarĝon. </p>
 
 <p id="atakhajlo"><b>Atakhajlo (EE):</b> Je la 1a nivelo la monaĥo povas disdoni atakhajlon per plena ago. Se li volas li ricevas plian atakon kun sia plej alta bazataka bono. Li povas elekti ĉiun eblan kombinaĵon el senarmaj atakoj kaj atakoj per specialaj monaĥaj armiloj (bastono ferita, kamao, nunĉako, saio, sianghamo, ŝurikenoj), kiel se li uzus la talenton batalo per du armiloj (sendepende ĉu li plenumas la kondiĉojn por tio). Por tiu atako la bazataka bono egalas al sia monaĥa klasnivelo. Por ĉiuj aliaj situacioj li uzas sian kutiman bazatakan bonon.</p>
 
@@ -339,7 +339,7 @@
 
 <p id="trankvila-spirito"><b>Trankvila spirito:</b> Je la 3a nivelo la monaĥo ricevas bonon de +2 por savĵetoj kontraŭ sorĉoj kaj efikoj de la sorĉskolo transsorĉado.</p>
 
-<p id="ki-provizo"><b><em>Ki</em>-provizo (SE):</b> Je la 4a nivelo la monaĥo ricevas provizon da <em>ki</em>-poentoj, tipo da supernatura energio, per kio li povas efektivigi impresajn agojn. La kvano da poentoj en lia <em>ki</em>-provizo egala al lia duona nivelo plus lia SAĜ-modifilo. Tiel longe kiel li havas minimume unu poenton en sia provizon, li povas fari <em>ki</em>-batojn. Je la 4a nivelo lia senarma atako kalkuliĝas, dank' al <em>ki</em>-bato, kiel magia armilo por superi damaĝoredukton. La <em>ki</em>-bato pliboniĝas kiam la monaĥo altiĝas je nivelo. Ekde la 10a nivelo la senarmaj atakoj de la moanĥo kalkuliĝas por superi damaĝoredukton kiel laŭleĝa armilo. Kaj ekde la 16a nivelo ili kalkuliĝas por superi damaĝoredukton kiel adamanta armilo. </p>
+<p id="ki-provizo"><b><em>Ki</em>-provizo (SNE):</b> Je la 4a nivelo la monaĥo ricevas provizon da <em>ki</em>-poentoj, tipo da supernatura energio, per kio li povas efektivigi impresajn agojn. La kvano da poentoj en lia <em>ki</em>-provizo egala al lia duona nivelo plus lia SAĜ-modifilo. Tiel longe kiel li havas minimume unu poenton en sia provizon, li povas fari <em>ki</em>-batojn. Je la 4a nivelo lia senarma atako kalkuliĝas, dank' al <em>ki</em>-bato, kiel magia armilo por superi damaĝoredukton. La <em>ki</em>-bato pliboniĝas kiam la monaĥo altiĝas je nivelo. Ekde la 10a nivelo la senarmaj atakoj de la moanĥo kalkuliĝas por superi damaĝoredukton kiel laŭleĝa armilo. Kaj ekde la 16a nivelo ili kalkuliĝas por superi damaĝoredukton kiel adamanta armilo. </p>
 
 <p> Se la monaĥo uzas la atakhajlon, li povas eluzi unu <em>ki</em>-poenton el sia provizon por fari plian atakon per sia plej alta atakbono. Krome li povas uzi unu <em>ki</em>-poenton por altigi sian moviĝorapidecon je 6 metroj dum unu vico. Por unu <em>ki</em>-poento li ankaŭ povas ricevi evitbonon de +4 por sia armaĵklaso. Por efektivigi unu tian eblecon la monaĥo povas uzi rapidan agon. La monaĥo ricevas pliajn eblecojn por siaj <em>ki</em>-poentoj kiam li altiĝaas. </p>
 
@@ -355,13 +355,13 @@
 
 <p id="sinsavi-progresita"><b>Sinsavi progresita (EE):</b> Ekde la 9a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la monaĥo estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Monaĥo kiu estas senkapabla ne povas uzi tiun eblecon. </p>
 
-<p id="diamantkorpo"><b>Diamantokorpo (SE):</b> Je la 11a nivelo la monaĥo ricevas imunecon kontraŭ ĉiuj tipoj da venenoj. </p>
+<p id="diamantkorpo"><b>Diamantokorpo (SNE):</b> Je la 11a nivelo la monaĥo ricevas imunecon kontraŭ ĉiuj tipoj da venenoj. </p>
 
-<p id="abunda-pasxo"><b>Abunda paŝo (SE):</b> Je la 12a nivelo la monaĥo scipovas moviĝi inter dimensioj tiel kiel per la sorĉo dimensiopordo. Por uzi tiun eblecon la monaĥo evas eluzi du <em>ki</em>-poentojn. Kiel sorĉnivelo kalkuliĝas la klasnivelo de la monaĥo. Li ne povas kunpreni aliajn estaĵojn se li uzas tiun eblecon. </p>
+<p id="abunda-pasxo"><b>Abunda paŝo (SNE):</b> Je la 12a nivelo la monaĥo scipovas moviĝi inter dimensioj tiel kiel per la sorĉo dimensiopordo. Por uzi tiun eblecon la monaĥo evas eluzi du <em>ki</em>-poentojn. Kiel sorĉnivelo kalkuliĝas la klasnivelo de la monaĥo. Li ne povas kunpreni aliajn estaĵojn se li uzas tiun eblecon. </p>
 
 <p id="diamantanimo"><b>Diamantanimo (EE):</b> Je la 13a nivelo la monaĥo ricevas sorĉreziston de 10 + sia nuna klasnivelo. Por efektivigi sorĉon al la monaĥo, la sorĉanto devas atingi aŭ superi la sorĉreziston de la monaĥo per sorĉnivelprovon (1k20 + sorĉnivelo). </p>
 
-<p id="vibranta-manplato"><b>Vibranta manplato (SE):</b> Ekde la 15a nivelo la monaĥo povas vibrigi la korpon de kontraŭulo, kiuj poste estos mortigaj se la monaĥo deziros tion. Li povas uzi la vibrantan manplaton unufoje tage kaj devas anonci tion antaŭ sia atakĵeto. Kreaĵoj kiuj ne povas esti atakataj per kritikaj trafoj estas imunaj kontraŭ tiu ebleco. Alie se la monaĥo trafas kaj kaŭzas damaĝon, la ebleco sukcese efektiviĝis. </p>
+<p id="vibranta-manplato"><b>Vibranta manplato (SNE):</b> Ekde la 15a nivelo la monaĥo povas vibrigi la korpon de kontraŭulo, kiuj poste estos mortigaj se la monaĥo deziros tion. Li povas uzi la vibrantan manplaton unufoje tage kaj devas anonci tion antaŭ sia atakĵeto. Kreaĵoj kiuj ne povas esti atakataj per kritikaj trafoj estas imunaj kontraŭ tiu ebleco. Alie se la monaĥo trafas kaj kaŭzas damaĝon, la ebleco sukcese efektiviĝis. </p>
 
 <p> Post la trafo la monaĥo povas provi, dum nombro da tagoj kiu egalas al sia klasnivelo, mortigi la viktimon. La monaĥo nur devas deziri la morton de la celo (kiel libera ago). Se la viktimo ne sukcese faras persistecĵeton (MFG: 10 + &frac12;&nbsp;monaĥonivelo + SAĜ-modifilo de la monaĥo), li mortas. Se la savĵeto sukcesas, la viktimo ne plu estas en danĝero de la vibranta manplato. Tamen poste li povas esti denove la celo de tia atako. La monaĥo ne povas havi pli ol unu aktivan manplaton samtempe. Se li uzas vibrantan manplaton dum alia apliko ankoraŭ efikadas, tiu pli frua efiko finiĝas. </p>
 
@@ -369,7 +369,7 @@
 
 <p id="lingvo-de-luno-kaj-suno"><b>Lingvo de luno kaj suno (EE):</b> Monaĥo de la 17a aŭ pli alta nivelo scipovas paroli la lingvon de ĉiu vivanta kreaĵo. </p>
 
-<p id="malplena-korpo"><b>Malplena korpo (SE):</b> Je la alveno al la 19a nivelo la monaĥo ricevas la eblecon iri al la etera ebeno dum unu minuto tiel kiel per la sorĉo eteraj staturoj. Uzi la eblecon kostas unu movagon kaj tri <em>ki</em>-poentojn. Tiu ebleco nur koncernas la monaĥon kaj ne povas esti aplikata por kunpreni alian personon. </p>
+<p id="malplena-korpo"><b>Malplena korpo (SNE):</b> Je la alveno al la 19a nivelo la monaĥo ricevas la eblecon iri al la etera ebeno dum unu minuto tiel kiel per la sorĉo eteraj staturoj. Uzi la eblecon kostas unu movagon kaj tri <em>ki</em>-poentojn. Tiu ebleco nur koncernas la monaĥon kaj ne povas esti aplikata por kunpreni alian personon. </p>
 
 <p id="perfekta-memeco"><b>Perfekta memeco:</b> Je la 20a nivelo la monaĥo iĝas magia estaĵo. Ekde tiam li kalkuliĝas por sorĉoj kaj magiaj efikoj ne plu kiel humanoida (aŭ de kiu specio la monaĥo estis antaŭe) sed kiel eksterulo. Plie li ricevas damaĝoredukton de 10/ĥaosa. Kun tio li povas subtrahi 10 poentojn de la damaĝo de ĉiu atako kiu ne estas de ĥaosa armilo aŭ de estaĵo de la subkategorio ĥaosa. </p>
 

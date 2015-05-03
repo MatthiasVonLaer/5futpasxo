@@ -53,7 +53,10 @@
         <td>PM</td><td>Pensmaniero</td>
     </tr>
     <tr>
-        <td>SE</td><td>Supernatura ebleco</td>
+        <td>SNE</td><td>Supernatura ebleco</td>
+    </tr>
+    <tr>
+        <td>SSE</td><td>Sorĉosimila ebleco</td>
     </tr>
     <tr>
         <td>SP</td><td>Spertpoentoj</td>
