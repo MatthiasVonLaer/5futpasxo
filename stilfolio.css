@@ -27,6 +27,7 @@ h1 {
     border-bottom-right-radius: 10px;
     margin-top: 10px;
     margin-bottom: 25px;
+    font-size: 30px;
 }
 
 h2 {
@@ -62,7 +63,6 @@ a:hover {
 
 .rubriko {
     font-variant: small-caps;
-    font-size: 18px;
 }
 
 h2 + .rubriko {
