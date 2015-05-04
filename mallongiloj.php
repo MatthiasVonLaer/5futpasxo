@@ -62,10 +62,10 @@
         <td>SP</td><td>Spertpoentoj</td>
     </tr>
     <tr>
-        <td>VP</td><td>Vivpoentoj</td>
+        <td>VK</td><td>Vivkubetoj</td>
     </tr>
     <tr>
-        <td>VK</td><td>Vivkubetoj</td>
+        <td>VP</td><td>Vivpoentoj</td>
     </tr>
 </table>
 

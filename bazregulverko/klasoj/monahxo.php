@@ -353,7 +353,7 @@
 
 <p id="integreco-de-la-korpo"><b>Integreco de la korpo (EE):</b> Ekde la 7a nivelo la monaĥo povas sanigi siajn vundojn per bazago. Li devas eluzi du <em>ki</em>-pontojn kaj tiam povas sanigi kvanton da vivpoentoj kiuj egalas al sia nivelo. </p>
 
-<p id="sinsavi-progresita"><b>Sinsavi progresita (EE):</b> Ekde la 9a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la monaĥo estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Monaĥo kiu estas senkapabla ne povas uzi tiun eblecon. </p>
+<p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Ekde la 9a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la monaĥo estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Monaĥo kiu estas senkapabla ne povas uzi tiun eblecon. </p>
 
 <p id="diamantkorpo"><b>Diamantokorpo (SNE):</b> Je la 11a nivelo la monaĥo ricevas imunecon kontraŭ ĉiuj tipoj da venenoj. </p>
 

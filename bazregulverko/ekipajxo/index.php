@@ -39,7 +39,7 @@
         <td>Matenstelo</td><td>8 mo</td><td>1k6</td><td>1k8</td><td>&times;2</td><td>-</td><td>3 kg</td><td>K kaj T</td><td>-</td>
     </tr>
     <tr class="nova-sekcio">
-    <td colspan="9">Dumanaj armiloj</td>
+    <td colspan="9">Ambaŭmanaj armiloj</td>
     </tr><tr id="bastono-ferita">
         <td>Bastono ferita</td><td>-</td><td>1k4/1k4</td><td>1k6/1k6</td><td>&times;2</td><td>-</td><td>2 kg</td><td>K</td><td>duobla, monaĥo</td>
     </tr><tr id="lanco">
@@ -123,7 +123,7 @@
         <td>Vipmadzo</td><td>8 mo</td><td>1k6</td><td>1k8</td><td>&times;2</td><td>-</td><td>2,5 kg</td><td>K</td><td>malarmi, malekvilibrigi</td>
     </tr>
     <tr class="nova-sekcio">
-    <td colspan="9">Dumanaj armiloj</td>
+    <td colspan="9">Ambaŭmanaj armiloj</td>
     </tr><tr id="falcxilo">
         <td>Falĉilo</td><td>18 mo</td><td>1k6</td><td>2k4</td><td>&times;4</td><td>-</td><td>5 kg</td><td>T aŭ TĈ</td><td>malekvilibrigi</td>
     </tr><tr id="falkato">
@@ -191,7 +191,7 @@
         <td>Vipo</td><td>1 mo</td><td>1k2</td><td>1k3</td><td>&times;2</td><td>-</td><td>1 kg</td><td>TĈ</td><td>malarmi, ne mortiga, pafdistanco, malekvilibrigi</td>
     </tr>
     <tr class="nova-sekcio">
-    <td colspan="9">Dumanaj armiloj</td>
+    <td colspan="9">Ambaŭmanaj armiloj</td>
     </tr><tr id="duobla-hakilo-orka">
         <td>Duobla hakilo orka</td><td>60 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>&times;3</td><td>-</td><td>7,5 kg</td><td>TĈ</td><td>duobla</td>
     </tr><tr id="glavo-duklinga">

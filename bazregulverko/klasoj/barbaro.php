@@ -200,7 +200,7 @@
 
 <p id="batalekstaza-forto" class="tradukinda"> <b>Batalekstaza-forto (EE):</b> </p>
 
-<p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 2a nivelo la barbaro povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la armaĵklaso se la atakanto estas nevidebla. Barbaro kun tiu ebleco tamen povas perdi sian lertecbonon por la armaĵklaso se li estas nemoviĝkapabla aŭ se la kontraŭulo sukcese faras finton kontraŭ li. </p>
+<p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 2a nivelo la barbaro povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la armaĵklaso se la atakanto estas nevidebla. Barbaro kun tiu ebleco tamen povas perdi sian lertecbonon por la armaĵklaso se li estas nemovkapabla aŭ se la kontraŭulo sukcese faras finton kontraŭ li. </p>
 
 <p>Se la barbaro jam havas la eblecon refleksmovo per alia klaso, li ricevas anstaŭe refleksmovon progresitan (vidu malsupre). </p>
 

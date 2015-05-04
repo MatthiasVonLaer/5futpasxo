@@ -45,9 +45,9 @@
 
 <h2>Rolulevoluigo</h2>
 
-<h3>Altiĝo de rolulo</h3>
+<p> Dum la rolulo superas defiojn, li ricevas spertpoentojn. Ju pli da spertpoentoj kiujn li gajnas des pli da niveloj li altiĝas kaj fariĝas pli potenca. La rapideco de la altiĝo dependas de la ludmaniero de via grupo. Kelkaj preferas rapide altiĝi tiel kiel la roluloj altiĝas post kelkaj ludseancoj. Aliaj ŝatas malrapidan evoluigon de la rolulo. Finfine dependas de via grupo kiu rapideco taŭgas por vi. </p>
 
-<table>
+<table class="glita">
     <caption>Tabelo: Rolulsperto kaj niveldependaj avantaĝoj</caption>
     <tr>
         <th>Rolulnivelo</th><th>Malrapida</th><th>Mezrapida</th><th>Rapida</th><th>Talento</th><th>Atributpoento</th>
@@ -93,5 +93,17 @@
         <td>20a</td><td>5 350 000</td><td>3 600 000</td><td>2 400 000</td><td>-</td><td>5a</td>
     </tr>
 </table>
+
+<h3>Altiĝo de rolulo</h3>
+
+<p> Roluloj altiĝas en niveloj kiam ili kolektis sufiĉe da spertpoentoj - kutime tio okazas dum la fino de ludseanco kiam la ludgvidanto disdonas spertpoentojn. Kiam la rolulo altiĝas dum la ludo, li fariĝas vere potenca en la ludo. Li povas gvidi naciojn aŭ superfortigi ilin. </p>
+
+<p> La nivelaltiĝo funkcias simile kiel la kreado de la rolulo, nur la atribuoj, la popolo kaj pasintaj elektebloj rilate al klasoj, kapablecoj kaj talentoj ne povas esti ŝanĝitaj. La altiĝo de nivelo kutime donas al la rolulo novajn eblecojn, pliajn kapablecrangojn, pliajn vivpoentojn kaj eble altiĝon de atributvaloro aŭ talenton (vidu tabelon: rolulsperto kaj niveldependaj avantaĝoj). </p>
+
+<p>Por la altiĝo en klasnivelo aŭ en nova nivelo en nova klaso (vidu klaskombinaĵojn malsupre), oni devus atenti la postan sinsekvon. Unue vi elektas por la nova nivelo la klason por la altiĝo. Vi devas plenumi ĉiujn kondiĉojn por tiu nivelo antaŭ fari la postajn paŝojn. Due oni faras eblan altiĝon de atributvaloro. Trie ĉiuj klaseblecoj por tiu nivelo estas skribataj en la rolulformularo kaj la novaj vivpoentoj estas ĵetataj. Poste novaj kapablecoj kaj talentoj estas elektataj. Por pliaj informoj kiam atributoj altiĝas kaj talentoj aldoniĝas vidu la tabelon: rolulsperto kaj niveldependaj avantaĝoj. </p>
+
+<h3 class="tradukinda">Klaskombinaĵoj</h3>
+
+<h3 class="tradukinda">Preferata klaso</h3>
 
 <?php require '../../pagxpiedo.php' ?>

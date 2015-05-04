@@ -44,6 +44,8 @@
 
 <p><b>Iniciato:</b> Ĉiam kiam batala komenciĝas, ĉiuj partoprenantaj kreaĵoj devas ĵeti iniciatan ĵeton por determini la batalvicon. Ju pli granda la ĵeto des pli frua la kreaĵo povas agi.</p>
 
+<p><b>Ĵeto:</b> Kutime signifas ĵeton de k20, al kiu aldoniĝas aliaj modifiloj. Tipaj ĵetoj estas atakĵetoj, kapablecĵetoj kaj savĵetoj. </p>
+
 <p><b>Kapableco:</b> Kapableco estas normala ebleco, kiel ekzemple grimpi muron, kaŝiri en silenta koridoro aŭ percepti entrudiĝanton. La kvanto da rangoj en iu kapableco indikas kiel bone la kreaĵo spertas tiun kapablecon. Kiam kreaĵoj ricevas novajn vivkubetojn, ili ankaŭ ricevas novajn kapablecrangojn, kiujn ili povas dispartigi al siaj kapablecoj. </p>
 
 <p><b>Klaso:</b> La klaso reprezentas la profesion de kreaĵo aŭ rolulo. Per la klaso roluloj ricevas bonojn kaj ili povas efektivigi agojn kiujn oni kutime ne kapablas kiel sorĉi aŭ staturŝanĝi. Se kreaĵo gajnas novajn nivelojn en iu klaso, ĝi ankaŭ ricevas novajn kaj pli potencajn eblecojn. Plejmulto da LR havas nivelojn en la bazklasoj ĉar ili estas la plej potencaj (vidu <a href="../klasoj">Klasoj</a>). Plejmulto da NLR altiĝas en NLR-klasoj. Tiuj ne estas tiel potencaj (vidu <a href="../krei_nlr">Krei NLR</a>). </p>
@@ -73,9 +75,26 @@
 
 <p><b>Savĵeto:</b> Se kreaĵo estas la celo de danĝera sorĉo aŭ ekfiko, ĝi ofte rajtas fari savĵeton por malgravigi la rezulton de la sorĉo aŭ la efiko. Savĵetoj estas pasivaj ĵetoj - la rolulo ne devas fari agon por la savĵeto - ili fariĝas aŭtomate. Estas tri tipoj da savĵetoj: persistecĵetoj (por rezisti venenojn, malsanojn kaj aliajn fizikajn minacojn), refleksĵetoj (por eviti efikojn kiuj trafas ampleksan spacon, kiel fajroglobo) kaj voloĵetoj (por rezisti mensajn atakojn de sorĉoj). </p>
 
+<p><b>Sorĉo:</b> Sorĉoj estas magiaj efikoj, kiuj estas kaŭzitaj de kreaĵoj kiuj povas sorĉi. Sorĉoj povas havi diversajn efikojn, ili povas damaĝi malamikojn sed ankaŭ revivigi mortintajn. Ĉe la sorĉoj estas ĉiam indikita kiun efikon ili havas kaj kiel oni povas rezisti ilin. </p>
+
+<p><b>Sorĉnivelo:</b> La sorĉnivelo indikas kiel potenca estas la sorĉoj de kreaĵo. Multaj sorĉoj havas multajn variablojn kiel la trafodistanco kaj la damaĝo. Tiuj baziĝas sur la sorĉnivelo. </p>
+
+<p><b>Sorĉsimilaj eblecoj (SSE):</b> Sorĉsimilaj eblecoj funkcias kiel sorĉoj, sed apartenas al kreaĵoj per iu eco, la popolo aŭ klaseblecoj. Kontraŭe sorĉoj kiujn sorĉaplikaj klasoj ricevas je nivelaltiĝo. </p>
+
+<p><b>Sorĉrezistenco (SR):</b> Kelkaj kreaĵoj estas rezistemaj kontraŭ magio kaj pro tio havas sorĉreziston. Se tiu kreaĵo estas la celo de sorĉo, la sorĉanto devas fari sorĉnivelĵeton por determini ĉu la sorĉo efektivigas. La MFG de la ĵeto egalas la sorĉreziston de la kreaĵo (kelkaj sorĉoj tamen preteriras SR). </p>
+
 <p><b>Spertpoentoj (SP):</b> Kiam rolulo superas defiojn, venkas monstrojn kaj finsukcesas aventurojn, li ricevas spertpoentojn. Kiam ili superas difinitan valoron, la rolulo altiĝas en sia nivelo.</p>
 
+<p><b>Supernaturaj eblecoj (SNE):</b> Supernaturaj eblecoj estas atakmanieroj, defendmanieroj aŭ aliaj magiaj ecoj. Povas esti ke tiuj eblecoj estas ĉiam aktivaj aŭ ke ili devas esti aplikata per speciala ago. Ĉe la deskriboj de la agoj estas indikita kiun efikon ili havas kaj kiel oni aplikas ilin </p>
+
 <p><b>Talento:</b> Talento estas sperto aŭ ebleco kiun la kreaĵo majstras. Talentoj ofte ebligas ĉirkaŭiri certajn regulojn aŭ restriktojn. Kutime la kreaĵo ricevas siajn talentojn rilate al siaj vivkubetoj. Tamen ankaŭ estas klasoj aŭ certaj eblecoj kiuj donas kromajn talentojn. </p>
+
+<p><b>Vico:</b> En batalrondo ĉiu kreaĵo povas agi laŭ vico. Dum la vico de kreaĵo, ĝi povas fari unu bazagon, unu movagon, unu rapidan agon kaj kelkajn liberajn agojn. Alternative ĝi ankaŭ povas fari unu plenan agon, unu rapidan agon kaj kelkajn liberajn agojn. </p>
+
+<p><b>Vivkubetoj (VK):</b> La vivkubetoj reprezentas la potencon kaj la talenton de kreaĵo. Aliflanke monstroj havas vivkubetojn de sia popolo, kio reprezentas iliajn kapablojn kaj eblecojn. Vivkubetoj estas indikita per la nombro kiom la kreaĵo posedas kaj la tipo de la kubeto, ekzemple 3k8. Tiu valoro estas uzata por determini la tutajn vivpoentojn de la kreaĵo. En tiu ekzemplo la kreaĵo havas 3 vivkubetojn. Por determini la vivpoentojn oni ĵetus trifoje k8 kaj sumigas la rezultojn kune kun aliaj modifiloj. </p>
+
+<p><b>Vivpoentoj (VP):</b> La vivpoentoj difinas en abstrakta formo kiel persistema kaj sana kreaĵo estas tiumomente. Vundoj reduktas la vivpoentojn kaj sanigo (kaj magia kaj natura) redonas vivpoentojn. Kelkaj eblecoj kaj sorĉoj donas portempaj vivpoentoj kiuj malaperas post kelka tempo. Se vivpoentoj de kreaĵo iras sub nul, ĝi perdas la konscion. Se la vivpoentoj malsupreniras al la valoro kiu egalas la negativan konstitucivaloron de la kreaĵo, ĝi mortas. </p>
+
 <h2>Krei rolulon</h2>
 
 <?php require '../../pagxpiedo.php' ?>
