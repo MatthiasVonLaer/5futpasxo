@@ -48,7 +48,7 @@
 <p> Dum la rolulo superas defiojn, li ricevas spertpoentojn. Ju pli da spertpoentoj kiujn li gajnas des pli da niveloj li altiĝas kaj fariĝas pli potenca. La rapideco de la altiĝo dependas de la ludmaniero de via grupo. Kelkaj preferas rapide altiĝi tiel kiel la roluloj altiĝas post kelkaj ludseancoj. Aliaj ŝatas malrapidan evoluigon de la rolulo. Finfine dependas de via grupo kiu rapideco taŭgas por vi. </p>
 
 <table class="glita">
-    <caption>Tabelo: Rolulsperto kaj niveldependaj avantaĝoj</caption>
+    <caption>Rolulsperto kaj niveldependaj avantaĝoj</caption>
     <tr>
         <th>Rolulnivelo</th><th>Malrapida</th><th>Mezrapida</th><th>Rapida</th><th>Talento</th><th>Atributpoento</th>
     </tr><tr>

@@ -233,7 +233,7 @@
 
 <p> Se fripono jam havas la eblecon refleksmovon, li aŭtomate ricevas la eblecon refleksmovon progresitan kaj liaj niveloj de fripono sumiĝas kun la niveloj de aliaj klasoj, kiuj donas al li refleksmovon, por determini lian nivelon se temas pri ambaŭflanki aŭ esti ambaŭflankata. </p>
 
-<p id="ruzajxoj-progresitaj"><b>Ruzaĵoj progresitaj:</b> Je la 10a nivelo kaj je ĉiuj pliaj du niveloj la fripono povas lerni ruzaĵon progresitan anstataŭ ruzaĵon. </p>
+<p id="ruzajxoj-progresitaj"><b>Ruzaĵoj progresitaj:</b> Je la 10a nivelo kaj je ĉiu plia dua nivelo la fripono povas lerni ruzaĵon progresitan anstataŭ ruzaĵon. </p>
 
 <ul>
     <li><em>Anatembato<sup>*</sup> (EE):</em> Malamikoj kiuj ricevas damaĝon per embuska atako, ankaŭ estas la celo de anatemmagio kontraŭ la sorĉo de la plej malalta nivelo kiu estas sur la malamiko. La sorĉnivelo por tiu ebleco egalas la nivelon de la fripono. Por lerni la anatembaton la fripono devas scipovi la ruzaĵon altan magion. </li>

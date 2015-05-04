@@ -5,7 +5,7 @@
 <table>
     <caption>Tabelo: Armiloj</caption>
     <tr>
-        <th>Simplaj armiloj</th><th>Kosto</th><th>Damaĝo<br>(malgranda)</th><th>Damaĝo<br>(mezgranda)</th><th>Kritika</th><th>Distanco</th><th>Pezo</th><th>Tipo</th><th>Speciala</th>
+        <th>Simplaj armiloj</th><th>Kosto</th><th>Damaĝo<br>(malgranda)</th><th>Damaĝo<br>(mezgranda)</th><th>Kritika</th><th>Distanco</th><th>Pezo</th><th>Tipo</th><th>Speciale</th>
     </tr>
     <tr class="nova-sekcio">
         <td colspan="9">Atakoj sen armiloj</td>
@@ -45,7 +45,7 @@
     </tr><tr id="lanco">
         <td>Lanco</td><td>2 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>6 m</td><td>3 kg</td><td>T</td><td>apogdefendi</td>
     </tr><tr id="lanco-longa">
-        <td>Lanco longa</td><td>5 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>-</td><td>4,5 kg</td><td>T</td><td>puntare, pafdistanco</td>
+        <td>Lanco longa</td><td>5 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>-</td><td>4,5 kg</td><td>T</td><td>apogdefendi, pafdistanco</td>
     </tr>
     <tr class="nova-sekcio">
     <td colspan="9">Distancarmiloj</td>

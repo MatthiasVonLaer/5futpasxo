@@ -5,11 +5,6 @@ body {
     text-align: justify;
 }
 
-*[id] { 
-    margin-top: -55px; 
-    padding-top: 55px; 
-}
-
 .tradukinda {
     color: #FFAA00;
     /*display: none;*/
@@ -39,7 +34,11 @@ h2 {
     clear: right;
 }
 
-h1 + p, h2 + p, h3 + p {
+h1 + p, h2 + p {
+    margin-top: 15px;
+}
+
+h3 + p {
     margin-top: 5px;
 }
 
@@ -59,6 +58,24 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.rubriko {
+    font-variant: small-caps;
+    font-size: 18px;
+}
+
+h2 + .rubriko {
+    margin-top: 1em;
+}
+
+.rubriko + ul {
+    margin-top: -.50em;
+    margin-bottom: -.50em;
+}
+
+ul + .rubriko {
+    margin-top: -.5em;
 }
 
 ul li {
@@ -96,6 +113,7 @@ table caption {
     font-family: Arial;
     font-weight: bold;
     font-size: 16;
+    font-variant: small-caps;
     letter-spacing: 0.15em;
     margin-bottom: 0.2em;
 }
@@ -107,6 +125,7 @@ tr th {
     border-right: none;
     border-top: none;
     border-bottom: 2px solid #2A201A;
+    font-variant: small-caps;
 }
 
 tr th.sen-sub-linio {
@@ -117,6 +136,7 @@ tr th.sen-sub-linio {
 tr.nova-sekcio {
     border-top: 2px solid #2A201A;
     font-weight: bold;
+    font-variant: small-caps;
 }
 
 tr {
@@ -198,7 +218,8 @@ tradukinda {
     padding-left: 5px;
 
     font-family: Arial;
-    font-size: 14px;
+    font-size: 15px;
+    font-variant: small-caps;
     color: #AAAAAA;
 }
 
@@ -221,7 +242,7 @@ tradukinda {
  }
 
 .navigado li.en-traduko a {
-    color: #EEEEAA;
+    color: #EEEEEE;
 }
 
 .navigado li.malplena a {

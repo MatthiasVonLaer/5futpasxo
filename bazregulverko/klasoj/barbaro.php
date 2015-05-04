@@ -208,7 +208,7 @@
 
 <p id="refleksmovo-progresita"><b>Refleksmovo progresita (EE):</b> Ekde la 5a nivelo la barbaro ne plu povas esti ambaŭflankita. Friponoj ne plu povas ataki la barbaron per embuska atako kaŭze de la ambaŭflankado, krom se la fipononivelo estas kvar niveloj pli alta ol la barbarnivelo. Se la barbaro jam havas la eblecon refleksmovon per alia klaso la du klasniveloj sumiĝas por la komparo de niveloj. </p>
 
-<p id="damaĝoredukto"><b>Damaĝoredukto (EE):</b> Ekde la 7a nivelo la barbaro povas subtrahi unu poenton de la damaĝo de ĉiu armilo aŭ natura armilo. Ekde la 10a nivelo kaj je ĉiu tria nivelo (13a, 16a, 19a) la damaĝoredukto altiĝas je unu. La damaĝoredukto povas redukti damaĝon al nul sed ne sub nul. </p>
+<p id="damaĝoredukto"><b>Damaĝoredukto (EE):</b> Ekde la 7a nivelo la barbaro povas subtrahi unu poenton de la damaĝo de ĉiu armilo aŭ natura armilo. Ekde la 10a nivelo kaj je ĉiu tria plia nivelo (13a, 16a, 19a) la damaĝoredukto altiĝas je unu. La damaĝoredukto povas redukti damaĝon al nul sed ne sub nul. </p>
 
 <p id="forta-batalekstazo"><b>Forta batalekstazo (EE):</b> Je la 11a nivelo la bono por forto kaj konstitucio altiĝas al +6 kaj la bono por voloĵetoj altiĝas al +3, se la barbaro ĵetas sin en batalekstazon. </p>
 

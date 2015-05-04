@@ -95,6 +95,306 @@
 
 <p><b>Vivpoentoj (VP):</b> La vivpoentoj difinas en abstrakta formo kiel persistema kaj sana kreaĵo estas tiumomente. Vundoj reduktas la vivpoentojn kaj sanigo (kaj magia kaj natura) redonas vivpoentojn. Kelkaj eblecoj kaj sorĉoj donas portempaj vivpoentoj kiuj malaperas post kelka tempo. Se vivpoentoj de kreaĵo iras sub nul, ĝi perdas la konscion. Se la vivpoentoj malsupreniras al la valoro kiu egalas la negativan konstitucivaloron de la kreaĵo, ĝi mortas. </p>
 
-<h2>Krei rolulon</h2>
+<h2 id="atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</h2>
+
+<p> La atributo kiu gravas por kromaj sorĉoj dependas de la sorĉkonanto: inteligenteco por magiistoj, saĝeco por klerikoj, druidoj kaj arbaranoj kaj karismo por sorĉsitoj, paladinoj kaj bardoj. Krom alta atributvaloro la sorĉkonanto devas havi sufiĉe grandan klasnivelon por efektivigi sorĉojn de la respektiva sorĉgrado. Vidu la klasdeskribon por pliaj detaloj. </p>
+
+<table>
+    <caption>Tabelo: Atributmodifiloj kaj kromaj sorĉoj por unu tago</caption>
+    <tr>
+        <th rowspan="2">Valoro</th>
+        <th rowspan="2">Modifilo</th>
+        <th class="sen-sub-linio" colspan="10">Kromaj sorĉoj (laŭ grado)</th>
+    </tr>
+    <tr>
+        <th>0a</th>
+        <th>1a</th>
+        <th>2a</th>
+        <th>3a</th>
+        <th>4a</th>
+        <th>5a</th>
+        <th>6a</th>
+        <th>7a</th>
+        <th>8a</th>
+        <th>9a</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>-5</td>
+        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+    </tr>
+    <tr>
+        <td>2 - 3</td>
+        <td>-4</td>
+        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+    </tr>
+    <tr>
+        <td>4 - 5</td>
+        <td>-3</td>
+        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+    </tr>
+    <tr>
+        <td>6 - 7</td>
+        <td>-2</td>
+        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+    </tr>
+    <tr>
+        <td>8 - 9</td>
+        <td>-1</td>
+        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+    </tr>
+    <tr>
+        <td>10 - 11</td>
+        <td>0</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>12 - 13</td>
+        <td>+1</td>
+        <td>-</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>14 - 15</td>
+        <td>+2</td>
+        <td>-</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>16 - 17</td>
+        <td>+3</td>
+        <td>-</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>18 - 19</td>
+        <td>+4</td>
+        <td>-</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>20 - 21</td>
+        <td>+5</td>
+        <td>-</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>22 - 23</td>
+        <td>+6</td>
+        <td>-</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>24 - 25</td>
+        <td>+7</td>
+        <td>-</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>26 - 27</td>
+        <td>+8</td>
+        <td>-</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>28 - 29</td>
+        <td>+9</td>
+        <td>-</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>30 - 31</td>
+        <td>+10</td>
+        <td>-</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>32 - 33</td>
+        <td>+11</td>
+        <td>-</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>34 - 35</td>
+        <td>+12</td>
+        <td>-</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>36 - 37</td>
+        <td>+13</td>
+        <td>-</td>
+        <td>4</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>38 - 39</td>
+        <td>+14</td>
+        <td>-</td>
+        <td>4</td>
+        <td>4</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>40 - 41</td>
+        <td>+15</td>
+        <td>-</td>
+        <td>4</td>
+        <td>4</td>
+        <td>4</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>42 - 43</td>
+        <td>+16</td>
+        <td>-</td>
+        <td>4</td>
+        <td>4</td>
+        <td>4</td>
+        <td>4</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>44 - 45</td>
+        <td>+17</td>
+        <td>-</td>
+        <td>5</td>
+        <td>4</td>
+        <td>4</td>
+        <td>4</td>
+        <td>4</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+        <td>3</td>
+    </tr>
+</table>
 
 <?php require '../../pagxpiedo.php' ?>

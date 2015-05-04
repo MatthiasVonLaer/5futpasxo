@@ -82,8 +82,8 @@ foreach($aro as $elemento) {
                 <li class="malplena">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/magio">Magio</a>
                 </li>
-                <li class="malplena">
-                    <a href="<?php echo $indikilo; ?>/bazregulverko/sorcxoj">Sorĉoj</a>
+                <li class="en-traduko">
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/sorcxlistoj">Sorĉlistoj</a>
                 </li>
                 <li class="malplena">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/prestigxklasoj">Prestiĝklasoj</a>
