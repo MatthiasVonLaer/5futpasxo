@@ -40,7 +40,8 @@ foreach($aro as $elemento) {
 <?php header('Content-type: text/html; charset=utf-8'); ?>
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/stilfolio.css">
+        <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/stilfolio.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/print_stilfolio.css" media="print">
         <script type="text/javascript" src="<?php echo $indikilo; ?>/java.js"></script>
         <script src="<?php echo $indikilo; ?>/jquery-2.1.3.js"></script>
     </head>

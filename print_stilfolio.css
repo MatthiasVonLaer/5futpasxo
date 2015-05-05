@@ -1,0 +1,183 @@
+body {
+    font-family: Georgia;
+    font-size: 12px;
+    text-align: justify;
+    margin: 1cm;
+}
+
+.tradukinda, .navigado, .senerarigo, .supra-navigilo {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Verdana;
+    font-variant: small-caps;
+    margin-bottom: 0px;
+    margin-top: 25px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 4px solid #DDCCBB;
+    border-left: 4px solid #DDCCBB;
+    border-right: 4px solid #DDCCBB;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #DDCCBB;
+    clear: right;
+    font-size: 16px;
+}
+
+h1 + p, h2 + p {
+    margin-top: 15px;
+}
+
+h3 + p {
+    margin-top: 5px;
+}
+
+p {
+    margin-bottom: 0.5em;
+    line-height: 1.5em;
+}
+
+p + p {
+    margin-top: 0.5em;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.rubriko {
+    font-variant: small-caps;
+}
+
+h2 + .rubriko {
+    margin-top: 1em;
+}
+
+.rubriko + ul {
+    margin-top: -.50em;
+    margin-bottom: -.50em;
+}
+
+ul + .rubriko {
+    margin-top: -.5em;
+}
+
+ul li {
+    list-style-type: none;
+    text-indent: -2em;
+    padding: 5px;
+    line-height: 1.5em;
+}
+
+table {
+    font-family: Arial;
+    font-size: 10px;
+    border-collapse: collapse;
+    border-left: none;
+    border-right: none;
+    border-bottom: 2px solid #2A201A;
+    border-top: none;
+    margin-top: 2em; 
+    margin-bottom: 2em; 
+}
+
+table.sen-sub-linio {
+    border-bottom: none;
+}
+
+table.glita {
+    page-break-inside: avoid;
+    float: right;
+    clear: right;
+    margin-left: 3em;
+}
+
+table caption {
+    color: #6B3510;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 13;
+    font-variant: small-caps;
+    letter-spacing: 0.15em;
+    margin-bottom: 0.2em;
+}
+
+tr th {
+    text-align: left;
+    padding-right: 1em;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid #2A201A;
+    font-variant: small-caps;
+}
+
+tr th.sen-sub-linio {
+    border-bottom: none;
+    text-align: center;
+}
+
+tr.nova-sekcio {
+    border-top: 2px solid #2A201A;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+tr {
+    border-bottom: 1px solid #DDCCBB;
+}
+
+tr.malsupra-linio {
+    border-bottom: 2px solid #2A201A;
+}
+
+tr.supra-linio {
+    border-top: 2px solid #2A201A;
+}
+
+tr.aldono {
+    border-top: 2px solid #2A201A;
+    border-bottom: none;
+}
+
+td {
+    padding-right: 1em;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    border-left: none;
+    border-right: none;
+}
+
+.desxovo-1 {
+    text-indent: 1em;
+}
+
+.desxovo-2 {
+    text-indent: 2em;
+}
+
+.enhavo {
+}
+
+.sercx-enhavo {
+    color: #504940;
+}
+
+ul.sercxrezulto li a {
+    font-weight: bold;
+}

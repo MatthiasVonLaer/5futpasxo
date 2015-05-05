@@ -1,7 +1,7 @@
-            <style>
+            <style media="screen">
                 <?php
                     require_once 'kontrolilo.php';
-                    $mesagxo = kontrolilo();
+                    kontrolilo();
                 ?>
             </style>
         </div>
