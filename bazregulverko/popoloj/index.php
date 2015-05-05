@@ -94,7 +94,7 @@
     <li><b>Armilsperto:</b> Nanoj estas spertuloj por batalhakiloj, pezaj pioĉoj kaj militaj marteloj. Ili uzas ĉiujn armilojn kiuj estas nomitaj "nanaj", kiel militarmiloj.</li>
     <li><b>Malamo:</b> Pro specifika edukado nanoj havas bonon de +1 por atakĵetoj kontraŭ kreitaĵoj kiuj apartenas al subspeco de orkoj aŭ goblinoj.</li>
     <li><b>Defendotrejniĝo:</b> Kontraŭ atakoj de monstroj de la speco giganto, nanoj havas evitobonon de +4 por sia armaĵklaso.</li>
-    <li><b>Necedema:</b> Nanoj havas popolbonon de +4 por sia batalmanovrodefendo, se ili volas kontraŭstari kuratakon aŭ faligatakon, se ili staras sur firma grundo.</li>
+    <li><b>Necedema:</b> Nanoj havas popolbonon de +4 por sia batalmanovrodefendo, se ili volas kontraŭstari puŝatakon aŭ faligatakon, se ili staras sur firma grundo.</li>
     <li><b>Lingvoj:</b> Je la ludkomenco nanoj parolas la komunan lingvon kaj la nanan. Nanoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: giganta, gnoma, goblina, orka, terana, subkomuna.
 </ul>
 

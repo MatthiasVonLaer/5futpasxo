@@ -19,7 +19,7 @@
         <th rowspan="2">REF</th>
         <th rowspan="2">VOL</th>
         <th rowspan="2">PER</th>
-        <th rowspan="2">Speciala</th>
+        <th rowspan="2">Speciale</th>
         <th class="sen-sub-linio" colspan="9">Sorĉoj po tago</th>
     </tr>
     <tr>
@@ -432,7 +432,20 @@
 
 <h3>Arkana sangolinio</h3>
 <h3>Ĉiela sangolinio</h3>
+
 <h3>Demona sangolinio</h3>
+<p>Antaŭ generacioj demono lasis sian semon en via familio. Tiu ne evidentas por ĉiuj familianoj, sed ĉe vi la demona heredaĵo estas aparte forta kaj instigas vin ruini aliajn. </p>
+<p><b>Klaskapableco:</b> Scio (la ebenoj) </p>
+<p><b>Kromaj sorĉoj:</b> Kaŭzi timon (3a), ursoforto (5a), kolero (7a), ŝtonhaŭto (9a), forsendi (11a), transformi (13a), teleporti potence (15a), malsankta aŭro (17a), venigi monstron IX (19a). </p>
+<p><b>Kromaj talentoj:</b> Duobla bato, fortega atako, granda persisteco, kapablecfokuso (scio (la ebenoj)), puŝatako progresita, petrui objekton progresite, porĉvenigo plifortigita, plifortigi sorĉojn. </p>
+<p><b>Sekreto de sango:</b> Se la sorĉisto efektivigas sorĉon de la subskolo alvenigsorĉi, la alvenigitaj kreaĵoj ricevas damaĝredukton de &frac12; sorĉistonivelo/bona (minimume 1). Tio ne sumiĝas kun io alia damaĝredukto kiun la kreaĵo jam havas. </p>
+<p><b>Povo de sango:</b> Dum onidiroj rakontas ke vi estas obsedata, vi certas pri tio. La demona influo en via sango kreskas kiam vi fariĝas pli potenca. </p>
+<p><em>Ungegoj (SNE):</em> Ekde la 1a nivelo la sorĉisto povas kreskigi ungegojn ĉe siaj manoj per libera ago. La ungegoj estas traktataj kiel naturaj armiloj, kiuj ebligas fari du ungegatakojn per plena ago per la plej alta atakbono. Do la sorĉisto ĉiam estas armita. La ungegoj kaŭzas 1k4 (1k3, se la sorĉisto estas malgranda) damaĝon plus lia fortomodifilo. Ekde la 5a nivelo liaj ungegoj estas traktataj kiel magiaj armiloj por preteriri damaĝredukton. Ekde la 7a nivelo la damaĝo altiĝas je unu paŝo al 1k6 aŭ 1k4, se li estas malgranda. Ekde la 11a nivelo la ungegoj estas traktataj kiel ekbrulantaj armiloj, kiuj kaŭzas 1k6 plian fajrodamaĝon se ili trafas. La sorĉisto povas uzi tiun eblecon (3 + KAR-modifilo) dum unu tago. La rondoj ne davas sinsekvi. </p>
+<p><em>Demona rezistenco (EE):</em> Ekde la 3a nivelo la sorĉisto ricevas rezistencon de 5 kontraŭ elektraĵo kaj bonon de +2 por savĵetoj kontraŭ venenoj. Je la 9a nivelo la rezistenco kontraŭ elektraĵo altiĝas al 10 kaj la bono kontraŭ venenoj al +4. </p>
+<p><em>Forto de demono (EE):</em> Ekde la 9a nivelo la sorĉisto ricevas entenantan bonon de +2 en forto. Tiu bono altiĝas al +4 je la 13a nivelo kaj al +6 je la 17a nivelo. </p>
+<p><em>Aldona venigo (SNE):</em> Ekde la 15a nivelo la sorĉisto venigas aldonan kreaĵon, se li uzas "venigi monstron" sorĉon por demono aŭ infera kreaĵo. </p>
+<p><em>Demona potenco (SNE):</em> Ekde la 20a nivelo la potenco de la abismo trapenetras la sorĉiston. Li estas imuna kontraŭ elektraĵo kaj veneno. Krome li havas rezistencon de 10 kontraŭ acidoj, malvarmo kaj fajro kaj li kapablas telepation (kio ebligas al li interparoli kun ĉiuj kreaĵoj kiuj povas paroli). </p>
+
 <h3>Diabla sangolinio</h3>
 <h3>Draka sangolinio</h3>
 <h3>Elementa sangolinio</h3>

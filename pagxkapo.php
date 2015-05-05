@@ -102,10 +102,10 @@ foreach($aro as $elemento) {
                     <a href="<?php echo $indikilo; ?>/bazregulverko/magiaj_objektoj">Magiaj objektoj</a>
                 </li>
                 <li class="malplena">
-                    <a href="<?php echo $indikilo; ?>/bazregulverko/statoj">Statoj</a>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/eksterordinaraj_eblecoj">Eksterord. eblecoj</a>
                 </li>
                 <li class="malplena">
-                    <a href="<?php echo $indikilo; ?>/bazregulverko/eksterordinaraj_eblecoj">Eksterord. eblecoj</a>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/statoj">Statoj</a>
                 </li>
             </ul>
 

@@ -119,9 +119,24 @@
         <td>Aŭtomate stabila kaj gardi konscion sub 0 VP</td>
     </tr>
     <tr>
+        <td><a href="#enfokusigante-pereigi">Enfokusigante pereigi</a><sup>*</sup></td>
+        <td>Klasebleco enfokusigi energion</td>
+        <td>Enfokusigi energion per via atako</td>
+    </tr>
+    <tr>
         <td><a href="#enfokusigi-elementon">Enfokusigi elementon</a></td>
         <td>Klasebleco enfokusigi energion</td>
-        <td>Fokusi energion povas lezi aŭ sanigi elementulon</td>
+        <td>Enfokusigi energion povas lezi aŭ sanigi elementulon</td>
+    </tr>
+    <tr>
+        <td><a href="#enfokusigi-pensmanieron">Enfokusigi pensmanieron</a></td>
+        <td>Klasebleco enfokusigi energion</td>
+        <td>Enfokusigi energion povas lezi kaj sanigi eksterulojn</td>
+    </tr>
+    <tr>
+        <td><a href="#enfokusigi-selektive">Enfokusigi selektive</a></td>
+        <td>KAR 13, klasebleco enfokusigi energion</td>
+        <td>Elekti kiun trafas la enfokusigitan energion</td>
     </tr>
     <tr>
         <td><a href="#etenda-pasxo">Etenda paŝo</a><sup>*</sup></td>
@@ -184,6 +199,11 @@
         <td>Bono de +3 por unu kapableco (+6 ekde 10 rangoj)</td>
     </tr>
     <tr>
+        <td><a href="#kontrauxatako">Kontraŭatako</a><sup>*</sup></td>
+        <td>BAB +11</td>
+        <td>Ataki malamikon, kiam ili atakas per trafdistanco</td>
+    </tr>
+    <tr>
         <td><a href="#langolerteco">Langolerteco</a></td>
         <td>-</td>
         <td>Bono de +2 por ĵetoj de diplomatio kaj timigi</td>
@@ -199,7 +219,12 @@
         <td>Ignori 6 m da malfacila tereno dum moviĝo</td>
     </tr>
     <tr>
-        <td><a href="#lertmovaj-manovroj">Lertmovaj manovroj</a></td>
+        <td><a href="#lertaj-manoj">Lertaj manoj</a></td>
+        <td>-</td>
+        <td>Bono de +2 por ĵetoj de malfunkciigi mekanismon kaj fingrolerteco</td>
+    </tr>
+    <tr>
+        <td><a href="#lertaj-manovroj">Lertaj manovroj</a></td>
         <td>-</td>
         <td>Aldoni vian LER-bonon al via BMB</td>
     </tr>
@@ -210,7 +235,7 @@
     </tr>
     <tr>
         <td class="desxovo-1"><a href="#deseligi">Deseligi</a><sup>*</sup></td>
-        <td>Rajdante batali, fortega atako, kuratako progresita, FOR 13</td>
+        <td>Rajdante batali, fortega atako, puŝatako progresita, FOR 13</td>
         <td>Faligi malamikon de la selo</td>
     </tr>
     <tr>
@@ -323,19 +348,36 @@
 
 <h3 id="deseligi">Deseligi [batalo]</h3>
 <p> Vi spertas pri faligi viajn kontraŭulojn de la selo. </p>
-<p> <b>Kondiĉoj:</b> FOR 13, 1 rango en rajdi, rajdante batali, fortega atako, kuratako progresita</p>
-<p> <b>Avantaĝo:</b> Se vi rajdante per lanco atakas malamikon, faru la atakon kiel kutime. Se la atako estas sukcesa vi povas - aldone al la normala damaĝo - provi liberan kuratakon. Se tio ankaŭ sukcesas, la malamiko estas jetata de la selo kaj surteriĝas kuŝante sur unu najbara kampo de sia rajdbesto aliflanke de vi. </p>
+<p> <b>Kondiĉoj:</b> FOR 13, 1 rango en rajdi, rajdante batali, fortega atako, puŝatako progresita</p>
+<p> <b>Avantaĝo:</b> Se vi rajdante per lanco atakas malamikon, faru la atakon kiel kutime. Se la atako estas sukcesa vi povas - aldone al la normala damaĝo - provi liberan puŝatakon. Se tio ankaŭ sukcesas, la malamiko estas jetata de la selo kaj surteriĝas kuŝante sur unu najbara kampo de sia rajdbesto aliflanke de vi. </p>
 
 <h3 id="eltenema">Eltenema</h3>
 <p> Malfacilaj mediaj cirkonstancoj kaj longdaŭraj penoj lacigas vin malplie ol aliaj personoj.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon de +4 por la sekvantaj ĵetoj: ĵetoj por naĝi por eviti nemortigan damaĝon pro elĉerpiĝo; ĵetoj de konstitucio por iri plu; ĵetoj de konstitucio por eviti nemortigan damaĝon pro tro lonaga irado; ĵetoj de konstitucio por reteni la spiron; ĵetoj de konstitucio por eviti nemortigan damaĝon pro malsato aŭ soifo; ĵetoj de konstitucio por eviti nemortigan damaĝon pro varmega aŭ malvarmega medio; ĵetoj de konstitucio por ne sufokiĝi. Krome vi povas dormi en malpezaj aŭ mezpezaj armaĵoj sen esti elĉerpita dum la venonta tago. </p>
 <p> <b>Kutime:</b> Se rolulo ne havas tiun talenton kaj dormas en mezpeza aŭ peza armaĵo, tiam li estas elĉerita dum la venonta tago.</p>
 
+<h3 id="enfokusigante-pereigi">Enfokusigante pereigi</h3>
+<p> Vi povas enfokusigi dian energion per via proksimbatala armilo en via mano.</p>
+<p> <b>Kondiĉo:</b> Klasebleco enfokusigi energion</p>
+<p> <b>Avantaĝo:</b> Antaŭ fari proksimbatalan atakon vi povas elekti uzi vian ebelcon enfokusigi energion per rapida ago. Se vi enfokusigas pozitivan energion kaj trafas malmortulon per via atako, la celo suferas aldonan damaĝon de la enfokusigita pozitiva energio. Se vi enfokusigas negativan energion kaj trafas vivantan kreaĵon per via atako, la kreaĵo suferas la aldonan damaĝon de la enfokusigita negativa energio. La celo de la atako povas kiel kutime fari voloĵeton por duonigi la damaĝon. Se via atako maltrafas, la ebleco enfokusigi energion tamen estas uzita. </p>
+
 <h3 id="enfokusigi-elementon">Enfokusigi elementon</h3>
 <p> Elektu element-subtipon (aero, akvo, fajro, tero). Ekde nun vi povas enfokusigi vian dian energion tiel kiel vi povas sanigi aŭ lezi eksterulojn de la elektita element-subtipo. </p>
 <p> <b>Kondiĉo:</b> Klasebleco enfokusigi energion</p>
 <p> <b>Avantaĝo:</b> Anstataŭ la kutima efiko de enfokusigi energion, vi povas elekti uzi tiun eblecon por eksteruloj de la elektita element-subtipo. Vi devas elekti ĉiufoje kiam vi enfokusigas energion. Se vi decidas sanigi aŭ lezi kreaĵojn de tiu element-subtipo, tiam enfokusigi energion ne havas efikon por aliaj kreaĵoj. La kaŭzata aŭ sanigata damaĝo kaj la MFG por duonigi la damaĝon ne ŝanĝiĝas.</p>
 <p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Tamen ĝi povas esti elektita por diversaj element-subtipoj.
+
+<h3 id="enfokusigi-pensmanieron">Enfokusigi pensmanieron</h3>
+<p> Elektu el la pensmanieroj laŭleĝa, ĥaosa, bona aŭ malbona. Vi povas enfokusigi dian energion kaj per tio efiki eksterulojn kiuj apartenas al la elektitan pensmanieron. </p>
+<p> <b>Kondiĉo:</b> Klasebleco enfokusigi energion</p>
+<p> <b>Avantaĝo:</b> Anstataŭ la kutima funkciado vi povas decidi ke la ebleco "enfokusigi energion" lezas aŭ sanigas eksterulojn de la elektita pensmaniero. Vi devas fari la elekton ĉiam kiam vi enfokusigas energion. Se vi elektas lezi aŭ sanigi estaĵojn de la elektita pensmaniero, tiam la ebleco "enfokusigi energion" havas neniun efikon por aliaj estaĵoj. La kvanto da sanigo aŭ damaĝo kiel la MFG por duonigo de la damaĝo estas kiel kutime.  </p>
+<p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Ĉiam kiam vi denove elektas la talenton ĝi rilatas al alia pensmaniero. Se vi enfokusigas energion, vi devas elekti al kiu pensmaniero ĝi efikas. </p>
+
+<h3 id="enfokusigi-selektive">Enfokusigi selektive</h3>
+<p> Vi povas elekti kiun la enfokusigitan energion efikas. </p>
+<p> <b>Kondiĉoj:</b> KAR 13, klasebleco enfokusigi energion</p>
+<p> <b>Avantaĝo:</b> Kiam vi enfokusigas energion, vi povas elekti kvanton da celoj kiu egalas maksimume vian KAR-modifilon. Tiujn celojn ne estas efektiv</p>
+<p> <b>Kutime:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Ĉiam kiam vi denove elektas la talenton ĝi rilatas al alia pensmaniero. Se vi enfokusigas energion, vi devas elekti al kiu pensmaniero ĝi efikas. </p>
 
 <h3 id="etenda-pasxo">Etenda paŝo [batalo]</h3>
 <p> Vi povas ataki malamikojn ekster via kutima trafopovo. </p>
@@ -732,6 +774,10 @@
 <p> <b>Avantaĝo:</b> Vi ricevas bonon de +3 por ĉiuj ĵetoj de tiu kapableco. Se vi havas minimume 10 rangoj en tiu kapableco, la bono altiĝas al +6.</p>
 <p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. La efiko ne estas akumula. Ĉiam kiam vi elektas tiun talenton, ĝi efikas al alia kapableco.</p>
 
+<h3 id="kontrauxatako">Kontraŭatako</h3>
+<p> Vi povas trafi malamikojn kiuj atakas vin per pli granda trafdistanco tiel ke vi atakas iliajn ekstremaĵojn aŭ armilojn. </p>
+<p> <b>Avantaĝo:</b> Vi povas prepari atakon kontraŭ iu malamiko kiu atakas vin en proksimbatalo. Tio ankaŭ funkcias se li estas ekster via trafpovo. </p>
+
 <h3 id="kirloventa-atako">Kirloventa atako [batalo]</h3>
 <p> Kiel derviŝo vi batas ĉiujn malamikojn en via trafopovo.</p>
 <p> <b>Kondiĉoj:</b> Defensiva batalmaniero, Evitmovo, Movebleco, Dancetanta atako, LER 13, INT 13, BAB +4 </p>
@@ -751,7 +797,11 @@
 <p> <b>Kondiĉoj:</b> LER 15, lerta moviĝo</p>
 <p> <b>Avantaĝo:</b> Kiam vi moviĝas, vi povas moviĝi trans 4,5 metroj da malfacila tereno kiel ĝi estus normala tereno. La efiko de la talento estas akumula kun la talento lerta moviĝo (kaj permesas al vi normale moviĝi trans 6 metroj da malfacila tereno po rondo.</p>
 
-<h3 id="lertmovaj-manovroj">Lertmovaj manovroj</h3>
+<h3 id="lertaj-manoj">Lertaj manoj</h3>
+<p> Vi havas aparte lertajn manojn.</p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon de +2 por kapablecĵetoj de malfunkciigi mekanismon kaj fingrolerteco. Se vi havas pli ol 10 rangoj en unu kapableco, la bono altiĝas ĉe tiu kapableco al +4. </p>
+
+<h3 id="lertaj-manovroj">Lertaj manovroj</h3>
 <p> Vi efektivigas batalmanovron per rapideco anstataŭ brutala forto.</p>
 <p> <b>Avantaĝo:</b> Anstataŭ vian fortobonon vi povas aldoni vian lertecbonon al atak- kaj grandecbono por kalkuli vian bonon por batalmanovroj (vidu ĉapitron <a href="../batalo">Batalo</a>).</p>
 <p> <b>Kutime:</b> Vi aldonas vian fortobonon al la atak- kaj gandecbono, se vi kalkulas la batalmanovran bonon. </p>
