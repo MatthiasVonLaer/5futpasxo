@@ -188,6 +188,16 @@
         <td>Fulmaj refleksoj</td>
         <td>Unufoje tage refari refleksĵeton</td>
     </tr>
+    <tr class="supra-linio">
+        <td><a href="#granda-persisteco">Granda persisteco</a></td>
+        <td>-</td>
+        <td>Bono de +2 por por ĵetoj de persisteco</td>
+    </tr>
+    <tr class="malsupra-linio">
+        <td class="desxovo-1"><a href="#granda-persisteco-progresita">Granda persisteco progresita</a></td>
+        <td>Granda persisteco</td>
+        <td>Bono de +2 por por ĵetoj de persisteco</td>
+    </tr>
     <tr>
         <td><a href="#gvidi">Gvidi</a></td>
         <td>Rolulnivelo +7</td>
@@ -356,7 +366,7 @@
 <p> <b>Avantaĝo:</b> Vi ricevas bonon de +4 por la sekvantaj ĵetoj: ĵetoj por naĝi por eviti nemortigan damaĝon pro elĉerpiĝo; ĵetoj de konstitucio por iri plu; ĵetoj de konstitucio por eviti nemortigan damaĝon pro tro lonaga irado; ĵetoj de konstitucio por reteni la spiron; ĵetoj de konstitucio por eviti nemortigan damaĝon pro malsato aŭ soifo; ĵetoj de konstitucio por eviti nemortigan damaĝon pro varmega aŭ malvarmega medio; ĵetoj de konstitucio por ne sufokiĝi. Krome vi povas dormi en malpezaj aŭ mezpezaj armaĵoj sen esti elĉerpita dum la venonta tago. </p>
 <p> <b>Kutime:</b> Se rolulo ne havas tiun talenton kaj dormas en mezpeza aŭ peza armaĵo, tiam li estas elĉerita dum la venonta tago.</p>
 
-<h3 id="enfokusigante-pereigi">Enfokusigante pereigi</h3>
+<h3 id="enfokusigante-pereigi">Enfokusigante pereigi [batalo]</h3>
 <p> Vi povas enfokusigi dian energion per via proksimbatala armilo en via mano.</p>
 <p> <b>Kondiĉo:</b> Klasebleco enfokusigi energion</p>
 <p> <b>Avantaĝo:</b> Antaŭ fari proksimbatalan atakon vi povas elekti uzi vian ebelcon enfokusigi energion per rapida ago. Se vi enfokusigas pozitivan energion kaj trafas malmortulon per via atako, la celo suferas aldonan damaĝon de la enfokusigita pozitiva energio. Se vi enfokusigas negativan energion kaj trafas vivantan kreaĵon per via atako, la kreaĵo suferas la aldonan damaĝon de la enfokusigita negativa energio. La celo de la atako povas kiel kutime fari voloĵeton por duonigi la damaĝon. Se via atako maltrafas, la ebleco enfokusigi energion tamen estas uzita. </p>
@@ -368,16 +378,16 @@
 <p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Tamen ĝi povas esti elektita por diversaj element-subtipoj.
 
 <h3 id="enfokusigi-pensmanieron">Enfokusigi pensmanieron</h3>
-<p> Elektu el la pensmanieroj laŭleĝa, ĥaosa, bona aŭ malbona. Vi povas enfokusigi dian energion kaj per tio efiki eksterulojn kiuj apartenas al la elektitan pensmanieron. </p>
+<p> Elektu el la pensmanieroj laŭleĝa, ĥaosa, bona aŭ malbona. Vi povas enfokusigi dian energion kaj per tio trafi eksterulojn kiuj apartenas al la elektitan pensmanieron. </p>
 <p> <b>Kondiĉo:</b> Klasebleco enfokusigi energion</p>
 <p> <b>Avantaĝo:</b> Anstataŭ la kutima funkciado vi povas decidi ke la ebleco "enfokusigi energion" lezas aŭ sanigas eksterulojn de la elektita pensmaniero. Vi devas fari la elekton ĉiam kiam vi enfokusigas energion. Se vi elektas lezi aŭ sanigi estaĵojn de la elektita pensmaniero, tiam la ebleco "enfokusigi energion" havas neniun efikon por aliaj estaĵoj. La kvanto da sanigo aŭ damaĝo kiel la MFG por duonigo de la damaĝo estas kiel kutime.  </p>
 <p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Ĉiam kiam vi denove elektas la talenton ĝi rilatas al alia pensmaniero. Se vi enfokusigas energion, vi devas elekti al kiu pensmaniero ĝi efikas. </p>
 
 <h3 id="enfokusigi-selektive">Enfokusigi selektive</h3>
-<p> Vi povas elekti kiun la enfokusigitan energion efikas. </p>
+<p> Vi povas elekti kiun la enfokusigitan energion trafas. </p>
 <p> <b>Kondiĉoj:</b> KAR 13, klasebleco enfokusigi energion</p>
-<p> <b>Avantaĝo:</b> Kiam vi enfokusigas energion, vi povas elekti kvanton da celoj kiu egalas maksimume vian KAR-modifilon. Tiujn celojn ne estas efektiv</p>
-<p> <b>Kutime:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Ĉiam kiam vi denove elektas la talenton ĝi rilatas al alia pensmaniero. Se vi enfokusigas energion, vi devas elekti al kiu pensmaniero ĝi efikas. </p>
+<p> <b>Avantaĝo:</b> Kiam vi enfokusigas energion, vi povas elekti kvanton da celoj kiu egalas maksimume vian KAR-modifilon. Tiuj celoj ne estas trafataj. </p>
+<p> <b>Kutime:</b> Ĉiuj celoj ene de 9 m estas trafataj se vi enfokusigas energion. Vi nur povas elekti ĉu vi mem estas trafata aŭ ne.</p>
 
 <h3 id="etenda-pasxo">Etenda paŝo [batalo]</h3>
 <p> Vi povas ataki malamikojn ekster via kutima trafopovo. </p>
@@ -429,6 +439,15 @@
 <h3 id="fulmaj-refleksoj-progresitaj">Fulmaj refleksoj progresitaj</h3>
 <p> <b>Kondiĉo:</b> Fulmaj refleksoj</p>
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas refari refleksĵeton. La decido apliki tiun talenton devas esti farita antaŭ vi malkovras la rezulton de via ĵeto. Se vi aplikas la talenton vi devas akcepti la duan rezulton eĉ se ĝi estas pli malbona ol la rezulto de la unua ĵeto.</p>
+
+<h3 id="granda-persisteco">Granda persisteco</h3>
+<p> Vi estas pli persistema ol aliaj kontraŭ venenoj, malsanoj kaj aliaj mortigaj defioj. </p>
+<p> <b>Avantaĝo:</b> Por ĉiuj savĵetoj de persisteco vi ricevas bonon de +2. </p>
+
+<h3 id="granda-persisteco-progresita">Granda persisteco progresita</h3>
+<p> El via interno vi povas gajni fortojn por rezisti malsanojn, venenojn kaj aliajn fizikajn suferojn. </p>
+<p> <b>Kondiĉo:</b> Granda persisteco </p>
+<p> <b>Avantaĝo:</b> Unufoje tage vi povas ripeti ĵeton de persisteco. La decido uzi tiun eblecon devas esti farita antaŭ vi faras la savĵeton. Se vi aplikas la talenton, vi devas akcepti la duan ĵeton ankaŭ se la rezulto estas malpli bona ol la unua. </p>
 
 <table class="glita">
 <caption>Tabelo: Gvidi</caption>
@@ -774,7 +793,7 @@
 <p> <b>Avantaĝo:</b> Vi ricevas bonon de +3 por ĉiuj ĵetoj de tiu kapableco. Se vi havas minimume 10 rangoj en tiu kapableco, la bono altiĝas al +6.</p>
 <p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. La efiko ne estas akumula. Ĉiam kiam vi elektas tiun talenton, ĝi efikas al alia kapableco.</p>
 
-<h3 id="kontrauxatako">Kontraŭatako</h3>
+<h3 id="kontrauxatako">Kontraŭatako [batalo]</h3>
 <p> Vi povas trafi malamikojn kiuj atakas vin per pli granda trafdistanco tiel ke vi atakas iliajn ekstremaĵojn aŭ armilojn. </p>
 <p> <b>Avantaĝo:</b> Vi povas prepari atakon kontraŭ iu malamiko kiu atakas vin en proksimbatalo. Tio ankaŭ funkcias se li estas ekster via trafpovo. </p>
 

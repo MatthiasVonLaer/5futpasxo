@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <?php
 
 //eltrovi la indikilon al la bazdosierujo
@@ -37,9 +38,9 @@ foreach($aro as $elemento) {
 
 ?>
 
-<?php header('Content-type: text/html; charset=utf-8'); ?>
 <html>
     <head>
+        <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/stilfolio.css" media="screen">
         <link rel="stylesheet" type="text/css" href="<?php echo $indikilo; ?>/print_stilfolio.css" media="print">
         <script type="text/javascript" src="<?php echo $indikilo; ?>/java.js"></script>
@@ -112,7 +113,7 @@ foreach($aro as $elemento) {
             <em>Aliaĵoj</em>
             <ul>
                 <li>
-                    <a href="<?php echo $indikilo; ?>/mallongiloj.php">Mallongiloj</a>
+                    <a href="<?php echo $indikilo; ?>/mallongigoj.php">Mallongigoj</a>
                 </li>
                 <li>
                     <a href="<?php echo $indikilo; ?>/vortaro.php">Vortaro</a>

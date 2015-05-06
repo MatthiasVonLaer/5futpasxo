@@ -2,6 +2,8 @@
 
 <title>Popoloj</title>
 
+<h1>Popoloj</h1>
+
 <h2>Duonelfoj</h2>
 <ul>
     <li><b>+2 por unu atributo:</b> Pro la diverseco de siaj naturoj, duonelfoj ricevas bonon de +2 al iu atributo dum la kreado de la rolulo.</li>

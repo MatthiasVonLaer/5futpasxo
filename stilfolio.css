@@ -1,8 +1,21 @@
 body {
     color: #2A201A;
-    background-color: #EEE9E0;
+    background-color: #FEF9F0;
     font-family: Georgia;
     text-align: justify;
+    background: url(papero5.jpg);
+    background-size: 130%;
+}
+
+@font-face {
+    font-family: 'titolo';
+    src: url('Prida65.otf');
+}
+
+img {
+    border: 0px solid #BBBBBB;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .tradukinda {
@@ -12,8 +25,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     color: #6B3510;
-    font-family: Verdana;
-    font-variant: small-caps;
+    font-family: titolo;
+    letter-spacing: 0.5em;
     margin-bottom: 0px;
     margin-top: 25px;
 }
@@ -249,13 +262,18 @@ tradukinda {
     color: #EEAAAA;
 }
 
+.navigado li.malplena {
+    display: none;
+}
+
 .navigado hr {
     border: solid green 1px;
 }
 
 .navigado .titolo {
     color: green;
-    font-size: 24px;
+    font-family: titolo;
+    font-size: 30px;
     text-align: center;
 }
 
