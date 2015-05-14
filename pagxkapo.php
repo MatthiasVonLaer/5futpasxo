@@ -48,8 +48,7 @@ foreach($aro as $elemento) {
     </head>
     <body>
         <div class="navigado">
-            <div class="titolo">Danĝerejoj</br>kaj Nerdoj</div>
-            <hr>
+            <div class="titolo">Danĝerejoj</br>kaj Nerdoj<hr></div>
 
             <br>
             <a href="<?php echo $indikilo; ?>/index.php">Enkonduko</a>

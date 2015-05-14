@@ -404,7 +404,7 @@
 
 <p> La sorĉisto havas la sekvantajn klasajn karakterizaĵojn. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La sorĉisto estas sperta pri ĉiuj simplaj armiloj. Li ne spertas pri armaĵoj aŭ ŝildoj. Ĉiu tipo de armaĵo malhelpas al la moviĝo de la sorĉisto kio povas kaŭzi ke sorĉoj kun gestoj povas malsukcesi (vidu arkanaj sorĉoj kaj armaĵoj). </p>
+<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La sorĉisto estas sperta pri ĉiuj simplaj armiloj. Li ne spertas armaĵojn aŭ ŝildojn. Ĉiu tipo de armaĵo malhelpas al la moviĝo de la sorĉisto kio povas kaŭzi ke sorĉoj kun gestoj povas malsukcesi (vidu arkanaj sorĉoj kaj armaĵoj). </p>
 
 <p id="sorcxoj"><b>Sorĉoj:</b> La sorĉisto majstras arkanajn sorĉojn, kiujn li elektas plejparte el la sorĉlisto por magiistoj / sorĉistoj kiu troveblas en la ĉapitro <a href="../sorcxoj">Sorĉoj</a>. Li povas efektivigi ĉiun sorĉon kiun li konas sen prepari ĝin. Por lerni aŭ apliki sorĉon, la sorĉisto devas havi minimume karismon de 10 + la grado de la sorĉo. La malfacilecgrado por la savĵetoj kontraŭ sorĉoj de la sorĉisto estas 10 + sorĉgrado + KAR-bono de la sorĉisto. </p>
 
@@ -437,7 +437,7 @@
 <p>Antaŭ generacioj demono lasis sian semon en via familio. Tiu ne evidentas por ĉiuj familianoj, sed ĉe vi la demona heredaĵo estas aparte forta kaj instigas vin ruini aliajn. </p>
 <p><b>Klaskapableco:</b> Scio (la ebenoj) </p>
 <p><b>Kromaj sorĉoj:</b> Kaŭzi timon (3a), ursoforto (5a), kolero (7a), ŝtonhaŭto (9a), forsendi (11a), transformi (13a), teleporti potence (15a), malsankta aŭro (17a), venigi monstron IX (19a). </p>
-<p><b>Kromaj talentoj:</b> Duobla bato, fortega atako, granda persisteco, kapablecfokuso (scio (la ebenoj)), puŝatako progresita, petrui objekton progresite, porĉvenigo plifortigita, plifortigi sorĉojn. </p>
+<p><b>Kromaj talentoj:</b> Duobla bato, impeta atako, granda persisteco, kapablecfokuso (scio (la ebenoj)), puŝatako progresita, petrui objekton progresite, porĉvenigo plifortigita, plifortigi sorĉojn. </p>
 <p><b>Sekreto de sango:</b> Se la sorĉisto efektivigas sorĉon de la subskolo alvenigsorĉi, la alvenigitaj kreaĵoj ricevas damaĝredukton de &frac12; sorĉistonivelo/bona (minimume 1). Tio ne sumiĝas kun io alia damaĝredukto kiun la kreaĵo jam havas. </p>
 <p><b>Povo de sango:</b> Dum onidiroj rakontas ke vi estas obsedata, vi certas pri tio. La demona influo en via sango kreskas kiam vi fariĝas pli potenca. </p>
 <p><em>Ungegoj (SNE):</em> Ekde la 1a nivelo la sorĉisto povas kreskigi ungegojn ĉe siaj manoj per libera ago. La ungegoj estas traktataj kiel naturaj armiloj, kiuj ebligas fari du ungegatakojn per plena ago per la plej alta atakbono. Do la sorĉisto ĉiam estas armita. La ungegoj kaŭzas 1k4 (1k3, se la sorĉisto estas malgranda) damaĝon plus lia fortomodifilo. Ekde la 5a nivelo liaj ungegoj estas traktataj kiel magiaj armiloj por preteriri damaĝredukton. Ekde la 7a nivelo la damaĝo altiĝas je unu paŝo al 1k6 aŭ 1k4, se li estas malgranda. Ekde la 11a nivelo la ungegoj estas traktataj kiel ekbrulantaj armiloj, kiuj kaŭzas 1k6 plian fajrodamaĝon se ili trafas. La sorĉisto povas uzi tiun eblecon (3 + KAR-modifilo) dum unu tago. La rondoj ne davas sinsekvi. </p>

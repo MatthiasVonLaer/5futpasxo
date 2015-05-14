@@ -4,7 +4,7 @@
 
 <h1>Fripono</h1>
 
-<p><b>Rolo:</b> Friponoj evitas se eblas, sin ĵeti rekte en la tumulton de la batalo. Ili pli bone kapablas kaŝe moviĝi kaj surprizi iliajn malamikojn. Iliaj diversaj eblecoj faras ilin tre ŝanĝiĝemaj. Pro tio diversaj friponoj spertas pri tre diversaj aferoj. Plejmulto de ili tamen estas spertuloj por superi ajnajn malhelpaĵojn - ĉu temas pri malfermi serruron, senfunkciigi kaptilon, superi magiajn danĝerojn aŭ superruzi malamikojn. </p>
+<p><b>Rolo:</b> Friponoj evitas se eblas, sin ĵeti rekte en la tumulton de la batalo. Ili pli bone kapablas kaŝe moviĝi kaj surprizi iliajn malamikojn. Iliaj diversaj eblecoj faras ilin tre ŝanĝiĝemaj. Pro tio diversaj friponoj spertas tre diversajn aferojn. Plejmulto de ili tamen estas spertuloj por superi ajnajn malhelpaĵojn - ĉu temas pri malfermi serruron, senfunkciigi kaptilon, superi magiajn danĝerojn aŭ superruzi malamikojn. </p>
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 4k6 &times; 10mo (mezkvanta 140mo)
@@ -187,7 +187,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la fripono. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La fripono spertas pri ĉiuj simplaj armiloj kaj aldone pri la <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#manarbalesto">manarbalesto</a>. La fripono spertas pri malpezaj armaĵoj tamen ne pri ŝildoj. </p>
+<p><b>Sperto pri armiloj kaj armaĵoj:</b> La fripono spertas ĉiujn simplajn armilojn kaj aldone pri la <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#manarbalesto">manarbalesto</a>. La fripono spertas malpezajn armaĵojn sed ne ŝildojn. </p>
 
 <p id="embuska-atako"><b>Embuska atako:</b> Se la fripono atakas malamikon kiu ne efike povas defendi sin, li povas per alcela bato al vivgrava korpoparto kaŭzi pli damaĝôn.</p>
 

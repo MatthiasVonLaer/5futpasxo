@@ -3,7 +3,7 @@
 <title>Arbarano</title>
 <h1>Arbarano</h1>
 
-<p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj spertas pri mortigaj batalkapablecoj. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
+<p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj spertas mortigajn batalkapablecojn. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
 <p><b>Rolo:</b> Arbaranoj povas brili precipe en bataletoj - proksimaj aŭ distancaj - kaj ili kapablas senpene foriri de la batalon kaj rekomenci la batalon. Iliaj eblecoj ebligas al ili fari grandan damaĝon al certaj malamikoj. Tamen ilia eblecoj estas helpaj kontraŭ ĉiaj malamikoj.</p>
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k10</p>
@@ -274,7 +274,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la arbarano. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano spertas pri ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
+<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano spertas ĉiujn simplajn kaj militajn armilojn. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <table class="glita">
     <caption>Ĝismortaj malamikoj</caption>

@@ -188,11 +188,11 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la barbaro. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La barbaro spertas pri ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
+<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La barbaro spertas ĉiujn simplajn kaj militajn armilojn. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <p id="rapida-movigxo"><b>Rapida moviĝo (EE):</b> La moviĝorapideco surtere estas pli alta por la barbaro ol kutime por lia popolo. Li povas moviĝi 3 pliajn metrojn. Tio nur vaidas se li maksimume portas mezpezan armaĵon kaj ne portas pezan ŝarĝon. Tiu bono aplikiĝas antaŭ la moviĝorapideco estas modifita pro armaĵoj aŭ ŝarĝoj. Kaj li sumiĝas kun ĉiuj aliaj bonoj de la barbaro por la moviĝo surtere. </p>
 
-<p id="batalekstazo"><b>Batalekstazo (EE):</b> La barbaro povas liberigi sian internan forton kaj savaĝecon por gajni pli da batalforto. Ekde la 1a nivelo la barbaro povas sin ĵeti en batalekstazon dum nombro da vicoj kiu egalas lian KON-modifilon + 4. Je ĉiu nova nivelo la nombro altiĝas je du pliaj vicoj. Maldaŭraj altiĝoj de la konstitucio pro la batalekstazo aŭ pro sorĉoj kiel bovoelteno tamen ne altigas la nombron da vicoj por la batalekstazo. La barbaro povas sin ĵeti en la batalekstazon per rapida ago. La entuta nombro da vicoj renoviĝas post ok horoj da ripozo. Tiu ripozo ne devas esti sinsekva tempo. </p>
+<p id="batalekstazo"><b>Batalekstazo (EE):</b> La barbaro povas liberigi sian internan forton kaj savaĝecon por gajni pli da batalforto. Ekde la 1a nivelo la barbaro povas sin ĵeti en batalekstazon dum nombro da vicoj kiu egalas lian KON-modifilon + 4. Je ĉiu nova nivelo la nombro altiĝas je du pliaj vicoj. Portempaj altiĝoj de la konstitucio pro la batalekstazo aŭ pro sorĉoj kiel bovoelteno tamen ne altigas la nombron da vicoj por la batalekstazo. La barbaro povas sin ĵeti en la batalekstazon per rapida ago. La entuta nombro da vicoj renoviĝas post ok horoj da ripozo. Tiu ripozo ne devas esti sinsekva tempo. </p>
 
 <p> Dum la batalekstazo la barbaro ricevas moralbonon de +4 por forto kaj konstitucio kaj moralbonon de +2 por voloĵetoj. Pro tio li ricevas malbonon de -2 por sia armaĵklaso. La altiĝo de la konstitucio-atributo donas al la barbaro +2 pliajn vivpoentojn po nivelo, kiuj tamen malaperas je la fino de la ekstazo, malsame kiel portempaj vivpoentoj kiuj estas subtrahataj unue. Dum la batalekstazo la barbaro ne povas uzi kapablecojn kiuj baziĝas sur lerteco, inteligenteco aŭ karismo (krom akrobataĵo, flugi, rajdi aŭ timigi), nek kapablecojn kiuj neprigas trankvilon kaj koncentron. </p>
 

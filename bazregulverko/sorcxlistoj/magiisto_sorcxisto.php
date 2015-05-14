@@ -210,7 +210,7 @@
         <td>Kreas malgrandan iluziaĵon laŭ via imago.</td>
     </tr>
     <tr>
-        <td><a href="sxprucantaj_koloroj.php">Ŝprucantaj koloroj</a></td>
+        <td><a href="sxprucantaj_farboj.php">Ŝprucantaj farboj</a></td>
         <td>Igas kreaĵojn senkonsciaj, blindaj aŭ duonsvena.</td>
     </tr>
     <tr>
