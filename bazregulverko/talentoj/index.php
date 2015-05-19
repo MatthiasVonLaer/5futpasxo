@@ -689,7 +689,7 @@
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas ripeti refleksĵeton. La decido apliki tiun talenton devas esti farita antaŭ vi malkovras la rezulton de via ĵeto. Se vi aplikas la talenton vi devas akcepti la duan rezulton eĉ se ĝi estas pli malbona ol la rezulto de la unua ĵeto.</p>
 
 <h3 id="finto-potenca">Finto potenca [batalo]</h3>
-<p> Vi scipovas kaŭzi ke viaj amikoj troreagas al viaj atakoj.</p>
+<p> Vi scipovas kaŭzi ke viaj malamikoj troreagas al viaj atakoj.</p>
 <p> <b>Kondiĉoj:</b>Defensiva batalmaniero, finto progresita, BAB +6, INT 13 </p>
 <p> <b>Avantaĝo:</b> Se vi uzas finton por ke la malamiko perdu sian LER-bonon, li ne nur perdas ĝin dum via posta atako sed ĝis la komenco de la sekvanta rondo. </p>
 <p> <b>Kutime:</b> Kreaĵo kontraŭ kiu vi uzas finton, perdas sian LER-bonon dum via posta atako.</p>
@@ -1264,7 +1264,7 @@
 <h3 id="pusxatako-potenca">Puŝatako potenca [batalo]</h3>
 <p> Viaj puŝatakoj ŝanceligas viajn malamikojn. </p>
 <p> <b>Kondiĉoj:</b> FOR 13, impeta atako, puŝatako progresita, bazataka bono +6</p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por viaj ĵetoj de puŝatakoj. Tiu bono aldoniĝas al la bono de la talento puŝatako progresita. Se vi faras puŝatakon kontraŭ malamiko kaj puŝas lin malantaŭen, li provokas okazatakojn per viaj amikoj (ne per vi) kontraŭ si. </p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por viaj ĵetoj de puŝatakoj. Tiu bono aldoniĝas al la bono de la talento puŝatako progresita. Se vi faras puŝatakon kontraŭ malamiko kaj puŝas lin malantaŭen, li provokas okazatakojn per viaj kamaradoj (ne per vi) kontraŭ si. </p>
 <p> <b>Kutime:</b> Kreaĵoj kiuj estas puŝitaj per puŝatako ne provokas okazatakojn kontraŭ si.</p>
 
 <h3 id="pusxatako-progresita">Puŝatako progresita [batalo]</h3>
@@ -1322,7 +1322,7 @@
 <p> Vi ankaŭ povas efektivigi sorĉojn se vi estas en formo kiu kutime ne permesas la efektivigadon de sorĉoj.</p>
 <p> <b>Kondiĉoj:</b> SAĜ 13, klasebleco zooformo </p>
 <p> <b>Avantaĝo:</b> Vi ankaŭ povas en zooformo efektivigi la parolajn kaj gestajn komponantojn de viaj sorĉoj. Vi anstataŭigas la necesajn parolajn kaj gestajn komponantojn per sonoj kaj movoj.</p>
-<p> Vi ankaŭ povas uzi ĉiujn materialkomponantojn kaj enfokusigojn kiujn vi posedas, eĉ se tiuj objektoj estas transformitaj en vian novan staturon. Tamen la talento ne permesas uzi magiajn objektojn, tiel longe ke vi estas en staturo kiu kutime ne povas uzi ilin. Vi ankaŭ ne ricevas la eblecon paroli per tiu talento. </p>
+<p> Vi ankaŭ povas uzi ĉiujn materialkomponantojn kaj enfokusigojn kiujn vi posedas, eĉ se tiuj objektoj estas transformitaj en vian novan figuron. Tamen la talento ne permesas uzi magiajn objektojn, tiel longe ke vi estas en figuro kiu kutime ne povas uzi ilin. Vi ankaŭ ne ricevas la eblecon paroli per tiu talento. </p>
 
 <h3 id="superfortigaj-sorcxoj">Superfortigaj sorĉoj</h3>
 <p> Viaj sorĉoj superas la sorĉreziston de viaj celoj pli facile ol kutime. </p>

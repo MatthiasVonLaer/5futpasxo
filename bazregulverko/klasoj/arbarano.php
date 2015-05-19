@@ -349,7 +349,7 @@
 
 <p id="bestkunsento"> <b>Bestkunsento (EE):</b> La arbarano povas plibonigi la sintenon de besto kontraŭ li. Tiu ebleco funkcias kiel kapablecĵeto de diplomatio por ŝanĝi la sintenon de persono. La arbarano ĵetas 1k20 kaj aldonas sian arbarano-nivelon kaj sian KAR-modifilon. Dombestoj havas komence indiferentan sintenon, tamen sovaĝaj bestoj havas unue malĝentilan sintenon. </p>
 
-<p> Por uzi bestkunsenton la besto kaj la arbarano devas vidi unu la alian. Kutime ili ne povas esti pli malproksime ol 9 metrojn por tio kaj la interrilato daŭras ĉirkaŭ unu minuton. Sed same kiel kun homoj tio povas daŭri pli aŭ malpli longe. </p>
+<p> Por uzi bestkunsenton la besto kaj la arbarano devas vidi unu la alian. Kutime ili ne rajtas esti pli malproksime ol 9 metrojn por tio kaj la interrilato daŭras ĉirkaŭ unu minuton. Sed same kiel kun homoj tio povas daŭri pli aŭ malpli longe. </p>
 
 <p> Per tiu ebleco la arbarano ankaŭ povas provi influi magiajn bestojn kiuj havas inteligentecon de 1 aŭ 2. Tiam li ricevas malbonon de -4.
 

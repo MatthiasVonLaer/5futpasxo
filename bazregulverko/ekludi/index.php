@@ -48,7 +48,7 @@
 
 <p><b>Kapableco:</b> Kapableco estas normala ebleco, kiel ekzemple grimpi muron, kaŝiri en silenta koridoro aŭ percepti entrudiĝanton. La kvanto da rangoj en iu kapableco indikas kiel bonan sperton la kreaĵo havas en tiu kapableco. Kiam kreaĵoj ricevas novajn vivkubetojn, ili ankaŭ ricevas novajn kapablecrangojn, kiujn ili povas dispartigi al siaj kapablecoj. </p>
 
-<p><b>Klaso:</b> La klaso reprezentas la profesion de kreaĵo aŭ rolulo. Per la klaso roluloj ricevas bonojn kaj ili povas efektivigi agojn kiujn oni kutime ne kapablas kiel sorĉi aŭ staturŝanĝi. Se kreaĵo gajnas novajn nivelojn en iu klaso, ĝi ankaŭ ricevas novajn kaj pli potencajn eblecojn. Plejmulto da LR havas nivelojn en la bazklasoj ĉar ili estas la plej potencaj (vidu <a href="../klasoj">Klasoj</a>). Plejmulto da NLR altiĝas en NLR-klasoj. Tiuj ne estas tiel potencaj (vidu <a href="../krei_nlr">Krei NLR</a>). </p>
+<p><b>Klaso:</b> La klaso reprezentas la profesion de kreaĵo aŭ rolulo. Per la klaso roluloj ricevas bonojn kaj ili povas efektivigi agojn kiujn oni kutime ne kapablas kiel sorĉi aŭ figurŝanĝi. Se kreaĵo gajnas novajn nivelojn en iu klaso, ĝi ankaŭ ricevas novajn kaj pli potencajn eblecojn. Plejmulto da LR havas nivelojn en la bazklasoj ĉar ili estas la plej potencaj (vidu <a href="../klasoj">Klasoj</a>). Plejmulto da NLR altiĝas en NLR-klasoj. Tiuj ne estas tiel potencaj (vidu <a href="../krei_nlr">Krei NLR</a>). </p>
 
 <p><b>Koncentriĝoĵeto:</b> Se kreaĵo efektivigas sorĉon, sed dume estas pertubata, ĝi devas fari koncentriĝoĵeto por ke la sorĉo ne perdiĝu (vidu <a href="../magio">Magio</a>). </p>
 

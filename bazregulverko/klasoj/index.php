@@ -19,7 +19,7 @@
         <a href="batalisto.php">Batalisto</a>: Kuraĝe kaj brave la batalisto majstras armilojn kaj armaĵojn.
     </li>
     <li>
-        <a href="druido.php">Druido</a>: La druido estas adoranto de ĉiuj naturaĵoj - li scipovas sorĉi, li estas amiko de bestoj kaj sperta staturŝanĝanto.
+        <a href="druido.php">Druido</a>: La druido estas adoranto de ĉiuj naturaĵoj - li scipovas sorĉi, li estas amiko de bestoj kaj sperta figurŝanĝanto.
     </li>
     <li>
         <a href="fripono.php">Fripono</a>: La fripono estas ŝtelisto kaj spiono, li estas oportunisto kiu kapablas grave vundi neatentemajn kontraŭulojn.

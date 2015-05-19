@@ -379,7 +379,7 @@
 
 <p id="lingvo-de-luno-kaj-suno"><b>Lingvo de luno kaj suno (EE):</b> Monaĥo de la 17a aŭ pli alta nivelo scipovas paroli la lingvon de ĉiu vivanta kreaĵo. </p>
 
-<p id="malplena-korpo"><b>Malplena korpo (SNE):</b> Je la alveno al la 19a nivelo la monaĥo ricevas la eblecon iri al la etera ebeno dum unu minuto tiel kiel per la sorĉo eteraj staturoj. Uzi la eblecon kostas unu movagon kaj tri <em>ki</em>-poentojn. Tiu ebleco nur koncernas la monaĥon kaj ne povas esti aplikata por kunpreni alian personon. </p>
+<p id="malplena-korpo"><b>Malplena korpo (SNE):</b> Je la alveno al la 19a nivelo la monaĥo ricevas la eblecon iri al la etera ebeno dum unu minuto tiel kiel per la sorĉo eteraj figuroj. Uzi la eblecon kostas unu movagon kaj tri <em>ki</em>-poentojn. Tiu ebleco nur koncernas la monaĥon kaj ne povas esti aplikata por kunpreni alian personon. </p>
 
 <p id="perfekta-memeco"><b>Perfekta memeco:</b> Je la 20a nivelo la monaĥo iĝas magia estaĵo. Ekde tiam li kalkuliĝas por sorĉoj kaj magiaj efikoj ne plu kiel humanoida (aŭ de kiu specio la monaĥo estis antaŭe) sed kiel eksterulo. Plie li ricevas damaĝoredukton de 10/ĥaosa. Kun tio li povas subtrahi 10 poentojn de la damaĝo de ĉiu atako kiu ne estas de ĥaosa armilo aŭ de estaĵo de la subkategorio ĥaosa. </p>
 

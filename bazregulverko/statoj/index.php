@@ -7,6 +7,7 @@
 <p id=""><b></b></p>
 <p id="blinda"><b>Blinda:</b></p>
 <p id="blindeta"><b>Blindeta:</b></p>
+<p id="cxirkauxvolvita"><b>Ĉirkaŭvolvita:</b></p>
 <p id="difektita"><b>Difektita:</b> </p>
 <p id="duonsvenanta"><b>Duonsvenanta:</b></p>
 <p id="elcxerpita"><b>Elĉerpita:</b></p>
@@ -14,7 +15,6 @@
 <p id="fascinita"><b>Fascinita:</b></p>
 <p id="fiksita"><b>Fiksita:</b></p>
 <p id="kauxranta"><b>Kaŭranta:</b></p>
-<p id="katenita"><b>Katenita:</b></p>
 <p id="konfuzita"><b>Konfuzita:</b></p>
 <p id="kusxanta"><b>Kuŝanta:</b></p>
 <p id="luktanta"><b>Luktanta:</b></p>
