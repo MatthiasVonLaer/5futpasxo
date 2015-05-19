@@ -4,7 +4,7 @@
 
 <h1>Fripono</h1>
 
-<p><b>Rolo:</b> Friponoj evitas se eblas, sin ĵeti rekte en la tumulton de la batalo. Ili pli bone kapablas kaŝe moviĝi kaj surprizi iliajn malamikojn. Iliaj diversaj eblecoj faras ilin tre ŝanĝiĝemaj. Pro tio diversaj friponoj spertas tre diversajn aferojn. Plejmulto de ili tamen estas spertuloj por superi ajnajn malhelpaĵojn - ĉu temas pri malfermi serruron, senfunkciigi kaptilon, superi magiajn danĝerojn aŭ superruzi malamikojn. </p>
+<p><b>Rolo:</b> Friponoj evitas se eblas, sin ĵeti rekte en la tumulton de la batalo. Ili pli bone kapablas kaŝe moviĝi kaj surprizi iliajn malamikojn. Iliaj diversaj eblecoj faras ilin tre ŝanĝiĝemaj. Pro tio diversaj friponoj havas sperton en tre diversaj aferoj. Plejmulto de ili tamen estas spertuloj por superi ajnajn malhelpaĵojn - ĉu temas pri malfermi serruron, senfunkciigi kaptilon, superi magiajn danĝerojn aŭ superruzi malamikojn. </p>
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 4k6 &times; 10mo (mezkvanta 140mo)
@@ -13,181 +13,185 @@
 
 <table>
     <caption>Tabelo: Fripono</caption>
-    <tr>
-        <th>Nivelo</th>
-        <th>BAB</th>
-        <th>REF</th>
-        <th>VOL</th>
-        <th>PER</th>
-        <th>Speciale</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>+0</td>
-        <td>+2</td>
-        <td>+0</td>
-        <td>+0</td>
-        <td><a href="#trovi-kaptilojn">Trovi kaptilojn</a>, <a href="#embuska-atako">Embuska atako +1W6</a></td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td>+0</td>
-        <td>+0</td>
-        <td><a href="#sinsavi">Sinsavi</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>+2</td>
-        <td>+3</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a>, <a href="#embuska-atako">Embuska atako +2W6</a></td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>+3</td>
-        <td>+4</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td><a href="#refleksmovo">Refleksmovo</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>+3</td>
-        <td>+4</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td><a href="#embuska-atako">Embuska atako +3W6</a></td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>+4</td>
-        <td>+5</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +2</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td><a href="#embuska-atako">Embuska atako +4W6</a></td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>+6/+1</td>
-        <td>+6</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td><a href="#ruzajxoj">Ruzaĵo</a>, <a href="#refleksmovo-progresita">Refleksmovo progresita</a></td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>+6/+1</td>
-        <td>+6</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td><a href="#embuska-atako">Embuska atako +5W6</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>+7/+2</td>
-        <td>+7</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td><a href="#ruzajxoj-progresitaj">Ruzaĵoj progresitaj</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>+8/+3</td>
-        <td>+7</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td><a href="#embuska-atako">Embuska atako +6W6</a></td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>+9/+4</td>
-        <td>+8</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +4</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>+9/+4</td>
-        <td>+8</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td><a href="#embuska-atako">Embuska atako +7W6</a></td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>+10/+5</td>
-        <td>+9</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td><a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>+11/+6/+1</td>
-        <td>+9</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a>, <a href="#embuska-atako">Embuska atako +8W6</a></td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>+12/+7/+2</td>
-        <td>+10</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td><a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>+12/+7/+2</td>
-        <td>+10</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td><a href="#embuska-atako">Embuska atako +9W6</a></td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>+13/+8/+3</td>
-        <td>+11</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +6</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>+14/+9/+4</td>
-        <td>+11</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td><a href="#embuska-atako">Embuska atako +10W6</a></td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>+15/+10/+5</td>
-        <td>+12</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td><a href="#majstra-atako">Majstra atako</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Nivelo</th>
+            <th>BAB</th>
+            <th>REF</th>
+            <th>VOL</th>
+            <th>PER</th>
+            <th>Speciale</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>+0</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td><a href="#trovi-kaptilojn">Trovi kaptilojn</a>, <a href="#embuska-atako">Embuska atako +1W6</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>+1</td>
+            <td>+3</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td><a href="#sinsavi">Sinsavi</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>+2</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a>, <a href="#embuska-atako">Embuska atako +2W6</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>+3</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td><a href="#refleksmovo">Refleksmovo</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>+3</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td><a href="#embuska-atako">Embuska atako +3W6</a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>+4</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +2</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td><a href="#embuska-atako">Embuska atako +4W6</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>+6/+1</td>
+            <td>+6</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td><a href="#ruzajxoj">Ruzaĵo</a>, <a href="#refleksmovo-progresita">Refleksmovo progresita</a></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>+6/+1</td>
+            <td>+6</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td><a href="#embuska-atako">Embuska atako +5W6</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>+7/+2</td>
+            <td>+7</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td><a href="#ruzajxoj-progresitaj">Ruzaĵoj progresitaj</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>+8/+3</td>
+            <td>+7</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td><a href="#embuska-atako">Embuska atako +6W6</a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>+9/+4</td>
+            <td>+8</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +4</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>+9/+4</td>
+            <td>+8</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td><a href="#embuska-atako">Embuska atako +7W6</a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>+10/+5</td>
+            <td>+9</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td><a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>+11/+6/+1</td>
+            <td>+9</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a>, <a href="#embuska-atako">Embuska atako +8W6</a></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>+12/+7/+2</td>
+            <td>+10</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td><a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>+12/+7/+2</td>
+            <td>+10</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td><a href="#embuska-atako">Embuska atako +9W6</a></td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>+13/+8/+3</td>
+            <td>+11</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +6</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>+14/+9/+4</td>
+            <td>+11</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td><a href="#embuska-atako">Embuska atako +10W6</a></td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>+15/+10/+5</td>
+            <td>+12</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td><a href="#majstra-atako">Majstra atako</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+        </tr>
+    </tbody>
 </table>
 
 <h2>Klasaj karakterizaĵoj</h2>
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la fripono. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La fripono spertas ĉiujn simplajn armilojn kaj aldone pri la <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#manarbalesto">manarbalesto</a>. La fripono spertas malpezajn armaĵojn sed ne ŝildojn. </p>
+<p><b>Sperto pri armiloj kaj armaĵoj:</b> La fripono havas sperton por ĉiuj simplaj armiloj kaj aldone por la <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#metalkapa-klabo">metalkapa klabo</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#manarbalesto">manarbalesto</a>. La fripono havas sperton por malpezaj armaĵoj sed ne por ŝildoj. </p>
 
 <p id="embuska-atako"><b>Embuska atako:</b> Se la fripono atakas malamikon kiu ne efike povas defendi sin, li povas per alcela bato al vivgrava korpoparto kaŭzi pli damaĝôn.</p>
 
@@ -225,7 +229,7 @@
 
 <p id="kaptilsensiveco"><b>Kaptilsensiveco (EE):</b> Ekde la tria nivelo la fripono havas intuician sensivecon por kaptiloj. Li ricevas bonon de +1 por refleksĵetoj por evitmoviĝi de kaptiloj kaj evitbonon de +1 por sia AK kontraŭ atakoj de kaptiloj. Tiu bono altiĝas al +2, kiam la fripono alvenas ĉe la 6a nivelo, al +3 ĉe la 9a nivelo, al +4 ĉe la 12a nivelo, al +5 ĉe la 15a nivelo kaj al +6 ĉe la 18a nivelo. Bonoj por kaptilsensiveco de diversaj klasoj sumiĝas. </p>
 
-<p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 4a nivelo la fripono povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la AK kiam la atakanto estas nevidebla. Li tamen daŭre perdas sian LER-bonon se li estas nemovkapabla. Fripono kun tiu ebleco ankaŭ povas perdi sian LER-bonon se lia malamiko sukcesa faras finton kontraŭ li (vidu ĉapitron <a href="../batalo">Batalo</a>). Se la fripono jam havas refleksmovon de alia klaso, li aŭtomate ricevas la eblecon refleksmovon progresitan (vidu malsupre). </p>
+<p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 4a nivelo la fripono povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la AK kiam la atakanto estas nevidebla. Li tamen daŭre perdas sian LER-bonon se li estas nemovkapabla. Fripono kun tiu ebleco ankaŭ povas perdi sian LER-bonon se lia malamiko sukcesa faras finton kontraŭ li (vidu ĉapitron <a href="../batalo">Batalo</a>). Se la fripono jam havas refleksmovon de alia klaso, li aŭtomate ricevas la eblecon refleksmovon progresitan (vidu malsupren). </p>
 
 <p id="refleksmovo-progresita"><b>Refleksmovo progresita (EE):</b> Fripono de la 8a nivelo aŭ pli alta nivelo ne plu povas esti ambaŭflankata. </p>
 
@@ -236,7 +240,7 @@
 <p id="ruzajxoj-progresitaj"><b>Ruzaĵoj progresitaj:</b> Je la 10a nivelo kaj je ĉiu plia dua nivelo la fripono povas lerni ruzaĵon progresitan anstataŭ ruzaĵon. </p>
 
 <ul>
-    <li><em>Anatembato<sup>*</sup> (EE):</em> Malamikoj kiuj ricevas damaĝon per embuska atako, ankaŭ estas la celo de anatemmagio kontraŭ la sorĉo de la plej malalta nivelo kiu estas sur la malamiko. La sorĉnivelo por tiu ebleco egalas la nivelon de la fripono. Por lerni la anatembaton la fripono devas scipovi la ruzaĵon altan magion. </li>
+    <li><em>Protektsorĉa bato<sup>*</sup> (EE):</em> Malamikoj kiuj ricevas damaĝon per embuska atako, ankaŭ estas la celo de protektsorĉa magio kontraŭ la sorĉo de la plej malalta nivelo kiu estas sur la malamiko. La sorĉnivelo por tiu ebleco egalas la nivelon de la fripono. Por lerni la protektsorĉan baton la fripono devas scipovi la ruzaĵon altan magion. </li>
     <li><em>Evita ruliĝo (EE):</em> Ĉe ebla mortiga bato la fripono povas moviĝi por ricevi malpli damaĝon. Unufoje tage se li estus reduktita al nul aŭ malpli da vivpoentoj per atako en la batalo (per armilo aŭ alia bato, sed ne per sorĉo aŭ sorĉsimila ebleco), li povas fari refleksĵeton. La MFG egalas la damaĝon. Se sukcesas li nur ricevas duonan damaĝon. Se malsukcesas li ricevas tutan damaĝon. La fripono devas konscii pri la atako kaj esti movkapabla por uzi tiun eblecon. Se la fripono perdas sian LER-modifilon de la AK, li ne povas fari evitan ruliĝon. Pro tio ke oni kutime ne rajtas fari refleksĵeton por duona damaĝo, la fripono ne povas uzi la eblecon sinsavi. </li>
     <li><em>Glita menso (EE):</em> Tiu ruzaĵo reprezentas la eblecon de la fripono eliri el magiaj efikoj, kiuj provas kontroli lin. Se la fripono estas la celo de transsorĉado kaj ne sukcesas kun la savĵeto, li povas dum sia venonta vico denove provi la ĵeton kun sama MFG. Li nur ricevas unu ŝancon eliri el la transsorĉado. </li>
     <li><em>Kapablecmajstreco (EE):</em> La fripono estas tiel lerta ĉe certaj kapablecoj ke li ankaŭ povas fidinde utiligi ilin en stresigaj situacioj. La fripono povas elekti (3 + INT-bono) kapablecoj. Por tiuj kapablecoj li ĉiam povas uzi preni 10, eĉ se streso aŭ aliaj eksteraj ĉirkumstancoj malpermesus tion. Li povas lerni tiun ruzaĵon plioble kaj elekti ĉiufoje aliajn kapablecojn. </li>

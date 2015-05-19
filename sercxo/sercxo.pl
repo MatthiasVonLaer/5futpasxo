@@ -35,8 +35,8 @@ sub legi_dosieron() {
         s/&times;/x/g;
         s/&nbsp;/ /g;
         s/<\/td>/ ; /g;
-        s/<\?php.*\?>//g;
-        s/<[^>]*>//g;
+        s/<\?php.*\?>/ /g;
+        s/<[^>]*>/ /g;
         if(/<\?php/) {
             $cxu_php = 1;
         }

@@ -3,7 +3,7 @@
 <title>Arbarano</title>
 <h1>Arbarano</h1>
 
-<p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj spertas mortigajn batalkapablecojn. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
+<p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj havas sperton en mortigaj batalkapablecoj. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
 <p><b>Rolo:</b> Arbaranoj povas brili precipe en bataletoj - proksimaj aŭ distancaj - kaj ili kapablas senpene foriri de la batalon kaj rekomenci la batalon. Iliaj eblecoj ebligas al ili fari grandan damaĝon al certaj malamikoj. Tamen ilia eblecoj estas helpaj kontraŭ ĉiaj malamikoj.</p>
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k10</p>
@@ -13,322 +13,330 @@
 
 <table>
     <caption>Tabelo: Arbarano</caption>
-    <tr>
-        <th rowspan="2">Nivelo</th>
-        <th rowspan="2">BAB</th>
-        <th rowspan="2">REF</th>
-        <th rowspan="2">VOL</th>
-        <th rowspan="2">PER</th>
-        <th rowspan="2">Speciale</th>
-        <th class="sen-sub-linio" colspan="4">Sorĉoj po tago</th>
-    </tr>
-    <tr>
-        <th>1a</th>
-        <th>2a</th>
-        <th>3a</th>
-        <th>4a</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>+1</td>
-        <td>+2</td>
-        <td>+0</td>
-        <td>+2</td>
-        <td><a href="#gxismorta-malamiko">1a ĝismorta malamiko</a>, <a href="#legi-spurojn">Legi spurojn</a>, <a href="#bestkunsento">Bestkunsento</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>+2</td>
-        <td>+3</td>
-        <td>+0</td>
-        <td>+3</td>
-        <td><a href="#batalstiltalento">Batalstiltalento</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td><a href="#eltenemo">Eltenemo</a>, <a href="#preferata-tereno">1a preferata tereno</a></td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td><a href="#alianco-de-cxasisto">Alianco de ĉasisto</a></td>
-        <td>0</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>+5</td>
-        <td>+4</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td><a href="#gxismorta-malamiko">2a ĝismorta malamiko</a></td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>+6/+1</td>
-        <td>+5</td>
-        <td>+2</td>
-        <td>+5</td>
-        <td><a href="#batalstiltalento">Batalstiltalento</a></td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>+7/+2</td>
-        <td>+5</td>
-        <td>+2</td>
-        <td>+5</td>
-        <td><a href="#trapasi-subkreskajxon">Trapasi subkreskaĵon</a></td>
-        <td>1</td>
-        <td>0</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>+8/+3</td>
-        <td>+6</td>
-        <td>+2</td>
-        <td>+6</td>
-        <td><a href="#preferata-tereno">2a preferata tereno</a>, <a href="#rapide-postcxasi">Rapide postĉasi</a></td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>+9/+4</td>
-        <td>+6</td>
-        <td>+3</td>
-        <td>+6</td>
-        <td><a href="#eskapo">Eskapo</a></td>
-        <td>2</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>+10/+5</td>
-        <td>+7</td>
-        <td>+3</td>
-        <td>+7</td>
-        <td><a href="#gxismorta-malamiko">3a ĝismorta malamiko</a>, <a href="#batalstiltalento">Batalstiltalento</a></td>
-        <td>2</td>
-        <td>1</td>
-        <td>0</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>+11/+6/+1</td>
-        <td>+7</td>
-        <td>+3</td>
-        <td>+7</td>
-        <td><a href="#predo">Predo</a></td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>+12/+7/+2</td>
-        <td>+8</td>
-        <td>+4</td>
-        <td>+8</td>
-        <td><a href="#kamuflajxo">Kamuflaĵo</a></td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>+13/+8/+3</td>
-        <td>+8</td>
-        <td>+4</td>
-        <td>+8</td>
-        <td><a href="#preferata-tereno">3a preferata tereno</a></td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-        <td>0</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>+14/+9/+4</td>
-        <td>+9</td>
-        <td>+4</td>
-        <td>+9</td>
-        <td><a href="#batalstiltalento">Batalstiltalento</a></td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>+15/+10/+5</td>
-        <td>+9</td>
-        <td>+5</td>
-        <td>+9</td>
-        <td><a href="#gxismorta-malamiko">4a ĝismorta malamiko</a></td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>+16/+11/+6/+1</td>
-        <td>+10</td>
-        <td>+5</td>
-        <td>+10</td>
-        <td><a href="#eskapo-progresita">Eskapo progresita</a></td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>+17/+12/+7/+2</td>
-        <td>+10</td>
-        <td>+5</td>
-        <td>+10</td>
-        <td><a href="#kasxado-vidalvide">Kaŝado vidalvide</a></td>
-        <td>4</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>+18/+13/+8/+3</td>
-        <td>+11</td>
-        <td>+6</td>
-        <td>+11</td>
-        <td><a href="#preferata-tereno">4a preferata tereno</a>, <a href="#batalstiltalento">Batalstiltalento</a></td>
-        <td>4</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>+19/+14/+9/+4</td>
-        <td>+11</td>
-        <td>+6</td>
-        <td>+11</td>
-        <td><a href="#predo-progresita">Predo progresita</a></td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>+20/+15/+10/+5</td>
-        <td>+12</td>
-        <td>+6</td>
-        <td>+12</td>
-        <td><a href="#gxismorta-malamiko">5a ĝismorta malamiko</a>, <a href="#majstrocxasisto">Majstroĉasisto</a></td>
-        <td>4</td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-    </tr>
+    <thead>
+        <tr>
+            <th rowspan="2">Nivelo</th>
+            <th rowspan="2">BAB</th>
+            <th rowspan="2">REF</th>
+            <th rowspan="2">VOL</th>
+            <th rowspan="2">PER</th>
+            <th rowspan="2">Speciale</th>
+            <th class="sen-sub-linio" colspan="4">Sorĉoj por unu tago</th>
+        </tr>
+        <tr>
+            <th>1a</th>
+            <th>2a</th>
+            <th>3a</th>
+            <th>4a</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>+1</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+2</td>
+            <td><a href="#gxismorta-malamiko">1a ĝismorta malamiko</a>, <a href="#legi-spurojn">Legi spurojn</a>, <a href="#bestkunsento">Bestkunsento</a></td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>+2</td>
+            <td>+3</td>
+            <td>+0</td>
+            <td>+3</td>
+            <td><a href="#batalstiltalento">Batalstiltalento</a></td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+3</td>
+            <td><a href="#eltenemo">Eltenemo</a>, <a href="#preferata-tereno">1a preferata tereno</a></td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+4</td>
+            <td><a href="#alianco-de-cxasisto">Alianco de ĉasisto</a></td>
+            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>+5</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+4</td>
+            <td><a href="#gxismorta-malamiko">2a ĝismorta malamiko</a></td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>+6/+1</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+5</td>
+            <td><a href="#batalstiltalento">Batalstiltalento</a></td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>+7/+2</td>
+            <td>+5</td>
+            <td>+2</td>
+            <td>+5</td>
+            <td><a href="#trapasi-subkreskajxon">Trapasi subkreskaĵon</a></td>
+            <td>1</td>
+            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>+8/+3</td>
+            <td>+6</td>
+            <td>+2</td>
+            <td>+6</td>
+            <td><a href="#preferata-tereno">2a preferata tereno</a>, <a href="#rapide-postcxasi">Rapide postĉasi</a></td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>+9/+4</td>
+            <td>+6</td>
+            <td>+3</td>
+            <td>+6</td>
+            <td><a href="#eskapo">Eskapo</a></td>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>+10/+5</td>
+            <td>+7</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td><a href="#gxismorta-malamiko">3a ĝismorta malamiko</a>, <a href="#batalstiltalento">Batalstiltalento</a></td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>+11/+6/+1</td>
+            <td>+7</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td><a href="#predo">Predo</a></td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>+12/+7/+2</td>
+            <td>+8</td>
+            <td>+4</td>
+            <td>+8</td>
+            <td><a href="#kamuflajxo">Kamuflaĵo</a></td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>+13/+8/+3</td>
+            <td>+8</td>
+            <td>+4</td>
+            <td>+8</td>
+            <td><a href="#preferata-tereno">3a preferata tereno</a></td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>0</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>+14/+9/+4</td>
+            <td>+9</td>
+            <td>+4</td>
+            <td>+9</td>
+            <td><a href="#batalstiltalento">Batalstiltalento</a></td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>+15/+10/+5</td>
+            <td>+9</td>
+            <td>+5</td>
+            <td>+9</td>
+            <td><a href="#gxismorta-malamiko">4a ĝismorta malamiko</a></td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>+16/+11/+6/+1</td>
+            <td>+10</td>
+            <td>+5</td>
+            <td>+10</td>
+            <td><a href="#eskapo-progresita">Eskapo progresita</a></td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>+17/+12/+7/+2</td>
+            <td>+10</td>
+            <td>+5</td>
+            <td>+10</td>
+            <td><a href="#kasxado-vidalvide">Kaŝado vidalvide</a></td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>+18/+13/+8/+3</td>
+            <td>+11</td>
+            <td>+6</td>
+            <td>+11</td>
+            <td><a href="#preferata-tereno">4a preferata tereno</a>, <a href="#batalstiltalento">Batalstiltalento</a></td>
+            <td>4</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>+19/+14/+9/+4</td>
+            <td>+11</td>
+            <td>+6</td>
+            <td>+11</td>
+            <td><a href="#predo-progresita">Predo progresita</a></td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>+20/+15/+10/+5</td>
+            <td>+12</td>
+            <td>+6</td>
+            <td>+12</td>
+            <td><a href="#gxismorta-malamiko">5a ĝismorta malamiko</a>, <a href="#majstrocxasisto">Majstroĉasisto</a></td>
+            <td>4</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+    </tbody>
 </table>
 
 <h2>Klasaj karakterizaĵoj</h2>
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la arbarano. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano spertas ĉiujn simplajn kaj militajn armilojn. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
+<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano havas sperton por ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <table class="glita">
     <caption>Ĝismortaj malamikoj</caption>
-    <tr>
-        <th>Grupo (subgrupo)</th><th>Grupo (subgrupo)</th>
-    </tr>
-    <tr>
-        <td>Aberacio</td><td>Humanoido (goblino)</td>
-    </tr>
-    <tr>
-        <td>Bestoj</td><td>Humanoido (gnolo)</td>
-    </tr>
-    <tr>
-        <td>Drakoj</td><td>Humanoido (gnomo)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (aero)</td><td>Humanoido (hobito)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (akvo)</td><td>Humanoido (homo)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (bona)</td><td>Humanoido (nano)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (fajro)</td><td>Humanoido (orko)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (ĥaosa)</td><td>Humanoido (reptilo)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (indiĝeno)</td><td>Humanoido (alia subgrupo)</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (laŭleĝa)</td><td>Konstruo</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (malbona)</td><td>Magiaj bestioj</td>
-    </tr>
-    <tr>
-        <td>Eksterulo (tero)</td><td>Malmortuloj</td>
-    </tr>
-    <tr>
-        <td>Feoj</td><td>Monstra humanoido</td>
-    </tr>
-    <tr>
-        <td>Humanoido (akvo)</td><td>Parazitoj</td>
-    </tr>
-    <tr>
-        <td>Humanoido (elfo)</td><td>Plantoj</td>
-    </tr>
-    <tr>
-        <td>Humanoido (giganto)</td><td>Ŝlimuloj</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Grupo (subgrupo)</th><th>Grupo (subgrupo)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Aberacio</td><td>Humanoido (goblino)</td>
+        </tr>
+        <tr>
+            <td>Bestoj</td><td>Humanoido (gnolo)</td>
+        </tr>
+        <tr>
+            <td>Drakoj</td><td>Humanoido (gnomo)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (aero)</td><td>Humanoido (hobito)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (akvo)</td><td>Humanoido (homo)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (bona)</td><td>Humanoido (nano)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (fajro)</td><td>Humanoido (orko)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (ĥaosa)</td><td>Humanoido (reptilo)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (indiĝeno)</td><td>Humanoido (alia subgrupo)</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (laŭleĝa)</td><td>Konstruo</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (malbona)</td><td>Magiaj bestioj</td>
+        </tr>
+        <tr>
+            <td>Eksterulo (tero)</td><td>Malmortuloj</td>
+        </tr>
+        <tr>
+            <td>Feoj</td><td>Monstra humanoido</td>
+        </tr>
+        <tr>
+            <td>Humanoido (akvo)</td><td>Parazitoj</td>
+        </tr>
+        <tr>
+            <td>Humanoido (elfo)</td><td>Plantoj</td>
+        </tr>
+        <tr>
+            <td>Humanoido (giganto)</td><td>Ŝlimuloj</td>
+        </tr>
+    </tbody>
 </table>
 
 <p id="gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, ekkoni motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
@@ -357,39 +365,41 @@
 
 <table class="glita">
     <caption>Preferataj terenoj</caption>
-    <tr class="supra-linio">
-        <td>Arbaro (folia kaj pingla)</td>
-    </tr>
-    <tr>
-        <td>Akvo (super kaj sub la surfaco)</td>
-    </tr>
-    <tr>
-        <td>Dezerto (sabla kaj ŝtona)</td>
-    </tr>
-    <tr>
-        <td>Ebenejo</td>
-    </tr>
-    <tr>
-        <td>La ebenoj (elektu alia ol la materiala ebeno)</td>
-    </tr>
-    <tr>
-        <td>Ĝangalo</td>
-    </tr>
-    <tr>
-        <td>Malvarmo (glacio, glaĉero, neĝo, tundro)</td>
-    </tr>
-    <tr>
-        <td>Marĉo</td>
-    </tr>
-    <tr>
-        <td>Montaro (inkluzive montetoj)</td>
-    </tr>
-    <tr>
-        <td>Subtera (kavervoj kaj karceroj)</td>
-    </tr>
-    <tr>
-        <td>Urba (domoj, stratoj, kloakreto)</td>
-    </tr>
+    <tbody>
+        <tr>
+            <td>Arbaro (folia kaj pingla)</td>
+        </tr>
+        <tr>
+            <td>Akvo (super kaj sub la surfaco)</td>
+        </tr>
+        <tr>
+            <td>Dezerto (sabla kaj ŝtona)</td>
+        </tr>
+        <tr>
+            <td>Ebenejo</td>
+        </tr>
+        <tr>
+            <td>La ebenoj (elektu alia ol la materiala ebeno)</td>
+        </tr>
+        <tr>
+            <td>Ĝangalo</td>
+        </tr>
+        <tr>
+            <td>Malvarmo (glacio, glaĉero, neĝo, tundro)</td>
+        </tr>
+        <tr>
+            <td>Marĉo</td>
+        </tr>
+        <tr>
+            <td>Montaro (inkluzive montetoj)</td>
+        </tr>
+        <tr>
+            <td>Subtera (kavervoj kaj karceroj)</td>
+        </tr>
+        <tr>
+            <td>Urba (domoj, stratoj, kloakreto)</td>
+        </tr>
+    </tbody>
 </table>
 
 <p id="preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas ŝpurojn kaj ne povas esti sekvata per ŝpurlegado (tamen li povas lasi ŝpurojn se li volas). </p>

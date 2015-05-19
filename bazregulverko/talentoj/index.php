@@ -23,484 +23,488 @@
     <col width="25%">
     <col width="25%">
     <col width="50%">
-    <tr>
-        <th>Talento</th>
-        <th>Kondiĉoj</th>
-        <th>Avantaĝoj</th>
-    </tr>
-    <tr>
-        <td><a href="#akrobatisto">Akrobatisto</a></td>
-        <td>-</td>
-        <td>Bono +2 por ĵetoj de akrobataĵo kaj flugado</td>
-    </tr>
-    <tr>
-        <td><a href="#apudsekvi">Apudsekvi</a><sup>*</sup></td>
-        <td>BAB +1</td>
-        <td>Kvinfut-paŝo kiel subita agoj</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#arkana-armajxotrejnado">Arkana armaĵotrejnado</a><sup>*</sup></td>
-        <td>Sperto pri armaĵoj (malpezaj), sorĉnivelo 3</td>
-        <td>Reduktas la probablon por arkana sorĉfuŝo je 10%</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#arkana-armajxomajstro">Arkana armaĵomajstro</a><sup>*</sup></td>
-        <td>Arkana armaĵotrejnado, sperto pri armaĵoj (mezpezaj), sorĉnivelo 7</td>
-        <td>Reduktas la probablon por arkana sorĉfuŝo je 10%</td>
-    </tr>
-    <tr>
-        <td><a href="#arkana-bato">Arkana bato</a></td>
-        <td>Ebleco efektivigi arkanajn sorĉojn</td>
-        <td>Damaĝo +1, armiloj estas traktataj kiel magiaj</td>
-    </tr>
-    <tr>
-        <td><a href="#atleto">Atleto</a></td>
-        <td>-</td>
-        <td>Bono +2 por ĵetoj de grimpi aŭ naĝi</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#batalo-per-du-armiloj">Batalo per du armiloj</a><sup>*</sup></td>
-        <td>LER 15</td>
-        <td>Malbonoj de batalo per du manoj estas reduktitaj je +2</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#batalo-per-du-armiloj-progresita">Batalo per du armiloj progresita</a><sup>*</sup></td>
-        <td>LER 17, batalo per du armiloj, BAB +6</td>
-        <td>Plia atako per dua mano</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#batalo-per-du-armiloj-potenca">Batalo per du armiloj potenca</a><sup>*</sup></td>
-        <td>LER 19, batalo per du armiloj progresita, BAB +11</td>
-        <td>Tria atako per dua mano</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#defendo-per-du-armiloj">Defendo per du armiloj</a><sup>*</sup></td>
-        <td>Batalo per du armiloj</td>
-        <td>Ŝildbono +1 dum la batalo per du armiloj</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#duobla-trancxo">Duobla tranĉo</a><sup>*</sup></td>
-        <td>Batalo per du armiloj</td>
-        <td>Plena fortomodifilo por damaĝo de la armilo de dua mano</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-2"><a href="#desxiri-per-du-armiloj">Deŝiri per du armiloj</a><sup>*</sup></td>
-        <td>Duobla tranĉo, batalo per du armiloj progresita, BAB +11</td>
-        <td>Deŝiranta atako per du armiloj</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#batalrefleksoj">Batalrefleksoj</a><sup>*</sup></td>
-        <td>-</td>
-        <td>Aldonaj okazatakoj</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#neniu-preteriras">Neniu preteriras</a><sup>*</sup></td>
-        <td>Batalrefleksoj</td>
-        <td>Malhelpi malamikojn iri preter vi</td>
-    </tr>
-    <tr>
-        <td><a href="#blinde-batali">Blinde batali</a><sup>*</sup></td>
-        <td>-</td>
-        <td>Denova ĵeto de fuŝoprobableco ĉe kamuflado</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#defensiva-batalmaniero">Defensiva batalmaniero</a><sup>*</sup></td>
-        <td>INT 13</td>
-        <td>Ŝanĝi atakbonon al armaĵbono</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#faligo-progresita">Faligo progresita</a><sup>*</sup></td>
-        <td>Defensiva batalmaniero</td>
-        <td>Bono +2 por faligo, neniu okazatako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#faligo-potenca">Faligo potenca</a><sup>*</sup></td>
-        <td>Faligo progresita, BAB +6</td>
-        <td>De vi faligitaj malamikoj provokas okazatakon</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#finto-progresita">Finto progresita</a><sup>*</sup></td>
-        <td>Defensiva batalmaniero</td>
-        <td>Finto kiel movago</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#finto-potenca">Finto potenca</a><sup>*</sup></td>
-        <td>Finto progresita, BAB +6</td>
-        <td>Atakitoj de tiu finto perdas sian LER-modifilon por 1 rondo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kirloventa-atako">Kirloventa atako</a><sup>*</sup></td>
-        <td>Defensiva batalmaniero, dancetanta atako, LER 13, BAB +4</td>
-        <td>Proksimatako kontraŭ ĉiuj malamikoj en trafopovo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#senarmigo-progresita">Senarmigo progresita</a><sup>*</sup></td>
-        <td>Defensiva batalmaniero</td>
-        <td>Bono +2 por senarmigi, neniu okazatako</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-2"><a href="#senarmigo-potenca">Senarmigo potenca</a><sup>*</sup></td>
-        <td>Senarmigo progresita, BAB +6</td>
-        <td>Senarmigitaj armiloj estas forĵetataj de la malamiko</td>
-    </tr>
-    <tr>
-        <td><a href="#defensiva-bataltrejnado">Defensiva bataltrejnado</a><sup>*</sup></td>
-        <td>-</td>
-        <td>Uzu viajn VK kiel BAB por BMD</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#eltenema">Eltenema</a></td>
-        <td>-</td>
-        <td>Bono +4 por ĵetoj por eviti nemortigan damaĝon.</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#cxioeltena">Ĉioeltena</a></td>
-        <td>Eltenema</td>
-        <td>Aŭtomate stabila kaj gardi konscion sub 0 VP</td>
-    </tr>
-    <tr>
-        <td><a href="#enfokusigante-pereigi">Enfokusigante pereigi</a><sup>*</sup></td>
-        <td>Klasebleco enfokusigi energion</td>
-        <td>Enfokusigi energion per via atako</td>
-    </tr>
-    <tr>
-        <td><a href="#enfokusigi-elementon">Enfokusigi elementon</a></td>
-        <td>Klasebleco enfokusigi energion</td>
-        <td>Enfokusigi energion povas lezi aŭ sanigi elementulon</td>
-    </tr>
-    <tr>
-        <td><a href="#enfokusigi-pensmanieron">Enfokusigi pensmanieron</a></td>
-        <td>Klasebleco enfokusigi energion</td>
-        <td>Enfokusigi energion povas lezi kaj sanigi eksterulojn</td>
-    </tr>
-    <tr>
-        <td><a href="#enfokusigi-selektive">Enfokusigi selektive</a></td>
-        <td>KAR 13, klasebleco enfokusigi energion</td>
-        <td>Elekti kiun trafas la enfokusigitan energion</td>
-    </tr>
-    <tr>
-        <td><a href="#etenda-pasxo">Etenda paŝo</a><sup>*</sup></td>
-        <td>BAB +6</td>
-        <td>Preni aramaĵmalbonon -2 por ataki distance</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#evitmovo">Evitmovo</a><sup>*</sup></td>
-        <td>LER 13</td>
-        <td>Evitmovobono +1 por la AK</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#movebleco">Movebleco</a><sup>*</sup></td>
-        <td>Evitmovo</td>
-        <td>AK +4 kontraŭ okazatakoj dum movado</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#dancetanta-atako">Dancetanta atako</a><sup>*</sup></td>
-        <td>Movebleco, BAB +4</td>
-        <td>Moviĝo antaŭ kaj post atako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#rapida-kiel-la-vento">Rapida kiel la vento</a><sup>*</sup></td>
-        <td>Evitmovo, LER 15, BAB +6</td>
-        <td>20% kamuflado dum moviĝo</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-2"><a href="#rapida-kiel-la-fulmo">Rapida kiel la fulmo</a><sup>*</sup></td>
-        <td>Rapida kiel la vento, LER 17, BAB +11</td>
-        <td>50% kamuflado dum duobla moviĝo</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#fera-volo">Fera volo</a></td>
-        <td>-</td>
-        <td>Bono +2 por voloĵetoj</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#fera-volo-progresita">Fera volo progresita</a></td>
-        <td>Fera volo</td>
-        <td>Unufoje tage ripeti voloĵeton</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#fulmaj-refleksoj">Fulmaj refleksoj</a></td>
-        <td>-</td>
-        <td>Bono +2 por refleksĵetoj</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#fulmaj-refleksoj-progresitaj">Fulmaj refleksoj progresitaj</a></td>
-        <td>Fulmaj refleksoj</td>
-        <td>Unufoje tage refari refleksĵeton</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#granda-persisteco">Granda persisteco</a></td>
-        <td>-</td>
-        <td>Bono +2 por por ĵetoj de persisteco</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#granda-persisteco-progresita">Granda persisteco progresita</a></td>
-        <td>Granda persisteco</td>
-        <td>Bono +2 por por ĵetoj de persisteco</td>
-    </tr>
-    <tr>
-        <td><a href="#gvidi">Gvidi</a></td>
-        <td>Rolulnivelo +7</td>
-        <td>Gajni por vi sekvanton kaj disĉiplojn</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#impeta-atako">Impeta atako</a><sup>*</sup></td>
-        <td>FOR 13, BAB +1</td>
-        <td>Ŝanĝi atakbonon kontraŭ damaĝo en proksimbatalo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#duobla-bato">Duobla bato</a><sup>*</sup></td>
-        <td>Impeta atako</td>
-        <td>Aldona atako post sukcesa unua bato</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#cxirkauxbato">Ĉirkaŭbato</a><sup>*</sup></td>
-        <td>Duobla bato, BAB +4</td>
-        <td>Aldona atako post ĉiu sukcesa bato</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#frakasi-objekton-progresite">Frakasi objekton progresite</a><sup>*</sup></td>
-        <td>Impeta atako</td>
-        <td>Bono +2 por frakasi objekton, neniu okazatako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#frakasi-objekton-potence">Frakasi objekton potence</a><sup>*</sup></td>
-        <td>Frakasi objekton progresite, BAB +6</td>
-        <td>Damaĝo de frakasi objekton transigas al la malamiko</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#pusxatako-progresita">Puŝatako progresita</a><sup>*</sup></td>
-        <td>Impeta atako</td>
-        <td>Bono +2 por puŝatako, neniu okazatako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#pusxatako-potenca">Puŝatako potenca</a><sup>*</sup></td>
-        <td>Puŝatako progresita, BAB +6</td>
-        <td>Celoj de puŝatako provokas okazatakoj</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#superkuri-progresite">Superkuri progresite</a><sup>*</sup></td>
-        <td>Impeta atako</td>
-        <td>Bono +2 por superkuri, neniu okazatako</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-2"><a href="#superkuri-potence">Superkuri potence</a><sup>*</sup></td>
-        <td>Superkuri potence</td>
-        <td>Superkuritaj malamikoj kaŭzas okazatakojn</td>
-    </tr>
-    <tr>
-        <td><a href="#improvizata-distancatako">Improvizata distancatako</a><sup>*</sup></td>
-        <td>-</td>
-        <td>Neniuj malbonoj por improvizataj distancarmiloj</td>
-    </tr>
-    <tr>
-        <td><a href="#improvizata-proksimatako">Improvizata proksimatako</a><sup>*</sup></td>
-        <td>BAB +4</td>
-        <td>Neniuj malbonoj por improvizataj proksimarmiloj</td>
-    </tr>
-    <tr>
-        <td><a href="#kapablecofokuso">Kapablecofokuso</a></td>
-        <td>-</td>
-        <td>Bono +3 por unu kapableco (+6 ekde 10 rangoj)</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#kernpafo">Kernpafo</a><sup>*</sup></td>
-        <td>-</td>
-        <td>Bono +1 por atak- kaj damaĝoĵetoj kontraŭ celoj ene de 9 m </td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#distancpafo">Distancpafo</a><sup>*</sup></td>
-        <td>Kernpafo</td>
-        <td>Distancmalbonoj duoniĝas</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#pafi-kurante">Pafi kurante</a><sup>*</sup></td>
-        <td>LER 13, lerta moviĝo, kernpafo, BAB +4</td>
-        <td>Distancatako eblas iam ajn dum moviĝo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#preciza-pafo">Preciza pafo</a><sup>*</sup></td>
-        <td>Kernpafo</td>
-        <td>Neniu malbono por pafo en proksimbatalo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#preciza-pafo-progresita">Preciza pafo progresita</a><sup>*</sup></td>
-        <td>LER 19, preciza pafo, BAB +11</td>
-        <td>Ignori malpli ol 100% protekto/kamuflado ĉe distancatakoj</td>
-    </tr>
-    <tr>
-        <td class="desxovo-3"><a href="#punktpreciza-celado">Punktpreciza celado</a><sup>*</sup></td>
-        <td>Preciza pafo progresita, BAB +16</td>
-        <td>Neniu ŝildo- aŭ armaĵbono kontraŭ distancatako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#rapide-pafi">Rapide pafi</a><sup>*</sup></td>
-        <td>LER 13, kernpafo</td>
-        <td>Plia distancatako</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-2"><a href="#plura-pafado">Plura pafado</a><sup>*</sup></td>
-        <td>LER 17, rapide pafi, BAB +6</td>
-        <td>Pafi du sagojn samtempe</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#koncentrita-bato">Koncentrita bato</a><sup>*</sup></td>
-        <td>BAB +6</td>
-        <td>Duobla damaĝo ĉe sola atako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#koncentrita-bato-progresita">Koncentrita bato progresita</a><sup>*</sup></td>
-        <td>Koncentrita bato, BAB +11</td>
-        <td>Triobla damaĝo ĉe sola atako</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-2"><a href="#koncentrita-bato-potenca">Koncentrita bato potenca</a><sup>*</sup></td>
-        <td>Koncentrita bato progresita, BAB +16</td>
-        <td>Kvarobla damaĝo ĉe sola atako</td>
-    </tr>
-    <tr>
-        <td><a href="#kontrauxatako">Kontraŭatako</a><sup>*</sup></td>
-        <td>BAB +11</td>
-        <td>Ataki malamikon, kiam ili atakas per trafdistanco</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#kritika-trafo-fokuso">Kritika trafo fokuso</a><sup>*</sup></td>
-        <td>BAB +9</td>
-        <td>Bono +4 por konfirmi kritikan trafon</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kritika-trafo-majstreco">Kritika trafo majstreco</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, du ajnaj kritika trafo talentoj, BAT 14</td>
-        <td>Uzi du efikojn ĉe kritikaj trafoj</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kritika-trafo-blinda">Kritika trafo (blinda)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, BAB +15</td>
-        <td>Celo estas blinda ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kritika-trafo-elcxerpita">Kritika trafo (elĉerpita)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, BAB +13</td>
-        <td>Celo estas elĉerpita ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#kritika-trafo-senforta">Kritika trafo (senforta)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, kritika trafo (elĉerpita), BAB +15</td>
-        <td>Celo estas senforta ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kritika-trafo-malsaneta">Kritika trafo (malsaneta)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, BAB +11</td>
-        <td>Celo estas malsaneta ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kritika-trafo-sxanceligxanta">Kritika trafo (ŝanceliĝanta)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, BAB +13</td>
-        <td>Celo estas ŝanceliĝanta ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#kritika-trafo-svenanta">Kritika trafo (svenanta)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, kritika trafo (ŝanceliĝanta), BAB +17</td>
-        <td>Celo estas svenanta ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#kritika-trafo-sanganta">Kritika trafo (sanganta)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, BAB +11</td>
-        <td>Celo estas sanganta ĉe kritika trafo</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#kritika-trafo-surda">Kritika trafo (surda)</a><sup>*</sup></td>
-        <td>Kritika trafo fokuso, BAB +13</td>
-        <td>Celo estas surda ĉe kritika trafo</td>
-    </tr>
-    <tr>
-        <td><a href="#langolerteco">Langolerteco</a></td>
-        <td>-</td>
-        <td>Bono +2 por ĵetoj de diplomatio kaj timigi</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#lerta-movigxo">Lerta moviĝo</a></td>
-        <td>LER 13</td>
-        <td>Ignori 1,5 m da malfacila tereno dum moviĝo</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#lertega-movigxo">Lertega moviĝo</a></td>
-        <td>Lerta moviĝo, LER 15</td>
-        <td>Ignori 6 m da malfacila tereno dum moviĝo</td>
-    </tr>
-    <tr>
-        <td><a href="#lertaj-manoj">Lertaj manoj</a></td>
-        <td>-</td>
-        <td>Bono +2 por ĵetoj de malfunkciigi mekanismon kaj fingrolerteco</td>
-    </tr>
-    <tr>
-        <td><a href="#lertaj-manovroj">Lertaj manovroj</a></td>
-        <td>-</td>
-        <td>Aldoni vian LER-bonon al via BMB</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#rajdante-batali">Rajdante batali</a><sup>*</sup></td>
-        <td>1 rango en rajdi</td>
-        <td>Atakoj al la rajdbesto povas esti evitataj per ĵeto de rajdi</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#deseligi">Deseligi</a><sup>*</sup></td>
-        <td>Rajdante batali, impeta atako, puŝatako progresita, FOR 13</td>
-        <td>Faligi malamikon de la selo</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#preterrajdante-ataki">Preterrajdante ataki</a><sup>*</sup></td>
-        <td>Rajdante batali</td>
-        <td>Moviĝo antaŭ kaj post rajdanta sturmatako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-2"><a href="#brava-sturmatako">Brava sturmatako</a><sup>*</sup></td>
-        <td>Preterrajdante ataki</td>
-        <td>Duobla damaĝo per rajdanta sturmatako</td>
-    </tr>
-    <tr>
-        <td class="desxovo-1"><a href="#rajdante-distancataki">Rajdante distancataki</a><sup>*</sup></td>
-        <td>Rajdante batali</td>
-        <td>Duona malbono ĉe rajdantaj distancatakoj</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#superrajdi">Superrajdi</a><sup>*</sup></td>
-        <td>Rajdante batali</td>
-        <td>Rajdante superkuri</td>
-    </tr>
-    <tr>
-        <td><a href="#sinhardado">Sinhardado</a></td>
-        <td>-</td>
-        <td>+3 VP, aldone +1 VP po VK ekde la 4a VK</td>
-    </tr>
-    <tr>
-        <td><a href="#sorcxi-en-la-batalo">Sorĉi en la batalo</a></td>
-        <td>-</td>
-        <td>Bono +4 por koncentriĝoĵetoj, se vi volas sorĉi defensive</td>
-    </tr>
-    <tr>
-        <td><a href="#sorcxi-en-zooformo">Sorĉi en zooformo</a></td>
-        <td>SAĜ 13, klasebleco zooformo</td>
-        <td>Efektivigi sorĉojn en zooformo</td>
-    </tr>
-    <tr class="supra-linio">
-        <td><a href="#superfortigaj-sorcxoj">Superfortigaj sorĉoj</a></td>
-        <td>-</td>
-        <td>Bono +2 por sorĉniveloĵetoj por superi sorĉreziston</td>
-    </tr>
-    <tr class="malsupra-linio">
-        <td class="desxovo-1"><a href="#superfortigaj-sorcxoj-potencaj">Superfortigaj sorĉoj potencaj</a></td>
-        <td>Superfortigaj sorĉoj</td>
-        <td>Plia bono +2 por sorĉniveloĵetoj por superi sorĉreziston</td>
-    </tr>
-    <tr>
-        <td><a href="#timiga-forto">Timiga forto</a><sup>*</sup></td>
-        <td>-</td>
-        <td>FOR aldoniĝas al KAR por ĵetoj de timigi</td>
-    </tr>
-    <tr class="supra-linio">
-        <td colspan="3"><sup>*</sup> Tiu talento estas batalotalento kaj povas esti elektita de la batalisto kiel kroma talento.</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Talento</th>
+            <th>Kondiĉoj</th>
+            <th>Avantaĝoj</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="#akrobatisto">Akrobatisto</a></td>
+            <td>-</td>
+            <td>Bono +2 por ĵetoj de akrobataĵo kaj flugado</td>
+        </tr>
+        <tr>
+            <td><a href="#apudsekvi">Apudsekvi</a><sup>*</sup></td>
+            <td>BAB +1</td>
+            <td>Kvinfut-paŝo kiel subita agoj</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#arkana-armajxotrejnado">Arkana armaĵotrejnado</a><sup>*</sup></td>
+            <td>Sperto pri armaĵoj (malpezaj), sorĉnivelo 3</td>
+            <td>Reduktas la probablon por arkana sorĉfuŝo je 10%</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#arkana-armajxomajstro">Arkana armaĵomajstro</a><sup>*</sup></td>
+            <td>Arkana armaĵotrejnado, sperto pri armaĵoj (mezpezaj), sorĉnivelo 7</td>
+            <td>Reduktas la probablon por arkana sorĉfuŝo je 10%</td>
+        </tr>
+        <tr>
+            <td><a href="#arkana-bato">Arkana bato</a></td>
+            <td>Ebleco efektivigi arkanajn sorĉojn</td>
+            <td>Damaĝo +1, armiloj estas traktataj kiel magiaj</td>
+        </tr>
+        <tr>
+            <td><a href="#atleto">Atleto</a></td>
+            <td>-</td>
+            <td>Bono +2 por ĵetoj de grimpi aŭ naĝi</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#batalo-per-du-armiloj">Batalo per du armiloj</a><sup>*</sup></td>
+            <td>LER 15</td>
+            <td>Malbonoj de batalo per du manoj estas reduktitaj je +2</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#batalo-per-du-armiloj-progresita">Batalo per du armiloj progresita</a><sup>*</sup></td>
+            <td>LER 17, batalo per du armiloj, BAB +6</td>
+            <td>Plia atako per dua mano</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#batalo-per-du-armiloj-potenca">Batalo per du armiloj potenca</a><sup>*</sup></td>
+            <td>LER 19, batalo per du armiloj progresita, BAB +11</td>
+            <td>Tria atako per dua mano</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#defendo-per-du-armiloj">Defendo per du armiloj</a><sup>*</sup></td>
+            <td>Batalo per du armiloj</td>
+            <td>Ŝildbono +1 dum la batalo per du armiloj</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#duobla-trancxo">Duobla tranĉo</a><sup>*</sup></td>
+            <td>Batalo per du armiloj</td>
+            <td>Plena fortomodifilo por damaĝo de la armilo de dua mano</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-2"><a href="#desxiri-per-du-armiloj">Deŝiri per du armiloj</a><sup>*</sup></td>
+            <td>Duobla tranĉo, batalo per du armiloj progresita, BAB +11</td>
+            <td>Deŝiranta atako per du armiloj</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#batalrefleksoj">Batalrefleksoj</a><sup>*</sup></td>
+            <td>-</td>
+            <td>Aldonaj okazatakoj</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#neniu-preteriras">Neniu preteriras</a><sup>*</sup></td>
+            <td>Batalrefleksoj</td>
+            <td>Malhelpi malamikojn iri preter vi</td>
+        </tr>
+        <tr>
+            <td><a href="#blinde-batali">Blinde batali</a><sup>*</sup></td>
+            <td>-</td>
+            <td>Denova ĵeto de fuŝoprobableco ĉe kamuflado</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#defensiva-batalmaniero">Defensiva batalmaniero</a><sup>*</sup></td>
+            <td>INT 13</td>
+            <td>Ŝanĝi atakbonon al armaĵbono</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#faligo-progresita">Faligo progresita</a><sup>*</sup></td>
+            <td>Defensiva batalmaniero</td>
+            <td>Bono +2 por faligo, neniu okazatako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#faligo-potenca">Faligo potenca</a><sup>*</sup></td>
+            <td>Faligo progresita, BAB +6</td>
+            <td>De vi faligitaj malamikoj provokas okazatakon</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#finto-progresita">Finto progresita</a><sup>*</sup></td>
+            <td>Defensiva batalmaniero</td>
+            <td>Finto kiel movago</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#finto-potenca">Finto potenca</a><sup>*</sup></td>
+            <td>Finto progresita, BAB +6</td>
+            <td>Atakitoj de tiu finto perdas sian LER-modifilon por 1 rondo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kirloventa-atako">Kirloventa atako</a><sup>*</sup></td>
+            <td>Defensiva batalmaniero, dancetanta atako, LER 13, BAB +4</td>
+            <td>Proksimatako kontraŭ ĉiuj malamikoj en trafopovo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#senarmigo-progresita">Senarmigo progresita</a><sup>*</sup></td>
+            <td>Defensiva batalmaniero</td>
+            <td>Bono +2 por senarmigi, neniu okazatako</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-2"><a href="#senarmigo-potenca">Senarmigo potenca</a><sup>*</sup></td>
+            <td>Senarmigo progresita, BAB +6</td>
+            <td>Senarmigitaj armiloj estas forĵetataj de la malamiko</td>
+        </tr>
+        <tr>
+            <td><a href="#defensiva-bataltrejnado">Defensiva bataltrejnado</a><sup>*</sup></td>
+            <td>-</td>
+            <td>Uzu viajn VK kiel BAB por BMD</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#eltenema">Eltenema</a></td>
+            <td>-</td>
+            <td>Bono +4 por ĵetoj por eviti nemortigan damaĝon.</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#cxioeltena">Ĉioeltena</a></td>
+            <td>Eltenema</td>
+            <td>Aŭtomate stabila kaj gardi konscion sub 0 VP</td>
+        </tr>
+        <tr>
+            <td><a href="#enfokusigante-pereigi">Enfokusigante pereigi</a><sup>*</sup></td>
+            <td>Klasebleco enfokusigi energion</td>
+            <td>Enfokusigi energion per via atako</td>
+        </tr>
+        <tr>
+            <td><a href="#enfokusigi-elementon">Enfokusigi elementon</a></td>
+            <td>Klasebleco enfokusigi energion</td>
+            <td>Enfokusigi energion povas lezi aŭ sanigi elementulon</td>
+        </tr>
+        <tr>
+            <td><a href="#enfokusigi-pensmanieron">Enfokusigi pensmanieron</a></td>
+            <td>Klasebleco enfokusigi energion</td>
+            <td>Enfokusigi energion povas lezi kaj sanigi eksterulojn</td>
+        </tr>
+        <tr>
+            <td><a href="#enfokusigi-selektive">Enfokusigi selektive</a></td>
+            <td>KAR 13, klasebleco enfokusigi energion</td>
+            <td>Elekti kiun trafas la enfokusigitan energion</td>
+        </tr>
+        <tr>
+            <td><a href="#etenda-pasxo">Etenda paŝo</a><sup>*</sup></td>
+            <td>BAB +6</td>
+            <td>Preni aramaĵmalbonon -2 por ataki distance</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#evitmovo">Evitmovo</a><sup>*</sup></td>
+            <td>LER 13</td>
+            <td>Evitmovobono +1 por la AK</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#movebleco">Movebleco</a><sup>*</sup></td>
+            <td>Evitmovo</td>
+            <td>AK +4 kontraŭ okazatakoj dum movado</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#dancetanta-atako">Dancetanta atako</a><sup>*</sup></td>
+            <td>Movebleco, BAB +4</td>
+            <td>Moviĝo antaŭ kaj post atako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#rapida-kiel-la-vento">Rapida kiel la vento</a><sup>*</sup></td>
+            <td>Evitmovo, LER 15, BAB +6</td>
+            <td>20% kamuflado dum moviĝo</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-2"><a href="#rapida-kiel-la-fulmo">Rapida kiel la fulmo</a><sup>*</sup></td>
+            <td>Rapida kiel la vento, LER 17, BAB +11</td>
+            <td>50% kamuflado dum duobla moviĝo</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#fera-volo">Fera volo</a></td>
+            <td>-</td>
+            <td>Bono +2 por voloĵetoj</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#fera-volo-progresita">Fera volo progresita</a></td>
+            <td>Fera volo</td>
+            <td>Unufoje tage ripeti voloĵeton</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#fulmaj-refleksoj">Fulmaj refleksoj</a></td>
+            <td>-</td>
+            <td>Bono +2 por refleksĵetoj</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#fulmaj-refleksoj-progresitaj">Fulmaj refleksoj progresitaj</a></td>
+            <td>Fulmaj refleksoj</td>
+            <td>Unufoje tage refari refleksĵeton</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#granda-persisteco">Granda persisteco</a></td>
+            <td>-</td>
+            <td>Bono +2 por por ĵetoj de persisteco</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#granda-persisteco-progresita">Granda persisteco progresita</a></td>
+            <td>Granda persisteco</td>
+            <td>Bono +2 por por ĵetoj de persisteco</td>
+        </tr>
+        <tr>
+            <td><a href="#gvidi">Gvidi</a></td>
+            <td>Rolulnivelo +7</td>
+            <td>Gajni por vi sekvanton kaj disĉiplojn</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#impeta-atako">Impeta atako</a><sup>*</sup></td>
+            <td>FOR 13, BAB +1</td>
+            <td>Ŝanĝi atakbonon kontraŭ damaĝo en proksimbatalo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#duobla-bato">Duobla bato</a><sup>*</sup></td>
+            <td>Impeta atako</td>
+            <td>Aldona atako post sukcesa unua bato</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#cxirkauxbato">Ĉirkaŭbato</a><sup>*</sup></td>
+            <td>Duobla bato, BAB +4</td>
+            <td>Aldona atako post ĉiu sukcesa bato</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#frakasi-objekton-progresite">Frakasi objekton progresite</a><sup>*</sup></td>
+            <td>Impeta atako</td>
+            <td>Bono +2 por frakasi objekton, neniu okazatako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#frakasi-objekton-potence">Frakasi objekton potence</a><sup>*</sup></td>
+            <td>Frakasi objekton progresite, BAB +6</td>
+            <td>Damaĝo de frakasi objekton transigas al la malamiko</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#pusxatako-progresita">Puŝatako progresita</a><sup>*</sup></td>
+            <td>Impeta atako</td>
+            <td>Bono +2 por puŝatako, neniu okazatako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#pusxatako-potenca">Puŝatako potenca</a><sup>*</sup></td>
+            <td>Puŝatako progresita, BAB +6</td>
+            <td>Celoj de puŝatako provokas okazatakoj</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#superkuri-progresite">Superkuri progresite</a><sup>*</sup></td>
+            <td>Impeta atako</td>
+            <td>Bono +2 por superkuri, neniu okazatako</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-2"><a href="#superkuri-potence">Superkuri potence</a><sup>*</sup></td>
+            <td>Superkuri potence</td>
+            <td>Superkuritaj malamikoj kaŭzas okazatakojn</td>
+        </tr>
+        <tr>
+            <td><a href="#improvizata-distancatako">Improvizata distancatako</a><sup>*</sup></td>
+            <td>-</td>
+            <td>Neniuj malbonoj por improvizataj distancarmiloj</td>
+        </tr>
+        <tr>
+            <td><a href="#improvizata-proksimatako">Improvizata proksimatako</a><sup>*</sup></td>
+            <td>BAB +4</td>
+            <td>Neniuj malbonoj por improvizataj proksimarmiloj</td>
+        </tr>
+        <tr>
+            <td><a href="#kapablecofokuso">Kapablecofokuso</a></td>
+            <td>-</td>
+            <td>Bono +3 por unu kapableco (+6 ekde 10 rangoj)</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#kernpafo">Kernpafo</a><sup>*</sup></td>
+            <td>-</td>
+            <td>Bono +1 por atak- kaj damaĝoĵetoj kontraŭ celoj ene de 9 m </td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#distancpafo">Distancpafo</a><sup>*</sup></td>
+            <td>Kernpafo</td>
+            <td>Distancmalbonoj duoniĝas</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#pafi-kurante">Pafi kurante</a><sup>*</sup></td>
+            <td>LER 13, lerta moviĝo, kernpafo, BAB +4</td>
+            <td>Distancatako eblas iam ajn dum moviĝo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#preciza-pafo">Preciza pafo</a><sup>*</sup></td>
+            <td>Kernpafo</td>
+            <td>Neniu malbono por pafo en proksimbatalo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#preciza-pafo-progresita">Preciza pafo progresita</a><sup>*</sup></td>
+            <td>LER 19, preciza pafo, BAB +11</td>
+            <td>Ignori malpli ol 100% protekto/kamuflado ĉe distancatakoj</td>
+        </tr>
+        <tr>
+            <td class="desxovo-3"><a href="#punktpreciza-celado">Punktpreciza celado</a><sup>*</sup></td>
+            <td>Preciza pafo progresita, BAB +16</td>
+            <td>Neniu ŝildo- aŭ armaĵbono kontraŭ distancatako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#rapide-pafi">Rapide pafi</a><sup>*</sup></td>
+            <td>LER 13, kernpafo</td>
+            <td>Plia distancatako</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-2"><a href="#plura-pafado">Plura pafado</a><sup>*</sup></td>
+            <td>LER 17, rapide pafi, BAB +6</td>
+            <td>Pafi du sagojn samtempe</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#koncentrita-bato">Koncentrita bato</a><sup>*</sup></td>
+            <td>BAB +6</td>
+            <td>Duobla damaĝo ĉe sola atako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#koncentrita-bato-progresita">Koncentrita bato progresita</a><sup>*</sup></td>
+            <td>Koncentrita bato, BAB +11</td>
+            <td>Triobla damaĝo ĉe sola atako</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-2"><a href="#koncentrita-bato-potenca">Koncentrita bato potenca</a><sup>*</sup></td>
+            <td>Koncentrita bato progresita, BAB +16</td>
+            <td>Kvarobla damaĝo ĉe sola atako</td>
+        </tr>
+        <tr>
+            <td><a href="#kontrauxatako">Kontraŭatako</a><sup>*</sup></td>
+            <td>BAB +11</td>
+            <td>Ataki malamikon, kiam ili atakas per trafdistanco</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#kritika-trafo-fokuso">Kritika trafo fokuso</a><sup>*</sup></td>
+            <td>BAB +9</td>
+            <td>Bono +4 por konfirmi kritikan trafon</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kritika-trafo-majstreco">Kritika trafo majstreco</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, du ajnaj kritika trafo talentoj, BAT 14</td>
+            <td>Uzi du efikojn ĉe kritikaj trafoj</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kritika-trafo-blinda">Kritika trafo (blinda)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, BAB +15</td>
+            <td>Celo estas blinda ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kritika-trafo-elcxerpita">Kritika trafo (elĉerpita)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, BAB +13</td>
+            <td>Celo estas elĉerpita ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#kritika-trafo-senforta">Kritika trafo (senforta)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, kritika trafo (elĉerpita), BAB +15</td>
+            <td>Celo estas senforta ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kritika-trafo-malsaneta">Kritika trafo (malsaneta)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, BAB +11</td>
+            <td>Celo estas malsaneta ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kritika-trafo-sxanceligxanta">Kritika trafo (ŝanceliĝanta)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, BAB +13</td>
+            <td>Celo estas ŝanceliĝanta ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#kritika-trafo-svenanta">Kritika trafo (svenanta)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, kritika trafo (ŝanceliĝanta), BAB +17</td>
+            <td>Celo estas svenanta ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#kritika-trafo-sanganta">Kritika trafo (sanganta)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, BAB +11</td>
+            <td>Celo estas sanganta ĉe kritika trafo</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#kritika-trafo-surda">Kritika trafo (surda)</a><sup>*</sup></td>
+            <td>Kritika trafo fokuso, BAB +13</td>
+            <td>Celo estas surda ĉe kritika trafo</td>
+        </tr>
+        <tr>
+            <td><a href="#langolerteco">Langolerteco</a></td>
+            <td>-</td>
+            <td>Bono +2 por ĵetoj de diplomatio kaj timigi</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#lerta-movigxo">Lerta moviĝo</a></td>
+            <td>LER 13</td>
+            <td>Ignori 1,5 m da malfacila tereno dum moviĝo</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#lertega-movigxo">Lertega moviĝo</a></td>
+            <td>Lerta moviĝo, LER 15</td>
+            <td>Ignori 6 m da malfacila tereno dum moviĝo</td>
+        </tr>
+        <tr>
+            <td><a href="#lertaj-manoj">Lertaj manoj</a></td>
+            <td>-</td>
+            <td>Bono +2 por ĵetoj de malfunkciigi mekanismon kaj fingrolerteco</td>
+        </tr>
+        <tr>
+            <td><a href="#lertaj-manovroj">Lertaj manovroj</a></td>
+            <td>-</td>
+            <td>Aldoni vian LER-bonon al via BMB</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#rajdante-batali">Rajdante batali</a><sup>*</sup></td>
+            <td>1 rango en rajdi</td>
+            <td>Atakoj al la rajdbesto povas esti evitataj per ĵeto de rajdi</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#deseligi">Deseligi</a><sup>*</sup></td>
+            <td>Rajdante batali, impeta atako, puŝatako progresita, FOR 13</td>
+            <td>Faligi malamikon de la selo</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#preterrajdante-ataki">Preterrajdante ataki</a><sup>*</sup></td>
+            <td>Rajdante batali</td>
+            <td>Moviĝo antaŭ kaj post rajdanta sturmatako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-2"><a href="#brava-sturmatako">Brava sturmatako</a><sup>*</sup></td>
+            <td>Preterrajdante ataki</td>
+            <td>Duobla damaĝo per rajdanta sturmatako</td>
+        </tr>
+        <tr>
+            <td class="desxovo-1"><a href="#rajdante-distancataki">Rajdante distancataki</a><sup>*</sup></td>
+            <td>Rajdante batali</td>
+            <td>Duona malbono ĉe rajdantaj distancatakoj</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#superrajdi">Superrajdi</a><sup>*</sup></td>
+            <td>Rajdante batali</td>
+            <td>Rajdante superkuri</td>
+        </tr>
+        <tr>
+            <td><a href="#sinhardado">Sinhardado</a></td>
+            <td>-</td>
+            <td>+3 VP, aldone +1 VP po VK ekde la 4a VK</td>
+        </tr>
+        <tr>
+            <td><a href="#sorcxi-en-la-batalo">Sorĉi en la batalo</a></td>
+            <td>-</td>
+            <td>Bono +4 por koncentriĝoĵetoj, se vi volas sorĉi defensive</td>
+        </tr>
+        <tr>
+            <td><a href="#sorcxi-en-zooformo">Sorĉi en zooformo</a></td>
+            <td>SAĜ 13, klasebleco zooformo</td>
+            <td>Efektivigi sorĉojn en zooformo</td>
+        </tr>
+        <tr class="supra-linio">
+            <td><a href="#superfortigaj-sorcxoj">Superfortigaj sorĉoj</a></td>
+            <td>-</td>
+            <td>Bono +2 por sorĉniveloĵetoj por superi sorĉreziston</td>
+        </tr>
+        <tr class="malsupra-linio">
+            <td class="desxovo-1"><a href="#superfortigaj-sorcxoj-potencaj">Superfortigaj sorĉoj potencaj</a></td>
+            <td>Superfortigaj sorĉoj</td>
+            <td>Plia bono +2 por sorĉniveloĵetoj por superi sorĉreziston</td>
+        </tr>
+        <tr>
+            <td><a href="#timiga-forto">Timiga forto</a><sup>*</sup></td>
+            <td>-</td>
+            <td>FOR aldoniĝas al KAR por ĵetoj de timigi</td>
+        </tr>
+        <tr class="supra-linio">
+            <td colspan="3"><sup>*</sup> Tiu talento estas batalotalento kaj povas esti elektita de la batalisto kiel kroma talento.</td>
+        </tr>
+    </tbody>
 </table>
 
 <h3 id="akrobatisto">Akrobatisto</h3>
@@ -532,13 +536,13 @@
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por kapablecĵetoj de grimpi aŭ naĝi. Se vi havas minimume 10 rangoj en unu el tiuj kapablecoj la bono altiĝas al +4.</p>
 
 <h3 id="batalo-per-du-armiloj">Batalo per du armiloj [batalo]</h3>
-<p> Vi spertas la batalon per po unu armilo en ambaŭ manoj. Ĉiuvice vi povas fari aldonan atakon per via dua mano. </p>
+<p> Vi havas sperton en la batalo per po unu armilo en ambaŭ manoj. Ĉiuvice vi povas fari aldonan atakon per via dua mano. </p>
 <p> <b>Kondiĉo:</b> LER 15 <p>
 <p> <b>Avantaĝo:</b> Viaj malbonoj por la batalo per du armiloj reduktiĝas. La malbono por vi ĉefarmilo reduktiĝas je +2, la malbono por via dua armilo je +6. Vidu la paragrafon <a href="../batalo/#batalo-per-du-armiloj">Batalo per du armiloj</a> en la ĉapitro <a href="../batalo">Batalo</a>. </p>
 <p> <b>Kutime:</b> Se vi tenas duan armilon en via dua mano, vi povas fari per tiu armilo ĉiuvice unu kroman atakon. Se vi batalas tiamaniere, vi ricevas malbonon -6 por atakoj per via ĉefmano kaj malbonon -10 por atakoj per la dua mano. Se via dua armilo estas malpeza la malbonoj reduktiĝas je +2. Senarmaj batoj kalkuliĝas kiel atakoj per malpezaj armiloj.</p>
 
 <h3 id="batalo-per-du-armiloj-progresita">Batalo per du armiloj progresita [batalo]</h3>
-<p> Vi spertas la batalon per du armiloj.</p>
+<p> Vi havas sperton en la batalo per du armiloj.</p>
 <p> <b>Kondiĉo:</b> LER 17, batalo per du armiloj, bazataka bono +6 </p>
 <p> <b>Avantaĝo:</b> Aldone al la kutima plia atako per la dua mano vi ricevas duan tian atakon tamen kun malbono -5. </p>
 <p> <b>Kutime:</b> Sen tiu talento vi rajtas nur fari unu kroman atakon per la dua mano.</p>
@@ -555,7 +559,7 @@
 <p> <b>Speciale:</b> Batalrefleksoj ne permesas al fripono uzi sian klaseblecon uzi okazon pli ol unu foje en unu rondo. </p>
 
 <h3 id="blinde-batali">Blinde batali [batalo]</h3>
-<p> Vi estas sperta pri ataki malamikojn kiujn vi ne klare povas vidi. </p>
+<p> Vi estas sperta por ataki malamikojn kiujn vi ne klare povas vidi. </p>
 <p> <b>Avantaĝo:</b> Ĉiufoje kiam vi maltrafas celon en proksimbatalo pro ties kamuflado (vidu ĉapitron <a href="../batalo">Batalo</a>), vi rajtas ĵeti elcentĵeton por la fuŝoprobableco denove por determini ĉu vi trafas. Nevideblaj malamikoj ne havas avantaĝojn por ataki vin en proksimbatalo. Tio signifas ke vi ne perdas vian lertecmodifilon de la AK. Krome la atakanto perdas sian bonon +2 kiun li kutime ricevas pro sia nevidebleco. Ĉe distancatakoj de nevideblaj atakantoj tiu atakbono tamen validas. </p>
 <p> Krome se vi estas blinda, vi ne devas fari ĵeton de akrobataĵo por moviĝi per plena moviĝorapideco. </p>
 <p> <b>Kutime:</b> Validas la kutimaj modifiloj por atakĵetoj kiujn faras nevideblaj atakantoj por trafi vin. Aldone vi perdas vian lertecbonon de via AK. Plie validas la reguloj rilate via moviĝorapideco en malhelo kaj malbonaj vidĉirkumstancoj. </p>
@@ -599,7 +603,7 @@
 <p> <b>Avantaĝo:</b> Via entuta nombro da vivkubetoj validas kiel bazataka bono por determini vian batalmanovran defendon (vidu ĉapitron <a href="../batalo">Batalo</a>).</p>
 
 <h3 id="deseligi">Deseligi [batalo]</h3>
-<p> Vi spertas kiel faligi viajn kontraŭulojn de la selo. </p>
+<p> Vi havas sperton kiel faligi viajn kontraŭulojn de la selo. </p>
 <p> <b>Kondiĉoj:</b> FOR 13, 1 rango en rajdi, rajdante batali, impeta atako, puŝatako progresita</p>
 <p> <b>Avantaĝo:</b> Se vi rajdante per lanco atakas malamikon, faru la atakon kiel kutime. Se la atako estas sukcesa vi povas - aldone al la normala damaĝo - provi liberan puŝatakon. Se tio ankaŭ sukcesas, la malamiko estas jetata de la selo kaj surteriĝas kuŝante sur unu najbara kampo de sia rajdbesto aliflanke de vi. </p>
 
@@ -670,7 +674,7 @@
 <p> <b>Kutime:</b> Kreaĵoj ne suferas okazatakon, se oni faligas ilin.</p>
 
 <h3 id="faligo-progresita">Faligo progresita [batalo]</h3>
-<p> Vi spertas kiel surterigi viajn malamikojn.</p>
+<p> Vi havas sperton kiel surterigi viajn malamikojn.</p>
 <p> <b>Kondiĉoj:</b>Defensiva batalmaniero, INT 13 </p>
 <p> <b>Avantaĝo:</b> Se vi aplikas la batalmanovron faligo, vi ne provokas okazatakon. Krome vi ricevas bonon +2 por ĵetoj per kiuj vi provas faligi vian malamikon. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2.</p>
 <p> <b>Kutime:</b> Se vi aplikas la batalmanovron faligon, vi provokas okazatakon.</p>
@@ -685,7 +689,7 @@
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas ripeti refleksĵeton. La decido apliki tiun talenton devas esti farita antaŭ vi malkovras la rezulton de via ĵeto. Se vi aplikas la talenton vi devas akcepti la duan rezulton eĉ se ĝi estas pli malbona ol la rezulto de la unua ĵeto.</p>
 
 <h3 id="finto-potenca">Finto potenca [batalo]</h3>
-<p> Vi spertas ke viaj amikoj troreagas al viaj atakoj</p>
+<p> Vi scipovas kaŭzi ke viaj amikoj troreagas al viaj atakoj.</p>
 <p> <b>Kondiĉoj:</b>Defensiva batalmaniero, finto progresita, BAB +6, INT 13 </p>
 <p> <b>Avantaĝo:</b> Se vi uzas finton por ke la malamiko perdu sian LER-bonon, li ne nur perdas ĝin dum via posta atako sed ĝis la komenco de la sekvanta rondo. </p>
 <p> <b>Kutime:</b> Kreaĵo kontraŭ kiu vi uzas finton, perdas sian LER-bonon dum via posta atako.</p>
@@ -702,7 +706,7 @@
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por frakasi objektojn. Tiu bono aldoniĝas al la bono de la talento frakasi objektojn progresite. Se vi frakasas armilon, armaĵon aŭ ŝildon kaj detruas ĝin, la kroma damaĝô efikas al la portanto de tiu objekto. Se vi decidas ke la vivpoentoj de la malamiko ne subiru sub unu vivpoento, tiam neniu damaĝo efikas al la malamiko. </p>
 
 <h3 id="frakasi-objekton-progresite">Frakasi objekton progresite [batalo]</h3>
-<p> Vi spertas frakasi armilojn aŭ armaĵojn de viaj malamikoj. </p>
+<p> Vi havas sperton frakasi armilojn aŭ armaĵojn de viaj malamikoj. </p>
 <p> <b>Kondiĉoj:</b> FOR 13, impeta atako, bazataka bono +1 </p>
 <p> <b>Avantaĝo:</b> Se vi uzas la batalmanovro frakasi objekton, vi ne provokas okazatakon. Plie vi ricevas bonon +2 por ĵetoj per kiuj vi volas damaĝi objektojn. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2.</p>
 <p> <b>Kutime:</b> Se vi uzas la batalmanovron frakasi objekton, vi provokas okazatakon. </p>
@@ -725,270 +729,274 @@
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas ripeti ĵeton de persisteco. La decido uzi tiun eblecon devas esti farita antaŭ vi faras la savĵeton. Se vi aplikas la talenton, vi devas akcepti la duan ĵeton ankaŭ se la rezulto estas malpli bona ol la unua. </p>
 
 <table class="glita">
-<caption>Tabelo: Gvidi</caption>
-    <tr>
-        <th rowspan="2">Valoro<br>por gvidi</th>
-        <th rowspan="2">Nivelo de<br>sekvanto</th>
-        <th colspan="6" class="sen-sub-linio">Nombro da disĉiploj laŭ nivelo</th>
-    </tr>
-    <tr>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-        <th>4</th>
-        <th>5</th>
-        <th>6</th>
-    </tr>
-    <tr>
-        <td>1 aŭ malpli</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>2</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>3</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>3</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>4</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>5</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>5</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>6</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>7</td>
-        <td>5</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>7</td>
-        <td>6</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>8</td>
-        <td>8</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>9</td>
-        <td>10</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>10</td>
-        <td>15</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>10</td>
-        <td>20</td>
-        <td>2</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>11</td>
-        <td>25</td>
-        <td>2</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>12</td>
-        <td>30</td>
-        <td>3</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>12</td>
-        <td>35</td>
-        <td>3</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>13</td>
-        <td>40</td>
-        <td>4</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>14</td>
-        <td>50</td>
-        <td>5</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>21</td>
-        <td>15</td>
-        <td>60</td>
-        <td>6</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>22</td>
-        <td>15</td>
-        <td>75</td>
-        <td>7</td>
-        <td>4</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>23</td>
-        <td>16</td>
-        <td>90</td>
-        <td>9</td>
-        <td>5</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>24</td>
-        <td>17</td>
-        <td>110</td>
-        <td>11</td>
-        <td>6</td>
-        <td>3</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>25 aŭ pli</td>
-        <td>17</td>
-        <td>135</td>
-        <td>13</td>
-        <td>7</td>
-        <td>4</td>
-        <td>2</td>
-        <td>2</td>
-    </tr>
+    <caption>Tabelo: Gvidi</caption>
+    <thead>
+        <tr>
+            <th rowspan="2">Valoro<br>por gvidi</th>
+            <th rowspan="2">Nivelo de<br>sekvanto</th>
+            <th colspan="6" class="sen-sub-linio">Nombro da disĉiploj laŭ nivelo</th>
+        </tr>
+        <tr>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1 aŭ malpli</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>2</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>3</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>4</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>6</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>7</td>
+            <td>5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>7</td>
+            <td>6</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>8</td>
+            <td>8</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>9</td>
+            <td>10</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>10</td>
+            <td>15</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>10</td>
+            <td>20</td>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>11</td>
+            <td>25</td>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>12</td>
+            <td>30</td>
+            <td>3</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>12</td>
+            <td>35</td>
+            <td>3</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>13</td>
+            <td>40</td>
+            <td>4</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>14</td>
+            <td>50</td>
+            <td>5</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>15</td>
+            <td>60</td>
+            <td>6</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>15</td>
+            <td>75</td>
+            <td>7</td>
+            <td>4</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>16</td>
+            <td>90</td>
+            <td>9</td>
+            <td>5</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>17</td>
+            <td>110</td>
+            <td>11</td>
+            <td>6</td>
+            <td>3</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>25 aŭ pli</td>
+            <td>17</td>
+            <td>135</td>
+            <td>13</td>
+            <td>7</td>
+            <td>4</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+    </tbody>
 </table>
 
 <h3 id="gvidi">Gvidi</h3>
@@ -998,62 +1006,78 @@
 <p> <b>Modifiloj por la talento gvidi:</b> Via valoro por gvidi estas influata de diversaj kaŭzoj kaj povas devii de la baza valoro (rolulnivelo + KAR-modifilo). Via reputacio (de la vidpunkto de la sekvanto aŭ la disĉiploj kiujn vi volas varbi) povas altigi aŭ malaltigi vian valoron de gvidi. </p>
 
 <table>
-    <tr>
-        <th>Reputacio kiel gvidanto</th><th>Modifilo</th>
-    <tr>
-        <td>rigardata kiel legenda gvidanto</td><td>+2</td>
-    </tr>
-    <tr>
-        <td>rigardata kiel honesta kaj justa</td><td>+1</td>
-    </tr>
-    <tr>
-        <td>havas eksterordinarajn fortojn</td><td>+1</td>
-    </tr>
-    <tr>
-        <td>rigardata kiel malsukcesa</td><td>-1</td>
-    </tr>
-    <tr>
-        <td>rigardata kiel nealirebla</td><td>-1</td>
-    </tr>
-    <tr>
-        <td>rigardata kiel kruela</td><td>-2</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Reputacio kiel gvidanto</th><th>Modifilo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>rigardata kiel legenda gvidanto</td><td>+2</td>
+        </tr>
+        <tr>
+            <td>rigardata kiel honesta kaj justa</td><td>+1</td>
+        </tr>
+        <tr>
+            <td>havas eksterordinarajn fortojn</td><td>+1</td>
+        </tr>
+        <tr>
+            <td>rigardata kiel malsukcesa</td><td>-1</td>
+        </tr>
+        <tr>
+            <td>rigardata kiel nealirebla</td><td>-1</td>
+        </tr>
+        <tr>
+            <td>rigardata kiel kruela</td><td>-2</td>
+        </tr>
+    </tbody>
 </table>
 
 <p> Se vi volas gajni sekvanton por vi, ankaŭ aliaj kaŭzoj povas valori: </p>
 
-<table class="sen-sub-linio">
-    <tr>
-        <th>La gvidanto...</th><th>Modifilo</th>
-    <tr>
-        <td>havas konaton, specialan<br>rajdbeston aŭ bestkamaradon</td><td>-2</td>
-    </tr>
-    <tr>
-        <td>varbas sekvanton<br>kun alia pensmaniero</td><td>-1</td>
-    </tr>
-    <tr>
-        <td>kulpas pri la morto de sekvanto</td><td>-2 <sup>*</sup></td>
-    </tr>
-    <tr class="aldono">
-        <td colspan="2"><sup>*</sup> Tiu valoro altiĝas kun ĉiu morta sekvanto.</td>
-    </tr>
+<table>
+    <thead>
+        <tr>
+            <th>La gvidanto...</th><th>Modifilo</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <td colspan="2"><sup>*</sup> Tiu valoro altiĝas kun ĉiu morta sekvanto.</td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <td>havas konaton, specialan<br>rajdbeston aŭ bestkamaradon</td><td>-2</td>
+        </tr>
+        <tr>
+            <td>varbas sekvanton<br>kun alia pensmaniero</td><td>-1</td>
+        </tr>
+        <tr>
+            <td>kulpas pri la morto de sekvanto</td><td>-2 <sup>*</sup></td>
+        </tr>
+    </tbody>
 </table>
 
 <p> Disĉiploj havas aliajn prioritatojn ol sekvantoj. Se vi volas gajni novan disĉiplon por vi, valoras la postaj modifiloj se ili estas aplikeblaj: </p>
 
 <table>
-    <tr>
-        <th>La gvidanto...</th><th>Modifilo</th>
-    </tr>
-    <tr>
-        <td>havas fortikaĵon, bazon de operacioj,<br>gilddomon aŭ similan</td><td>+2</td>
-    </tr>
-    <tr>
-        <td>ĉiam vojaĝas de unu loko al alia</td><td>-1</td>
-    </tr>
-    <tr>
-        <td>kulpas pri la morto de aliaj diĉiploj</td><td>+2</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>La gvidanto...</th><th>Modifilo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>havas fortikaĵon, bazon de operacioj,<br>gilddomon aŭ similan</td><td>+2</td>
+        </tr>
+        <tr>
+            <td>ĉiam vojaĝas de unu loko al alia</td><td>-1</td>
+        </tr>
+        <tr>
+            <td>kulpas pri la morto de aliaj diĉiploj</td><td>+2</td>
+        </tr>
+    </tbody>
 </table>
 
 <p> <b>Valoro por gvidi:</b> Via baz valoro por gvidi egalas al vi nivelo + vi KAR-modifilo. Por tre malaltaj karismaj valoroj la tabelo ankaŭ montras tre malaltajn valorojn por gvidi. Tamen vi devas esti almenaŭ en la 7a nivelo por elekti la talenton gvidi. Kromaj kaŭzoj povas modifi vian valoron por gvidi kiel deskribata antaŭe.</p>
@@ -1069,7 +1093,7 @@
 <p> <b>Avantaĝo:</b> Vi povas elekti ricevi malbonon -1 por ĉiuj proksimatakĵetoj kaj batalmanovroj. Pro tio vi ricevas bonon +2 por ĉiuj proksimbatlo-damaĝoĵetoj. Tiu damaĝo altiĝas ankoraŭ je la duono (+50%), se vi uzas dumanan armilon, unumanan armilon uzata per du manoj aŭ naturan armilon kiu donas 1 &frac12; olban FOR-modifilon por la damaĝoĵeton. Same la damaĝobono duoniĝas por atakoj per la dua mano aŭ per natura dua armilo. Se via bazataka bono atingas +4 kaj por ĉiuj pliaj +4 la malbono grandiĝas je -1 kaj la damaĝobono je +2. Vi devas decidi antaŭ la atakĵeto ĉu vi volas uzi tiun talenton. Ĝi efiko daŭras ĝis via venonta vico. La aldona damaĝo ne kalkuliĝas por tuŝatakoj aŭ efikoj kiuj ne kaŭzas damaĝon de vivpoentoj.</p>
 
 <h3 id="improvizata-distancatako">Improvizata distancatako [batalo]</h3>
-<p> Vi spertas ĵeti ĉiujn aĵojn kiujn vi tenas en viaj manoj. </p>
+<p> Vi havas sperton ĵeti ĉiujn aĵojn kiujn vi tenas en viaj manoj. </p>
 <p> <b>Avantaĝo:</b> Vi ne ricevas malbonojn por uzi improvizatajn distancarmilojn. Vi ricevas situaciobonon +1 por atakĵetoj kiujn vi faras por ataki per ĵetarmiloj kun vastspaca efiko.</p>
 <p> <b>Kutime:</b> Vi ricevas malbonon -4 por atakĵetoj per improvizataj armiloj.</p>
 
@@ -1080,7 +1104,7 @@
 <p> <b>Kutime:</b> Por atakoj per improvizataj armiloj vi ricevas malbonon -4.</p>
 
 <h3 id="kapablecofokuso">Kapablecofokuso</h3>
-<p> Elektu kapablecon. Vi aparte spertas tiun kapablecon.</p>
+<p> Elektu kapablecon. Vi aparte havas sperton en tiu kapableco.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +3 por ĉiuj ĵetoj de tiu kapableco. Se vi havas minimume 10 rangoj en tiu kapableco, la bono altiĝas al +6.</p>
 <p> <b>Speciale:</b> Vi povas elekti tiun talenton plurfoje. La efiko ne estas akumula. Ĉiam kiam vi elektas tiun talenton, ĝi efikas al alia kapableco.</p>
 
@@ -1113,7 +1137,7 @@
 <p> <b>Avantaĝo:</b> Vi povas prepari atakon kontraŭ iu malamiko kiu atakas vin en proksimbatalo. Tio ankaŭ funkcias se li estas ekster via trafpovo. </p>
 
 <h3 id="kritika-trafo-fokuso">Kritika trafo fokuso [batalo]</h3>
-<p> Vi spertas kaŭzi dolorojn. </p>
+<p> Vi havas sperton kaŭzi dolorojn. </p>
 <p> <b>Kondiĉo:</b> Bazataka bono +9 </p>
 <p> <b>Avantaĝo:</b> Vi ricevas situacian bonon +4 por atakĵetoj kiuj okazas por konfirmi kritikajn trafojn.</p>
 
@@ -1255,7 +1279,7 @@
 <p> <b>Avantaĝo:</b> Se via rajdbesto estas trafita dum batalo, vi povas unufoje en la rondo fari ĵeton de rajdi (kiel subita ago), por nuligi la trafon. La trafo nuliĝas se la ĵeto de rajdi estas pli alta ol la atakĵeto de la malamiko.</p>
 
 <h3 id="rajdante-distancataki">Rajdante distancataki [batalo]</h3>
-<p> Vi spertas distancataki rajdante.</p>
+<p> Vi havas sperton distancataki rajdante.</p>
 <p> <b>Kondiĉoj:</b> 1 rango en rajdi, rajdante batali</p>
 <p> <b>Avantaĝo:</b> La malbono kiun vi suferas, se vi uzas distancarmilon dum rajdi, duoniĝas: -2 anstataŭ -4 se via rajdbesto moviĝas per duobla moviĝorapideco kaj -4 anstataŭ -8 se via rajdbesto kuras.</p>
 
@@ -1285,7 +1309,7 @@
 <p> <b>Kutime:</b> Perditaj armiloj per senarmigo surteriĝas je la piedoj de la senarmigita kreaĵo.</p>
 
 <h3 id="senarmigo-progresita">Senarmigo-progresita [batalo]</h3>
-<p> Vi spertas forbati la armilon el la mano de via malamiko.</p>
+<p> Vi sperte forbatas la armilon el la mano de via malamiko.</p>
 <p> <b>Kondiĉoj:</b> Defensiva batalmaniero, INT 13</p>
 <p> <b>Avantaĝo:</b> Se vi aplikas la batalmanovron senarmigi, vi ne provokas okazatakon. Krome vi ricevas bonon +2 por viaj ĵetoj per kiuj vi provas senarmigi la malamikon. Se kontraŭulo atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2.</p>
 <p> <b>Kutime:</b> Se vi aplikas la batalmanovron senarmigi, vi provokas okazatakon. </p>
@@ -1316,7 +1340,7 @@
 <p> <b>Kutime:</b> Malamikoj kiuj estas ĵetitaj sur la plankon per superkurado ne kaŭzas okazatakojn.</p>
 
 <h3 id="superkuri-progresite">Superkuri progresite [batalo]</h3>
-<p> Vi spertas superkuri viajn malamikojn.</p>
+<p> Vi sperte superkuras viajn malamikojn.</p>
 <p> <b>Kondiĉoj:</b> FOR 13, impeta atako, bazataka bono +1</p>
 <p> <b>Avantaĝo:</b> Se vi uzas la batalmanovron superkuri, vi ne provokas okazatakojn. Krome vi ricevas bonon +2 por ĵetoj per kiuj vi provas superkuri malamikojn. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2. Celoj de la superkurado ne povas elekti evitmoviĝi.</p>
 <p> <b>Kutime:</b> Se vi uzas la batalmanovron superkuri, vi provokas okazatakojn. </p>

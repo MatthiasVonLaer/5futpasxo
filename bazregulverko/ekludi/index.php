@@ -26,7 +26,7 @@
 
 <p><b>Atributvaloro:</b> Ĉiu kreaĵo havas 6 atributvalorojn: forto, lerteco, konstitucio, inteligenteco, saĝeco kaj karismo. Tiuj valoroj reprezentas la plej bazajn ecojn de la kreaĵo. Ju pli alta la valoro des pli kapabla estas la rolulo en tiu branĉo.</p>
 
-<p><b>Batalmanovra bono (BMB):</b> Tiu valoro indikas kiel bone kreaĵo spertas fari batalmanovron. Tiu valoro aldoniĝas al ĵeto de k20, kiam rolulo volas fari batalmanovron.</p>
+<p><b>Batalmanovra bono (BMB):</b> Tiu valoro indikas kiel bonan sperton kreaĵo havas por fari batalmanovron. Tiu valoro aldoniĝas al ĵeto de k20, kiam rolulo volas fari batalmanovron.</p>
 
 <p><b>Batalmanovra defendo (BMD):</b> Tiu valoro indikas kiel malfacile estas fari batalmanobron kontraŭ kreaĵo. Kiam vi faras batalmanovron kontraŭ kreaĵon, vi devas uzi lian batalmanovran defendon kiel malfacilecgrado.</p>
 
@@ -46,7 +46,7 @@
 
 <p><b>Ĵeto:</b> Kutime signifas ĵeton de k20, al kiu aldoniĝas aliaj modifiloj. Tipaj ĵetoj estas atakĵetoj, kapablecĵetoj kaj savĵetoj. </p>
 
-<p><b>Kapableco:</b> Kapableco estas normala ebleco, kiel ekzemple grimpi muron, kaŝiri en silenta koridoro aŭ percepti entrudiĝanton. La kvanto da rangoj en iu kapableco indikas kiel bone la kreaĵo spertas tiun kapablecon. Kiam kreaĵoj ricevas novajn vivkubetojn, ili ankaŭ ricevas novajn kapablecrangojn, kiujn ili povas dispartigi al siaj kapablecoj. </p>
+<p><b>Kapableco:</b> Kapableco estas normala ebleco, kiel ekzemple grimpi muron, kaŝiri en silenta koridoro aŭ percepti entrudiĝanton. La kvanto da rangoj en iu kapableco indikas kiel bonan sperton la kreaĵo havas en tiu kapableco. Kiam kreaĵoj ricevas novajn vivkubetojn, ili ankaŭ ricevas novajn kapablecrangojn, kiujn ili povas dispartigi al siaj kapablecoj. </p>
 
 <p><b>Klaso:</b> La klaso reprezentas la profesion de kreaĵo aŭ rolulo. Per la klaso roluloj ricevas bonojn kaj ili povas efektivigi agojn kiujn oni kutime ne kapablas kiel sorĉi aŭ staturŝanĝi. Se kreaĵo gajnas novajn nivelojn en iu klaso, ĝi ankaŭ ricevas novajn kaj pli potencajn eblecojn. Plejmulto da LR havas nivelojn en la bazklasoj ĉar ili estas la plej potencaj (vidu <a href="../klasoj">Klasoj</a>). Plejmulto da NLR altiĝas en NLR-klasoj. Tiuj ne estas tiel potencaj (vidu <a href="../krei_nlr">Krei NLR</a>). </p>
 
@@ -95,306 +95,318 @@
 
 <p><b>Vivpoentoj (VP):</b> La vivpoentoj difinas en abstrakta formo kiel persistema kaj sana kreaĵo estas tiumomente. Vundoj reduktas la vivpoentojn kaj sanigo (kaj magia kaj natura) redonas vivpoentojn. Kelkaj eblecoj kaj sorĉoj donas portempaj vivpoentoj kiuj malaperas post kelka tempo. Se vivpoentoj de kreaĵo iras sub nul, ĝi perdas la konscion. Se la vivpoentoj malsupreniras al la valoro kiu egalas la negativan konstitucivaloron de la kreaĵo, ĝi mortas. </p>
 
-<h2 id="atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</h2>
+<h2>Kiel krei rolulon?</h2>
+<p>Eblas krei ĉiun tipon de rolulo kiun vi volas roli de la ruza ŝtelisto ĝis la brava paladino. Se vi evoluigas rolulon, komencu kun lia koncepto. Ĉu vi volas ludi rolulon kiu ĵetas sin rekte en la batalo kun teruraj monstrojn, kiu impetas kontraŭ ungegoj kaj dentoj per glavo kaj ŝildo? Aŭ ĉu vi preferas ludi misteran rolulon kiu ricevas siajn fortojn el la granda transejo por efektivigi siajn celojn. Preskaŭ ĉio eblas.</p>
+<p>Se vi havas ĝeneralan koncepton, vi sekvas la postajn paŝojn por vivigi viajn ideojn. Vi ensrkibas ĉiujn tiujn valorojn de via rolulo en la rolulformularon kiun vi povas elŝuti ĉi tie (<a href="x">Rolulformularo</a>).
+<ul>
+    <li><b>1a paŝo - Krei atributvalorojn:</b> Komence vi kalkulas la atributvalorojn (vidu <a href="#elkalkuli-atributvalorojn">Elkalkuli atributvalorojn</a>). Tiuj ses valoroj estas la plej bazaj atributoj de via rolulo kaj gravas por multaj pliaj detaloj de via rolulo. Kelkaj klasoj postulas grandajn certajn atributvalorojn por certaj eblecoj. </li>
+    <li><b>2a paŝo - Elektu popolon:</b> Poste vi elektas popolon por via rolulo. Notu la modifilojn por atributvaloroj kaj aliajn popolkarakterizaĵojn (vidu <a href="../popoloj/">Popoloj</a>). Estas sep bazaj popoloj inter kiuj vi povas elekti. Via ludgvidanto tamen povas eventuale aldoni pliajn popolojn. Ĉe ĉiu popolo estas indikita la lingvoj kiujn via rolulo aŭtomate konas kiel kelkaj kromaj lingvoj. La rolulo konas tiom da kromaj lingvoj kiom egalas al lia inteligentecomodifilo.</li>
+</ul>
 
+<h2>Atributvaloroj</h2>
+<h3 id="elkalkuli-atributvalorojn">Elkalkuli atributvalorojn</h3>
+<h3 id="atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</h3>
 <p> La atributo kiu gravas por kromaj sorĉoj dependas de la sorĉkonanto: inteligenteco por magiistoj, saĝeco por klerikoj, druidoj kaj arbaranoj kaj karismo por sorĉsitoj, paladinoj kaj bardoj. Krom alta atributvaloro la sorĉkonanto devas havi sufiĉe grandan klasnivelon por efektivigi sorĉojn de la respektiva sorĉgrado. Vidu la klasdeskribon por pliaj detaloj. </p>
 
 <table>
     <caption>Tabelo: Atributmodifiloj kaj kromaj sorĉoj por unu tago</caption>
-    <tr>
-        <th rowspan="2">Valoro</th>
-        <th rowspan="2">Modifilo</th>
-        <th class="sen-sub-linio" colspan="10">Kromaj sorĉoj (laŭ grado)</th>
-    </tr>
-    <tr>
-        <th>0a</th>
-        <th>1a</th>
-        <th>2a</th>
-        <th>3a</th>
-        <th>4a</th>
-        <th>5a</th>
-        <th>6a</th>
-        <th>7a</th>
-        <th>8a</th>
-        <th>9a</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>-5</td>
-        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
-    </tr>
-    <tr>
-        <td>2 - 3</td>
-        <td>-4</td>
-        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
-    </tr>
-    <tr>
-        <td>4 - 5</td>
-        <td>-3</td>
-        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
-    </tr>
-    <tr>
-        <td>6 - 7</td>
-        <td>-2</td>
-        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
-    </tr>
-    <tr>
-        <td>8 - 9</td>
-        <td>-1</td>
-        <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
-    </tr>
-    <tr>
-        <td>10 - 11</td>
-        <td>0</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>12 - 13</td>
-        <td>+1</td>
-        <td>-</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>14 - 15</td>
-        <td>+2</td>
-        <td>-</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>16 - 17</td>
-        <td>+3</td>
-        <td>-</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>18 - 19</td>
-        <td>+4</td>
-        <td>-</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>20 - 21</td>
-        <td>+5</td>
-        <td>-</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>22 - 23</td>
-        <td>+6</td>
-        <td>-</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>24 - 25</td>
-        <td>+7</td>
-        <td>-</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>26 - 27</td>
-        <td>+8</td>
-        <td>-</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>-</td>
-    </tr>
-    <tr>
-        <td>28 - 29</td>
-        <td>+9</td>
-        <td>-</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>30 - 31</td>
-        <td>+10</td>
-        <td>-</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>32 - 33</td>
-        <td>+11</td>
-        <td>-</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>34 - 35</td>
-        <td>+12</td>
-        <td>-</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-    </tr>
-    <tr>
-        <td>36 - 37</td>
-        <td>+13</td>
-        <td>-</td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>38 - 39</td>
-        <td>+14</td>
-        <td>-</td>
-        <td>4</td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>40 - 41</td>
-        <td>+15</td>
-        <td>-</td>
-        <td>4</td>
-        <td>4</td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>42 - 43</td>
-        <td>+16</td>
-        <td>-</td>
-        <td>4</td>
-        <td>4</td>
-        <td>4</td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>44 - 45</td>
-        <td>+17</td>
-        <td>-</td>
-        <td>5</td>
-        <td>4</td>
-        <td>4</td>
-        <td>4</td>
-        <td>4</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-        <td>3</td>
-    </tr>
+    <thead>
+        <tr>
+            <th rowspan="2">Valoro</th>
+            <th rowspan="2">Modifilo</th>
+            <th colspan="10">Kromaj sorĉoj (laŭ grado)</th>
+        </tr>
+        <tr>
+            <th>0a</th>
+            <th>1a</th>
+            <th>2a</th>
+            <th>3a</th>
+            <th>4a</th>
+            <th>5a</th>
+            <th>6a</th>
+            <th>7a</th>
+            <th>8a</th>
+            <th>9a</th>
+        </tr>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>-5</td>
+            <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+        </tr>
+        <tr>
+            <td>2 - 3</td>
+            <td>-4</td>
+            <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+        </tr>
+        <tr>
+            <td>4 - 5</td>
+            <td>-3</td>
+            <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+        </tr>
+        <tr>
+            <td>6 - 7</td>
+            <td>-2</td>
+            <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+        </tr>
+        <tr>
+            <td>8 - 9</td>
+            <td>-1</td>
+            <td colspan="10">ne povas efektivigi sorĉojn kiuj rilatas al tiu atributo</td>
+        </tr>
+        <tr>
+            <td>10 - 11</td>
+            <td>0</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>12 - 13</td>
+            <td>+1</td>
+            <td>-</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>14 - 15</td>
+            <td>+2</td>
+            <td>-</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>16 - 17</td>
+            <td>+3</td>
+            <td>-</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>18 - 19</td>
+            <td>+4</td>
+            <td>-</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>20 - 21</td>
+            <td>+5</td>
+            <td>-</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>22 - 23</td>
+            <td>+6</td>
+            <td>-</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>24 - 25</td>
+            <td>+7</td>
+            <td>-</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>26 - 27</td>
+            <td>+8</td>
+            <td>-</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>28 - 29</td>
+            <td>+9</td>
+            <td>-</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>30 - 31</td>
+            <td>+10</td>
+            <td>-</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>32 - 33</td>
+            <td>+11</td>
+            <td>-</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>34 - 35</td>
+            <td>+12</td>
+            <td>-</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>36 - 37</td>
+            <td>+13</td>
+            <td>-</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>38 - 39</td>
+            <td>+14</td>
+            <td>-</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>40 - 41</td>
+            <td>+15</td>
+            <td>-</td>
+            <td>4</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>42 - 43</td>
+            <td>+16</td>
+            <td>-</td>
+            <td>4</td>
+            <td>4</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>44 - 45</td>
+            <td>+17</td>
+            <td>-</td>
+            <td>5</td>
+            <td>4</td>
+            <td>4</td>
+            <td>4</td>
+            <td>4</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+    </tbody>
 </table>
 
 <?php require '../../pagxpiedo.php' ?>

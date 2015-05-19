@@ -13,270 +13,276 @@
 
 <table class="sen-sub-linio">
     <caption>Tabelo: Monaĥo</caption>
-    <tr>
-        <th>Nivelo</th>
-        <th>BAB</th>
-        <th>REF</th>
-        <th>VOL</th>
-        <th>PER</th>
-        <th>Speciale</th>
-        <th>Bono por atakhajlo</th>
-        <th>Senarma damaĝo<sup>*</sup></th>
-        <th>AK-bono</th>
-        <th>Moviĝbono</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>+0</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td><a href="#sveniga-bato">Sveniga&nbsp;bato</a>, <a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#atakhajlo">Atakhajlo</a>, <a href="#senarma-bato">Senarma&nbsp;bato</a></td>
-        <td>-1/-1</td>
-        <td>1k6</td>
-        <td>+0</td>
-        <td>+0 m</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#sinsavi">Sinsavi</a></td>
-        <td>+0/+0</td>
-        <td>1k6</td>
-        <td>+0</td>
-        <td>+0 m</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>+2</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td><a href="#manovrotrejnado">Manovrotrejnado</a>, <a href="#trankvila-spirito">Trankvila&nbsp;spirito</a>, <a href="#rapida-movigxo">Rapida&nbsp;moviĝo</a></td>
-        <td>+1/+1</td>
-        <td>1k6</td>
-        <td>+0</td>
-        <td>+3 m</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>+3</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td><a href="#ki-provizo"><em>Ki</em>-provizo&nbsp;(magia)</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(6m)</a></td>
-        <td>+2/+2</td>
-        <td>1k8</td>
-        <td>+1</td>
-        <td>+3 m</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>+3</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td><a href="#altosalto">Altosalto</a>, <a href="#pureco-de-la-korpo">Pureco&nbsp;de&nbsp;la&nbsp;korpo</a></td>
-        <td>+3/+3</td>
-        <td>1k8</td>
-        <td>+1</td>
-        <td>+3 m</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>+4</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(9m)</a></td>
-        <td>+4/+4/-1</td>
-        <td>1k8</td>
-        <td>+1</td>
-        <td>+6 m</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td><a href="#integreco-de-la-korpo">Integreco&nbsp;de&nbsp;la&nbsp;korpo</a></td>
-        <td>+5/+5/+0</td>
-        <td>1k8</td>
-        <td>+1</td>
-        <td>+6 m</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>+6/+1</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td><a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(12m)</a></td>
-        <td>+6/+6/+1/+1</td>
-        <td>1k10</td>
-        <td>+2</td>
-        <td>+6 m</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>+6/+1</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td><a href="#sinsavi-progresita">Sinsavi&nbsp;progresita</a></td>
-        <td>+7/+7/+2/+2</td>
-        <td>1k10</td>
-        <td>+2</td>
-        <td>+9 m</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>+7/+2</td>
-        <td>+7</td>
-        <td>+7</td>
-        <td>+7</td>
-        <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#ki-provizo"><em>Ki</em>-provizo&nbsp;(laŭleĝa)</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(15m)</a></td>
-        <td>+8/+8/+3/+3</td>
-        <td>1k10</td>
-        <td>+2</td>
-        <td>+9 m</td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>+8/+3</td>
-        <td>+7</td>
-        <td>+7</td>
-        <td>+7</td>
-        <td><a href="#diamantkorpo">Diamantkorpo</a></td>
-        <td>+9/+9/+4/+4/-1</td>
-        <td>1k10</td>
-        <td>+2</td>
-        <td>+9 m</td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>+9/+4</td>
-        <td>+8</td>
-        <td>+8</td>
-        <td>+8</td>
-        <td><a href="#abunda-pasxo">Abunda&nbsp;paŝo</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(18m)</a></td>
-        <td>+10/+10/+5/+5/+0</td>
-        <td>2k6</td>
-        <td>+3</td>
-        <td>+12 m</td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>+9/+4</td>
-        <td>+8</td>
-        <td>+8</td>
-        <td>+8</td>
-        <td><a href="#diamantanimo">Diamantanimo</a></td>
-        <td>+11/+11/+6/+6/+1</td>
-        <td>2k6</td>
-        <td>+3</td>
-        <td>+12 m</td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>+10/+5</td>
-        <td>+9</td>
-        <td>+9</td>
-        <td>+9</td>
-        <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(21m)</a></td>
-        <td>+12/+12/+7/+7/+2</td>
-        <td>2k6</td>
-        <td>+3</td>
-        <td>+12 m</td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>+11/+6/+1</td>
-        <td>+9</td>
-        <td>+9</td>
-        <td>+9</td>
-        <td><a href="#vibranta-manplato">Vibranta&nbsp;manplato</a></td>
-        <td>+13/+13/+8/+8/+3/+3</td>
-        <td>2k6</td>
-        <td>+3</td>
-        <td>+15 m</td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>+12/+7/+2</td>
-        <td>+10</td>
-        <td>+10</td>
-        <td>+10</td>
-        <td><a href="#ki-provizo"><em>Ki</em>-provizo&nbsp;(adamanta)</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(24m)</a></td>
-        <td>+14/+14/+9/+9/+4/+4/-1</td>
-        <td>2k8</td>
-        <td>+4</td>
-        <td>+15 m</td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>+12/+7/+2</td>
-        <td>+10</td>
-        <td>+10</td>
-        <td>+10</td>
-        <td><a href="#sentempa-korpo">Sentempa&nbsp;korpo</a>, <a href="#lingvo-de-luno-kaj-suno">Lingvo&nbsp;de&nbsp;luno&nbsp;kaj&nbsp;suno</a></td>
-        <td>+15/+15/+10/+10/+5/+5/+0</td>
-        <td>2k8</td>
-        <td>+4</td>
-        <td>+15 m</td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>+13/+8/+3</td>
-        <td>+11</td>
-        <td>+11</td>
-        <td>+11</td>
-        <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(27m)</a></td>
-        <td>+16/+16/+11/+11/+6/+6/+1</td>
-        <td>2k8</td>
-        <td>+4</td>
-        <td>+18 m</td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>+14/+9/+4</td>
-        <td>+11</td>
-        <td>+11</td>
-        <td>+11</td>
-        <td><a href="#malplena-korpo">Malplena&nbsp;korpo</a></td>
-        <td>+17/+17/+12/+12/+7/+7/+2</td>
-        <td>2k8</td>
-        <td>+4</td>
-        <td>+18 m</td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>+15/+10/+5</td>
-        <td>+12</td>
-        <td>+12</td>
-        <td>+12</td>
-        <td><a href="#perfekta-memeco">Perfekta&nbsp;memeco</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(ĉiu&nbsp;distanco)</a></td>
-        <td>+18/+18/+13/+13/+8/+8/+3</td>
-        <td>2k10</td>
-        <td>+5</td>
-        <td>+18 m</td>
-    </tr>
-    <tr class="aldono">
-        <td colspan="10"><sup>*</sup> Tiu valoro estas por mezgrandaj monaĥoj. Malgrandaj aŭ grandaj estaĵoj uzas la valorojn de la tabelo "Damaĝo por senarma bato por malgrandaj kaj grandaj monaĥoj".</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Nivelo</th>
+            <th>BAB</th>
+            <th>REF</th>
+            <th>VOL</th>
+            <th>PER</th>
+            <th>Speciale</th>
+            <th>Bono por atakhajlo</th>
+            <th>Senarma damaĝo<sup>*</sup></th>
+            <th>AK-bono</th>
+            <th>Moviĝbono</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <td colspan="10"><sup>*</sup> Tiu valoro estas por mezgrandaj monaĥoj. Malgrandaj aŭ grandaj estaĵoj uzas la valorojn de la tabelo "Damaĝo por senarma bato por malgrandaj kaj grandaj monaĥoj".</td>
+        </tr>
+    </tfoot>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>+0</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td><a href="#sveniga-bato">Sveniga&nbsp;bato</a>, <a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#atakhajlo">Atakhajlo</a>, <a href="#senarma-bato">Senarma&nbsp;bato</a></td>
+            <td>-1/-1</td>
+            <td>1k6</td>
+            <td>+0</td>
+            <td>+0 m</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>+1</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#sinsavi">Sinsavi</a></td>
+            <td>+0/+0</td>
+            <td>1k6</td>
+            <td>+0</td>
+            <td>+0 m</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>+2</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td><a href="#manovrotrejnado">Manovrotrejnado</a>, <a href="#trankvila-spirito">Trankvila&nbsp;spirito</a>, <a href="#rapida-movigxo">Rapida&nbsp;moviĝo</a></td>
+            <td>+1/+1</td>
+            <td>1k6</td>
+            <td>+0</td>
+            <td>+3 m</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>+3</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td><a href="#ki-provizo"><em>Ki</em>-provizo&nbsp;(magia)</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(6m)</a></td>
+            <td>+2/+2</td>
+            <td>1k8</td>
+            <td>+1</td>
+            <td>+3 m</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>+3</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td><a href="#altosalto">Altosalto</a>, <a href="#pureco-de-la-korpo">Pureco&nbsp;de&nbsp;la&nbsp;korpo</a></td>
+            <td>+3/+3</td>
+            <td>1k8</td>
+            <td>+1</td>
+            <td>+3 m</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>+4</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(9m)</a></td>
+            <td>+4/+4/-1</td>
+            <td>1k8</td>
+            <td>+1</td>
+            <td>+6 m</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td><a href="#integreco-de-la-korpo">Integreco&nbsp;de&nbsp;la&nbsp;korpo</a></td>
+            <td>+5/+5/+0</td>
+            <td>1k8</td>
+            <td>+1</td>
+            <td>+6 m</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>+6/+1</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td><a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(12m)</a></td>
+            <td>+6/+6/+1/+1</td>
+            <td>1k10</td>
+            <td>+2</td>
+            <td>+6 m</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>+6/+1</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td><a href="#sinsavi-progresita">Sinsavi&nbsp;progresita</a></td>
+            <td>+7/+7/+2/+2</td>
+            <td>1k10</td>
+            <td>+2</td>
+            <td>+9 m</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>+7/+2</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#ki-provizo"><em>Ki</em>-provizo&nbsp;(laŭleĝa)</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(15m)</a></td>
+            <td>+8/+8/+3/+3</td>
+            <td>1k10</td>
+            <td>+2</td>
+            <td>+9 m</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>+8/+3</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td>+7</td>
+            <td><a href="#diamantkorpo">Diamantkorpo</a></td>
+            <td>+9/+9/+4/+4/-1</td>
+            <td>1k10</td>
+            <td>+2</td>
+            <td>+9 m</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>+9/+4</td>
+            <td>+8</td>
+            <td>+8</td>
+            <td>+8</td>
+            <td><a href="#abunda-pasxo">Abunda&nbsp;paŝo</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(18m)</a></td>
+            <td>+10/+10/+5/+5/+0</td>
+            <td>2k6</td>
+            <td>+3</td>
+            <td>+12 m</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>+9/+4</td>
+            <td>+8</td>
+            <td>+8</td>
+            <td>+8</td>
+            <td><a href="#diamantanimo">Diamantanimo</a></td>
+            <td>+11/+11/+6/+6/+1</td>
+            <td>2k6</td>
+            <td>+3</td>
+            <td>+12 m</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>+10/+5</td>
+            <td>+9</td>
+            <td>+9</td>
+            <td>+9</td>
+            <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(21m)</a></td>
+            <td>+12/+12/+7/+7/+2</td>
+            <td>2k6</td>
+            <td>+3</td>
+            <td>+12 m</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>+11/+6/+1</td>
+            <td>+9</td>
+            <td>+9</td>
+            <td>+9</td>
+            <td><a href="#vibranta-manplato">Vibranta&nbsp;manplato</a></td>
+            <td>+13/+13/+8/+8/+3/+3</td>
+            <td>2k6</td>
+            <td>+3</td>
+            <td>+15 m</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>+12/+7/+2</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td><a href="#ki-provizo"><em>Ki</em>-provizo&nbsp;(adamanta)</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(24m)</a></td>
+            <td>+14/+14/+9/+9/+4/+4/-1</td>
+            <td>2k8</td>
+            <td>+4</td>
+            <td>+15 m</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>+12/+7/+2</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td>+10</td>
+            <td><a href="#sentempa-korpo">Sentempa&nbsp;korpo</a>, <a href="#lingvo-de-luno-kaj-suno">Lingvo&nbsp;de&nbsp;luno&nbsp;kaj&nbsp;suno</a></td>
+            <td>+15/+15/+10/+10/+5/+5/+0</td>
+            <td>2k8</td>
+            <td>+4</td>
+            <td>+15 m</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>+13/+8/+3</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td><a href="#kroma-talento">Kroma&nbsp;talento</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(27m)</a></td>
+            <td>+16/+16/+11/+11/+6/+6/+1</td>
+            <td>2k8</td>
+            <td>+4</td>
+            <td>+18 m</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>+14/+9/+4</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td>+11</td>
+            <td><a href="#malplena-korpo">Malplena&nbsp;korpo</a></td>
+            <td>+17/+17/+12/+12/+7/+7/+2</td>
+            <td>2k8</td>
+            <td>+4</td>
+            <td>+18 m</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>+15/+10/+5</td>
+            <td>+12</td>
+            <td>+12</td>
+            <td>+12</td>
+            <td><a href="#perfekta-memeco">Perfekta&nbsp;memeco</a>, <a href="#bremsi-falon">Bremsi&nbsp;falon&nbsp;(ĉiu&nbsp;distanco)</a></td>
+            <td>+18/+18/+13/+13/+8/+8/+3</td>
+            <td>2k10</td>
+            <td>+5</td>
+            <td>+18 m</td>
+        </tr>
+    </tbody>
 </table>
 
 <h2>Klasaj karakterizaĵoj</h2>
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la monaĥo. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La monaĥo spertas pri la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>), <a href="../ekipajxo/#jxetlanco">ĵetlanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#hakilo">hakilo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#kamao">kamao</a>, <a href="../ekipajxo/#nuncxako">nunĉako</a>, <a href="../ekipajxo/#saio">saio</a>, <a href="../ekipajxo/#sianghamo">sianghamo</a>, <a href="../ekipajxo/#sxurikenoj">ŝurikenoj</a>. </p>
+<p><b>Sperto pri armiloj kaj armaĵoj:</b> La monaĥo havas sperton  por la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>), <a href="../ekipajxo/#jxetlanco">ĵetlanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#hakilo">hakilo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#kamao">kamao</a>, <a href="../ekipajxo/#nuncxako">nunĉako</a>, <a href="../ekipajxo/#saio">saio</a>, <a href="../ekipajxo/#sianghamo">sianghamo</a>, <a href="../ekipajxo/#sxurikenoj">ŝurikenoj</a>. </p>
 
-<p> Li entute ne spertas armaĵojn aŭ ŝildojn. </p>
+<p> Li entute ne havas sperton por armaĵoj aŭ ŝildoj. </p>
 
 <p> Se monaĥo portas armaĵojn aŭ ŝildojn aŭ portas pli ol malpezan ŝarĝon, li perdas sian armaĵklasan bonon, sian rapidan moviĝon kaj la atakhajlon. </p> 
 
@@ -300,29 +306,33 @@
 
 <table class="glita">
     <caption>Damaĝo por senarma bato por malgrandaj kaj grandaj monaĥoj</caption>
-    <tr>
-        <th>Nivelo</th>
-        <th>Damaĝo<br>malgranda monaĥo</th>
-        <th>Damaĝo<br>granda monaĥo</th>
-    </tr>
-    <tr>
-        <td>1-3</td><td>1k4</td><td>1k8</td>
-    </tr>
-    <tr>
-        <td>4-7</td><td>1k6</td><td>2k6</td>
-    </tr>
-    <tr>
-        <td>8-11</td><td>1k8</td><td>2k8</td>
-    </tr>
-    <tr>
-        <td>12-15</td><td>1k10</td><td>3k6</td>
-    </tr>
-    <tr>
-        <td>16-19</td><td>2k6</td><td>3k8</td>
-    </tr>
-    <tr>
-        <td>20</td><td>2k8</td><td>4k8</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Nivelo</th>
+            <th>Damaĝo<br>malgranda monaĥo</th>
+            <th>Damaĝo<br>granda monaĥo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1-3</td><td>1k4</td><td>1k8</td>
+        </tr>
+        <tr>
+            <td>4-7</td><td>1k6</td><td>2k6</td>
+        </tr>
+        <tr>
+            <td>8-11</td><td>1k8</td><td>2k8</td>
+        </tr>
+        <tr>
+            <td>12-15</td><td>1k10</td><td>3k6</td>
+        </tr>
+        <tr>
+            <td>16-19</td><td>2k6</td><td>3k8</td>
+        </tr>
+        <tr>
+            <td>20</td><td>2k8</td><td>4k8</td>
+        </tr>
+    </tbody>
 </table>
 
 <p> La monaĥo kaŭzas per sia senarma atako pli da damaĝo ol aliaj batalistoj kiel troveblas en la tabelo "Monaĥo". La indikoj validas por mezgranda monaĥo. Malgranda monaĥo kaŭzas malpli kaj granda kaŭzas pli da damaĝo. </p>

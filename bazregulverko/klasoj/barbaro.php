@@ -14,181 +14,185 @@
 
 <table>
     <caption>Tabelo: Barbaro</caption>
-    <tr>
-        <th>Nivelo</th>
-        <th>BAB</th>
-        <th>REF</th>
-        <th>VOL</th>
-        <th>PER</th>
-        <th>Speciale</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>+1</td>
-        <td>+0</td>
-        <td>+0</td>
-        <td>+2</td>
-        <td><a href="#rapida-movigxo">Rapida moviĝo</a>, <a href="#batalekstazo">Batalekstazo</a></td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>+2</td>
-        <td>+0</td>
-        <td>+0</td>
-        <td>+3</td>
-        <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#refleksmovo">Refleksmovo</a></td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>+3</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td>+3</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a></td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>+4</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td><a href="#batalekstaza-forto">Batalekstaza forto</a></td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>+5</td>
-        <td>+1</td>
-        <td>+1</td>
-        <td>+4</td>
-        <td><a href="#refleksmovo-progresita">Refleksmovo progresita</a></td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>+6/+1</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+5</td>
-        <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +2</a></td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>+7/+2</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+5</td>
-        <td><a href="#damaĝoredukto">Damaĝoredukto 1/- </a></td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>+8/+3</td>
-        <td>+2</td>
-        <td>+2</td>
-        <td>+6</td>
-        <td><a href="#batalekstaza-forto">Batalekstaza forto</a></td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>+9/+4</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>+6</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>+10/+5</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>+7</td>
-        <td><a href="#damaĝoredukto">Damaĝoredukto 2/- </a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
-    </tr>
-    <tr>
-        <td>11</td>
-        <td>+11/+6/+1</td>
-        <td>+3</td>
-        <td>+3</td>
-        <td>+7</td>
-        <td><a href="#forta-batalekstazo">Forta batalekstazo</a></td>
-    </tr>
-    <tr>
-        <td>12</td>
-        <td>+12/+7/+2</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td>+8</td>
-        <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +4</a></td>
-    </tr>
-    <tr>
-        <td>13</td>
-        <td>+13/+8/+3</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td>+8</td>
-        <td><a href="#damaĝoredukto">Damaĝoredukto 3/- </a></td>
-    </tr>
-    <tr>
-        <td>14</td>
-        <td>+14/+9/+4</td>
-        <td>+4</td>
-        <td>+4</td>
-        <td>+9</td>
-        <td><a href="#necedema-volo">Necedema volo</a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
-    </tr>
-    <tr>
-        <td>15</td>
-        <td>+15/+10/+5</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+9</td>
-        <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a></td>
-    </tr>
-    <tr>
-        <td>16</td>
-        <td>+16/+11/+6/+1</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+10</td>
-        <td><a href="#damaĝoredukto">Damaĝoredukto 4/- </a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
-    </tr>
-    <tr>
-        <td>17</td>
-        <td>+17/+12/+7/+2</td>
-        <td>+5</td>
-        <td>+5</td>
-        <td>+10</td>
-        <td><a href="#nesxancelebla-batalekstazo">Neŝancelebla batalekstazo</a></td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>+18/+13/+8/+3</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td>+11</td>
-        <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +6</a></td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>+19/+14/+9/+4</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td>+11</td>
-        <td><a href="#damaĝoredukto">Damaĝoredukto 5/- </a></td>
-    </tr>
-    <tr>
-        <td>20</td>
-        <td>+20/+15/+10/+5</td>
-        <td>+6</td>
-        <td>+6</td>
-        <td>+12</td>
-        <td><a href="#potencega-batalekstazo">Potencega batalekstazo</a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
-    </tr>
+    <thead>
+        <tr>
+            <th>Nivelo</th>
+            <th>BAB</th>
+            <th>REF</th>
+            <th>VOL</th>
+            <th>PER</th>
+            <th>Speciale</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>+1</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td>+2</td>
+            <td><a href="#rapida-movigxo">Rapida moviĝo</a>, <a href="#batalekstazo">Batalekstazo</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>+2</td>
+            <td>+0</td>
+            <td>+0</td>
+            <td>+3</td>
+            <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#refleksmovo">Refleksmovo</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>+3</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td>+3</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>+4</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td>+4</td>
+            <td><a href="#batalekstaza-forto">Batalekstaza forto</a></td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>+5</td>
+            <td>+1</td>
+            <td>+1</td>
+            <td>+4</td>
+            <td><a href="#refleksmovo-progresita">Refleksmovo progresita</a></td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>+6/+1</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+5</td>
+            <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +2</a></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>+7/+2</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+5</td>
+            <td><a href="#damaĝoredukto">Damaĝoredukto 1/- </a></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>+8/+3</td>
+            <td>+2</td>
+            <td>+2</td>
+            <td>+6</td>
+            <td><a href="#batalekstaza-forto">Batalekstaza forto</a></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>+9/+4</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+6</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>+10/+5</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td><a href="#damaĝoredukto">Damaĝoredukto 2/- </a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>+11/+6/+1</td>
+            <td>+3</td>
+            <td>+3</td>
+            <td>+7</td>
+            <td><a href="#forta-batalekstazo">Forta batalekstazo</a></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>+12/+7/+2</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+8</td>
+            <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +4</a></td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>+13/+8/+3</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+8</td>
+            <td><a href="#damaĝoredukto">Damaĝoredukto 3/- </a></td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>+14/+9/+4</td>
+            <td>+4</td>
+            <td>+4</td>
+            <td>+9</td>
+            <td><a href="#necedema-volo">Necedema volo</a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>+15/+10/+5</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+9</td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>+16/+11/+6/+1</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+10</td>
+            <td><a href="#damaĝoredukto">Damaĝoredukto 4/- </a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>+17/+12/+7/+2</td>
+            <td>+5</td>
+            <td>+5</td>
+            <td>+10</td>
+            <td><a href="#nesxancelebla-batalekstazo">Neŝancelebla batalekstazo</a></td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>+18/+13/+8/+3</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>+11</td>
+            <td><a href="#batalekstaza-forto">Batalekstaza forto</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +6</a></td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>+19/+14/+9/+4</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>+11</td>
+            <td><a href="#damaĝoredukto">Damaĝoredukto 5/- </a></td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>+20/+15/+10/+5</td>
+            <td>+6</td>
+            <td>+6</td>
+            <td>+12</td>
+            <td><a href="#potencega-batalekstazo">Potencega batalekstazo</a>, <a href="#batalekstaza-forto">Batalekstaza forto</a></td>
+        </tr>
+    </tbody>
 </table>
 
 <h2>Klasaj karakterizaĵoj</h2>
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la barbaro. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La barbaro spertas ĉiujn simplajn kaj militajn armilojn. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
+<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La barbaro havas sperton por ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <p id="rapida-movigxo"><b>Rapida moviĝo (EE):</b> La moviĝorapideco surtere estas pli alta por la barbaro ol kutime por lia popolo. Li povas moviĝi 3 pliajn metrojn. Tio nur vaidas se li maksimume portas mezpezan armaĵon kaj ne portas pezan ŝarĝon. Tiu bono aplikiĝas antaŭ la moviĝorapideco estas modifita pro armaĵoj aŭ ŝarĝoj. Kaj li sumiĝas kun ĉiuj aliaj bonoj de la barbaro por la moviĝo surtere. </p>
 
@@ -202,7 +206,7 @@
 
 <p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 2a nivelo la barbaro povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la armaĵklaso se la atakanto estas nevidebla. Barbaro kun tiu ebleco tamen povas perdi sian lertecbonon por la armaĵklaso se li estas nemovkapabla aŭ se la kontraŭulo sukcese faras finton kontraŭ li. </p>
 
-<p>Se la barbaro jam havas la eblecon refleksmovo per alia klaso, li ricevas anstaŭe refleksmovon progresitan (vidu malsupre). </p>
+<p>Se la barbaro jam havas la eblecon refleksmovo per alia klaso, li ricevas anstaŭe refleksmovon progresitan (vidu malsupren). </p>
 
 <p id="kaptilsensiveco"><b>Kaptilsensiveco (EE):</b> Je la 3a nivelo la barbaro ricevas bonon de +1 por siaj refleksĵetoj por evitmovi de kaptiloj kaj bonon de +1 por la armaĵklaso kontraŭ atakoj de kaptiloj. Tiu bono altiĝas je +1 je ĉiu tria nivelaltiĝo (6a, 9a, 12a, 15a, 18a). La bonoj de kaptilsensiveco de malsamaj klasoj sumiĝas. </p>
 

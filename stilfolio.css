@@ -102,17 +102,19 @@ ul li {
 table {
     font-family: Arial;
     font-size: 10pt;
+    text-align: left;
     border-collapse: collapse;
     border-left: none;
     border-right: none;
-    border-bottom: 2px solid #2A201A;
+    border-bottom: none;
     border-top: none;
     margin-top: 2em; 
     margin-bottom: 2em; 
 }
 
-table.sen-sub-linio {
-    border-bottom: none;
+tbody {
+    border-top: 2px solid #2A201A;
+    border-bottom: 2px solid #2A201A;
 }
 
 table.glita {
@@ -138,12 +140,11 @@ tr th {
     border-left: none;
     border-right: none;
     border-top: none;
-    border-bottom: 2px solid #2A201A;
+    border-bottom: none;
     font-variant: small-caps;
 }
 
-tr th.sen-sub-linio {
-    border-bottom: none;
+th[colspan] {
     text-align: center;
 }
 
@@ -153,7 +154,7 @@ tr.nova-sekcio {
     font-variant: small-caps;
 }
 
-tr {
+tbody tr {
     border-bottom: 1px solid #DDCCBB;
 }
 
@@ -163,11 +164,6 @@ tr.malsupra-linio {
 
 tr.supra-linio {
     border-top: 2px solid #2A201A;
-}
-
-tr.aldono {
-    border-top: 2px solid #2A201A;
-    border-bottom: none;
 }
 
 td {
