@@ -21,7 +21,7 @@
             <th>REF</th>
             <th>VOL</th>
             <th>PER</th>
-            <th>Speciale</th>
+            <th>Specife</th>
         </tr>
     </thead>
     <tbody>
@@ -192,7 +192,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la barbaro. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La barbaro havas sperton por ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
+<p> <b>Sperto kun armiloj kaj armaĵoj:</b> La barbaro havas sperton kun ĉiuj simplaj kaj militaj armiloj. Li estas sperta kun malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <p id="rapida-movigxo"><b>Rapida moviĝo (EE):</b> La moviĝorapideco surtere estas pli alta por la barbaro ol kutime por lia popolo. Li povas moviĝi 3 pliajn metrojn. Tio nur vaidas se li maksimume portas mezpezan armaĵon kaj ne portas pezan ŝarĝon. Tiu bono aplikiĝas antaŭ la moviĝorapideco estas modifita pro armaĵoj aŭ ŝarĝoj. Kaj li sumiĝas kun ĉiuj aliaj bonoj de la barbaro por la moviĝo surtere. </p>
 

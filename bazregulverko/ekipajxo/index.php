@@ -38,11 +38,11 @@
     <li><em>18-20/&times;2:</em> La armilo kaŭzas ĉe origina 18, 19 aŭ 20 minacon (ne nur ĉe 20) kaj kaŭzas ĉe kritika trafo duoblan damaĝon.</li>
 </ul>
 <p><b>Baza trafopovo:</b> Ĉiu atako al celoj pli distancaj ol tiu indiko ricevas malbonon pro la distanco. Por ĉiu distanco kiu superas la bazan trafopovon kaj egalas al la tuta aŭ parta trafopovo, la atakoĵeto ricevas po unu akumulan malbonon -2. Se ponardo (baza trafopovo 3 m) estas ĵetata al 8 m distanca celo, ĝi ekzemple ricevas malbonon -4 por la atakĵeto. Ĵetarmiloj havas maksimuman trafopovon de la kvinobla baza trafopovo. Pafarmiloj povas esti uzataj por celoj ĝis la dekobla trafopovo. </p>
-<p><b>Pezo:</b> En tiu kolumno estas indikita la pezo por la mezgranda versio de la armilo. Ĉe malgrandaj armilo la pezo duoniĝas, ĉe grandaj duobliĝas. Kelkaj armiloj havas specialan pezon kio estas klarigita en la armilopriskriboj. </p>
+<p><b>Pezo:</b> En tiu kolumno estas indikita la pezo por la mezgranda versio de la armilo. Ĉe malgrandaj armilo la pezo duoniĝas, ĉe grandaj duobliĝas. Kelkaj armiloj havas specifan pezon kio estas klarigita en la armilopriskriboj. </p>
 <p><b>Tipo:</b> Armiloj kaŭzas certan damaĝotipon kaj estas tiel klasigitaj laŭ la kategorioj: (P) por pikarmiloj, (K) por klingarmiloj kaj (B) por batarmiloj. Kelkaj monstroj povas esti rezistemaj aŭ imunaj kontraŭ certaj ataktipoj. </p>
 <p>Estas armiloj kiuj povas kaŭzi diversajn tipojn da damaĝo. Se armilo povas kaŭzi du tipojn da damaĝo, la damaĝo ne dividiĝas en la du damaĝotipoj. La kompleta damaĝo estas entute de du tipoj. La kreaĵo devus esti imuna kontraŭ ambaŭ tipoj por eviti tiun damaĝon. </p>
 <p>Alie estas armiloj kiuj povas unu el du tipojn da damaĝo. Se okazas situacio kie tio gravas, la uzanto povas decidi kiun tipon da damaĝo li volas kaŭzi. </p>
-<p><b>Speciale:</b> Kelkaj armiloj havas specialajn ecojn. Vidu la armilpriskribo por detaloj. </p>
+<p><b>Specife:</b> Kelkaj armiloj havas specifajn ecojn. Vidu la armilpriskribo por detaloj. </p>
 <ul>
     <li><em>Apogdefendi:</em> Se oni uzas tian armilon per prepara ago kontraŭ sturmatako, ĝi kaŭzas duoblan damaĝon al la atakanto se ĝi trafas.</li>
     <li><em>Duobla (armilo):</em> Duoblan armilon oni povas uzi tiel kiel oni batalas per du armiloj. Oni ricevas la samajn malbonojn kiel kun unu unumana armilo kaj unu malpeza armilo. Se oni uzas duoblan armilon kiel unumana armilo, oni nur povas ataki per unu flanko. Ĝi tiam ne kalkuliĝas kiel duobla armilo. </li>
@@ -57,7 +57,7 @@
     <caption>Tabelo: Armiloj</caption>
     <thead>
         <tr>
-            <th>Simplaj armiloj</th><th>Prezo</th><th>Damaĝo<br>(malgranda)</th><th>Damaĝo<br>(mezgranda)</th><th>Kritika trafo</th><th>Baza trafopovo</th><th>Pezo</th><th>Tipo</th><th>Speciale</th>
+            <th>Simplaj armiloj</th><th>Prezo</th><th>Damaĝo<br>(malgranda)</th><th>Damaĝo<br>(mezgranda)</th><th>Kritika trafo</th><th>Baza trafopovo</th><th>Pezo</th><th>Tipo</th><th>Specife</th>
         </tr>
     </thead>
     <tbody>
@@ -128,7 +128,7 @@
 
     <thead> 
         <tr class="nova-sekcio">
-            <td>Militarmiloj</td><td>Prezo</td><td>Damaĝo<br>(malgranda)</td><td>Damaĝo<br>(mezgranda)</td><td>Kritika trafo</td><td>Baza trafopovo</td><td>Pezo</td><td>Tipo</td><td>Speciale</td>
+            <td>Militarmiloj</td><td>Prezo</td><td>Damaĝo<br>(malgranda)</td><td>Damaĝo<br>(mezgranda)</td><td>Kritika trafo</td><td>Baza trafopovo</td><td>Pezo</td><td>Tipo</td><td>Specife</td>
         </tr>
     </thead>
     <tbody>
@@ -228,7 +228,7 @@
        
     <thead>
         <tr class="nova-sekcio">
-            <td>Eksotikaj armiloj</td><td>Prezo</td><td>Damaĝo<br>(malgranda)</td><td>Damaĝo<br>(mezgranda)</td><td>Kritika trafo</td><td>Baza trafopovo</td><td>Pezo</td><td>Tipo</td><td>Speciale</td>
+            <td>Eksotikaj armiloj</td><td>Prezo</td><td>Damaĝo<br>(malgranda)</td><td>Damaĝo<br>(mezgranda)</td><td>Kritika trafo</td><td>Baza trafopovo</td><td>Pezo</td><td>Tipo</td><td>Specife</td>
         </tr>
     </thead>
     <tbody>

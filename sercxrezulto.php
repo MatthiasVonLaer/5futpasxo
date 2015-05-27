@@ -3,6 +3,8 @@
 <?php
 
 $minimumo = 1;
+if(!isset($_GET['sercxvorto']))
+    exit();
 $sercxvorto = $_GET['sercxvorto'];
 $tabelo = [];
 
@@ -20,6 +22,7 @@ if (strlen($sercxvorto) >= $minimumo and $dosierujo = opendir("sercxo")) {
     $sercxvorto = preg_replace("/Hx/", "Ĥ", $sercxvorto);
     $sercxvorto = preg_replace("/Gx/", "Ĝ", $sercxvorto);
     $sercxvorto = preg_replace("/Ux/", "Ŭ", $sercxvorto);
+    $sercxvorto = preg_replace("/\//", "", $sercxvorto);    #kial preg_quote ne transformas / ??
     while (false !== ($indikilo = readdir($dosierujo))) {
         if(preg_match("/.txt$/", $indikilo)) {
             $enhavo = file_get_contents('sercxo/' . $indikilo);
@@ -61,7 +64,7 @@ if (strlen($sercxvorto) >= $minimumo and $dosierujo = opendir("sercxo")) {
 ?>
 
 <title>Serĉrezulto</title>
-<h1>Serĉrezulto por "<?php echo $sercxvorto;?>"</h1>
+<h1>Serĉrezulto por "<?php echo htmlentities($sercxvorto);?>"</h1>
 
 <ul class="sercxrezulto">
     <?php

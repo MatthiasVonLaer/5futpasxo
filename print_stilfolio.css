@@ -5,22 +5,29 @@ body {
     margin: 1cm;
 }
 
+@font-face {
+    font-family: 'titolo';
+    src: url('Prida65.otf');
+}
+
 .tradukinda, .navigado, .senerarigo, .supra-navigilo {
     display: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Verdana;
-    font-variant: small-caps;
+    color: #6B3510;
+    font-family: Arial;
+    letter-spacing: 0.1em;
     margin-bottom: 0px;
     margin-top: 25px;
 }
 
 h1 {
+    font-family: titolo;
     text-align: center;
-    border-bottom: 4px solid #DDCCBB;
-    border-left: 4px solid #DDCCBB;
-    border-right: 4px solid #DDCCBB;
+    border-bottom: 3px solid #DDCCBB;
+    border-left: 3px solid #DDCCBB;
+    border-right: 3px solid #DDCCBB;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     margin-top: 10px;
@@ -34,21 +41,29 @@ h2 {
     font-size: 16px;
 }
 
+h4 {
+    font-family: Arial;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 2px;
+    clear: right;
+}
+
 h1 + p, h2 + p {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 h3 + p {
-    margin-top: 5px;
+    margin-top: 3px;
 }
 
 p {
-    margin-bottom: 0.5em;
-    line-height: 1.5em;
+    margin-bottom: 0.2em;
+    line-height: 1.3em;
 }
 
 p + p {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
 }
 
 a {
@@ -77,6 +92,11 @@ ul + .rubriko {
     margin-top: -.5em;
 }
 
+ul {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
 ul li {
     list-style-type: none;
     text-indent: -2em;
@@ -86,18 +106,20 @@ ul li {
 
 table {
     font-family: Arial;
-    font-size: 10px;
+    font-size: 9px;
+    text-align: left;
     border-collapse: collapse;
     border-left: none;
     border-right: none;
-    border-bottom: 2px solid #2A201A;
+    border-bottom: none;
     border-top: none;
     margin-top: 2em; 
     margin-bottom: 2em; 
 }
 
-table.sen-sub-linio {
-    border-bottom: none;
+tbody {
+    border-top: 2px solid #2A201A;
+    border-bottom: 2px solid #2A201A;
 }
 
 table.glita {
@@ -123,12 +145,11 @@ tr th {
     border-left: none;
     border-right: none;
     border-top: none;
-    border-bottom: 2px solid #2A201A;
+    border-bottom: none;
     font-variant: small-caps;
 }
 
-tr th.sen-sub-linio {
-    border-bottom: none;
+th[colspan] {
     text-align: center;
 }
 
@@ -138,7 +159,7 @@ tr.nova-sekcio {
     font-variant: small-caps;
 }
 
-tr {
+tbody tr {
     border-bottom: 1px solid #DDCCBB;
 }
 
@@ -148,11 +169,6 @@ tr.malsupra-linio {
 
 tr.supra-linio {
     border-top: 2px solid #2A201A;
-}
-
-tr.aldono {
-    border-top: 2px solid #2A201A;
-    border-bottom: none;
 }
 
 td {

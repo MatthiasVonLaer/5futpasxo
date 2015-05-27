@@ -20,7 +20,7 @@
             <th rowspan="2">REF</th>
             <th rowspan="2">VOL</th>
             <th rowspan="2">PER</th>
-            <th rowspan="2">Speciale</th>
+            <th rowspan="2">Specife</th>
             <th class="sen-sub-linio" colspan="4">Sorĉoj por unu tago</th>
         </tr>
         <tr>
@@ -278,7 +278,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la arbarano. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La arbarano havas sperton por ĉiuj simplaj kaj militaj armiloj. Li estas sperta pri malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
+<p> <b>Sperto kun armiloj kaj armaĵoj:</b> La arbarano havas sperton kun ĉiuj simplaj kaj militaj armiloj. Li estas sperta kun malpezaj kaj mezpezaj armaĵoj kaj ŝildoj krom turŝildoj.</p>
 
 <table class="glita">
     <caption>Ĝismortaj malamikoj</caption>

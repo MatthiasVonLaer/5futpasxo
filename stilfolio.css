@@ -22,10 +22,15 @@ img {
     /*display: none;*/
 }
 
+.indikoj li {
+    font-family: Arial;
+    font-size: 15px;
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: #6B3510;
-    font-family: Georgia;
-    /*letter-spacing: 0.5em;*/
+    font-family: Arial;
+    letter-spacing: 0.1em;
     margin-bottom: 0px;
     margin-top: 25px;
 }
@@ -33,19 +38,27 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-family: titolo;
     text-align: center;
-    border-bottom: 4px solid #DDCCBB;
-    border-left: 4px solid #DDCCBB;
-    border-right: 4px solid #DDCCBB;
+    border-bottom: 3px solid #DDCCBB;
+    border-left: 3px solid #DDCCBB;
+    border-right: 3px solid #DDCCBB;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     margin-top: 10px;
     margin-bottom: 25px;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h2 {
     font-family: titolo;
     border-bottom: 2px solid #DDCCBB;
+    clear: right;
+}
+
+h4 {
+    font-family: Arial;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 2px;
     clear: right;
 }
 
@@ -90,6 +103,11 @@ h2 + .rubriko {
 
 ul + .rubriko {
     margin-top: -.5em;
+}
+
+ul {
+    margin-top: .5em;
+    margin-bottom: .5em;
 }
 
 ul li {
@@ -317,4 +335,16 @@ input.sercxkesto {
 
 input.sercxkesto:focus {
     border-bottom: solid #356B10 2px;
+}
+
+label {
+    font-family: Monaco;
+    font-weight: bold;
+}
+
+textarea {
+    font-family: Monaco;
+    font-size: 14px;
+    background-color: #DDDDDD;
+    color: #222222;
 }

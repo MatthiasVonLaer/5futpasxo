@@ -17,7 +17,7 @@
             <th>REF</th>
             <th>VOL</th>
             <th>PER</th>
-            <th>Speciale</th>
+            <th>Specife</th>
         </tr>
     </thead>
     <tbody>

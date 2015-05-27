@@ -1,41 +1,12 @@
 <!DOCTYPE html>
 <?php
 
-//eltrovi la indikilon al la bazdosierujo
-$dosierujo = "drakoj_kaj_nerdoj";
-$poz = strlen($dosierujo) + strpos($_SERVER['REQUEST_URI'], $dosierujo);
-$indikilo = substr($_SERVER['REQUEST_URI'], 0, $poz);
+require_once 'redakti.php';
+require_once 'helpfunkcioj.php';
 
-//krei la supro_linion
-$cxu = false;
-$supro_linio = "";
-$ligilo = "";
-
-$uri = $_SERVER['REQUEST_URI'];
-$poz = strpos($uri, "?");
-if($poz)
-    $uri = substr($uri, 0, $poz); 
-
-$aro = explode('/', $uri);
-foreach($aro as $elemento) {
-    if($cxu and $elemento != 'index.php' and $elemento != '') {
-        $ligilo .= '/' . $elemento;
-        $poz = strpos($elemento, '.php');
-        if($poz != false)
-            $elemento = substr($elemento, 0, $poz);
-
-        if($elemento == "bazregulverko")
-            $supro_linio .= ' > <em>Bazregulverko</em>';
-        else
-            $supro_linio .= ' > <a href="' . $ligilo . '">' . ucfirst($elemento) . '</a>';
-    }
-    if($elemento == $dosierujo) {
-        $supro_linio = '<a href="' . $indikilo . '">Hejmo</a>';
-        $ligilo = $indikilo;
-        $cxu = true;
-    }
-}
-
+$indikilo = akiri_bazindikilon();
+$supro_linio = krei_suprolinion();
+kalkuli();
 ?>
 
 <html>
@@ -132,3 +103,22 @@ foreach($aro as $elemento) {
             </div>
         </div>
         <div class="enhavo">
+            <?php konservi_redaktitan_enhavon(); ?>
+            <?php if(isset($_GET["redakti"])) { ?>
+                <?php $enhavo = akiri_enhavon(); ?>
+                <form method="post">
+                    <label>Redakto:</label>
+                    <br>
+                    <textarea name="redaktita_enhavo" style="width: 100%; height: 500px;"><?php echo $enhavo; ?></textarea>
+                    <br>
+                    <label>Retpoŝtadreso (malnepra):</label>
+                    <br>
+                    <textarea name="adreso" style="width: 100%; height: 20px;"></textarea>
+                    <br>
+                    <label>Komento (malnepra):</label>
+                    <br>
+                    <textarea name="komento" style="width: 100%; height: 50px;"></textarea>
+                    <br>
+                    <input type="submit" value="Sendu">
+                </form>
+            <?php } ?>

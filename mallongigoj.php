@@ -23,7 +23,7 @@
             <td>BMD</td><td>Batalmanovra defendo</td>
         </tr>
         <tr>
-            <td>DR</td><td>Domaĝoredukto</td>
+            <td>DR</td><td>Damaĝoredukto</td>
         </tr>
         <tr>
             <td>EE</td><td>Ekstraordinara ebleco</td>

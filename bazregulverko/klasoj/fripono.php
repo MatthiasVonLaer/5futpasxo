@@ -20,7 +20,7 @@
             <th>REF</th>
             <th>VOL</th>
             <th>PER</th>
-            <th>Speciale</th>
+            <th>Specife</th>
         </tr>
     </thead>
     <tbody>
@@ -191,7 +191,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la fripono. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La fripono havas sperton por ĉiuj simplaj armiloj kaj aldone por la <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#metalkapa-klabo">metalkapa klabo</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#manarbalesto">manarbalesto</a>. La fripono havas sperton por malpezaj armaĵoj sed ne por ŝildoj. </p>
+<p><b>Sperto kun armiloj kaj armaĵoj:</b> La fripono havas sperton kun ĉiuj simplaj armiloj kaj aldone kun la <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#metalkapa-klabo">metalkapa klabo</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#manarbalesto">manarbalesto</a>. La fripono havas sperton kun malpezaj armaĵoj sed ne por ŝildoj. </p>
 
 <p id="embuska-atako"><b>Embuska atako:</b> Se la fripono atakas malamikon kiu ne efike povas defendi sin, li povas per alcela bato al vivgrava korpoparto kaŭzi pli damaĝôn.</p>
 

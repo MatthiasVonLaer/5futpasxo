@@ -20,7 +20,7 @@
             <th rowspan="2">REF</th>
             <th rowspan="2">VOL</th>
             <th rowspan="2">PER</th>
-            <th rowspan="2">Speciale</th>
+            <th rowspan="2">Specife</th>
             <th class="sen-sub-linio" colspan="6">Sorĉoj por unu tago</th>
         </tr>
         <tr>
@@ -320,7 +320,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la bardo. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La bardo havas sperton por ĉiuj simplaj armiloj kaj aldone por la <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#metalkapa-klabo">metalkapa klabo</a>, <a href="../ekipajxo/#glavo-longa">glavo longa</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#vipo">vipo</a>. Bardoj povas porti malpezajn armaĵojn kaj havas sperton por ŝildoj (krom turŝildoj). Se la bardo portas malpezan armaĵon kaj ŝildon, li povas sorĉi sen ke li devas ĵeti por arkanaj sorĉfuŝoj. Se li portas mezpezan aŭ pezan armaĵon, li riskas kiel ĉiu arkana sorĉkonanto sorĉfuŝon se la sorĉo bezonas gestojn. Lia avantaĝo por malpezaj armaĵoj nur validas por sorĉoj kiujn li ricevas kiel bardo. Se li kapablas aliajn arkanajn sorĉojn per aliaj klasoj, la ŝanco por sorĉfuŝoj kalkuliĝas kiel kutime. </p>
+<p><b>Sperto kun armiloj kaj armaĵoj:</b> La bardo havas sperton kun ĉiuj simplaj armiloj kaj aldone kun la <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#metalkapa-klabo">metalkapa klabo</a>, <a href="../ekipajxo/#glavo-longa">glavo longa</a>, <a href="../ekipajxo/#rapiro">rapiro</a>, <a href="../ekipajxo/#arko-kurta">arko kurta</a> kaj <a href="../ekipajxo/#vipo">vipo</a>. Bardoj povas porti malpezajn armaĵojn kaj havas sperton kun ŝildoj (krom turŝildoj). Se la bardo portas malpezan armaĵon kaj ŝildon, li povas sorĉi sen ke li devas ĵeti por arkanaj sorĉfuŝoj. Se li portas mezpezan aŭ pezan armaĵon, li riskas kiel ĉiu arkana sorĉkonanto sorĉfuŝon se la sorĉo bezonas gestojn. Lia avantaĝo por malpezaj armaĵoj nur validas por sorĉoj kiujn li ricevas kiel bardo. Se li kapablas aliajn arkanajn sorĉojn per aliaj klasoj, la ŝanco por sorĉfuŝoj kalkuliĝas kiel kutime. </p>
 
 <table class="glita">
     <caption>Konataj sorĉoj de la bardo</caption>
@@ -388,18 +388,7 @@
 <p id="sorcxartifikoj"><b>Sorĉartifikoj:</b> La bardo lernas kvanton da sorĉartifikoj aŭ sorĉoj de la grado nul kiel indikita en la tabelo: konataj sorĉoj de la bardo. Tiuj sorĉoj efektiviĝas kiel aliaj sorĉoj. Tamen la bardo povas efektivigi ilin tiom ofte kiel li volas. </p>
 
 <p id="multflanka-prezentado"><b>Multflanka prezentado (EE):</b> Je la 2a nivelo la bardo povas elekti unu tipon de la kapableco roli. Li povas uzi sian bonon en roli anstataŭ la bonoj en la rilataj kapablecoj (vidu malsupren). Se li anstataŭigas kapablecon tiamaniere, li uzas sian tutan kapablecbonon de roli inkluzive la bono por klaskapableco. Ne gravas ĉu la anstataŭigita kapableco ne estis klaskapableco aŭ kiom rangojn la kapableco havis. Je la 6a nivelo kaj je ĉiu plia kvara nivelo la bardo povas elekti plian tipon de roli por anstataŭigi kapablecojn. </p>
-<p><b>La tipoj de roli kaj iliaj rilataj kapablecoj estas:</b> </p>
-<ul>
-    <li>blovinstrumentoj (diplomatio, interrilati kun bestoj), </li>
-    <li>danci (akrobataĵo, flugi), </li>
-    <li>kanto (blufi, ekkoni motivon), </li>
-    <li>klavaraj instrumentoj (diplomation, timigi), </li>
-    <li>komedio (blufi, timigi), </li>
-    <li>kordinstrumentoj (blufi, diplomatio), </li>
-    <li>perkutinstrumentoj (interrilati kun bestoj, timigi), </li>
-    <li>retoriko (diplomatio, ekkoni montivon), </li>
-    <li>teatro (alivesti, blufi). </li>
-</ul>
+<p><b>La tipoj de roli kaj iliaj rilataj kapablecoj estas:</b> blovinstrumentoj (diplomatio, interrilati kun bestoj), danci (akrobataĵo, flugi), kanto (blufi, ekkoni motivon), klavaraj instrumentoj (diplomation, timigi), komedio (blufi, timigi), kordinstrumentoj (blufi, diplomatio), perkutinstrumentoj (interrilati kun bestoj, timigi), retoriko (diplomatio, ekkoni montivon), teatro (alivesti, blufi). </p>
 
 <p id="scianta"><b>Scianta (EE):</b> Je la 2a nivelo la bardo iĝas rezistenta kontraŭ bardoprezentadoj de aliaj kaj kontraŭ sonefikoj ĝenerale. Li ricevas bonon +4 por savĵetoj kontraŭ bardoprezentadoj, sonatakoj kaj ligvo-rilataj efikoj. </p>
 

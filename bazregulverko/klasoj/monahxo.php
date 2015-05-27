@@ -20,7 +20,7 @@
             <th>REF</th>
             <th>VOL</th>
             <th>PER</th>
-            <th>Speciale</th>
+            <th>Specife</th>
             <th>Bono por atakhajlo</th>
             <th>Senarma damaĝo<sup>*</sup></th>
             <th>AK-bono</th>
@@ -280,9 +280,9 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la monaĥo. </p>
 
-<p><b>Sperto pri armiloj kaj armaĵoj:</b> La monaĥo havas sperton  por la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>), <a href="../ekipajxo/#jxetlanco">ĵetlanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#hakilo">hakilo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#kamao">kamao</a>, <a href="../ekipajxo/#nuncxako">nunĉako</a>, <a href="../ekipajxo/#saio">saio</a>, <a href="../ekipajxo/#sianghamo">sianghamo</a>, <a href="../ekipajxo/#sxurikenoj">ŝurikenoj</a>. </p>
+<p><b>Sperto kun armiloj kaj armaĵoj:</b> La monaĥo havas sperton  kun la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>), <a href="../ekipajxo/#jxetlanco">ĵetlanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#hakilo">hakilo</a>, <a href="../ekipajxo/#glavo-kurta">glavo kurta</a>, <a href="../ekipajxo/#kamao">kamao</a>, <a href="../ekipajxo/#nuncxako">nunĉako</a>, <a href="../ekipajxo/#saio">saio</a>, <a href="../ekipajxo/#sianghamo">sianghamo</a>, <a href="../ekipajxo/#sxurikenoj">ŝurikenoj</a>. </p>
 
-<p> Li entute ne havas sperton por armaĵoj aŭ ŝildoj. </p>
+<p> Li entute ne havas sperton kun armaĵoj aŭ ŝildoj. </p>
 
 <p> Se monaĥo portas armaĵojn aŭ ŝildojn aŭ portas pli ol malpezan ŝarĝon, li perdas sian armaĵklasan bonon, sian rapidan moviĝon kaj la atakhajlon. </p> 
 

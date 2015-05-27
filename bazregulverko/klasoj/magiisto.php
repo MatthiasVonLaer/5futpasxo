@@ -17,7 +17,7 @@
             <th rowspan="2">REF</th>
             <th rowspan="2">VOL</th>
             <th rowspan="2">PER</th>
-            <th rowspan="2">Speciale</th>
+            <th rowspan="2">Specife</th>
             <th colspan="10">Sorĉoj por unu tago</th>
         </tr>
         <tr>

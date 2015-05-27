@@ -34,6 +34,7 @@ sub legi_dosieron() {
     while(<DOSIERO>) {
         s/&times;/x/g;
         s/&nbsp;/ /g;
+        s/&frac12;/1\/2/g;
         s/<\/td>/ ; /g;
         s/<\?php.*\?>/ /g;
         s/<[^>]*>/ /g;

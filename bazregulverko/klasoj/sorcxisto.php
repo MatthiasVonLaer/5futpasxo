@@ -20,7 +20,7 @@
             <th rowspan="2">REF</th>
             <th rowspan="2">VOL</th>
             <th rowspan="2">PER</th>
-            <th rowspan="2">Speciale</th>
+            <th rowspan="2">Specife</th>
             <th colspan="9">Sorĉoj por unu tago</th>
         </tr>
         <tr>
@@ -413,7 +413,7 @@
 
 <p> La sorĉisto havas la sekvantajn klasajn karakterizaĵojn. </p>
 
-<p> <b>Sperto pri armiloj kaj armaĵoj:</b> La sorĉisto estas sperta por ĉiuj simplaj armiloj. Li ne havas sperton por armaĵoj aŭ ŝildoj. Ĉiu tipo de armaĵo malhelpas al la moviĝo de la sorĉisto kio povas kaŭzi ke sorĉoj kun gestoj povas malsukcesi (vidu arkanaj sorĉoj kaj armaĵoj). </p>
+<p> <b>Sperto kun armiloj kaj armaĵoj:</b> La sorĉisto estas sperta kun ĉiuj simplaj armiloj. Li ne havas sperton kun armaĵoj aŭ ŝildoj. Ĉiu tipo de armaĵo malhelpas al la moviĝo de la sorĉisto kio povas kaŭzi ke sorĉoj kun gestoj povas malsukcesi (vidu arkanaj sorĉoj kaj armaĵoj). </p>
 
 <p id="sorcxoj"><b>Sorĉoj:</b> La sorĉisto majstras arkanajn sorĉojn, kiujn li elektas plejparte el la sorĉlisto por magiistoj / sorĉistoj kiu troveblas en la ĉapitro <a href="../sorcxlistoj">Sorĉlistoj</a>. Li povas efektivigi ĉiun sorĉon kiun li konas sen prepari ĝin. Por lerni aŭ apliki sorĉon, la sorĉisto devas havi minimume karismon de 10 + la grado de la sorĉo. La malfacilecgrado por la savĵetoj kontraŭ sorĉoj de la sorĉisto estas 10 + sorĉgrado + KAR-bono de la sorĉisto. </p>
 
