@@ -1837,7 +1837,7 @@
 <p> Vi povas elingigi vian armilon pli rapide ol kutime.</p>
 <p> <b>Kondiĉo:</b> Bazataka bono +1</p>
 <p> <b>Avantaĝo:</b> Vi povas nudigi vian armilon per libera ago anstataŭ per movago. Kaŝitajn armilojn (vidu kapablecon fingrolerteco) vi povas nudigi per movago. Roluloj kun tiu talento povas ĵeti sian armilon al celo per ĝia plena atakbono (same kiel rolulo kun arko). </p>
-<p> Alĥemiaj objektoj, trinkaĵoj, skribruloj kaj sorĉbastonetoj ne povas esti rapide nudigitaj per tiu talento. </p>
+<p> Alĥemiaj objektoj, trinkaĵoj, skribaĵoruloj kaj sorĉbastonetoj ne povas esti rapide nudigitaj per tiu talento. </p>
 <p> <b>Kutime:</b> Sen tiu talento vi povas nudigi armilon per movago aŭ (se via bazatako bono estas minimume +1) per libera ago parte de via moviĝo. Sen tiu talento vi povas nudigi kaŝitan armilon per bazago. </p>
 
 <h3 id="rapide-resxargi">Rapide reŝargi [batalo]</h3>

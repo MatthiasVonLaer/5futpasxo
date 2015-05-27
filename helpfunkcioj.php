@@ -65,6 +65,6 @@ function krei_suprolinion()
 
 function kalkuli()
 {
-    file_put_contents(__DIR__ . "/kalkulo/" . date("Y_m_d"), "X", FILE_APPEND);
+    file_put_contents(__DIR__ . "/kalkulo/" . date("Y_m_d"), $_SERVER['REQUEST_URI'] . "\n", FILE_APPEND);
 }
 ?>
