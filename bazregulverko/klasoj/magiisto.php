@@ -404,7 +404,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la magiisto. </p>
 
-<p><b>Sperto kun armiloj kaj armaĵoj:</b> La magiisto havas sperton kun la arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>), ... Ĉiu speco de armaĵo malhelpas la moveblon de la magiisto kio povas kaŭzi ke sorĉoj kun gesta komponanto fuŝas (vidu arkanaj sorĉoj kaj armaĵoj). </p>
+<p><b>Sperto kun armiloj kaj armaĵoj:</b> La magiisto havas sperton kun la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a> kaj arbalestoj (<a href="../ekipajxo/#arbalesto-legxera">malpeza</a> kaj <a href="../ekipajxo/#arbalesto-peza">peza</a>) Ĉiu speco de armaĵo malhelpas la moveblon de la magiisto kio povas kaŭzi ke sorĉoj kun gesta komponanto fuŝas (vidu arkanaj sorĉoj kaj armaĵoj). </p>
 
 <p><b>Sorĉoj:</b> La magiisto scipovas efektivigi arkanajn sorĉojn kiujn li elektas de la sorĉlisto por sorĉisto / magiisto. La magiisto devas elekti siajn sorĉojn kaj prepari ilin. Por lerni kaj prepari sorĉon, la magiisto devas havi inteligentecon de minimume 10 + grado de la sorĉo. La malfacilecgrado por la savĵeto kontraŭ la sorĉo de la magiisto estas 10 + grado de la sorĉo + INT-modifilo de la magiisto. </p>
 <p> La magiisto nur povas efektivigi certan kvanton da sorĉoj ĉiutage. La nombro da sorĉoj por ĉiu tago estas indikitaj en la supra tabelo. Aldone la magiisto ricevas kromaj sorĉoj ĉiutage se li havas altajn inteligenteco-valorojn (vido paragrafon: <a href="../ekludi/#atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</a>). </p>
@@ -432,7 +432,9 @@
 <p id="sorcxolibroj"><b>Sorĉolibroj:</b> La magiisto devas ĉiutage studi sian sorĉolibron por prepari siajn sorĉojn. Li ne povas prepari sorĉojn kiuj ne estas en lia sorĉolibro krom legi magion kiun li ĉiam povas prepari. </p>
 <p> La magiisto komencas la ludon kun sorĉolibro kiu enhavas ĉiujn sorĉartifikojn (krom tiuj de malpermesataj skoloj). Li ricevas tri sorĉojn de la unua grado kaj aldone unu plia de la unua grado por ĉiu poento de sia inteligentecobono. Je la altiĝo al nova nivelo li ricevas du novajn sorĉojn. Tiuj povas esti de ĉiu grado kiun li povas uzi (rilate al la nova nivelo). La magiisto povas ĉiam kopii sorĉojn de aliaj magiistoj al sia sorĉolibro. </p>
 
-<h2>Intimulo</h2>
+<h2 id="arkanaj-skoloj" class="tradukinda">Arkanaj skoloj</h2>
+
+<h2 id="intimulo">Intimulo</h2>
 <p>Intimulo estas besto kiu estas elektita de magiisto por helpi lin ĉe liaj studadoj. Ĝi gardas sian aspekton, siaj vivpoentoj, sian bazatakan bonon, siajn bazajn bonojn por savĵetoj, kapablecojn kaj talentojn de besto kiun ĝi estis. Tamen la intimulo estas traktita kiel magia besto por ĉiuj efikoj kiuj dependas de la bestospeco. Nur normala, neŝanĝita besto povas iĝi intimulo. Bestkunulo ne povas samtempe esti intimulo. </p>
 <p> La majstro de la intimulo ricevas specifajn eblecojn de la intimulo kiel estas indikita en malsupra tabelo. </p>
 <p> La niveloj de diversaj klasoj kiuj ricevas intimulon sumiĝas por determini la eblecojn de la intimulo kiuj dependas de la nivelo de la majstro. </p>
@@ -450,9 +452,9 @@
         <tr><td>Falko</td><td>La majstro ricevas bonon +3 por perceptoĵetoj en taga lumo kiuj dependas de vido.</td></tr>
         <tr><td>Kato</td><td>La majstro ricevas bonon +3 por sekreteco.</td></tr>
         <tr><td>Korvo<sup>*</sup></td><td>La majstro ricevas bonon +3 por taksi.</td></tr>
+        <tr><td>Lacerto</td><td>La majstro ricevas bonon +3 por grimpi.</td></tr>
         <tr><td>Mustelo</td><td>La majstro ricevas bonon +2 por refleksĵetoj.</td></tr>
         <tr><td>Rato</td><td>La majstro ricevas bonon +2 por persistecoĵetoj.</td></tr>
-        <tr><td>Reptilo</td><td>La majstro ricevas bonon +3 por grimpi.</td></tr>
         <tr><td>Simio</td><td>La majstro ricevas bonon +3 por akrobataĵo.</td></tr>
         <tr><td>Strigo</td><td>Ĉe mallumo aŭ krepuska lumo la majstro ricevas bonon +3 por konkuraj perceptoĵetoj kiuj dependas de vido.</td></tr>
         <tr><td>Vesperto</td><td>La majstro ricevas bonon +3 por flugi.</td></tr>
@@ -460,5 +462,51 @@
     </tbody>
 </table>
 
+<h3>La valoroj de la intimulo</h3>
+<p>La bazo estas la valoroj de la rilata besto kiel indikita en la manlibro de monstroj kun la sekvantaj ŝanĝoj. </p>
+<p><b>Vivkubetoj:</b> Por efikoj kiuj dependas de la vivkubetoj validas la nivelo de la majstro aŭ la vivkubetoj de la besto, kiu ajn estas pli alta. </p>
+<p><b>Vivpoentoj:</b> La vivpoentoj egalas al la duono de la vivpoentoj de la mastro (rondigita malsupren) sendepende de la vivkubetoj de la besto (krom portempaj vivpoentoj). </p>
+<p><b>Atakoj:</b> Estas uzata la bazataka bono de la majstro de ĉiuj liaj klasoj. La pli alta bono de forto kaj lerteco aldoniĝas kiel ataka bono por naturaj armiloj de la intimulo. La damaĝo egalas al normala damaĝo de la besto. </p>
+<p><b>Savĵetoj:</b> Por savĵetoj uzeblas aŭ la baza bono de la intimulo (REF +2, VOL 0, PER +2) aŭ tiu de la majstro (de ĉiuj liaj klasoj) kiu ajn estas pli bona. Al tio aldoniĝas la rilataj atributmodifiloj de la intimulo. Aliaj bonoj kiujn povas havi la majstro al siaj savĵetoj ne aplikeblas por la intimulo. </p>
+<p><b>Kapablecoj:</b> Por ĉiu kapableco en kiu aŭ la majstro aŭ la intimulo havas rangojn la pli bona rango estas uzata. Tamen la intimulo devas uzi siajn proprajn atributmodifilojn. Sendepende de la kapablecmodifiloj estas kelkaj kapablecoj kiujn la intimulo neniam scipovos. Intimuloj havas kiel klaskapablecoj: akrobataĵo, flugi, grimpi, naĝi, percepto, sekreteco. </p>
 
+<h3>Eksterordinaraj eblecoj de la intimulo</h3>
+<p> Ĉiuj intimuloj havas eksterordinarajn eblecojn aŭ donas ilin al sia majstro kiuj dependas de la niveloj de ĉiuj klasoj de la majstro kiuj havas intimulon. Vidu la sekvantan tabelon. Ĉiuj eblecoj estas akumulaj. </p>
+
+<table>
+    <thead>
+        <tr><th>Nivelo de majstro</th><th>Bono por natura AK<sup>1</sup></th><th>IN<sup>2</sup></th><th>Specife</th></tr>
+    </thead>
+    <tfoot>
+        <tr><td colspan="4"><sup>1</sup> Natura armaĵo: La bono aldoniĝas al la jam ekzistanta natura armaĵo de la intimulo.</td></tr>
+        <tr><td colspan="4"><sup>2</sup> La inteligentecvaloro de la intimulo.</td></tr>
+    </tfoot>
+    <tbody>
+        <tr><td>1-2</td><td>+1</td><td>6</td><td><a href="#vigleco">Vigleco</a>, <a href="#sinsavi-progresita">Sinsavi progresita</a>, <a href="#kunsenta-ligo">Kunsenta ligo</a>, <a href="#kundividi-sorcxojn">Kundividi sorĉojn</a></td></tr>
+        <tr><td>3-4</td><td>+2</td><td>7</td><td><a href="#transdoni-tusxsorcxon">Transdoni tuŝsorĉon</a></td></tr>
+        <tr><td>5-6</td><td>+3</td><td>8</td><td><a href="#paroli-kun-la-majstro">Paroli kun la majstro</a></td></tr>
+        <tr><td>7-8</td><td>+4</td><td>9</td><td><a href="#paroli-kun-bestoj-de-sia-speco">Paroli kun bestoj de sia speco</a></td></tr>
+        <tr><td>9-10</td><td>+5</td><td>10</td><td>-</td></tr>
+        <tr><td>11-12</td><td>+6</td><td>11</td><td><a href="#sorcxrezisto">Sorĉrezisto</a></td></tr>
+        <tr><td>13-14</td><td>+7</td><td>12</td><td><a href="#spioni-intimulon">Spioni intimulon</a></td></tr>
+        <tr><td>15-16</td><td>+8</td><td>13</td><td>-</td></tr>
+        <tr><td>17-18</td><td>+9</td><td>14</td><td>-</td></tr>
+        <tr><td>19-20</td><td>+10</td><td>15</td><td>-</td></tr>
+    </tbody>
+</table>
+
+<p><b>Natura armaĵo:</b> Tiu valoro indikas la plifortikon de la natura armaĵo de la intimulo. </p>
+<p id="vigleco"><b>Vigleco (EE):</b> Tiam kiam la intimulo estas en la ĉirkaŭaĵo de unu brakolongeco de la majstro, li ricevas la talenton vigleco. </p>
+<p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Se la intimulo estas atakata tiel ke ĝi rajtas fari refleksĵeton por duonigi la damaĝon, tiam ĝi ricevas neniun damaĝon se ĝi sukcesas. Sed se ĝi malsukcesas ĝi ricevas nur duonon de la damaĝo. </p>
+<p id="kundividi-sorcxojn"><b>Kundividi sorĉojn:</b> La majstro povas efektivigi ĉiun sorĉon kun la celo (vi) al la intiumulon anstataŭ al si mem. </p>
+<p id="kunsenta-ligo"><b>Kunsenta ligo:</b> La majstro havas kunsentan ligon al sia intimulo en la distanco de 1,5 km. La majstro ne povas vidi per la okuloj de la intimulo sed li povas komunikiĝi kunsente kun sia intimulo. Pro la limigata ligo ili nur povas komuniki ĝeneralajn sentojn. Kiel rezulto la majstro havas la saman rilaton al objekto aŭ loko kiel sia intimulo. Se la intimulo vidis lokon, estus kiel la majstro ankaŭ vidis ĝîn. </p>
+<p id="transdoni-tusxsorcxon"><b>Transdoni tuŝsorĉon (SNE):</b> Ekde la majstro atingis la 3an nivelon, la intimulo povas transdoni tuŝsorĉon por li. Se la majstro kaj la intimulo estas en fizika kontakto kiam la sorĉo efektiviĝas, la majstro povas elekti la intimulon kiel tuŝanto. La intimulo transdonas la sorĉon ekzakte tiel kiel la majstro povas fari tion. Kiel kutime la sorĉo nuliĝas se la majstro efektivigas alian sorĉon antaŭ la tuŝsorĉo estas transdonita. </p>
+<p id="paroli-kun-la-majstro"><b>Paroli kun la majstro (EE):</b> Ekde la 5a nivelo de la majstro, li kaj lia intimulo povas parole komunikiĝi tiel kiel ili havus komunan lingvon. Aliaj estaĵoj ne povas kompreni tion sen magia helpo. </p>
+<p id="paroli-kun-bestoj-de-sia-speco"><b>Paroli kun bestoj de sia speco (EE):</b> Se la majstro atingis la 7an nivelon, lia intimulo povas komunikiĝi kun bestoj de ĉirkaŭ la sama speco (inkluzive teruraj variantoj) vespertoj kun vespertoj, katoj kun katsimilaj, falkoj, strigoj, korvoj kun birdoj, lacertoj kaj viperoj kun reptiloj, bufoj kun amfibioj, musteloj kun musteledoj. La komunikiĝo estas limigita de la inteligenteco de la partoprenantaj bestoj. </p>
+<p id="sorcxrezisto"><b>Sorĉrezisto (EE):</b> Se la majstro atingas la 11an nivelon, la intimulo ricevas sorĉreziston kiu egalas al la nivelo de lia majstro + 5. Por efektivigi sorĉon al la intimulon la sorĉanto devas fari sorĉĵeton (1k20 + lia sorĉnivelo). Se la rezulto estas egala aŭ pli granda ol la sorĉrezisto, la sorĉo sukcesas. </p>
+<p id="spioni-intimulon"><b>Spioni intimulon (SSE):</b> Se la majstro atingas la 13an nivelon, li povas unufoje tage efektivigi la sorĉon spioni al sia intimulo. </p>
+
+<h2>Arkanaj sorĉoj kaj armaĵoj</h2>
+<p>Armaĵoj malhelpas la komplikajn gestojn kiujn devas fari magiisto por efektivigi sorĉon kun gesta komponanto. En la priskribo de armiloj kaj armaĵoj la probablecoj por sorĉfuŝoj estas listigitaj. </p>
+<p>Se sorĉo ne havas gestajn komponantojn, ĝi efektiviĝas sen probableco por sorĉfuŝo. Tiuj sorĉoj eĉ povas esti efektivigataj kiam la manoj de la magiisto estas en katenoj aŭ li estas luktanta (tamen necesas koncentriĝoĵetoj). La metamagia talento sorĉi sen gestoj permesas sorĉi sorĉon sen gesta komponanto anstataŭ sorĉo de grado kiu estas unu pli alta. Tiel oni povas efektivigi sorĉon kun gestaj komponantoj kiam oni portas armaĵon sen la danĝero fari sorĉfuŝon. </p>
 <?php require '../../pagxpiedo.php' ?>

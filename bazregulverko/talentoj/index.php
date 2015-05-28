@@ -2,9 +2,9 @@
 
 <title>Talentoj</title>
 
-<h2>Talentdeskribo</h2>
+<h2>Talentpriskribo</h2>
 
-<p> Talentoj estas listigitaj en la sekvanta tabelo. Atentu ke la kondiĉoj kaj avantaĝoj aperas en mallonga formo. En la talentdeskribo vi trovas la kompletajn detalojn.</p>
+<p> Talentoj estas listigitaj en la sekvanta tabelo. Atentu ke la kondiĉoj kaj avantaĝoj aperas en mallonga formo. En la talentpriskribo vi trovas la kompletajn detalojn.</p>
 
 <p> La talentoj estas prezentataj laŭ la sekvanta formato: </p>
 
@@ -12,7 +12,7 @@
 
 <p> <b>Kondiĉoj:</b> Tiu paragrafo klarigas kiuj antaŭkondiĉoj estas bezonataj. Tio povas esti minimuma atributvaloro, unu aŭ pluraj aliaj talentoj, minimuma bazataka bono, minimuma kvanto da rangoj en unu aŭ pluraj kapablecoj, kaj tiel plu. Se talento ne havas kondiĉojn, tiu paragrafo malestas. Talento povas havi plurajn kondiĉojn. </p>
 
-<p> <b>Avantaĝo:</b> Klarigas kiel la talento utilas al la rolulo. La avantaĝoj de la talento nur estas akumulaj se la deskribo mencias tion. </p>
+<p> <b>Avantaĝo:</b> Klarigas kiel la talento utilas al la rolulo. La avantaĝoj de la talento nur estas akumulaj se la priskribo mencias tion. </p>
 
 <p> <b>Kutime:</b> Priskribas la restriktojn kiuj validas por roluloj sen tiu talento. Se la nehavo de la talento ne signifas specialan malavantaĝon, tiu paragrafo ne estas.
 
@@ -107,7 +107,7 @@
             <td>atakoj ignoras 10 poentojn de damaĝoredukto</td>
         </tr>
         <tr>
-            <td><a href="#armoruzeco">Armoruzeco</a><sup>*</sup></td>
+            <td><a href="#armiloruzeco">Armiloruzeco</a><sup>*</sup></td>
             <td>-</td>
             <td>LER-modifilo anstataŭ FOR-modifilo ĉe atakĵetoj per malpeza armilo</td>
         </tr>
@@ -882,7 +882,7 @@
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĉiuj damaĝoĵetoj de la elektita armilo. Tiu bono validas aldone al aliaj bonoj de damaĝoĵetoj precipe al tiuj de armilospecialiĝo.</p>
 <p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko tamen ne estas akumula. Ĉiufoje kiam vi elektas la talenton, ĝi aplikiĝas al alia armilo.</p>
 
-<h3 id="armoruzeco">Armoruzeco [batalo]</h3>
+<h3 id="armiloruzeco">Armiloruzeco [batalo]</h3>
 <p> Vi estas trajnita por uzi vian lerteco anstataŭ pura forto en la batalo.</p>
 <p> <b>Avantaĝo:</b> Se vi uzas malpezan armilon, <a href="../ekipajxo/#rapiro">rapiron</a>, <a href="../ekipajxo/#sabro-elfa">sabron elfan</a>, <a href="../ekipajxo/#vipo">vipon</a> aŭ <a href="../ekipajxo/#kateno-najlita">katenon najlitan</a> kiu kongruas al la grandeco de via rolulo, vi povas aldoni anstataŭ la forto modifilo vian lertecomodifilon al viaj atakĵetoj. Se vi portas ŝildon, ties armaĵomalbono aldoniĝas al viaj atakĵetoj.</p>
 <p> <b>Specife:</b> Naturaj armiloj kalkuliĝas ĉiam kiel malpezaj armiloj. </p>
@@ -1460,7 +1460,7 @@
     </tbody>
 </table>
 
-<p> <b>Valoro por gvidi:</b> Via baz valoro por gvidi egalas al vi nivelo + vi KAR-modifilo. Por tre malaltaj karismaj valoroj la tabelo ankaŭ montras tre malaltajn valorojn por gvidi. Tamen vi devas esti almenaŭ en la 7a nivelo por elekti la talenton gvidi. Kromaj kaŭzoj povas modifi vian valoron por gvidi kiel deskribata antaŭe.</p>
+<p> <b>Valoro por gvidi:</b> Via baz valoro por gvidi egalas al vi nivelo + vi KAR-modifilo. Por tre malaltaj karismaj valoroj la tabelo ankaŭ montras tre malaltajn valorojn por gvidi. Tamen vi devas esti almenaŭ en la 7a nivelo por elekti la talenton gvidi. Kromaj kaŭzoj povas modifi vian valoron por gvidi kiel priskribata antaŭe.</p>
 <p> <b>Nivelo de sekvanto:</b> Vi povas gajni unu sekvanton por vi kiu havas maksimume tiun nivelon. Sendepende de via valoro por gvidi vi nur povas varbi sekvanton kies nivelo estas minimume du niveloj sub via nivelo. La sekvanto devus esti ekipita per ekipaĵo kiu kongruas al lia nivelo (vidu la ĉapitron <a href="../gvidi_la_ludon">Gvidi la ludon</a>). La sekvanto povas aparteni al ĉiu popolo kaj al ĉiu klaso. La pensmaniero de la sekvanto rajtas esti mala ne sur la akso laŭleĝa-ĥaosa nek sur la akso bona-malbona. Se vi rekrutas sekvanton kiu ne havas vian pensmanieron vi ricevas malbonon -1 por via valoro por gvidi. </p>
 <p> La sekvanto ne kalkuliĝas kiel grupmembro, se la spertpoentoj estas kalkulata por la grupo. Anstataŭe dividu la nivelon de via sekvanto per via nivelo. Multipliki tion per la spertpoentoj kiujn vi ricevas kaj aldonu tion al la spertpoentoj de via sekvanto. </p>
 <p> Kiam la sekvanto havas sufiĉe da spertpoentoj por altiĝi al nivelo sub via propra nivelo, li ne altiĝas. Anstataŭe liaj spertpoentoj stagnas je unu malpli ol necesas por altiĝi.</p>
@@ -1557,7 +1557,7 @@
 <h3 id="kontrauxsorcxo-progresita">Kontraŭsorĉo progresita</h3>
 <p> Vi havas sperton por superi sorĉojn de aliaj per similaj sorĉoj.</p>
 <p> <b>Avantaĝo:</b> Se vi efektivigas kontraŭsorĉon, vi povas elekti iun sorĉon de sama skolo kiu havas pli altan gradon. </p>
-<p> <b>Kutime:</b> Sen tiu talento vi nur povas kontraŭsorĉi per sama sorĉo aŭ sorĉo kiu estas deskribita kiel kontraŭsorĉo por la celsorĉo. </p>
+<p> <b>Kutime:</b> Sen tiu talento vi nur povas kontraŭsorĉi per sama sorĉo aŭ sorĉo kiu estas priskribita kiel kontraŭsorĉo por la celsorĉo. </p>
 
 <h3 id="kritika-trafo-fokuso">Kritika trafo fokuso [batalo]</h3>
 <p> Vi havas sperton kaŭzi dolorojn. </p>

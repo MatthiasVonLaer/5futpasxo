@@ -69,7 +69,7 @@
 
 <p><b>Nivelo:</b> La nivelo reprezentas la potencon de rolulo. Estas du niveltipoj. La klasnivelo indikas kiom da niveloj la rolulo havas en certa klaso. La rolulnivelo estas la sumo de ĉiuj klasniveloj kiujn la rolulo posedas en ĉiuj siaj klasoj. </p>
 
-<p><b>Pensmaniero (PM):</b> La pensmaniero deskribas la bazajn moralajn kaj etikajn ideojn de iu kreaĵo. Ĉiu pensmaniero konsistas el du komponantoj. Unu komponanto indikas ĉu la rolulo estas laŭleĝa, neŭtrala aŭ ĥaosa. La alia sekvanta komponanto indikas ĉu la rolulo estas bona, neŭtrala aŭ malbona. Pensmanieroj mallongiĝas per la unua litero de ambaŭ komponantoj, ekzemple LN por laŭleĝa neŭtrala aŭ ĤM por ĥaosa malbona. Kreaĵoj kiuj estas ambaŭmaniere neŭtralaj estas indikataj per N.</p>
+<p><b>Pensmaniero (PM):</b> La pensmaniero priskribas la bazajn moralajn kaj etikajn ideojn de iu kreaĵo. Ĉiu pensmaniero konsistas el du komponantoj. Unu komponanto indikas ĉu la rolulo estas laŭleĝa, neŭtrala aŭ ĥaosa. La alia sekvanta komponanto indikas ĉu la rolulo estas bona, neŭtrala aŭ malbona. Pensmanieroj mallongiĝas per la unua litero de ambaŭ komponantoj, ekzemple LN por laŭleĝa neŭtrala aŭ ĤM por ĥaosa malbona. Kreaĵoj kiuj estas ambaŭmaniere neŭtralaj estas indikataj per N.</p>
 
 <p><b>Rondo:</b> La batalo dividiĝas en rondoj. Dum unu rondo ĉiuj kreaĵoj havas la ŝancon por agi laŭ la ordo de iliaj iniciatoj. Unu rondo egalas al ĉirkaŭ 6 sekundoj en la ludmondo. </p>
 
@@ -85,7 +85,7 @@
 
 <p><b>Spertpoentoj (SP):</b> Kiam rolulo superas defiojn, venkas monstrojn kaj finsukcesas aventurojn, li ricevas spertpoentojn. Kiam ili superas difinitan valoron, la rolulo altiĝas en sia nivelo.</p>
 
-<p><b>Supernaturaj eblecoj (SNE):</b> Supernaturaj eblecoj estas atakmanieroj, defendmanieroj aŭ aliaj magiaj ecoj. Povas esti ke tiuj eblecoj estas ĉiam aktivaj aŭ ke ili devas esti aplikata per speciala ago. Ĉe la deskriboj de la agoj estas indikita kiun efikon ili havas kaj kiel oni aplikas ilin </p>
+<p><b>Supernaturaj eblecoj (SNE):</b> Supernaturaj eblecoj estas atakmanieroj, defendmanieroj aŭ aliaj magiaj ecoj. Povas esti ke tiuj eblecoj estas ĉiam aktivaj aŭ ke ili devas esti aplikata per speciala ago. Ĉe la priskriboj de la agoj estas indikita kiun efikon ili havas kaj kiel oni aplikas ilin </p>
 
 <p><b>Talento:</b> Talento estas sperto aŭ ebleco kiun la kreaĵo majstras. Talentoj ofte ebligas ĉirkaŭiri certajn regulojn aŭ restriktojn. Kutime la kreaĵo ricevas siajn talentojn rilate al siaj vivkubetoj. Tamen ankaŭ estas klasoj aŭ certaj eblecoj kiuj donas kromajn talentojn. </p>
 
@@ -101,12 +101,64 @@
 <ul>
     <li><b>1a paŝo - Krei atributvalorojn:</b> Komence vi kalkulas la atributvalorojn (vidu <a href="#elkalkuli-atributvalorojn">Elkalkuli atributvalorojn</a>). Tiuj ses valoroj estas la plej bazaj atributoj de via rolulo kaj gravas por multaj pliaj detaloj de via rolulo. Kelkaj klasoj postulas grandajn certajn atributvalorojn por certaj eblecoj. </li>
     <li><b>2a paŝo - Elektu popolon:</b> Poste vi elektas popolon por via rolulo. Notu la modifilojn por atributvaloroj kaj aliajn popolkarakterizaĵojn (vidu <a href="../popoloj/">Popoloj</a>). Estas sep bazaj popoloj inter kiuj vi povas elekti. Via ludgvidanto tamen povas eventuale aldoni pliajn popolojn. Ĉe ĉiu popolo estas indikita la lingvoj kiujn via rolulo aŭtomate konas kiel kelkaj kromaj lingvoj. La rolulo konas tiom da kromaj lingvoj kiom egalas al lia inteligentecomodifilo.</li>
+    <li><b>3a paŝo - Elektu klason:</b> Kiam vi elektis popolon, estas tempo por elekti la rolulklason (vidu ĉapitro <a href="../klasoj">klasoj</a>). La klasoj reprezentas profesion kiel ekzemple batalisto aŭ magiisto. Kiam vi kreas novan rolulon, li komencas je la 1a nivelo. Kiam li akiras spertpoentojn ekzemple por venki monstrojn, li altiĝas je niveloj kaj ricevas novajn fortojn kaj eblecojn. Depende de la klaso povas esti ke li tiam devas fari decidojn, ekzemple elekti novajn sorĉojn. </li>
+    <li><b>4a paŝo - Elektu kapablecojn kaj elserĉu talentojn:</b> Poste vi devas kalkuli kiom da kapablecrangoj via rolulo posedas. Tio dependas de lia klaso kaj lia inteligentecmodifilo (kaj kelkaj aliaj bonoj kiel ekzemple la bonoj kiujn homoj ricevas). Poste vi povas dismeti tiujn rangojn al la kapablecoj. Memoru ke vi ne rajtas havi pli da rangoj en unu kapableco ol via rolulo havas nivelojn (ĉe nova rolulo tio kutime estas 1 rango). Post vi elektis viajn kapablecojn vi donas talentojn al via rolulo. Tiuj dependas de lia klaso kaj nivelo. Vi povas elekti talentojn el la listo en ĉapitro <a href="../talentoj">talentoj</a>. </li>
+    <li><b>5a paŝo - Aĉetu ekipaĵon:</b> Ĉiu nova rolulo komencas la ludon kun certa kvanto da moneroj oraj kio dependas de lia klaso. Tio mono povas esti elspezita por diversaj ekipaĵoj, komence de ĉena armaĵo ĝis leda dorsosako. Tiu ekipaĵo helpos vian rolulon dum venontaj aventuroj. Kutime vi ne rajtas aĉeti magiajn objektojn per la komenca mono se via ludgvidanto ne speciale permesas tion. </li>
+    <li><b>6a paŝo - La lastaj detaloj:</b> Fine vi determinas la lastajn valorojn kaj ecojn de via rolulo. Liaj vivpoentoj (VP), lia armaĵklaso (AK), liaj savĵetoj, lia iniciatomodifilo kaj liaj atakvalorojn. Ĉiuj tiuj valoroj estas influitaj de la decidoj kiujn vi faris en la pasintaj paŝoj. Krome vi nur devas elpensi nomon kaj pensmanieron por via rolulo kaj difini kiel aspektas via rolulo. Plejbone vi ankaŭ notas kelkajn trajtojn de via rolulo por ke vi pli bone povu roli lin. Aldonaj reguloj troveblas en la ĉapitro <a href="../pliaj_reguloj">pliaj reguloj</a>. </li>
 </ul>
 
 <h2>Atributvaloroj</h2>
+<p>Ĉiu rolulo havas ses atributvalorojn kiuj priskribas liajn plej bazajn ecojn. Ili reprezentas liajn fundamentajn kompetentecojn kaj eblecojn. La rolulo nur malofte faras kuboĵeton nur sur lia atributvaloro. Tamen tiuj valoroj kaj iliaj rilataj modifiloj influas preskaŭ ĉiun kapablecon kaj eblecon de la rolulo. Atributvaloroj estas kutime etendiĝas de 3 al 18, tamen popolbonoj aŭ -malbonoj povas ŝanĝi tion. Mezkvantaj valoroj egalas al 10. </p>
+
 <h3 id="elkalkuli-atributvalorojn">Elkalkuli atributvalorojn</h3>
+<p>Estas diversaj metodoj por elkalkuli atributvalorojn. Ĉiu el tiuj metodoj ebligas malsaman gradon de fleksebleco kaj hazardeco de la kreado de roluloj. Apliku la popolmodifiloj (vidu <a href="../popoloj">popoloj</a>) post elkalkulo de atributvaloroj. </p>
+<p><b>Klasika:</b> Ĵetu 3k6 kaj sumigu la rezultojn de kubetoj. Notu la rezulton kaj ripetu tion ĝis vi havas ses valorojn. Ordigu tiujn valorojn al atributoj laŭ via elekto. Tiu metodo estas tre hazarda kaj kelkaj roluloj havos tre superajn atributojn. Tiu hazardeco povas esti eĉ pli granda, se vi ordigas la rezultojn al la atributoj laŭvice. Roluloj kiuj estas kreataj tiamaniere nur povas esti kreataj post la elkalkulo de atributvaloroj. </p>
+<p><b>Normala:</b> Ĵetu 4k6 kaj sumigu la tri plej altajn rezultojn. Notu la rezulton kaj ripetu tion sesfoje. Ordigu la rezultojn al atributoj laŭ via prefero. Tiu metodo estas malpli hazarda ol la klasika. Roluloj kreitaj per tiu metodo inklinas al supermezkvantaj atributoj. </p>
+<p><b>Heroa:</b> Ĵetu 2k6 kaj aldonu 6 al la rezultoj de kubetoj. Notu la rezulton kaj ripetiu tion ĝis vi havas ses valorojn. Ordigu la rezultojn al atributoj laŭ via prefero. Tiu metodo kreas rolulojn kun plejparte supermezkvantaj atributoj. </p>
+
+<table class="glita">
+    <caption>Altigaj poentoj</caption>
+    <thead>
+        <tr><th>Stilo de aventuro</th><th>Altigaj poentoj</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>Malalta fantasto</td><td>10</td></tr>
+        <tr><td>Kutima fantasto</td><td>15</td></tr>
+        <tr><td>Alta fantasto</td><td>20</td></tr>
+        <tr><td>Epika fantasto</td><td>25</td></tr>
+    </tbody>
+</table>
+
+<table class="glita">
+    <caption>Kostoj de altigaj poentoj por&nbsp;atributŝanĝoj</caption>
+    <thead>
+        <tr><th>Valoro</th><th>Altigaj poentoj</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>7</td><td>-4</td></tr>
+        <tr><td>8</td><td>-2</td></tr>
+        <tr><td>9</td><td>-1</td></tr>
+        <tr><td>10</td><td>0</td></tr>
+        <tr><td>11</td><td>1</td></tr>
+        <tr><td>12</td><td>2</td></tr>
+        <tr><td>13</td><td>3</td></tr>
+        <tr><td>14</td><td>5</td></tr>
+        <tr><td>15</td><td>7</td></tr>
+        <tr><td>16</td><td>10</td></tr>
+        <tr><td>17</td><td>13</td></tr>
+        <tr><td>18</td><td>17</td></tr>
+    </tbody>
+</table>
+
+<p><b>Aĉeto:</b> Ĉiu rolulo ricevas kvanton de tiel nomataj plialtigaj poentoj. Tiuj povas esti uzataj por altigi siajn atributvalorojn. Ĉe tiu ĉi metodo ĉiuj atributoj havas komencan valoron 10. Ĉiu atributvaloro povas esti altigata per elspezo de altigaj poentoj. Same vi povas akiri altigajn poentojn se vi malaltigas viajn komencajn atributvalorojn. Per tiu metodo neniu valoro rajtas esti malaltigata sub 7 kaj altigata super 18. Vidu la tableon "kostoj de altigaj poentoj por atributŝanĝoj". Post ĉiuj altigaj poentoj estas elspezitaj, la popolbonoj estas aplikataj. <p>
+<p>La kvanto da altigaj poentoj kiujn vi ricevas dependas de la tipo de aventuro kiun vi ludas. Kutime estas 15 altigaj poentoj kiujn vi povas elspezi por la atributvaloroj. Mezkvantaj neludantroluloj (NLR) kutime nur ricevas 3 poentojn. La tabelo altigaj poentoj proponas ekzemplajn altigajn poentojn por kelkaj stiloj de aventuroj. La aĉetometodo subtenas decidojn de ludantoj kaj certigas ekvilibrajn rolulojn. Tiu sistemo kutime estas uzata por organizataj ludokazaĵoj. </p>
+<p><b>Provizo de kubetoj:</b> Ĉiu rolulo ricevas provizon de 24k6 por determini siajn atributvalorojn. Antaŭ vi ĵetas, decidu kiom da kubetoj vi volas uzi por kiu atributo. Devas esti minimume 3k6 por ĉiu atributo. Kiam vi decidis kiom da kubetoj vi volas uzi por kiu atributo, vi ĵetas la kubetojn kaj sumigas la tri plej altajn kubetojn. Por krei pli potencajn rolulojn la provizo povas esti pligrandigita al 28k6. Roluloj kiuj estas kreitaj tiamaniere estas simile potenca ol tiuj de la normala metodo. </p>
+
+<h3>Determini bonojn</h3>
+<p>Post la aplikado de popolmodifiloj ĉiu atributo havs modifilon de -5 al +5. La tabelo "atributmodifiloj kaj kromaj sorĉoj por unu tago" listigas la modifilon depende de la atributvaloro. Ĝi ankaŭ listigas eblajn kromajn sorĉojn kio povas esti interesa por vi se vi rolas sorĉkonanton. La atributmodifilo estas la nombro kiun vi aldonas al kubetoĵetoj kiam via rolulo faras ion kio rilatas al tiu atributo. Pozitivaj modifiloj nomiĝas bonoj kaj negativaj nomiĝas malbonoj. </p>
+
 <h3 id="atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</h3>
-<p> La atributo kiu gravas por kromaj sorĉoj dependas de la sorĉkonanto: inteligenteco por magiistoj, saĝeco por klerikoj, druidoj kaj arbaranoj kaj karismo por sorĉsitoj, paladinoj kaj bardoj. Krom alta atributvaloro la sorĉkonanto devas havi sufiĉe grandan klasnivelon por efektivigi sorĉojn de la respektiva sorĉgrado. Vidu la klasdeskribon por pliaj detaloj. </p>
+<p> La atributo kiu gravas por kromaj sorĉoj dependas de la sorĉkonanto: inteligenteco por magiistoj, saĝeco por klerikoj, druidoj kaj arbaranoj kaj karismo por sorĉsitoj, paladinoj kaj bardoj. Krom alta atributvaloro la sorĉkonanto devas havi sufiĉe grandan klasnivelon por efektivigi sorĉojn de la respektiva sorĉgrado. Vidu la klaspriskribon por pliaj detaloj. </p>
 
 <table>
     <caption>Tabelo: Atributmodifiloj kaj kromaj sorĉoj por unu tago</caption>

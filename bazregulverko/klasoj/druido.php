@@ -527,7 +527,37 @@
 <h3>Bestokapablecoj</h3>
 <p><b>Bestkunuloj povas akiri rangojn en la sekvantaj kapablecoj:</b> Akrobataĵo*&nbsp;(LER), Flugi*&nbsp;(LER), Grimpi*&nbsp;(FOR), Malkateni&nbsp;(LER), Naĝi*&nbsp;(FOR), Percepto*&nbsp;(SAĜ), Sekreteco*&nbsp;(LER), Timigi&nbsp;(KAR) kaj Transvivado&nbsp;(SAĜ). Ĉiuj kapablecoj kun asterisko (*) estas klaskapablecoj por la bestkunulo. Bestkunuloj kun inteligenteco de 3 aŭ pli povas akiri rangojn en ĉiu ajna kapableco.</p>
 
-<h3 class="tradukinda">Bestotalentoj</h3>
+<h3>Bestotalentoj</h3>
+Bestkunuloj povas elekti el la sekvantaj talentoj:
+<a href="../talentoj/#akrobatisto">akrobatisto</a>,
+<a href="../talentoj/#armilofokuso">armilofokuso</a>,
+<a href="../talentoj/#armiloruzeco">armiloruzeco</a>,
+<a href="../talentoj/#atleto">atleto</a>,
+<a href="../talentoj/#batalrefleksoj">batalrefleksoj</a>,
+<a href="../talentoj/#blinde-batali">blinde batali</a>,
+<a href="../talentoj/#cxioeltena">ĉioeltena</a>,
+<a href="../talentoj/#dancetanta-atako">dancetanta atako</a>,
+<a href="../talentoj/#eltenema">eltenema</a>,
+<a href="../talentoj/#fera-volo">fera volo</a>,
+<a href="../talentoj/#fulmaj-refleksoj">fulmaj refleksoj</a>,
+<a href="../talentoj/#granda-persisteco">granda persisteco</a>,
+<a href="../talentoj/#impeta-atako">impeta atako</a>,
+<a href="../talentoj/#iniciato-progresita">iniciato progresita</a>,
+<a href="../talentoj/#kapablecofokuso">kapablecofokuso</a>,
+<a href="../talentoj/#kuri">kuri</a>,
+<a href="../talentoj/#lertaj-manovroj">lertaj manovroj</a>,
+<a href="../talentoj/#movebleco">movebleco</a>,
+<a href="../../manlibro-de-monstroj/monstrotalentoj/#natura-armajxo-progresita">natura armaĵo progresita</a>,
+<a href="../../manlibro-de-monstroj/monstrotalentoj/#natura-atako-progresita">natura atako progresita</a>,
+<a href="../talentoj/#pusxatako-progresita">puŝatako progresita</a>,
+<a href="../talentoj/#ruzeco">ruzeco</a>,
+<a href="../talentoj/#sinhardado">sinhardado</a>,
+<a href="../talentoj/#sperto-kun-armajxoj-malpezaj">sperto kun armaĵoj malpezaj</a>,
+<a href="../talentoj/#sperto-kun-armajxoj-mezpezaj">sperto kun armaĵoj mezpezaj</a>,
+<a href="../talentoj/#sperto-kun-armajxoj-pezaj">sperto kun armaĵoj pezaj</a>,
+<a href="../talentoj/#superkuri-progresite">superkuri progresite</a>,
+<a href="../talentoj/#timiga-forto">timiga forto</a>.
+
 
 <h3>Elekto de bestospecio</h3>
 <p>Ĉiuj bestkunuloj havas komence diversajn grandecojn, moviĝrapidecojn, atakojn, atributojn kaj specifajn eblecojn depende de sia specio. Ĉiuj atakoj kutime estas aplikataj per ĝia plena bazataka bono (krom estas indikita alie). Al la atako de la besto aldoniĝas la FOR-modifilo al la damaĝoĵeto krom ĝi estas unu sola atako. Tiukaze aldoniĝas unu kaj duono de la FOR-modifilo. Kelkaj havas specifajn eblecojn kiel ekzemple flarsenso. Vidu ĉapitron <a href="../eksterordinaraj_eblecoj">eksterordinarajn eblecojn</a> por pliaj informoj pri tiuj eblecoj. Se vi altiĝas je niveloj ankaŭ via bestkunulo ricevas novajn povojn. Apud la normalaj bonoj kiuj troveblas en la supra tabelo, estas speciala altiĝo je la 4a aŭ 7a nivelo. Anstataŭ tiu altiĝo kiel ĝi estas indikita por la 4a aŭ 7a nivelo, vi ankaŭ povas elekti altigi la lertecon kaj la konstitucion de via kunulo je +2. </p>
