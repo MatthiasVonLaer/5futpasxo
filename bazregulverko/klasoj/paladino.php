@@ -298,6 +298,68 @@
 <p id="dia-saneco"><b>Dia saneco (EE):</b> Je la 3a nivelo la paladino iĝas imuna kontraŭ ĉiuj malsanecoj eĉ se ili estas de supernatura aŭ magia deveo. </p>
 
 <p id="beno"><b>Beno (SNE):</b> Je la 3a nivelo kaj je ĉiu plia tria nivelo la paladino povas elekti unu benon. Ĉiu beno aldonas efikon al surmeti manon. Ĉiam kiam la paladino uzas surmeti manon por sanigi damaĝon de la celo, la celo ankaŭ ricevas la kromajn efikojn de ĉiuj benoj kiuj estas donitaj al paladino. Beno povas malaperigi staton kiu estas kaŭzita de malbeno, malsano aŭ de veneno sen sanigi la celon de la kaŭzo mem. Tiuj statoj reaperos post unu horo se la kaŭzo mem ne estos sanigita. </p>
+<p> Je la 3a nivelo al paladino povas esti donata unu el la sekvantaj benoj. </p>
+<ul>
+    <li><em>Elĉerpita:</em> La celo ne plu estas elĉerpita. </li>
+    <li><em>Emociita:</em> La celo ne plu estas emociita. </li>
+    <li><em>Malsaneta:</em> La celo ne plu estas malsaneta. </li>
+</ul>
+<p>Je la 6a nivelo aldoniĝas la sekvantaj benoj el kiuj la paladino povas elekti sian novan benon. </p>
+<ul>
+    <li><em>Duonsvenanta:</em> La celo ne plu estas duonsvenanta. </li>
+    <li><em>Malsaneta:</em> La surmeti manon ankaŭ funkcias kiel sanigi malsanon kie la paladinonivelo servas kiel sorĉonivelo.</li>
+    <li><em>Ŝanceliĝanta:</em> La celo ne plu estas ŝanceliĝanta krom li havas ekzakte 0 vivpoentojn.</li>
+</ul>
+<p>Je la 9a nivelo la listo de benoj pligrandiĝas je la sekvantaj benoj. </p>
+<ul>
+    <li><em>Senforta:</em> La celo ne plu estas senforta. La paladino devas elekti la benon elĉerpita antaŭ li povas elekti ĉi tiun benon. </li>
+    <li><em>Malbenita:</em> La surmeti manon ankaŭ funkcias kiel rompi malbenon kie la paladinonivelo servas kiel sorĉonivelo.</li>
+    <li><em>Timplena:</em> La celo ne plu estas timplena. La paladino devas elekti la benon emociita antaŭ li povas elekti ĉi tiun benon. </li>
+    <li><em>Venenita:</em> La surmeti manon ankaŭ funkcias kiel neŭtraligi venenon kie la paladinonivelo servas kiel sorĉonivelo.</li>
+    <li><em>Vomema:</em> La celo ne plu estas vomema. La paladino devas elekti la benon malsaneta antaŭ li povas elekti ĉi tiun benon. </li>
+</ul>
+<p> Ekde la 12a nivelo al la paladino estas disponeblaj la sekvantaj benoj. </p>
+<ul>
+    <li><em>Blinda:</em> La celo ne plu estas blinda. </li>
+    <li><em>Paralizita:</em> La celo ne plu estas paralizita. </li>
+    <li><em>Surda:</em> La celo ne plu estas surda. </li>
+    <li><em>Svenanta:</em> La celo ne plu estas svenanta. </li>
+</ul>
+<p>Tiuj eblecoj estas akumulaj. Ekzemple la surmeti manon de paladino de la 12a nivelo sanigas 6k6 poentojn da damaĝo kaj povas nuligi la statojn elĉerpita kaj senforta kaj aldone sanigi malsanon kaj neŭtraligi venenon. Tiam kiam stato aŭ sorĉefiko estas elektita, ne plu eblas ŝanĝi tion. </p>
 
+<p id="enfokusigi-pozitivan-energion"><b>Enfokusigi pozitivan energion (SNE):</b> Je la 4a nivelo la paladino ricevas la supernaturan eblecon enfokusigi pozitivan energion. La uzo de tiu ebleco eluzas du aplikojn de lia surmeti manon. Li uzas la eblecon enfokusigi energion kiel tion faras kleriko kun lia paladinonivelo. Tio estas ebleco kiu baziĝas sur karismo. </p> 
 
+<p id="sorcxoj"><b>Sorĉoj:</b> Ekde la 4a nivelo la paladino povas efektivigi malgrandan kvanton da sorĉoj ĉiutage. Li prenas siajn sorĉojn de la sorĉlisto de paladinoj. Li devas elekti kaj prepari siajn sorĉojn antaŭe. </p>
+<p> Por prepari sorĉon la paladino devas havi karismovaloron de minimume 10 + grado de sorĉo. La malfacilecogrado por savĵetoj kontraŭ sorĉoj de la paladino estas 10 + grado de sorĉo + KAR-modifilo de la paladino. </p>
+<p> Kiel aliaj sorĉkonantoj la paladino nur povas efektivigi limigitan kvanton da sorĉoj ĉiutage. La nombro da sorĉoj por unu tago estas indikita en la supra tabelo. La palaino ricevas kromajn sorĉojn por altaj KAR-valoroj (vido paragrafon: <a href="../ekludi/#atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</a>). Se estas indikita en la supra tabelo ke la paladino havas 0 sorĉojn de iu sorĉgrado, tio signifas ke li nur tiam havas sorĉojn de tiu grado se li havas kromajn sorĉojn pro sia KAR-valoro. </p>
+<p>La paladino devas ĉiutage pasigi unu horon en trankvila preĝo kaj meditado por ricevi siajn tagajn sorĉojn. La paladino povas elekti ĉiun sorĉon de la sorĉolisto de paladinoj se li havas sufiĉe altan nivelon por efektivigi ĝin. Li devas elekti siajn sorĉojn dum sia ĉiutaga meditado. Ĝis la kvara nivelo la paladino ne havas sorĉnivelon. Ekde la kvara nivelo lia paladinonivelo -3 kalkuliĝas kiel sorĉonivelo. </p>
+
+<p id="dia-alianco"><b>Dia alianco (SSE):</b> Je la atingo de la 5a nivelo la paladino faras dian aliancon kun sia dio. Tiu alianco povas manifestiĝi en unu el du formoj. Se la formo estas elektita ĝi ne plu povas esti ŝanĝota. </p>
+<p>La unua eblo permesas al paladino plibonigi sian armilon per bazago per tio ke li alvokas dian spiriton kiu restas unu minuto por ĉiu paladinonivelo. Se ĝi estas alvokita, ĝi briligas la armilon kio lumigas la ĉirkaŭaĵon kiel torĉo. Je la 5a nivelo lia armilo ricevas plibonigan bonon +1. Por ĉiuj pliaj tri niveloj la bono altiĝas je +1 ĝis maksimumo de +6 je la 20a nivelo. Tiu bono povas esti aldonata al jam ekzistantaj bonoj de maksimume +5 aŭ povas esti uzata por akiri unu el la sekvantaj ecoj de armiloj: akra, aksiomeca, brilanta lumo, beno, ekflami, flaminfero, protekto, rapida aŭ sankta. La aldono eluzas bonojn de la dia alianco kiuj egalas al la kostoj de tiu eco de armilo. Tiuj eblecoj aldoniĝas al la ecoj kiujn la armilo jam havas sed ne akumulas se la armilo jam havas tiun eblecon. Se la armilo ne estas magia, la paladino devas unu elekti bonon +1 antaŭ li povas uzi aliajn efikojn. La bono kaj la ecoj de armilo estas difinataj kiam la spirito estas vokata kaj ne povas esti ŝanĝotaj ĝis la spirito denove estos vokata. La dia spirito ne donas bonojn al aliaj portantoj de la armilo, tamen ĝi reaktiviĝas se la paladino reakiras la armilon. Kaze de duobla armilo la bono nur validas por unu flanko de la armilo. Je la 5a nivelo la paladino povas efektivigi la aliancon unufoje tage. Je ĉiu plia kvara nivelo li ricevas unu plian aplikon ĝis maksimumo de kvar je la 17a nivelo. </p>
+<p>Se la armilo kun dia spirito estas detruita, la paladino perdas sian aliancon por 30 tagoj aŭ ĝis li altiĝas je nivelo. Tio dependas de kio unue okazas. Dum tiuj 30 tagoj la paladino havas malbonon -1 por atako- kaj damaĝoĵetoj. </p>
+<p>Kun la dua varianto la paladino ricevas la servojn de lojala, forta kaj eksterordinare inteligenta rajdbesto por siaj krucaj militiroj kontraŭ la malbono. Tiu rajdbesto kutime estas peza batalĉevalo (por mezgranda paladino) aŭ militponeo (por malgranda paladino) kvankam ankaŭ pli eksotikaj rajdbestoj eblas kiel apro, hundo aŭ kamelo. Tiu rajdbesto kalkuliĝas kiel la bestkunulo de druido kie la rolulo uzas sian paladinonivelon kiel druidan nivelon. Rajdbestoj de la dia alianco havas inteligentecon de minimume 6. </p>
+<p>Unufoje tage la paladino povas uzi plenan agon por voki sian rajdbeston al sia flanko. Tiu ebleco konformas al sorĉo de grado kiu egalas al triono de la paladinonivelo. La rajdbesto aperas subite al la flanko de la paladino. La paladino povas uzi tiun eblecon unufoje tage ekde la 5a nivelo kaj unu plian fojon tage por ĉiu plia kvara paladinonivelo ĝis maksimumo de kvarfoje tage je la 17a nivelo. </p>
+<p>Ekde la 11a nivelo la rajdbesto ricevas celestian ŝablonon (vidu la manlibro de monstroj) kaj iĝas magia besto se necesas determini kiuj sorĉoj aplikeblas al la besto. Je la 15a nivelo la rajdbesto ricevas sorĉreziston kiu egalas al la paladinonivelo +11. </p>
+<p>Se la rajdbesto mortas, ĝi malaperas subite kaj postlasas ĉiun ekipaĵon kiun ĝi portis. Poste la paladino ne povas voki rajdbeston dum 30 tagoj aŭ ĝis li altiĝas je nivelo. Tio dependas de tio kio unue okazas. La paladion suferas dum tiuj 30 tagoj malbonon -1 por atako- kaj damaĝoĵetoj. </p>
+
+<p id="auxro-de-decidemo"><b>Aŭro de decidemo (SNE):</b> Ekde la 8a nivelo la paladino estas imuna kontraŭ sorĉoj kaj sorĉsimilaj efikoj de ensorĉada magio. Aliancanoj en la ĉirkaŭaĵo de 3 metroj de la paladino ricevas moralbonon +4 por savĵetoj kontraŭ efikoj de ensorĉado. </p>
+<p> Tiu efiko nur funkcias se la paladino estas konscia. Se li estas senkonscia aŭ morta, la bono nuliĝas. </p>
+
+<p id="auxro-de-justeco"><b>Aŭro de justeco (SNE):</b> Ekde la 11a nivelo la paladino povas uzi du aplikojn de pereigi malbonon por doni al ĉiuj siaj aliancanoj en la ĉirkaŭaĵo de 3 metroj la eblecon pereigi malbonon per liaj bonoj (de la paladino). La aliancanoj devas uzi tiun eblecon ĝis la venonta vico de la paladino. Tiuj bonoj daŭras unu minuton. La apliko de tiu ebleco estas libera ago. Malbonaj kreaĵoj ne profitas de tiu ebleco. </p>
+
+<p id="auxro-de-kredo"><b>Aŭro de kredo (SNE):</b> Ekde la 14a nivelo la armiloj de la paladino kalkuliĝas kiel bonaj se temas pri superi damaĝoredukton. Ĉiu atako en la ĉirkaŭaĵo de 3 metroj de la paladino ankaŭ kalkuliĝas kiel bona por superi damaĝoredukton. </p>
+<p> Tiu efiko nur funkcias se la paladino estas konscia kaj ne plu se li estas senkonscia aŭ morta. </p>
+
+<p id="auxro-de-lauxlegxo"><b>Aŭro de laŭleĝo (SNE):</b> Ekde la 17a nivelo la paladino ricevas damaĝoredukton 5/malbono kaj estas imuna kontraŭ devigaj sorĉoj de la skolo transsorĉado kaj sorĉsimilaj eblecoj de tiu tipo. Aliancanoj kiuj estas en la ĉirkaŭaĵo de 3 metroj de la paladino ricevas bonon +4 por savĵetoj kontraŭ tiuj efikoj kaj sorĉoj. </p>
+<p> Tiu efiko nur funkcias se la paladino estas konscia kaj ne plu se li estas senkonscia aŭ morta. </p>
+
+<p id="sankta-batalanto"><b>Sankta batalanto (SNE):</b> Je la 20a nivelo la paladino iĝas ujo de potenco por sia dio. Lia damaĝoredukto grandiĝas al 10/malbono. Se li uzas pereigi malbonon kontraŭ malbonan eksterulon, tiu iĝas en kazo de trafo celo de la sorĉo elpeli (la armilo kaj la sankta simbolo estas objektoj kiujn la kreaĵo malamas). La paladinonivelo kalkuliĝas kiel sorĉnivelo. Post la efiko de elpeli kaj la damaĝo de la atako trafis la celon, la pereigi malbonon tuj ĉesas. Aldone ĉiam kiam li enfokusigas pozitivan energion, li uzas la plej altan eblan rezulton por sanigi damaĝon. </p>
+
+<p><b>Konduta normo:</b> La paladino devas havi laŭleĝan bonan pensmanieron kaj perdas ĉiujn siajn eblecojn krom sperto kun armiloj kaj armaĵoj, se li iam faras propravole malbonon agon. </p>
+<p>Krome la paladino devas akcepti legitimajn aŭtoritatojn, konduti honore (ne mensogi, trompi, uzi venenon, ktp.), doni helpon al tiuj kiuj bezonas (se ili ne misuzas la helpon por malbonaj aŭ ĥaosaj celoj) kaj puni tiujn kiuj minacas aŭ atakas senkulpulojn. </p>
+
+<p><b>Aliancanoj:</b> La paladino povas senprobleme vojaĝi kun ĉiu bona aŭ neŭtrala aventuristo. Li tamen evitas kunlabori kun malbonaj kreaĵoj aŭ agi kune kun iu kiu kondutas kontraŭe al liaj moralaj valoroj. Sub eksterordinaraj ĉirkumstancoj la paladino povas alianciĝi kun malbona kreaĵo, sed nur se tio helpas venki ion kio estas pli granda malbonaĵo. La paladino devus regule pentofari kaj devus fini la kunlaboron tuj tiam kiam li pensas ke la alianco pli malhelpas ol subtenas la bonon. La paladino nur akceptas laŭleĝajn bonajn sekvantojn kaj disĉiplojn. </p>
+
+<h2>Estintaj paladinoj</h2>
+<p>Paladino kiu ŝanĝas sian pensmanieron, faras malbonan agon aŭ kontraŭas sian kondutan normon, perdas ĉiujn paladinosorĉojn kaj -eblecojn (krom sperto kun armiloj kaj armaĵoj). Li ne plu povas altiĝi kiel paladino. Nur kiam li sufiĉe pentofaris (vidu la sorĉon pentofari), li povas reakiri siajn eblecojn kaj la eblon por altiĝi. </p>
 <?php require '../../pagxpiedo.php' ?>

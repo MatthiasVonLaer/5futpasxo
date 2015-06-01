@@ -883,7 +883,7 @@
 <p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko tamen ne estas akumula. Ĉiufoje kiam vi elektas la talenton, ĝi aplikiĝas al alia armilo.</p>
 
 <h3 id="armiloruzeco">Armiloruzeco [batalo]</h3>
-<p> Vi estas trajnita por uzi vian lerteco anstataŭ pura forto en la batalo.</p>
+<p> Vi estas trejnita por uzi vian lerteco anstataŭ pura forto en la batalo.</p>
 <p> <b>Avantaĝo:</b> Se vi uzas malpezan armilon, <a href="../ekipajxo/#rapiro">rapiron</a>, <a href="../ekipajxo/#sabro-elfa">sabron elfan</a>, <a href="../ekipajxo/#vipo">vipon</a> aŭ <a href="../ekipajxo/#kateno-najlita">katenon najlitan</a> kiu kongruas al la grandeco de via rolulo, vi povas aldoni anstataŭ la forto modifilo vian lertecomodifilon al viaj atakĵetoj. Se vi portas ŝildon, ties armaĵomalbono aldoniĝas al viaj atakĵetoj.</p>
 <p> <b>Specife:</b> Naturaj armiloj kalkuliĝas ĉiam kiel malpezaj armiloj. </p>
 
