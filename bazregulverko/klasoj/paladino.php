@@ -290,5 +290,14 @@
 
 <p id="dia-graco"><b>Dia graco (SNE):</b> Je la 2a nivelo la paladino aldonas sian KAR-bonon (se li havas) al ĉiuj savĵetoj. </p>
 
+<p id="surmeti-manon"><b>Surmeti manon (SNE):</b> Ekde la 2a nivelo la paladino povas sanigi vundojn per tuŝo al si mem aŭ al aliancanoj. Li povas uzi tiun eblecon tiom ofte kiel egalas lia duona paladinonivelo plus lia KAR-modifilo. Per unu aplikado li povas sanigi 1k6 vivpoentojn por ĉiuj 2 paladinoniveloj. Por uzi tiun eblecon li devas uzi unu bazagon krom li mem estas la celo. Tiukaze tio nur estas rapida ago. La paladino nur bezonas unu liberan manon por surmeti manon. </p>
+<p>Alternative la paladino povas uzi surmeti manon por lezi malmortulojn anstataŭ sanigi kaj kaŭzas 1k6 damaĝon por ĉiuj du paladinoniveloj. Por uzi la eblecon tiamaniere la paladino devas sukcese fari tuŝatakon. Tiu atako ne provokas okazatakon. Malmortuloj ne havas savĵeton kontraŭ tiun damaĝon. </p>
+
+<p id="auxro-de-braveco"><b>Aŭro de braveco (SNE):</b> Je la 3a nivelo la paladino îgas imuna kontraŭ ĉiu tipo de timo ĉu de natura ĉu de magia deveno. Aldone ĉiu aliancano en la ĉirkaŭaĵo de 3 metroj ĉirkaŭ la paladino ricevas moralbonon +4 por siaj savĵetoj kontraŭ timo. Tiu ebleco nur funkcias se la paladino estas konscienca. Se li estas senkonscia aŭ morta li ne plu povas doni bonon al aliancanoj. </p>
+
+<p id="dia-saneco"><b>Dia saneco (EE):</b> Je la 3a nivelo la paladino iĝas imuna kontraŭ ĉiuj malsanecoj eĉ se ili estas de supernatura aŭ magia deveo. </p>
+
+<p id="beno"><b>Beno (SNE):</b> Je la 3a nivelo kaj je ĉiu plia tria nivelo la paladino povas elekti unu benon. Ĉiu beno aldonas efikon al surmeti manon. Ĉiam kiam la paladino uzas surmeti manon por sanigi damaĝon de la celo, la celo ankaŭ ricevas la kromajn efikojn de ĉiuj benoj kiuj estas donitaj al paladino. Beno povas malaperigi staton kiu estas kaŭzita de malbeno, malsano aŭ de veneno sen sanigi la celon de la kaŭzo mem. Tiuj statoj reaperos post unu horo se la kaŭzo mem ne estos sanigita. </p>
+
 
 <?php require '../../pagxpiedo.php' ?>
