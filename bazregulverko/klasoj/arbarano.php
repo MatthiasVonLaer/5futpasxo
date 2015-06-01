@@ -339,7 +339,7 @@
     </tbody>
 </table>
 
-<p id="gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, ekkoni motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
+<p id="gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, malkovri motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
 
 <p> Je la 5a nivelo kaj je ĉiu kvina sekvanta nivelo (10, 15 kaj 20), la arbarano povas elekti plian ĝismortan malamikon. Plie ĉiam kiam li ricevas novan ĝismortan malamikon, li povas altigi la bonon de ĉiu ĝismorta malamiko, ankaŭ tiun de la ĵus elektita. </p>
 

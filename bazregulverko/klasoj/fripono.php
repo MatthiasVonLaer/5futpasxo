@@ -8,7 +8,7 @@
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 4k6 &times; 10mo (mezkvanta 140mo)
-<p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Alivesti&nbsp;(KAR), Blufi&nbsp;(KAR), Diplomatio&nbsp;(KAR), Ekkoni&nbsp;motivon&nbsp;(SAĜ), Fingrolerteco&nbsp;(LER), Grimpi&nbsp;(FOR), Lingvoscio&nbsp;(INT), Malkateni&nbsp;(LER), Malfunkciigi&nbsp;mekanismon&nbsp;(INT), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Scio&nbsp;(loka)&nbsp;(INT), Scio&nbsp;(subterejoj)&nbsp;(INT), Sekreteco&nbsp;(LER), Taksi&nbsp;(INT), Timigi&nbsp;(KAR), Uzi&nbsp;magian&nbsp;objekton&nbsp;(KAR)
+<p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Alivesti&nbsp;(KAR), Blufi&nbsp;(KAR), Diplomatio&nbsp;(KAR), Malkovri&nbsp;motivon&nbsp;(SAĜ), Fingrolerteco&nbsp;(LER), Grimpi&nbsp;(FOR), Lingvoscio&nbsp;(INT), Malkateni&nbsp;(LER), Malfunkciigi&nbsp;mekanismon&nbsp;(INT), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Scio&nbsp;(loka)&nbsp;(INT), Scio&nbsp;(subterejoj)&nbsp;(INT), Sekreteco&nbsp;(LER), Taksi&nbsp;(INT), Timigi&nbsp;(KAR), Uzi&nbsp;magian&nbsp;objekton&nbsp;(KAR)
 <p><b>Kapablecpoentoj po nivelo:</b> 8 + INT-modifilo
 
 <table>

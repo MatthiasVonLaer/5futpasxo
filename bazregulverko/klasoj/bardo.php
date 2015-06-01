@@ -8,7 +8,7 @@
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 3k6 &times; 10mo (mezkvanta 105mo)
-<p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Alivesti&nbsp;(KAR), Blufi&nbsp;(KAR), Diplomatio&nbsp;(KAR), Ekkoni&nbsp;motivon&nbsp;(SAĜ), Fingrolerteco&nbsp;(LER), Grimpi&nbsp;(FOR), Lingvoscio&nbsp;(INT), Malkateni&nbsp;(LER), Metio&nbsp;(INT), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Scio&nbsp;(ĉiuj)&nbsp;(INT), Sekreteco&nbsp;(LER), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT), Timigi&nbsp;(KAR), Uzi&nbsp;magian&nbsp;objekton&nbsp;(KAR)
+<p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Alivesti&nbsp;(KAR), Blufi&nbsp;(KAR), Diplomatio&nbsp;(KAR), Malkovri&nbsp;motivon&nbsp;(SAĜ), Fingrolerteco&nbsp;(LER), Grimpi&nbsp;(FOR), Lingvoscio&nbsp;(INT), Malkateni&nbsp;(LER), Metio&nbsp;(INT), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Scio&nbsp;(ĉiuj)&nbsp;(INT), Sekreteco&nbsp;(LER), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT), Timigi&nbsp;(KAR), Uzi&nbsp;magian&nbsp;objekton&nbsp;(KAR)
 <p><b>Kapablecpoentoj po nivelo:</b> 6 + INT-modifilo
 
 <table>
@@ -388,7 +388,7 @@
 <p id="sorcxartifikoj"><b>Sorĉartifikoj:</b> La bardo lernas kvanton da sorĉartifikoj aŭ sorĉoj de la grado nul kiel indikita en la tabelo: konataj sorĉoj de la bardo. Tiuj sorĉoj efektiviĝas kiel aliaj sorĉoj. Tamen la bardo povas efektivigi ilin tiom ofte kiel li volas. </p>
 
 <p id="multflanka-prezentado"><b>Multflanka prezentado (EE):</b> Je la 2a nivelo la bardo povas elekti unu tipon de la kapableco roli. Li povas uzi sian bonon en roli anstataŭ la bonoj en la rilataj kapablecoj (vidu malsupren). Se li anstataŭigas kapablecon tiamaniere, li uzas sian tutan kapablecbonon de roli inkluzive la bono por klaskapableco. Ne gravas ĉu la anstataŭigita kapableco ne estis klaskapableco aŭ kiom rangojn la kapableco havis. Je la 6a nivelo kaj je ĉiu plia kvara nivelo la bardo povas elekti plian tipon de roli por anstataŭigi kapablecojn. </p>
-<p><b>La tipoj de roli kaj iliaj rilataj kapablecoj estas:</b> blovinstrumentoj (diplomatio, interrilati kun bestoj), danci (akrobataĵo, flugi), kanto (blufi, ekkoni motivon), klavaraj instrumentoj (diplomation, timigi), komedio (blufi, timigi), kordinstrumentoj (blufi, diplomatio), perkutinstrumentoj (interrilati kun bestoj, timigi), retoriko (diplomatio, ekkoni montivon), teatro (alivesti, blufi). </p>
+<p><b>La tipoj de roli kaj iliaj rilataj kapablecoj estas:</b> blovinstrumentoj (diplomatio, interrilati kun bestoj), danci (akrobataĵo, flugi), kanto (blufi, malkovri motivon), klavaraj instrumentoj (diplomation, timigi), komedio (blufi, timigi), kordinstrumentoj (blufi, diplomatio), perkutinstrumentoj (interrilati kun bestoj, timigi), retoriko (diplomatio, malkovri montivon), teatro (alivesti, blufi). </p>
 
 <p id="scianta"><b>Scianta (EE):</b> Je la 2a nivelo la bardo iĝas rezistenta kontraŭ bardoprezentadoj de aliaj kaj kontraŭ sonefikoj ĝenerale. Li ricevas bonon +4 por savĵetoj kontraŭ bardoprezentadoj, sonatakoj kaj ligvo-rilataj efikoj. </p>
 

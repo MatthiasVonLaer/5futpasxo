@@ -582,9 +582,9 @@
             <td>Enfokusigi energion du pliajn fojojn ĉiutage</td>
         </tr>
         <tr>
-            <td><a href="#plia-graco">Plia graco</a></td>
-            <td>Klasebleco graco</td>
-            <td>Surmeti manon havas unu plian gracon</td>
+            <td><a href="#plia-beno">Plia beno</a></td>
+            <td>Klasebleco beno</td>
+            <td>Surmeti manon havas unu plian benon</td>
         </tr>
         <tr>
             <td><a href="#plia-ki">Plia Ki</a></td>
@@ -829,7 +829,7 @@
         <tr>
             <td><a href="#vigleco">Vigleco</a></td>
             <td>-</td>
-            <td>Bono +2 por percepto kaj ekkoni motivon</td>
+            <td>Bono +2 por percepto kaj malkovri motivon</td>
         </tr>
     </tbody>
 </table>
@@ -1752,11 +1752,11 @@
 <p> <b>Avantaĝo:</b> Vi povas uzi enfokusigi energion 2 pliajn fojojn ĉiutage.</p>
 <p> <b>Specife:</b> Se paladino kun la ebleco enfokusigi energion elektas tiun talenton, li povas surmeti manon 4 pliajn fojojn ĉiutage tamen nur por enfokusigi energion.</p>
 
-<h3 id="plia-graco">Plia graco</h3>
-<p> La elbeco surmeti manon havas unu plian gracon.</p>
+<h3 id="plia-beno">Plia beno</h3>
+<p> La elbeco surmeti manon havas unu plian benon.</p>
 <p> <b>Kondiĉo:</b> Klasebleco surmeti manon</p>
-<p> <b>Avantaĝo:</b> Elektu unu plian gracon kies kondiĉoj vi plenumas. Se vi nun uzas surmeti manon por sanigi suferitan damaĝon, la celo ricevas la efikon de tiu graco.</p>
-<p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko tamen ne estas akumula. Elektu ĉiufoje alian gracon. </p>
+<p> <b>Avantaĝo:</b> Elektu unu plian benon kies kondiĉoj vi plenumas. Se vi nun uzas surmeti manon por sanigi suferitan damaĝon, la celo ricevas la efikon de tiu beno.</p>
+<p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko tamen ne estas akumula. Elektu ĉiufoje alian benon. </p>
 
 <h3 id="plia-ki">Plia Ki</h3>
 <p> Vi povas uzi vian Ki-provizon pli ofte ĉiutage ol aliaj personoj. </p>
@@ -1973,7 +1973,7 @@
 <p> <b>Kondiĉo:</b> Sperto kun armaĵoj malpezaj, sperto kun armaĵoj mezpezaj</p>
 <p> <b>Avantaĝo:</b> Vidu sperto kun armaĵoj malpezaj.</p>
 <p> <b>Kutime:</b> Vidu sperto kun armaĵoj malpezaj.</p>
-<p> <b>Specife:</b> Batalistoj, paladinoj aŭtomate havas la talenton sperton kun armaĵoj pezaj kiel kroma talento kaj ne devas elekti ĝin. </p>
+<p> <b>Specife:</b> Batalistoj kaj paladinoj aŭtomate havas la talenton sperton kun armaĵoj pezaj kiel kroma talento kaj ne devas elekti ĝin. </p>
 
 <h3 id="sperto-kun-eksotikaj-armiloj">Sperto kun eksotiakj armiloj [batalo]</h3>
 <p> Elektu unu eksotikan armilon kiel ekzemple la katenon najlitan aŭ la vipon. Vi scipovas uzi tiun armilon en la batalo kaj povas uzi ĉiujn eblajn ruzaĵojn aŭ ecojn de la armilo.</p>

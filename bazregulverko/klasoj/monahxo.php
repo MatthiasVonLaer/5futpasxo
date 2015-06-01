@@ -8,7 +8,7 @@
 <p><b>Pensmaniero:</b> ĉiu laŭleĝa</p>
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 1k6 &times; 10mo (mezkvanta 35mo)
-<p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Ekkoni&nbsp;motivon&nbsp;(SAĜ), Grimpi&nbsp;(FOR), Malkateni&nbsp;(LER), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Rajdi&nbsp;(LER), Scio&nbsp;(historio)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sekreteco&nbsp;(LER), Timigi&nbsp;(KAR)
+<p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Malkovri&nbsp;motivon&nbsp;(SAĜ), Grimpi&nbsp;(FOR), Malkateni&nbsp;(LER), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Rajdi&nbsp;(LER), Scio&nbsp;(historio)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sekreteco&nbsp;(LER), Timigi&nbsp;(KAR)
 <p><b>Kapablecpoentoj po nivelo:</b> 4 + INT-modifilo
 
 <table class="sen-sub-linio">

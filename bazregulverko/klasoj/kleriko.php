@@ -5,7 +5,7 @@
 <p><b>Pensmaniero:</b> La pensmaniero de la kleriko nur rajtas devii unu paŝon de la pensmaniero de lia dio. Do ĝi rajtas diferenci unu paŝon sur unu el la du aksoj (ĥaosa-laŭleĝa aŭ bona-malbona).</p>
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 4k6 &times; 10mo (mezkvanta 140mo)
-<p><b>Klaskapablecoj:</b> Diplomatio&nbsp;(KAR), Ekkoni&nbsp;motivon&nbsp;(SAĜ), Kuraci&nbsp;(SAĜ), Lingvoscio&nbsp;(INT), Metio&nbsp;(INT), Profesio&nbsp;(SAĜ), Scio&nbsp;(arkano)&nbsp;(INT), Scio&nbsp;(la ebenoj)&nbsp;(INT), Scio&nbsp;(historio)&nbsp;(INT), Scio&nbsp;(nobeleco)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT)
+<p><b>Klaskapablecoj:</b> Diplomatio&nbsp;(KAR), Malkovri&nbsp;motivon&nbsp;(SAĜ), Kuraci&nbsp;(SAĜ), Lingvoscio&nbsp;(INT), Metio&nbsp;(INT), Profesio&nbsp;(SAĜ), Scio&nbsp;(arkano)&nbsp;(INT), Scio&nbsp;(la ebenoj)&nbsp;(INT), Scio&nbsp;(historio)&nbsp;(INT), Scio&nbsp;(nobeleco)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT)
 <p><b>Kapablecpoentoj po nivelo:</b> 2 + INT-modifilo
 
 <table>
