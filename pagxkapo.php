@@ -80,13 +80,17 @@ kalkuli();
                 </li>
             </ul>
 
+            <em>Aventuroj</em>
+            <ul>
+                <li>
+                    <a href="<?php echo $indikilo; ?>/aventuroj/jan_ludoviko_kaj_la_perdita_sxuo/index.php">Jan ludoviko kaj<br>la perdita ŝuo</a>
+                </li>
+            </ul>
+
             <em>Aliaĵoj</em>
             <ul>
                 <li>
                     <a href="<?php echo $indikilo; ?>/mallongigoj.php">Mallongigoj</a>
-                </li>
-                <li>
-                    <a href="<?php echo $indikilo; ?>/vortaro.php">Vortaro</a>
                 </li>
                 <li>
                     <a href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>

@@ -3,6 +3,8 @@
 <title>Arbarano</title>
 <h1>Arbarano</h1>
 
+<img src="../../aip.jpg" style="width:50%;">
+
 <p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj havas sperton en mortigaj batalkapablecoj. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
 <p><b>Rolo:</b> Arbaranoj povas brili precipe en bataletoj - proksimaj aŭ distancaj - kaj ili kapablas senpene foriri de la batalon kaj rekomenci la batalon. Iliaj eblecoj ebligas al ili fari grandan damaĝon al certaj malamikoj. Tamen ilia eblecoj estas helpaj kontraŭ ĉiaj malamikoj.</p>
 <p><b>Pensmaniero:</b> ĉiu</p>
@@ -402,7 +404,7 @@
     </tbody>
 </table>
 
-<p id="preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas ŝpurojn kaj ne povas esti sekvata per ŝpurlegado (tamen li povas lasi ŝpurojn se li volas). </p>
+<p id="preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas spurojn kaj ne povas esti sekvata per spurlegado (tamen li povas lasi spurojn se li volas). </p>
 
 <p> Je la 8a nivelo kaj je ĉiu kvina sekvanta nivelo (je la 13a kaj la 18a) la arbarano ricevas plian preferatan terenon. Krome ĉiam kiam li ricevas novan preferatan terenon, li povas aldoni +2 al ĉiu preferata nivelo, ankaŭ al la ĵus elektita. Se unu tereno apartenas al pliaj kategorioj, la bonoj ne sumiĝas, sed valoras la plej alta. </p>
 

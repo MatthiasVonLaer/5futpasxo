@@ -1,7 +1,10 @@
 <?php require '../../pagxkapo.php' ?>
 
 <title>Batalisto</title>
+
 <h1>Batalisto</h1>
+
+<img src="../../narciso2.jpg" style="width:35%;">
 
 <p><b>Rolo:</b> Batalistoj estas, kiel la nomo ja jam diras, eksterordinaraj batalistoj, venkas malamikojn, regas la batalon kaj povas transvivi ajnan buĉadon. Ankaŭ aliaj personoj povas per specialaj armiloj aŭ metodoj evoluigi diversajn taktikojn sed la plejmalmulto el ili atingas la batalpovon de batalistoj. </p>
 <p><b>Pensmaniero:</b> ĉiu</p>
@@ -192,5 +195,6 @@
 
 <p> <b>Sperto kun armiloj kaj armaĵoj:</b> La batalisto havas sperton kun ĉiuj simplaj kaj militaj armiloj. Li estas sperta kun ĉiuj armaĵoj kaj ŝildoj inkluzive turŝildoj.</p>
 
+<p id="kroma-talento"><b>Kroma talento:</b> Je la 1a nivelo kaj poste je ĉia para nivelo la batalisto ricevas kroman talenton aldone al tiuj kiuj li ricevas je la altiĝo de nivelo. Tiel la batalisto ricevas je ĉiu nivelo novan talenton. Tiuj talentoj devas esti elektataj el listo de batalotalentoj kiuj ankaŭ nomiĝas kromaj talentoj por la batalisto. </p>
 <?php require '../../pagxpiedo.php' ?>
 

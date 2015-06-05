@@ -256,7 +256,7 @@
         </tr>
         <tr>
             <td><a href="venigi_monstron_1.php">Venigi monstron 1</a></td>
-            <td>Venigas eksterplanana kreaĵon kiu batalas apud vi.</td>
+            <td>Venigas eksterplananan kreaĵon kiu batalas apud vi.</td>
         </tr>
         <tr>
             <td><a href="vualanta_nebulo.php">Vualanta nebulo</a></td>

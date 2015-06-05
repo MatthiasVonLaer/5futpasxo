@@ -13,9 +13,11 @@ body {
 }
 
 img {
-    border: 0px solid #BBBBBB;
-    border-radius: 10px;
-    margin-bottom: 20px;
+    border: 7px solid #554433;
+    margin-bottom: 3em;
+    margin-left: 3em;
+    float: right;
+    clear: right;
 }
 
 .tradukinda {
