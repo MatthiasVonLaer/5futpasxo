@@ -30,7 +30,7 @@
             <td>+2</td>
             <td>+0</td>
             <td>+0</td>
-            <td><a href="#trovi-kaptilojn">Trovi kaptilojn</a>, <a href="#embuska-atako">Embuska atako +1W6</a></td>
+            <td><a href="#trovi-kaptilojn">Trovi kaptilojn</a>, <a href="#embuska-atako">Embuska atako +1k6</a></td>
         </tr>
         <tr>
             <td>2</td>
@@ -46,7 +46,7 @@
             <td>+3</td>
             <td>+1</td>
             <td>+1</td>
-            <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a>, <a href="#embuska-atako">Embuska atako +2W6</a></td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a>, <a href="#embuska-atako">Embuska atako +2k6</a></td>
         </tr>
         <tr>
             <td>4</td>
@@ -62,7 +62,7 @@
             <td>+4</td>
             <td>+1</td>
             <td>+1</td>
-            <td><a href="#embuska-atako">Embuska atako +3W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +3k6</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -78,7 +78,7 @@
             <td>+5</td>
             <td>+2</td>
             <td>+2</td>
-            <td><a href="#embuska-atako">Embuska atako +4W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +4k6</a></td>
         </tr>
         <tr>
             <td>8</td>
@@ -94,7 +94,7 @@
             <td>+6</td>
             <td>+3</td>
             <td>+3</td>
-            <td><a href="#embuska-atako">Embuska atako +5W6</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
+            <td><a href="#embuska-atako">Embuska atako +5k6</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
         </tr>
         <tr>
             <td>10</td>
@@ -110,7 +110,7 @@
             <td>+7</td>
             <td>+3</td>
             <td>+3</td>
-            <td><a href="#embuska-atako">Embuska atako +6W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +6k6</a></td>
         </tr>
         <tr>
             <td>12</td>
@@ -126,7 +126,7 @@
             <td>+8</td>
             <td>+4</td>
             <td>+4</td>
-            <td><a href="#embuska-atako">Embuska atako +7W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +7k6</a></td>
         </tr>
         <tr>
             <td>14</td>
@@ -142,7 +142,7 @@
             <td>+9</td>
             <td>+5</td>
             <td>+5</td>
-            <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a>, <a href="#embuska-atako">Embuska atako +8W6</a></td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a>, <a href="#embuska-atako">Embuska atako +8k6</a></td>
         </tr>
         <tr>
             <td>16</td>
@@ -158,7 +158,7 @@
             <td>+10</td>
             <td>+5</td>
             <td>+5</td>
-            <td><a href="#embuska-atako">Embuska atako +9W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +9k6</a></td>
         </tr>
         <tr>
             <td>18</td>
@@ -174,7 +174,7 @@
             <td>+11</td>
             <td>+6</td>
             <td>+6</td>
-            <td><a href="#embuska-atako">Embuska atako +10W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +10k6</a></td>
         </tr>
         <tr>
             <td>20</td>
