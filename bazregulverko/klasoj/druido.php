@@ -409,12 +409,12 @@
 
 <p><b>Sorĉoj:</b> La druido efektivigas diajn sorĉojn kiujn li elektas de la sorĉlisto de druidoj, kiuj troveblas en ĉapitro <a href="../sorcxlistoj/">Sorĉlistoj</a>. Kelkaj el tiuj sorĉoj tamen povas kontraŭstari al la etiko, moralo aŭ pensmaniero de la druido kaj ne tiukaze ne estas aplikeblaj. Vidu <a href="#bonaj-malbonaj-lauxlegxaj-hxaosaj-sorcxoj">bonaj, malbonaj, laŭleĝaj kaj ĥaosaj sorĉoj</a>. La druido devas elekti kaj prepari siajn sorĉojn. </p>
 <p>Por elekti kaj efektivigi sorĉon la druido devas havi minimume saĝecon de 10 + sorĉgrado. La malfacilecgrado por savĵetoj kontraŭ sorĉoj de la druido estas 10 + sorĉgrado + SAĜ-modifilo de la druido. </p>
-<p>Kiel aliaj sorĉkonantoj la druido nur povas efektivigi certan kvanton da sorĉoj en unu tago. La sorĉoj por unu tago estas indikitaj en la supra tabelo. Aldone li ricevas kromajn sorĉojn laŭ la alteco de sia saĝeco (vidu tabelon <a href="../ekludi/#atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</a>). </p>
+<p>Kiel aliaj sorĉkonantoj la druido nur povas efektivigi certan kvanton da sorĉoj en unu tago. La sorĉoj por unu tago estas indikitaj en la supra tabelo. Aldone li ricevas kromajn sorĉojn laŭ la alteco de sia saĝeco (vidu paragrafon <a href="../ekludi/#atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</a>). </p>
 <p>La druido pasigas unu horon ĉiutage en trancsimila meditado pri la misteroj de la naturo por reakiri siajn sorĉojn. Li povas elekti ĉiun sorĉon de la sorĉlisto por druidoj se li rajtas efektivigi la sorĉgradon. Li devas elekti dum la meditado kiujn sorĉojn li preparas por la tago. </p>
 
 <p><b>Spontane sorĉi:</b> La druido povas uzi preparitan sorĉpovon por sorĉvenigi aliancanojn. La druido povas fordoni unu preparitan sorĉon por sorĉvenigi naturaliancanon de sama aŭ malpli alta grado. </p>
 
-<p id="bonaj-malbonaj-lauxlegxaj-hxaosaj-sorcxoj"><b>Bonaj, malbonaj, laŭleĝaj kaj ĥaosaj sorĉoj:</b> La druido ne povas efektivigi sorĉojn kiuj kontraŭstaras sian pensmanieron aŭ la la pensmanieron de sia dio (se li sekvas iun dion). Sorĉoj kiuj postulas certan pensmanieron havas rilatan indikon en sia priskribo. </p>
+<p id="bonaj-malbonaj-lauxlegxaj-hxaosaj-sorcxoj"><b>Bonaj, malbonaj, laŭleĝaj kaj ĥaosaj sorĉoj:</b> La druido ne povas efektivigi sorĉojn kiuj kontraŭstaras lian pensmanieron aŭ la pensmanieron de lia dio (se li sekvas iun dion). Sorĉoj kiuj postulas certan pensmanieron havas rilatan indikon en sia priskribo. </p>
 
 <p id="pregxoj"><b>Preĝoj:</b> La druido povas ĉiutage prepari certan kvanton da preĝoj aŭ sorĉoj de la 0a grado laŭ la supra tabelo en la kolumno "sorĉoj por unu tago". Tiuj sorĉoj efektiviĝas kiel aliaj sed ili ne eluziĝas kaj povas esti efektivigitaj denove. </p>
 
