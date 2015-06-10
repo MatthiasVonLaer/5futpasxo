@@ -1,7 +1,9 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Kleriko</title>
 <h1>Kleriko</h1>
+
+<img src="../../bildoj/kleriko.jpg" style="width:50%;">
 
 <p><b>Rolo:</b> Klerikoj kapablas defendi la gracon de sia dio en la batalo. Ne malofte ili estas kuraĝaj kaj kapablaj batalistoj. Ilia vera forto tamen estas ilia ebleco enfokusigi pozitivan aŭ negativan energion por fortigi sin kaj siajn aliancanojn en la batalo, malhelpi siajn malamikojn kaj sanigi siajn amikojn. </p>
 <p><b>Pensmaniero:</b> La pensmaniero de la kleriko nur rajtas devii unu paŝon de la pensmaniero de lia dio. Do ĝi rajtas diferenci unu paŝon sur unu el la du aksoj (ĥaosa-laŭleĝa aŭ bona-malbona).</p>
@@ -418,19 +420,19 @@
 <p>Klerikoj meditas kaj preĝas por ricevi siajn sorĉojn. La kleriko bezonas unu horon ĉiutage kiun li pasigas en kontempla trankvilo aŭ devoteco por rericevi siajn sorĉojn. Rasttempoj ne rilatas al la preparado de sorĉoj. Dum la meditado li elektas sorĉojn por la tago. Li povas elekti ĉiun sorĉon de la sorĉlisto de kleriko, se li jam rajtas uzi sorĉojn de tiu grado. </p>
 
 <p id="enfokusigi-energion"><b>Enfokusigi energion (SNE):</b> Ĉiu kleriko povas enfokusigi energion sendepende de sia pensmaniero per sankta aŭ malsankta simbolo de sia kredo. Per tio li liberigas ondon de dia potenco en formo pozitiva aŭ negativa energio. La enfokusigita energio povas aŭ sanigi aŭ lezi kreaĵojn en la trafopovo depende de kiu energio estas liberigita kaj kiuj kreaĵoj estas trafitaj. </p>
-<p>Bona kleriko (aŭ kleriko kiu adoras bonan dion) nur povas enfokusigi pozitivan energion kaj per tio aŭ lezi malmortulojn aŭ sanigi vivantajn kreaĵojn laŭ elekto. Malbona kleriko (aŭ kleriko kiu adoras malbonan dion) nur povas enfokusigi negativan energion kaj per tio aŭ lezi vivantajn kreaĵtojn aŭ sanigi malmortulojn laŭ elekto. Neŭtrala kleriko kiu adoras neŭtralan dion (aŭ ne adoras unu solan dion) devas decidi ĉu li volas enfokusigi pozitivan aŭ negativan energion. Post la elekto tio ne plu povas esti ŝanĝota. De la tipo de energion kiun la kleriko povas enfokusigi ankaŭ dependas ĉu liaj spontanaj sorĉoj sanigas aŭ lezas (vidu <a href="#spontanaj-sorĉoj">Spontanaj sorĉoj</a>). </p>
+<p>Bona kleriko (aŭ kleriko kiu adoras bonan dion) nur povas enfokusigi pozitivan energion kaj per tio aŭ lezi malmortulojn aŭ sanigi vivantajn kreaĵojn laŭ elekto. Malbona kleriko (aŭ kleriko kiu adoras malbonan dion) nur povas enfokusigi negativan energion kaj per tio aŭ lezi vivantajn kreaĵtojn aŭ sanigi malmortulojn laŭ elekto. Neŭtrala kleriko kiu adoras neŭtralan dion (aŭ ne adoras unu solan dion) devas decidi ĉu li volas enfokusigi pozitivan aŭ negativan energion. Post la elekto tio ne plu povas esti ŝanĝota. De la tipo de energion kiun la kleriko povas enfokusigi ankaŭ dependas ĉu liaj spontaneaj sorĉoj sanigas aŭ lezas (vidu <a href="#spontaneaj-sorĉoj">Spontaneaj sorĉoj</a>). </p>
 <p>La enfokusigita energio kreas impulson kiu havas efikon al ĉiuj kreaĵoj de unu tipo (aŭ vivanta aŭ malmortula) en la ĉirkaŭaĵo de 9 metroj ĉirkaŭ la kleriko. </p>
 <p>La kvanto da damaĝopoentoj kiuj estas sanigataj aŭ kaŭzataj egalas al 1k6 damaĝôn + po 1k6 damaĝo por ĉiuj 2 niveloj post la 1a nivelo de la kleriko (2k6 je la 3a nivelo, 3k6 je la 5a nivelo, ktp.). Kreaĵoj kiuj suferas damaĝon per enfokusigita energio povas duonigi la damaĝôn per sukcesa voloĵeto. La malfacilecogrado de la savoĵeto estas 10 + &frac12; klerikonivelo + KAR-modivilo de kleriko. Estaĵoj kiuj estas sanigitaj per enfokusigita energio ne povas ricevi pli da poentoj de sanigo ol ilia maksimuma valoro de vivpoentoj. Ĉiu plia sanigi perdiĝas. La kleriko povas uzi tiun eblecon (3 + KAR-modifilo de la kleriko) fojojn ĉiutage. Tio estas bazago kiu ne provokas okazatakon. La kleriko povas decidi ĉu li volas esti trafata de la efiko aŭ ne. La kleriko devas esti kapabla prezenti sian sanktan simbolon por uzi tiun eblecon. </p>
 
 <p id="sferoj"><b>Sferoj:</b> La dio de kleriko influas lian pensmanieron, kian magion li povas apliki, liajn valorojn kaj kiel aliaj vidas lin. La kleriko elektas du sferojn kiuj apartenas al lia dio. La kleriko nur povas elekti sferon de pensmaniero (bona, malbona, laŭleĝa aŭ ĥaosa) se lia elekto kongruas al lia pensmaniero. Se la kleriko ne adoras unu solan dion, li ankaŭ povas elekti du sferojn kiuj kongruas al lia spirita deklino (laŭ interkonsento kun la ludgvidanto). La restrikto por la pensmaniero ankaŭ validas tiukaze. </p>
-<p>Ĉiu sfero donas depende de la klerikonivelo sferofortojn kaj kromajn sorĉojn. La kleriko aldone ricevas unu plian sorĉaplikon ĉiutage por sferosorĉojn por ĉiu sorĉogrado kiun li povas uzi. La kleriko devas decidi ĉiutage kiun sferosorĉon li preparas el la disponeblajn sferosorĉojn. Se la sferosorĉo ne troveblas sur la sorĉolisto de klerikoj, li nur povas prepari ĝin por la apliko de sferosorĉo. Sferosorĉoj ne povas uzataj por spontane sorĉi. Se ne estas alie indikita, la aktivado de sferosorĉo estas bazago. </p>
+<p>Ĉiu sfero donas depende de la klerikonivelo sferofortojn kaj kromajn sorĉojn. La kleriko aldone ricevas unu plian sorĉaplikon ĉiutage por sferosorĉojn por ĉiu sorĉogrado kiun li povas uzi. La kleriko devas decidi ĉiutage kiun sferosorĉon li preparas el la disponeblajn sferosorĉojn. Se la sferosorĉo ne troveblas sur la sorĉolisto de klerikoj, li nur povas prepari ĝin por la apliko de sferosorĉo. Sferosorĉoj ne povas uzataj por spontanee sorĉi. Se ne estas alie indikita, la aktivado de sferosorĉo estas bazago. </p>
 <p>Aldone la kleriko ricevas la fortojn de ambaŭ sferoj, se lia nivelo estas sufiĉe alta. La listo de klerikosferoj troveblas je la fino de la priskribo de tiu klaso. </p>
 
 <p id="pregxoj"><b>Preĝoj:</b> La kleriko povas prepari certan kvanton da preĝoj kiuj egalas la nombron de sorĉoj de la 0a grado en la supra tabelo. Tiuj sorĉoj estas traktataj rilate al daŭro kaj aliaj variabloj same kiel aliaj sorĉoj nur ke ili ne estas eluzitaj se la kleriko efektivigas ilin, do li povas uzi ilin denove. </p>
 
-<p id="spontane-sorcxi"><b>Spontane sorĉi:</b> Bona kleriko (aŭ neŭtrala kleriko kiu adoras bonan dion) povas uzi preparitan sorĉforton por transformi ĝin al sanigo. La kleriko povas fordoni preparitan sorĉon kiu nek estas preĝo nek sferosorĉo por efektivigi sanigan sorĉon de sama grado. Kiel saniga sorĉo validas ĉiu sorĉo kun "sanigi" en la nomo. </p>
+<p id="spontanee-sorcxi"><b>Spontanee sorĉi:</b> Bona kleriko (aŭ neŭtrala kleriko kiu adoras bonan dion) povas uzi preparitan sorĉforton por transformi ĝin al sanigo. La kleriko povas fordoni preparitan sorĉon kiu nek estas preĝo nek sferosorĉo por efektivigi sanigan sorĉon de sama grado. Kiel saniga sorĉo validas ĉiu sorĉo kun "sanigi" en la nomo. </p>
 <p> Malbona kleriko (aŭ neŭtrala kleriko kiu adoras malbonan dion) ne povas transformi sorĉon al saniga sorĉo, sed al damaĝiga sorĉo de sama grado (damaĝiga sorĉo estas sorĉo kun "kaŭzi vundojn" en la nomo). </p>
-<p>Kleriko kiu estas nek bona nek malbona devas decidi ĉu li volas sanigi aŭ kaŭzi vundojn spontane. Se li faris la elekton li poste ne plu povas ŝanĝi ĝin. Tiu elekto ankaŭ decidas ĉu li povas enfokusigi pozitivan (sanigi) aŭ negativan (kaŭzi vundojn) energion (vidu <a href="#enfokusigi-energion">Enfokusigi energion</a>). </p>
+<p>Kleriko kiu estas nek bona nek malbona devas decidi ĉu li volas sanigi aŭ kaŭzi vundojn spontanee. Se li faris la elekton li poste ne plu povas ŝanĝi ĝin. Tiu elekto ankaŭ decidas ĉu li povas enfokusigi pozitivan (sanigi) aŭ negativan (kaŭzi vundojn) energion (vidu <a href="#enfokusigi-energion">Enfokusigi energion</a>). </p>
 
 <p id="bonaj-malbonaj-lauxlegxaj-hxaosaj-sorcxoj"><b>Bonaj, malbonaj, laŭleĝaj kaj ĥaosaj sorĉoj:</b> La kleriko ne povas efektivigi sorĉojn kiuj kontraŭstaras lian pensmanieron aŭ la pensmanieron de lia dio (se li sekvas iun dion). Sorĉoj kiuj postulas certan pensmanieron havas rilatan indikon en sia priskribo. </p>
 
@@ -441,4 +443,39 @@
 
 <h2>Sferoj</h2>
 <p>La kleriko povas elekti du sferojn de la listo de sferoj de sia dio. Kleriko sen dio povas elekti du ajnajn sferojn (la ludgvidanto devas interkonsenti kun tiu elekto). </p>
-<?php require '../../pagxpiedo.php' ?>
+
+<h3 class="tradukinda">Sfero de aero</h3>
+<h3 class="tradukinda">Sfero de akvo</h3>
+<h3 class="tradukinda">Sfero de artifiko</h3>
+<h3 class="tradukinda">Sfero de bestoj</h3>
+<h3 class="tradukinda">Sfero de bono</h3>
+<h3 class="tradukinda">Sfero de bonŝanco</h3>
+<h3 class="tradukinda">Sfero de detruo</h3>
+<h3 class="tradukinda">Sfero de forto</h3>
+<h3 class="tradukinda">Sfero de frenezeco</h3>
+<h3 class="tradukinda">Sfero de glorio</h3>
+<h3 class="tradukinda">Sfero de ĥaoso</h3>
+<h3 class="tradukinda">Sfero de komuno</h3>
+<h3 class="tradukinda">Sfero de liberigo</h3>
+<h3 class="tradukinda">Sfero de magio</h3>
+<h3 class="tradukinda">Sfero de malbono</h3>
+<h3 class="tradukinda">Sfero de mallumo</h3>
+<h3 class="tradukinda">Sfero de metio</h3>
+<h3 class="tradukinda">Sfero de milito</h3>
+<h3 class="tradukinda">Sfero de morto</h3>
+<h3 class="tradukinda">Sfero de nobelo</h3>
+<h3 class="tradukinda">Sfero de ordo</h3>
+<h3 class="tradukinda">Sfero de plantoj</h3>
+<h3 class="tradukinda">Sfero de protekto</h3>
+<h3 class="tradukinda">Sfero de ripozo</h3>
+<h3 class="tradukinda">Sfero de runoj</h3>
+<h3 class="tradukinda">Sfero de sanigo</h3>
+<h3 class="tradukinda">Sfero de scio</h3>
+<h3 class="tradukinda">Sfero de suno</h3>
+<h3 class="tradukinda">Sfero de tero</h3>
+<h3 class="tradukinda">Sfero de transsorĉado</h3>
+<h3 class="tradukinda">Sfero de vetero</h3>
+<h3 class="tradukinda">Sfero de vojaĝo</h3>
+
+
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

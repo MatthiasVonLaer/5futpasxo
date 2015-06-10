@@ -1,12 +1,12 @@
-<?php require 'pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require 'pagxkapo.php' ?>
 
 <title>Mallongiloj</title>
+<h1>Mallongiloj</h1>
 
 <table>
-    <caption>Tabelo: Mallongiloj</caption>
     <thead>
         <tr>
-            <th>Mallongilo</th><th>Signifo</th>
+            <th>Mallongigo</th><th>Signifo</th>
         </tr>
     </thead>
     <tbody>
@@ -73,4 +73,4 @@
     </tbody>
 </table>
 
-<?php require 'pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require 'pagxpiedo.php' ?>

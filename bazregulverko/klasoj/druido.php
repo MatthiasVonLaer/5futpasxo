@@ -1,8 +1,10 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Druido</title>
 
 <h1>Druido</h1>
+
+<img src="../../bildoj/druido.jpg" style="width:50%;">
 
 <p><b>Rolo:</b> Druidoj kaj iliaj bestkunuloj povas plenumi multajn diversajn taskojn. Kelkaj ne volas esti implikitaj en la batalo sed lasas siajn kunulojn kaj sorĉvenigitajn estaĵojn batali kiam ili mem konfuzas la malamikon per helpo de naturaj fortoj. Aliaj transformiĝas al mortiga besto kaj impetas en la batalon. </p>
 <p><b>Pensmaniero:</b> neŭtrala bona, laŭleĝa neŭtrala, neŭtrala, ĥaosa neŭtrala aŭ neŭtrala malbona</p>
@@ -404,7 +406,7 @@
 
 <p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la druido. </p>
 
-<p><b>Sperto kun armiloj kaj armaĵoj:</b> La druido havas sperton kun la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#serpo">serpo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#jxetsagoj">ĵetsagoj</a>, <a href="../ekipajxo/#cimitaro">cimitaro</a> kaj <a href="../ekipajxo/#falcxilo">falĉilo</a>. Aldone li havas sperton kun ĉiu natura armilo kiun li povas havi en zooformo (vidu <a href="#zooformo">zooformo</a>). Druidoj havas sperton kun malpezaj kaj mezpezaj armaĵoj sed ne povas porti metalan armaĵon. Ilia elekto do estas inter armaĵĵupo, ledaramaĵo aŭ felarmaĵo. La druido ankaŭ povas porti lignan kirason kiu per sorĉo estas transformita al ferligno kiu protektas lin kiel ŝtalo. Druidoj povas uzi ŝildojn krom turŝildoj sed nur povas uzi ŝîldojn kiuj estas fabrikitaj de ligno. </p>
+<p><b>Sperto kun armiloj kaj armaĵoj:</b> La druido havas sperton kun la <a href="../ekipajxo/#ponardo">ponardo</a>, <a href="../ekipajxo/#serpo">serpo</a>, <a href="../ekipajxo/#klabo">klabo</a>, <a href="../ekipajxo/#lanco-kurta">lanco kurta</a>, <a href="../ekipajxo/#bastono-ferita">bastono ferita</a>, <a href="../ekipajxo/#lanco">lanco</a>, <a href="../ekipajxo/#sxtonjxetilo">ŝtonĵetilo</a>, <a href="../ekipajxo/#jxetsagoj">ĵetsagoj</a>, <a href="../ekipajxo/#cimitaro">cimitaro</a> kaj <a href="../ekipajxo/#falcxilo">falĉilo</a>. Aldone li havas sperton kun ĉiu natura armilo kiun li povas havi en zooformo (vidu <a href="#zooformo">zooformo</a>). Druidoj havas sperton kun malpezaj kaj mezpezaj armaĵoj sed ne povas porti metalan armaĵon. Ilia elekto do estas inter armaĵĵupo, ledaramaĵo aŭ felarmaĵo. La druido ankaŭ povas porti lignan kirason kiu per sorĉo estas transformita al ferligno kiu protektas lin kiel ŝtalo. Druidoj povas uzi ŝildojn krom turŝildoj sed nur povas uzi ŝildojn kiuj estas fabrikitaj de ligno. </p>
 <p> Druido kiu uzas malpermesatan armaĵon aŭ uzas malpermasatan ŝildon ne povas sorĉi nek efektivigi siajn supernaturajn kaj sorĉsimilajn klaskarakterizaĵojn dum 24 horojn. </p>
 
 <p><b>Sorĉoj:</b> La druido efektivigas diajn sorĉojn kiujn li elektas de la sorĉlisto de druidoj, kiuj troveblas en ĉapitro <a href="../sorcxlistoj/">Sorĉlistoj</a>. Kelkaj el tiuj sorĉoj tamen povas kontraŭstari al la etiko, moralo aŭ pensmaniero de la druido kaj ne tiukaze ne estas aplikeblaj. Vidu <a href="#bonaj-malbonaj-lauxlegxaj-hxaosaj-sorcxoj">bonaj, malbonaj, laŭleĝaj kaj ĥaosaj sorĉoj</a>. La druido devas elekti kaj prepari siajn sorĉojn. </p>
@@ -412,7 +414,7 @@
 <p>Kiel aliaj sorĉkonantoj la druido nur povas efektivigi certan kvanton da sorĉoj en unu tago. La sorĉoj por unu tago estas indikitaj en la supra tabelo. Aldone li ricevas kromajn sorĉojn laŭ la alteco de sia saĝeco (vidu paragrafon <a href="../ekludi/#atributoj-kaj-sorcxkonantoj">Atributoj kaj sorĉkonantoj</a>). </p>
 <p>La druido pasigas unu horon ĉiutage en trancsimila meditado pri la misteroj de la naturo por reakiri siajn sorĉojn. Li povas elekti ĉiun sorĉon de la sorĉlisto por druidoj se li rajtas efektivigi la sorĉgradon. Li devas elekti dum la meditado kiujn sorĉojn li preparas por la tago. </p>
 
-<p><b>Spontane sorĉi:</b> La druido povas uzi preparitan sorĉpovon por sorĉvenigi aliancanojn. La druido povas fordoni unu preparitan sorĉon por sorĉvenigi naturaliancanon de sama aŭ malpli alta grado. </p>
+<p><b>Spontanee sorĉi:</b> La druido povas uzi preparitan sorĉpovon por sorĉvenigi aliancanojn. La druido povas fordoni unu preparitan sorĉon por sorĉvenigi naturaliancanon de sama aŭ malpli alta grado. </p>
 
 <p id="bonaj-malbonaj-lauxlegxaj-hxaosaj-sorcxoj"><b>Bonaj, malbonaj, laŭleĝaj kaj ĥaosaj sorĉoj:</b> La druido ne povas efektivigi sorĉojn kiuj kontraŭstaras lian pensmanieron aŭ la pensmanieron de lia dio (se li sekvas iun dion). Sorĉoj kiuj postulas certan pensmanieron havas rilatan indikon en sia priskribo. </p>
 
@@ -421,7 +423,7 @@
 <p id="aldonaj-lingvoj"><b>Aldonaj lingvoj:</b> La druido povas aldone al la lingvoj de sia popolo leri la silvanan, la lingvon de arbaAKreaĵoj. </p>
 <p> La druido lernas krome la sekretan lingvon druidan je la 1a nivelo. Tiun lingvon la druido ricevas aldone al siaj aliaj lingvoj. Al druidoj estas malpermesitaj instrui tiun lingon al aliaj. La druida havas propran alfabeton. </p>
 
-<p id="alianco-kun-la-naturo"><b>Alianco kun la naturo:</b> Druido de la 1a nivelo faras aliancon kun la naturo. Tiu povas havi du formojn kaj la druido devas elekti unu. Aŭ la druido elektas intiman aliancon kun la naturo kiu permesas al li akiri unu el la klerikaj sferoj tero, fajro, aero, plantoj, bestoj, akvo aŭ vetero. Por determini la povojn kaj sorĉojn de la sfero la druidonivelo kalkuliĝas kiel klerikonivelo. Druido kiu elektas tiun formon de alianco ricevas unu kroman sorĉon por la sferosorĉo same kiel la kleriko. Li devas prepari unu sferosorĉon por tiu kroma sorĉo kaj ne povas uzi tiun sorĉon por spontane sorĉi. </p>
+<p id="alianco-kun-la-naturo"><b>Alianco kun la naturo:</b> Druido de la 1a nivelo faras aliancon kun la naturo. Tiu povas havi du formojn kaj la druido devas elekti unu. Aŭ la druido elektas intiman aliancon kun la naturo kiu permesas al li akiri unu el la klerikaj sferoj tero, fajro, aero, plantoj, bestoj, akvo aŭ vetero. Por determini la povojn kaj sorĉojn de la sfero la druidonivelo kalkuliĝas kiel klerikonivelo. Druido kiu elektas tiun formon de alianco ricevas unu kroman sorĉon por la sferosorĉo same kiel la kleriko. Li devas prepari unu sferosorĉon por tiu kroma sorĉo kaj ne povas uzi tiun sorĉon por spontanee sorĉi. </p>
 <p> Aŭ la druido druido elektas bestkunulon kiel elekto por sia alianco kun la naturo. La druido komencas la ludon kun bestkunulon kiu troveblas en la paragafo <a href="#bestkunuloj">bestkunuloj</a>. La kunulo estas fidela kamarado kaj akompanas la druidon konforme al sia specion. </p>
 <p> Alie ol ĉe kutimaj bestoj la vivkubetoj, la atributoj, la kapablecoj kaj talentoj de la bestkunulo altiĝas en sama maniero kiel la druido altiĝas en nivelo. Se rolulo ricevas bestkunulon de diversaj fontoj, la efikaj druidoniveloj sumiĝas se temas pri determini la valorojn kaj eblecojn de la kunulo. Plejmulto de bestkunuloj krekas en grandeco se la druido atingas la 4an aŭ 7an nivelon depende de la specion de la kunulo. Se la druido separiĝas de sia bestkunulo, li povas post rito de seninterrompa preĝado dum 24 horoj en la ĉiAKaŭaĵo, kie la nova bestkunulo kutime havas sian vivospacon, trovi novan bestkunulon. Per tia rito la druido ankaŭ povas trovi novan kunulon se la ĝisnuna bestkunulo mortis. </p>
 
@@ -482,6 +484,7 @@
 <b>Specife:</b> Ĉi tie troveblas eblecoj kiujn akiras la beston kiam ĝia povo altiĝas. La diversaj eblecoj havas priskribojn malsupren. </p>
 
 <table>
+    <caption>Tabelo: Bazaj valoroj de bestkunulo</caption
     <thead>
         <tr><th>Nivelo</th><th>VK</th><th>BAB</th><th>REF</th><th>VOL</th><th>PER</th><th>Kapablecoj</th><th>Talentoj</th><th>Natura AK</th><th>FOR/LER</th><th>Kromaj artifikoj</th><th>Specife</th></tr>
     </thead>
@@ -509,7 +512,7 @@
     </tbody>
 </table>
 
-<p id="konekto"><b>Konekto (EE):</b> La druido povas interrilati kun la kunulo per libera ago kaj povas instigi ĝîn per movago eĉ se li ne havas rangon en interrilati kun bestoj. La druido ricevas situaciobonon +4 por ĵetoj de bestkunsento kaj interrilati kun bestoj por la kunulo. </p>
+<p id="konekto"><b>Konekto (EE):</b> La druido povas interrilati kun la kunulo per libera ago kaj povas instigi ĝin per movago eĉ se li ne havas rangon en interrilati kun bestoj. La druido ricevas situaciobonon +4 por ĵetoj de bestkunsento kaj interrilati kun bestoj por la kunulo. </p>
 
 <p id="kunpartigi-sorcxojn"><b>Kunpartigi sorĉojn (EE):</b> La druido povas efektivigi sorĉojn kiujn li kutime nur rajtus efektivigi al si mem ankaŭ al la kunulon (kiel sorĉo kun la trafopovo tuŝo). Tiuj ankaŭ povas esti sorĉoj kiuj kutime ne aplikeblas al bestoj. Sorĉojn kiuj estas efektivigitaj tiamaniere devas deveni de klaso kiu havas bestkunulon. Tiu ebleco ne permesas kunpartigi ecojn kun la bestkunulo eĉ se ili efektiviĝas kiel sorĉoj. </p>
 
@@ -667,5 +670,4 @@ Bestkunuloj povas elekti el la sekvantaj talentoj:
     </ul>
 </div>
 
-<?php require '../../pagxpiedo.php' ?>
-
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

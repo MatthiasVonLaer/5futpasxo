@@ -21,6 +21,9 @@ function kontrolilo()
     preg_match_all("/<a[^\>]*href=\"([^\>]*)\">/", $enhavo, $trovoj, PREG_SET_ORDER);
 
     foreach($trovoj as $trovo) {
+        if(strpos($trovo[0], 'class="eksterna"') != false)
+            continue;
+
         $href = $trovo[1];
         $eroj = explode("#", $href);
 

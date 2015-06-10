@@ -1,7 +1,12 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Batalisto</title>
 
+<h1>Batalisto</h1>
+
+<img src="../../bildoj/batalisto.jpg" style="width:35%;">
+
+<p><b>Rolo:</b> Batalistoj estas, kiel la nomo ja jam diras, eksterordinaraj batalistoj, venkas malamikojn, regas la batalon kaj povas transvivi ajnan buĉadon. Ankaŭ aliaj personoj povas per specialaj armiloj aŭ metodoj evoluigi diversajn taktikojn sed la plejmalmulto el ili atingas la batalpovon de batalistoj. </p>
 <p><b>Pensmaniero:</b> ĉiu</p>
 <p><b>Vivkubetoj:</b> k10</p>
 <p><b>Oro je la komenco:</b> 5k6 &times; 10mo (mezkvanta 175mo)
@@ -27,7 +32,7 @@
             <td>+0</td>
             <td>+0</td>
             <td>+2</td>
-            <td><a href="#Bonustalent">Bonustalent</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a></td>
         </tr>
         <tr>
             <td>2</td>
@@ -35,7 +40,7 @@
             <td>+0</td>
             <td>+0</td>
             <td>+3</td>
-            <td><a href="#Bonustalent">Bonustalent</a>, <a href="#Tapferkeit">Tapferkeit +1</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a>, <a href="#braveco">Braveco +1</a></td>
         </tr>
         <tr>
             <td>3</td>
@@ -43,7 +48,7 @@
             <td>+1</td>
             <td>+1</td>
             <td>+3</td>
-            <td><a href="#Rüstungstraining">Rüstungstraining 1</a></td>
+            <td><a href="#armajxotrejnado">Armaĵotrejnado 1</a></td>
         </tr>
         <tr>
             <td>4</td>
@@ -51,7 +56,7 @@
             <td>+1</td>
             <td>+1</td>
             <td>+4</td>
-            <td><a href="#Bonustalent">Bonustalent</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a></td>
         </tr>
         <tr>
             <td>5</td>
@@ -59,7 +64,7 @@
             <td>+1</td>
             <td>+1</td>
             <td>+4</td>
-            <td><a href="#Waffentraining">Waffentraining 1</a></td>
+            <td><a href="#armilotrejnado">Armilotrajnado 1</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -67,7 +72,7 @@
             <td>+2</td>
             <td>+2</td>
             <td>+5</td>
-            <td><a href="#Bonustalent">Bonustalent</a>, <a href="#Tapferkeit">Tapferkeit +2</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a>, <a href="#braveco">Braveco +2</a></td>
         </tr>
         <tr>
             <td>7</td>
@@ -75,7 +80,7 @@
             <td>+2</td>
             <td>+2</td>
             <td>+5</td>
-            <td><a href="#Rüstungstraining">Rüstungstraining 2</a></td>
+            <td><a href="#armajxotrejnado">Armaĵotrejnado 2</a></td>
         </tr>
         <tr>
             <td>8</td>
@@ -83,7 +88,7 @@
             <td>+2</td>
             <td>+2</td>
             <td>+6</td>
-            <td><a href="#Bonustalent">Bonustalent</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a></td>
         </tr>
         <tr>
             <td>9</td>
@@ -91,7 +96,7 @@
             <td>+3</td>
             <td>+3</td>
             <td>+6</td>
-            <td><a href="#Waffentraining">Waffentraining 2</a></td>
+            <td><a href="#armilotrejnado">Armilotrajnado 2</a></td>
         </tr>
         <tr>
             <td>10</td>
@@ -99,7 +104,7 @@
             <td>+3</td>
             <td>+3</td>
             <td>+7</td>
-            <td><a href="#Bonustalent">Bonustalent</a>, <a href="#Tapferkeit">Tapferkeit +3</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a>, <a href="#braveco">Braveco +3</a></td>
         </tr>
         <tr>
             <td>11</td>
@@ -107,7 +112,7 @@
             <td>+3</td>
             <td>+3</td>
             <td>+7</td>
-            <td><a href="#Rüstungstraining">Rüstungstraining 3</a></td>
+            <td><a href="#armajxotrejnado">Armaĵotrejnado 3</a></td>
         </tr>
         <tr>
             <td>12</td>
@@ -115,7 +120,7 @@
             <td>+4</td>
             <td>+4</td>
             <td>+8</td>
-            <td><a href="#Bonustalent">Bonustalent</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a></td>
         </tr>
         <tr>
             <td>13</td>
@@ -123,7 +128,7 @@
             <td>+4</td>
             <td>+4</td>
             <td>+8</td>
-            <td><a href="#Waffentraining">Waffentraining 3</a></td>
+            <td><a href="#armilotrejnado">Armilotrajnado 3</a></td>
         </tr>
         <tr>
             <td>14</td>
@@ -131,7 +136,7 @@
             <td>+4</td>
             <td>+4</td>
             <td>+9</td>
-            <td><a href="#Bonustalent">Bonustalent</a>, <a href="#Tapferkeit">Tapferkeit +4</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a>, <a href="#braveco">Braveco +4</a></td>
         </tr>
         <tr>
             <td>15</td>
@@ -139,7 +144,7 @@
             <td>+5</td>
             <td>+5</td>
             <td>+9</td>
-            <td><a href="#Rüstungstraining">Rüstungstraining 4</a></td>
+            <td><a href="#armajxotrejnado">Armaĵotrejnado 4</a></td>
         </tr>
         <tr>
             <td>16</td>
@@ -147,7 +152,7 @@
             <td>+5</td>
             <td>+5</td>
             <td>+10</td>
-            <td><a href="#Bonustalent">Bonustalent</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a></td>
         </tr>
         <tr>
             <td>17</td>
@@ -155,7 +160,7 @@
             <td>+5</td>
             <td>+5</td>
             <td>+10</td>
-            <td><a href="#Waffentraining">Waffentraining 4</a></td>
+            <td><a href="#armilotrejnado">Armilotrajnado 4</a></td>
         </tr>
         <tr>
             <td>18</td>
@@ -163,7 +168,7 @@
             <td>+6</td>
             <td>+6</td>
             <td>+11</td>
-            <td><a href="#Bonustalent">Bonustalent</a>, <a href="#Tapferkeit">Tapferkeit +5</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a>, <a href="#braveco">Braveco +5</a></td>
         </tr>
         <tr>
             <td>19</td>
@@ -171,7 +176,7 @@
             <td>+6</td>
             <td>+6</td>
             <td>+11</td>
-            <td><a href="#Rüstungsmeisterschaft">Rüstungsmeisterschaft</a></td>
+            <td><a href="#armajxomajstreco">Armaĵomajstreco</a></td>
         </tr>
         <tr>
             <td>20</td>
@@ -179,11 +184,18 @@
             <td>+6</td>
             <td>+6</td>
             <td>+12</td>
-            <td><a href="#Bonustalent">Bonustalent</a>, <a href="#Waffenmeisterschaft">Waffenmeisterschaft</a></td>
+            <td><a href="#kroma-talento">Kroma talento</a>, <a href="#armilomajstreco">Armilomajstreco</a></td>
         </tr>
     </tbody>
 </table>
 
+<h2>Klasaj karakterizaĵoj</h2>
+
+<p> La sekvantaj eblecoj estas la klasaj karakterizaĵoj de la batalisto. </p>
+
+<p> <b>Sperto kun armiloj kaj armaĵoj:</b> La batalisto havas sperton kun ĉiuj simplaj kaj militaj armiloj. Li estas sperta kun ĉiuj armaĵoj kaj ŝildoj inkluzive turŝildoj.</p>
+
+<p id="kroma-talento"><b>Kroma talento:</b> Je la 1a nivelo kaj poste je ĉia para nivelo la batalisto ricevas kroman talenton aldone al tiuj kiuj li ricevas je la altiĝo de nivelo. Tiel la batalisto ricevas je ĉiu nivelo novan talenton. Tiuj talentoj devas esti elektataj el listo de batalotalentoj kiuj ankaŭ nomiĝas kromaj talentoj por la batalisto. </p>
 <p>Je la 4a nivelo kaj je ĉiu plia kvara nivelo (je la 8a, 12a, ktp.) la batalisto povas elekti novan kroman talenton kiun li ricevas anstataŭ iu ajna jam lernita kroma talento. Efektive li ŝanĝas malnovan kroman talenton kontraŭ nova kroma talento. La malnova kroma talento ne rajtas esti uzita kiel kondiĉo por alia talento, por prestiĝklaso aŭ alia ebleco. La batalisto nur povas ŝanĝi talenton kiam li atingas la antaŭe indikitajn nivelojn. Tiam kiam li ricevas la kroman talenton, li devas decidi ĉu li faras ŝanĝon aŭ ne. </p>
 
 <p id="braveco"><b>Braveco (EE):</b> Ekde la 2a nivelo la batalisto ricevas bonon +1 por voloĵetoj kontraŭ timo. Tiu bono altiĝas je ĉiu kvara nivelo post la 2a je +1. </p>
@@ -215,4 +227,4 @@
 
 <p id="armilomajstreco"><b>Armilomajstreco (EE):</b> Je la 20a nivelo la batalisto elektas armilon kiel ekzemple la <a href="../ekipajxo/#glavo-longa">glavo longa</a>, <a href="../ekipajxo/#labriso">labriso</a> aŭ <a href="../ekipajxo/#arko-longa">arko longa</a>. Kun tiu armilo li aŭtomate konfirmas ĉiun ŝancon por kritia trafo. Aldone la multiplikanto por la kritika trafo altiĝas je unu (&times;2 iĝas &times;3 ktp.). Se la batalisto tenas tiun armilon li ne povas esti senarmigita. </p>
 
-<?php require '../../pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

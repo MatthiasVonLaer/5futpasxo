@@ -1,6 +1,7 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Talentoj</title>
+<h1>Talentoj</h1>
 
 <h2>Talentpriskribo</h2>
 
@@ -18,7 +19,7 @@
 
 <p> <b>Specife:</b> Kromaj nekutimaj informoj pri la talento. </p>
 
-<table>
+<table class="granda">
     <caption>Tabelo: Talentoj</caption>
     <col width="25%">
     <col width="25%">
@@ -883,7 +884,7 @@
 <p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko tamen ne estas akumula. Ĉiufoje kiam vi elektas la talenton, ĝi aplikiĝas al alia armilo.</p>
 
 <h3 id="armiloruzeco">Armiloruzeco [batalo]</h3>
-<p> Vi estas trajnita por uzi vian lerteco anstataŭ pura forto en la batalo.</p>
+<p> Vi estas trejnita por uzi vian lerteco anstataŭ pura forto en la batalo.</p>
 <p> <b>Avantaĝo:</b> Se vi uzas malpezan armilon, <a href="../ekipajxo/#rapiro">rapiron</a>, <a href="../ekipajxo/#sabro-elfa">sabron elfan</a>, <a href="../ekipajxo/#vipo">vipon</a> aŭ <a href="../ekipajxo/#kateno-najlita">katenon najlitan</a> kiu kongruas al la grandeco de via rolulo, vi povas aldoni anstataŭ la forto modifilo vian lertecomodifilon al viaj atakĵetoj. Se vi portas ŝildon, ties armaĵomalbono aldoniĝas al viaj atakĵetoj.</p>
 <p> <b>Specife:</b> Naturaj armiloj kalkuliĝas ĉiam kiel malpezaj armiloj. </p>
 
@@ -1720,7 +1721,7 @@
 <h3 id="pafajxon-kapti">Pafaĵon kapti [batalo]</h3>
 <p> Anstataŭ preterbati sagojn aŭ alian distancatakon, vi ankaŭ povas kapti la pafaĵon en la aero.</p>
 <p> <b>Kondiĉoj:</b> LER 15, pafaĵon preterdirekti, senarma bato progresita</p>
-<p> <b>Avantaĝo:</b> Se vi uzas la talenton pafaĵon preterdirekti, vi povas kapti la pafaĵon anstataŭ nur preterdirekti ĝîn. Ĵetarmiloj povas esti rekte reĵetataj al la atakanto (kvankam ne estas via vico) aŭ povas esti gardataj por posta uzo.</p>
+<p> <b>Avantaĝo:</b> Se vi uzas la talenton pafaĵon preterdirekti, vi povas kapti la pafaĵon anstataŭ nur preterdirekti ĝin. Ĵetarmiloj povas esti rekte reĵetataj al la atakanto (kvankam ne estas via vico) aŭ povas esti gardataj por posta uzo.</p>
 <p> Por uzi tiun talenton vi devas havi unu liberan manon (ĝi ne rajtas porti ion). </p>
 
 <h3 id="pafajxon-preterdirekti">Pafaĵon preterdirekti [batalo]</h3>
@@ -1959,7 +1960,7 @@
 <p> Vi havas sperton por porti malpezajn armaĵojn.</p>
 <p> <b>Avantaĝo:</b> Se vi portas armaĵon kun kiu vi havas sperton, la armaĵomalbono nur validas por kapablecĵetoj kiuj estas rilataj al forto aŭ lerteco.</p>
 <p> <b>Kutime:</b> Rolulo kiu portas armaĵon kun kiu li ne havas sperton, devas aldoni la armaĵomalbonon al siaj atakĵetoj kaj al ĉiuj kapablecĵetoj kun movado.</p>
-<p> <b>Specife:</b> Krom magiistoj, monaĥoj kaj sorĉistoj, ĉiuj roluloj aŭtomate havas la talenton sperto pri armaĵoj malpezaj kiel kroma talento. Ili ne devas elekti ĝîn.</p>
+<p> <b>Specife:</b> Krom magiistoj, monaĥoj kaj sorĉistoj, ĉiuj roluloj aŭtomate havas la talenton sperto pri armaĵoj malpezaj kiel kroma talento. Ili ne devas elekti ĝin.</p>
 
 <h3 id="sperto-kun-armajxoj-mezpezaj">Sperto kun armaĵoj mezpezaj [batalo]</h3>
 <p> Vi havas sperton por porti mezpezajn armaĵojn.</p>
@@ -2062,4 +2063,4 @@
 <p> Per viaj subtilaj sensoj vi kaptas aĵojn kiuj restas kaŝitaj por aliaj.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por kapablecĵetoj de percepto kaj rekoni motivon. Se vi havas pli ol 10 rangoj en unu kapableco, la bono altiĝas ĉe tiu kapableco al +4. </p>
 
-<?php require '../../pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

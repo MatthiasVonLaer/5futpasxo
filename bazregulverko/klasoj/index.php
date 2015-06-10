@@ -1,4 +1,4 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Klasoj</title>
 <h1>Klasoj</h1>
@@ -115,4 +115,4 @@
 <h3>Preferata klaso</h3>
 <p>Ĉiu rolulo komencas la ludon kun preferata klaso laŭ sia elekto. Kutime tio estas klaso de la unua nivelo. Ĉiam kiam la rolulo altiĝas en sia preferata klaso li ricevas aŭ +1 vivpoenton aŭ +1 kapablecorangon. La elekto de preferata klaso ne plu povas esti ŝanĝita post la kreado de la rolulo. Same la elekto de aldona vivpoento aŭ kapablecorango dum altiĝo (ankaŭ de la 1a nivelo) ne povas esit ŝanĝita poste. Prestiĝklasoj neniam povas esti preferataj klasoj (vidu <a href="../prestigxklasoj/">Prestiĝklasoj</a>).</p>
 
-<?php require '../../pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

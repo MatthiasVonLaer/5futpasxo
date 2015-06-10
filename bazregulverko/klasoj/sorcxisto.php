@@ -1,4 +1,4 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Sorĉisto</title>
 
@@ -439,8 +439,8 @@
 
 <p> La sekvantaj sangolinioj nur reprezentas elekton por eblaj fontoj de magia povo por la sorĉisto. Se ne estas alie skribita, estas supozita ke la sorĉisto devenas de arkana sangolinio. </p>
 
-<h3>Arkana sangolinio</h3>
-<h3>Ĉiela sangolinio</h3>
+<h3 class="tradukinda">Arkana sangolinio</h3>
+<h3 class="tradukinda">Ĉiela sangolinio</h3>
 
 <h3>Demona sangolinio</h3>
 <p>Antaŭ generacioj demono lasis sian semon en via familio. Tiu ne evidentas por ĉiuj familianoj, sed ĉe vi la demona heredaĵo estas aparte forta kaj instigas vin ruini aliajn. </p>
@@ -455,12 +455,12 @@
 <p><em>Aldona venigo (SNE):</em> Ekde la 15a nivelo la sorĉisto venigas aldonan kreaĵon, se li uzas "venigi monstron" sorĉon por demono aŭ infera kreaĵo. </p>
 <p><em>Demona potenco (SNE):</em> Ekde la 20a nivelo la potenco de la abismo trapenetras la sorĉiston. Li estas imuna kontraŭ elektraĵo kaj veneno. Krome li havas rezistencon de 10 kontraŭ acidoj, malvarmo kaj fajro kaj li kapablas telepation (kio ebligas al li interparoli kun ĉiuj kreaĵoj kiuj povas paroli). </p>
 
-<h3>Diabla sangolinio</h3>
-<h3>Draka sangolinio</h3>
-<h3>Elementa sangolinio</h3>
-<h3>Fea sangolinio</h3>
-<h3>Malmortula sangolinio</h3>
-<h3>Malnorma sangolinio</h3>
-<h3>Sorta sangolinio</h3>
+<h3 class="tradukinda">Diabla sangolinio</h3>
+<h3 class="tradukinda">Draka sangolinio</h3>
+<h3 class="tradukinda">Elementa sangolinio</h3>
+<h3 class="tradukinda">Fea sangolinio</h3>
+<h3 class="tradukinda">Malmortula sangolinio</h3>
+<h3 class="tradukinda">Malnorma sangolinio</h3>
+<h3 class="tradukinda">Sorta sangolinio</h3>
 
-<?php require '../../pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

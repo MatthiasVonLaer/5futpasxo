@@ -13,14 +13,24 @@ body {
 }
 
 img {
-    border: 0px solid #BBBBBB;
-    border-radius: 10px;
-    margin-bottom: 20px;
+    border: 7px solid #554433;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 2.5em;
+    float: right;
+    clear: right;
 }
 
 .tradukinda {
-    color: #FFAA00;
+    color: #AAAAAA;
     /*display: none;*/
+}
+
+.informo {
+    background-color: #DDDDDD;
+    border: 1px solid #AAAAAA;
+    margin: 2em;
+    padding: 3em;
 }
 
 .indikoj li {
@@ -72,17 +82,21 @@ h3 + p {
 }
 
 p {
-    margin-bottom: 0.3em;
-    line-height: 1.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.6em;
 }
 
 p + p {
-    margin-top: 0.3em;
+    margin-top: 0.5em;
 }
 
 a {
     color: #10359B;
     text-decoration: none;
+}
+
+a.eksterna {
+    color: #337733;
 }
 
 a:hover {
@@ -218,8 +232,8 @@ tradukinda {
     margin-left: 180px;
     margin-bottom: 65px;
     margin-top: 65px;
-    padding-left: 65px;
-    padding-right: 65px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .supra-navigilo {
@@ -349,3 +363,10 @@ textarea {
     background-color: #DDDDDD;
     color: #222222;
 }
+
+.titolo-libro {
+    font-size: 50px;
+    font-family: titolo;
+    text-align: center;
+}
+

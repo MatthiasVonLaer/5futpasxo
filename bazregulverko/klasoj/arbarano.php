@@ -1,7 +1,9 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Arbarano</title>
 <h1>Arbarano</h1>
+
+<img src="../../bildoj/arbarano.jpg" style="width:50%;">
 
 <p>Kiu amas la nervotiklon de la ĉasado, tiu nur konas la ĉasanton kaj la ĉasaton. Arbaranoj estas skoltoj, spurserĉantaj aŭ ĉasistoj de kapopremioj kaj ili ĉiuj sekvas diversajn vojojn. Ili ĉiuj atingas menciindan scipovon pri certaj armiloj, ili povas malkovri la plej fuĝemajn bestojn kaj ili scias kiel oni mortigas amason da predo. Ili estas saĝaj, paciencaj kaj talentitaj ĉasistoj, ili ĉasas homojn kiel bestojn aŭ monstrojn, kaj ekkonas la vojojn de siaj predoj, ili povas adapti al ĉiu ĉirkaŭaĵo kaj havas sperton en mortigaj batalkapablecoj. Kelkaj arbaranoj ĉasas homomaĝantajn bestojn por protekti la limojn de civilizo, dume aliaj ĉasas pli ruzajn predojn eĉ renegatojn de la propra popolo.</p>
 <p><b>Rolo:</b> Arbaranoj povas brili precipe en bataletoj - proksimaj aŭ distancaj - kaj ili kapablas senpene foriri de la batalon kaj rekomenci la batalon. Iliaj eblecoj ebligas al ili fari grandan damaĝon al certaj malamikoj. Tamen ilia eblecoj estas helpaj kontraŭ ĉiaj malamikoj.</p>
@@ -133,7 +135,7 @@
             <td>+6</td>
             <td>+3</td>
             <td>+6</td>
-            <td><a href="#eskapo">Eskapo</a></td>
+            <td><a href="#sinsavi">Sinsavi</a></td>
             <td>2</td>
             <td>1</td>
             <td>-</td>
@@ -217,7 +219,7 @@
             <td>+10</td>
             <td>+5</td>
             <td>+10</td>
-            <td><a href="#eskapo-progresita">Eskapo progresita</a></td>
+            <td><a href="#sinsavi-progresita">Sinsavi progresita</a></td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -265,7 +267,7 @@
             <td>+12</td>
             <td>+6</td>
             <td>+12</td>
-            <td><a href="#gxismorta-malamiko">5a ĝismorta malamiko</a>, <a href="#majstrocxasisto">Majstroĉasisto</a></td>
+            <td><a href="#gxismorta-malamiko">5a ĝismorta malamiko</a>, <a href="#majstra_cxasisto">Majstra ĉasisto</a></td>
             <td>4</td>
             <td>4</td>
             <td>3</td>
@@ -341,7 +343,7 @@
 
 <p id="gxismorta-malamiko"> <b>Ĝismorta malamiko:</b> Je la unua nivelo la arbarano elektas grupon de kreaĵoj el la listo de ĝismortaj malamikoj. Li ricevas bonon de +2 por ĉiuj kapablecĵetoj de blufi, malkovri motivon, percepto, scio kaj transvivado, se li uzas ĝin kontraŭ kreaĵo kiu apartenas al la elektita grupo. Plie li ricevas bonon de +2 por ĉiuj atako- kaj damaĝoĵetoj kontraŭ ĝismortaj malamikoj. La arbarano rajtas fari kapablecĵetojn de scio, eĉ se li ne ekzercis ilin se temas pri identigi tiujn kreaĵojn.</p>
 
-<p> Je la 5a nivelo kaj je ĉiu kvina sekvanta nivelo (10, 15 kaj 20), la arbarano povas elekti plian ĝismortan malamikon. Plie ĉiam kiam li ricevas novan ĝismortan malamikon, li povas altigi la bonon de ĉiu ĝismorta malamiko, ankaŭ tiun de la ĵus elektita. </p>
+<p> Je la 5a nivelo kaj je ĉiu kvina sekvanta nivelo (10, 15 kaj 20), la arbarano povas elekti plian ĝismortan malamikon. Plie ĉiam kiam li ricevas novan ĝismortan malamikon, li povas altigi la bonon de unu ĝismorta malamiko, inklusive tiun de la ĵus elektita. </p>
 
 <p> Se la arbarano elektas humanoidon aŭ eksterulon kiel ĝismorta malamiko, li devas elekti subgrupon kiel indikita en la listo de ĝismortaj malamikoj. (Ĉi tie devas esti la rimarko ke en la monstro-manlibro troveblas aliaj specoj de humanoidoj, kiujn la arbarano povas elekti - la tabelo nur montras la plej oftajn). Se malamiko apartenas al du grupoj, la bonoj ne sumiĝas sed validas la pli alta. </p>
 
@@ -402,7 +404,7 @@
     </tbody>
 </table>
 
-<p id="preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas ŝpurojn kaj ne povas esti sekvata per ŝpurlegado (tamen li povas lasi ŝpurojn se li volas). </p>
+<p id="preferata-tereno"> <b>Preferata tereno (EE):</b> Je la 3a nivelo la arbarano elektas terenotipon de la listo de preferatajn terenojn. Li ricevas bonon de +2 por iniciato kaj ĉiuj kapablecĵetoj de percepto, scio (geografio), sekreteco kaj travivado kiam li estas en preferatan terenon. Se la arbarano moviĝas tra sian preferatan terenon, li kutime ne lasas piedsignon kaj ne povas esti sekvata per spurlegado (tamen li povas lasi piedsignon se li volas). </p>
 
 <p> Je la 8a nivelo kaj je ĉiu kvina sekvanta nivelo (je la 13a kaj la 18a) la arbarano ricevas plian preferatan terenon. Krome ĉiam kiam li ricevas novan preferatan terenon, li povas aldoni +2 al ĉiu preferata nivelo, ankaŭ al la ĵus elektita. Se unu tereno apartenas al pliaj kategorioj, la bonoj ne sumiĝas, sed valoras la plej alta. </p>
 
@@ -416,4 +418,23 @@
 <p>La arbarano devas pasigi unu horon ĉiutage por ricevi siajn sorĉojn. La arbarano povas elekti ĉiun sorĉon de la sorĉlisto de arbaranoj, se lia nivelo estas sufiĉe alta por efektivigi ĝin. Li devas elekti siajn sorĉojn dum sia ĉiutaga meditado. </p>
 <p>Ĝis la 4a nivelo la arbarano ne havas sorĉnivelon. Ekde la 4a nivelo lia sorĉnivelo estas lia arbaranonivelo -3. </p>
 
-<?php require '../../pagxpiedo.php' ?>
+<p id="trapasi-subkreskajxon"><b>Trapasi subkreskaĵon (EE):</b> Ekde la 7a nivelo la arbarano povas per plena moviĝrapideco trapasi ĉiun specon de subkreskaĵoj (kiel naturaj dornoj, arbustaro, sovaĝa pejzaĝo kaj simila tereno) sen riski vundojn aŭ malhelpon. Dornoj kaj alia subkreskaĵo kiuj estas magie modifitaj por malhelpi la trapason koncernas la arbaranon kiel kutime. </p>
+
+<p id="rapide-postcxasi"><b>Rapide postĉasi (EE):</b> Ekde la 8a nivelo la arbarano povas moviĝi per plena moviĝrapideco kaj sekvi piedsignon per transvivado sen ricevi malbonon -5. Li nur ricevas malbonon -10 (anstataŭ -20) se li moviĝas per duobla moviĝrapideco dum spurlegado. </p>
+
+<p id="sinsavi"><b>Sinsavi (EE):</b> Ekde la 9a nivelo la arbarano povas lerte evitmoviĝi de magiaj kaj nekutimaj atakoj. Se li faras refeksĵeton por ricevi nur duonan damaĝon, li ricevas neniun damaĝon se li sukcesas. La arbarano nur povas sinsavi se li portas nur malpezan, mezpezan aŭ neniun armaĵon. Arbarano kiu estas senkapabla ne povas uzi tiun eblecon. </p>
+
+<p id="predo"><b>Predo (EE):</b> Ekde la 11a nivelo la arbarano povas per bazago elekti unu malammikon kiun li vidas kiel predo. Se li sekvas la piedsignon de sia predo li povas preni 10 kiam li moviĝas per normala moviĝrapideco. Aldone li ricevas komprenobonon +2 por aktakoj kontraŭ sia predo kaj ĉiuj ŝancoj por kritika trafo konfirmiĝas aŭtomate. La arbarano ĉiam nur povas havi unu predon kaj ĝi devas esti de sia listo de ĝismortaj malamikoj. Li povas fini tiun efikon ĉiatempe per libera ago sed ne povas elekti novan predon dum la venontaj 24 horoj. Se la arbarano vidas pruvon ke lia predo estas morta, li jam povas elekti novan predon post unu horo. </p>
+
+<p id="kamuflajxo"><b>Kamuflaĵo (EE):</b> Ekde la 12a nivelo la arbarano povas uzi la kapablecon sekretecon por kaŝiĝi en ĉiu sia preferata tereno, eĉ se kutime tie ne estus kamuflaĵo aŭ protekto. </p>
+
+<p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Ekde la 16a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la arbarano estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Arbarano kiu estas senkapabla ne povas uzi tiun eblecon. </p>
+
+<p id="kasxado-vidalvide"><b>Kaŝado vidalvide (EE):</b> Ekde la 17a nivelo la arbarano povas fari kapablecoĵeton de sekreteco en ĉiu sia preferata tereno eĉ se li estas observata. </p>
+
+<p id="predo-progresita"><b>Predo progresita (EE):</b> Je la 19a nivelo pliboniĝas la ebleco de la arbaro por ĉasi sian predon. Li nun povas elekti predon per libera ago. Se li sekvas la piedsignon de sia predo, la arbarano povas preni 20 kiam li moviĝas per normala moviĝrapideco. Lia komprenobono por atakoj altiĝas al +4. Se li delasas aŭ mortigas sian predon, li povas elekti novan post 10 minutoj. </p>
+
+<p id="majstra_cxasisto"><b>Majstra ĉasisto (EE):</b> Je la 20a nivelo la arbarano iĝas majstra ĉasisto. Li ĉiam povas moviĝi per plena moviĝrapideco kaj sekvi piedsignon per transvivado sen malbonoj. Per bazago li povas fari unu solan atakon kontraŭ unu ĝismorta malamiko per sia plej alta bazataka bono. Se li trafas, la malamiko suferas la normalan damaĝon kaj devas sukcese fari persistecoĵeton aŭ mortas. La MFG estas 10 + duona arbaranonivelo + SAĜ-modifilo de la arbarano. Anstataŭe la arbarano povas ankaŭ fari nemortigan damaĝon kiu egalas la nunajn vivpoentojn de la malamiko. Sukcesa savĵeto nuligas tiun damaĝon. La arbarano nur povas uzi tiun eblecon po unufoje tage por ĉiu tipo de ĝismorta malamiko. Li nur povas uzi la eblecon unufoje dum 24 horoj kontraŭ la sama malamiko. </p>
+
+
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

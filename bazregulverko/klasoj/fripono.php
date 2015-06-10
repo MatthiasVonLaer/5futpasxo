@@ -1,8 +1,10 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Fripono</title>
 
 <h1>Fripono</h1>
+
+<img src="../../bildoj/fripono.jpg" style="width:50%;">
 
 <p><b>Rolo:</b> Friponoj evitas se eblas, sin ĵeti rekte en la tumulton de la batalo. Ili pli bone kapablas kaŝe moviĝi kaj surprizi iliajn malamikojn. Iliaj diversaj eblecoj faras ilin tre ŝanĝiĝemaj. Pro tio diversaj friponoj havas sperton en tre diversaj aferoj. Plejmulto de ili tamen estas spertuloj por superi ajnajn malhelpaĵojn - ĉu temas pri malfermi serruron, senfunkciigi kaptilon, superi magiajn danĝerojn aŭ superruzi malamikojn. </p>
 <p><b>Pensmaniero:</b> ĉiu</p>
@@ -30,7 +32,7 @@
             <td>+2</td>
             <td>+0</td>
             <td>+0</td>
-            <td><a href="#trovi-kaptilojn">Trovi kaptilojn</a>, <a href="#embuska-atako">Embuska atako +1W6</a></td>
+            <td><a href="#trovi-kaptilojn">Trovi kaptilojn</a>, <a href="#embuska-atako">Embuska atako +1k6</a></td>
         </tr>
         <tr>
             <td>2</td>
@@ -46,7 +48,7 @@
             <td>+3</td>
             <td>+1</td>
             <td>+1</td>
-            <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a>, <a href="#embuska-atako">Embuska atako +2W6</a></td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +1</a>, <a href="#embuska-atako">Embuska atako +2k6</a></td>
         </tr>
         <tr>
             <td>4</td>
@@ -62,7 +64,7 @@
             <td>+4</td>
             <td>+1</td>
             <td>+1</td>
-            <td><a href="#embuska-atako">Embuska atako +3W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +3k6</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -78,7 +80,7 @@
             <td>+5</td>
             <td>+2</td>
             <td>+2</td>
-            <td><a href="#embuska-atako">Embuska atako +4W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +4k6</a></td>
         </tr>
         <tr>
             <td>8</td>
@@ -94,7 +96,7 @@
             <td>+6</td>
             <td>+3</td>
             <td>+3</td>
-            <td><a href="#embuska-atako">Embuska atako +5W6</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
+            <td><a href="#embuska-atako">Embuska atako +5k6</a>, <a href="#kaptilsensiveco">Kaptilsensiveco +3</a></td>
         </tr>
         <tr>
             <td>10</td>
@@ -110,7 +112,7 @@
             <td>+7</td>
             <td>+3</td>
             <td>+3</td>
-            <td><a href="#embuska-atako">Embuska atako +6W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +6k6</a></td>
         </tr>
         <tr>
             <td>12</td>
@@ -126,7 +128,7 @@
             <td>+8</td>
             <td>+4</td>
             <td>+4</td>
-            <td><a href="#embuska-atako">Embuska atako +7W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +7k6</a></td>
         </tr>
         <tr>
             <td>14</td>
@@ -142,7 +144,7 @@
             <td>+9</td>
             <td>+5</td>
             <td>+5</td>
-            <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a>, <a href="#embuska-atako">Embuska atako +8W6</a></td>
+            <td><a href="#kaptilsensiveco">Kaptilsensiveco +5</a>, <a href="#embuska-atako">Embuska atako +8k6</a></td>
         </tr>
         <tr>
             <td>16</td>
@@ -158,7 +160,7 @@
             <td>+10</td>
             <td>+5</td>
             <td>+5</td>
-            <td><a href="#embuska-atako">Embuska atako +9W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +9k6</a></td>
         </tr>
         <tr>
             <td>18</td>
@@ -174,7 +176,7 @@
             <td>+11</td>
             <td>+6</td>
             <td>+6</td>
-            <td><a href="#embuska-atako">Embuska atako +10W6</a></td>
+            <td><a href="#embuska-atako">Embuska atako +10k6</a></td>
         </tr>
         <tr>
             <td>20</td>
@@ -252,4 +254,4 @@
 
 <p id="majstra-atako"><b>Majstra atako (EE):</b> Je la 20a nivelo la embuskaj atakoj de la fripono fariĝas ankoraŭ pli mortigaj. Ĉiu embuska atako povas havi unu el tri kromaj efikoj. La celon li povas endormigi por 1k4 horoj, paralizi por 2k6 rondoj aŭ mortigi. Sendepende de la efiko la celo havas refleksĵeton por eviti la efikon. La MFG egalas al 10 + &frac12; + fripononivelo + INT-modifilo. La atako kaŭzas plenan damaĝon. Post malamiko estis celo de majstra atako, li estas imuna por 24 horoj kontraŭ la majstra atako de tiu fripono sendepende ĉu li sukcesis kun la savĵeto. Malamikoj kiuj estas imunaj kontraŭ embuskaj atakoj ankaŭ ne povas esti la celo de la majstra atako.
 
-<?php require '../../pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

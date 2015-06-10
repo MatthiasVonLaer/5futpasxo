@@ -1,8 +1,10 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Monaĥo</title>
-
 <h1>Monaĥo</h1>
+
+<img src="../../bildoj/monahxo.jpg" style="width:35%;">
+
 <p>Por la veraj idealaj individuoj, la luktarto estas pli ol nur batalo - ĝi estas vivmaniero, pura fizika potenco kaj mensa sinteno. Tiuj batalartistoj serĉas por rimedojn transe de la glavo kaj la ŝildo, ili trovas armilojn en si mem, kiuj estas same mortiga kiel ĉiu klingo. Ili estas konataj kiel monaĥoj ĉar ili sindonas al antikvaj filozofioj kaj rigidaj disciplinoj. De batalemaj asketoj ĝis memlernantaj luktistoj, tre diversaj personoj iĝas monaĥoj. Monaĥoj sekvas la vojon de disciplino kaj tiuj kiuj havas la volon por elteni tiun vojon, ne trovas en si kiuj ili estas sed por kio ili estas destinataj. </p>
 <p><b>Rolo:</b> Monaĥoj estas tre rapidaj kaj kapablas superi la plej grandajn danĝerojn. Ili tien batas kie oni neniam atentus ĝin kaj ili konas la malfortojn de iliaj malamikoj. Monaĥoj estas lertmovaj kaj lertaj batalistoj. Ili povas senpropleme agi sur la batalejo kaj helpas siajn amikojn kie ili estas plej bezonataj. </p>
 <p><b>Pensmaniero:</b> ĉiu laŭleĝa</p>
@@ -388,4 +390,5 @@
 <h2>Estintaj monaĥoj</h2>
 
 <p> Monaĥo kiu ekhavas nelaŭleĝan pensmanieron, ne plu kapablas altiĝi kiel monaĥo. Li tamen gardas siajn eblecojn </p>
-<?php require '../../pagxpiedo.php' ?>
+
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

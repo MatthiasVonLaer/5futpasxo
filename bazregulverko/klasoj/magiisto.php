@@ -1,8 +1,10 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Magiisto</title>
 
 <h1>Magiisto</h1>
+
+<img src="../../bildoj/magiisto.jpg" style="width:35%;">
 
 <p><b>Rolo:</b> Neniu klaso havas aliron al tiom da sorĉoj kaj estas tiel sperta kun arkano kiel la magiisto. Normalaj magiistoj studas por esti preta por ĉiaj danĝeroj, kiam specialistoj koncentriĝas al unu skolo de magio kiu ebligas al ili profundiĝi en tiu branĉo. Sendepende de ilia specialiĝo ĉiuj magiistoj estas majstroj de la maleblo kaj povas helpi iliajn aliancanojn superi ĉiun danĝeron. </p>
 <p><b>Pensmaniero:</b> ĉiu</p>
@@ -433,6 +435,15 @@
 <p> La magiisto komencas la ludon kun sorĉolibro kiu enhavas ĉiujn sorĉartifikojn (krom tiuj de malpermesataj skoloj). Li ricevas tri sorĉojn de la unua grado kaj aldone unu plia de la unua grado por ĉiu poento de sia inteligentecobono. Je la altiĝo al nova nivelo li ricevas du novajn sorĉojn. Tiuj povas esti de ĉiu grado kiun li povas uzi (rilate al la nova nivelo). La magiisto povas ĉiam kopii sorĉojn de aliaj magiistoj al sia sorĉolibro. </p>
 
 <h2 id="arkanaj-skoloj" class="tradukinda">Arkanaj skoloj</h2>
+<h3 class="tradukinda">Skolo de proteksorĉoj</h3>
+<h3 class="tradukinda">Skolo de elvokado</h3>
+<h3 class="tradukinda">Skolo de ekkono</h3>
+<h3 class="tradukinda">Skolo de sorĉvenigo</h3>
+<h3 class="tradukinda">Skolo de illuzio</h3>
+<h3 class="tradukinda">Skolo de nekromancio</h3>
+<h3 class="tradukinda">Skolo de transformado</h3>
+<h3 class="tradukinda">Skolo de transsorĉado</h3>
+<h3 class="tradukinda">Ĝenerala skolo</h3>
 
 <h2 id="intimulo">Intimulo</h2>
 <p>Intimulo estas besto kiu estas elektita de magiisto por helpi lin ĉe liaj studadoj. Ĝi gardas sian aspekton, siaj vivpoentoj, sian bazatakan bonon, siajn bazajn bonojn por savĵetoj, kapablecojn kaj talentojn de besto kiun ĝi estis. Tamen la intimulo estas traktita kiel magia besto por ĉiuj efikoj kiuj dependas de la bestospeco. Nur normala, neŝanĝita besto povas iĝi intimulo. Bestkunulo ne povas samtempe esti intimulo. </p>
@@ -499,7 +510,7 @@
 <p id="vigleco"><b>Vigleco (EE):</b> Tiam kiam la intimulo estas en la ĉirkaŭaĵo de unu brakolongeco de la majstro, li ricevas la talenton vigleco. </p>
 <p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Se la intimulo estas atakata tiel ke ĝi rajtas fari refleksĵeton por duonigi la damaĝon, tiam ĝi ricevas neniun damaĝon se ĝi sukcesas. Sed se ĝi malsukcesas ĝi ricevas nur duonon de la damaĝo. </p>
 <p id="kundividi-sorcxojn"><b>Kundividi sorĉojn:</b> La majstro povas efektivigi ĉiun sorĉon kun la celo (vi) al la intiumulon anstataŭ al si mem. </p>
-<p id="kunsenta-ligo"><b>Kunsenta ligo:</b> La majstro havas kunsentan ligon al sia intimulo en la distanco de 1,5 km. La majstro ne povas vidi per la okuloj de la intimulo sed li povas komunikiĝi kunsente kun sia intimulo. Pro la limigata ligo ili nur povas komuniki ĝeneralajn sentojn. Kiel rezulto la majstro havas la saman rilaton al objekto aŭ loko kiel sia intimulo. Se la intimulo vidis lokon, estus kiel la majstro ankaŭ vidis ĝîn. </p>
+<p id="kunsenta-ligo"><b>Kunsenta ligo:</b> La majstro havas kunsentan ligon al sia intimulo en la distanco de 1,5 km. La majstro ne povas vidi per la okuloj de la intimulo sed li povas komunikiĝi kunsente kun sia intimulo. Pro la limigata ligo ili nur povas komuniki ĝeneralajn sentojn. Kiel rezulto la majstro havas la saman rilaton al objekto aŭ loko kiel sia intimulo. Se la intimulo vidis lokon, estus kiel la majstro ankaŭ vidis ĝin. </p>
 <p id="transdoni-tusxsorcxon"><b>Transdoni tuŝsorĉon (SNE):</b> Ekde la majstro atingis la 3an nivelon, la intimulo povas transdoni tuŝsorĉon por li. Se la majstro kaj la intimulo estas en fizika kontakto kiam la sorĉo efektiviĝas, la majstro povas elekti la intimulon kiel tuŝanto. La intimulo transdonas la sorĉon ekzakte tiel kiel la majstro povas fari tion. Kiel kutime la sorĉo nuliĝas se la majstro efektivigas alian sorĉon antaŭ la tuŝsorĉo estas transdonita. </p>
 <p id="paroli-kun-la-majstro"><b>Paroli kun la majstro (EE):</b> Ekde la 5a nivelo de la majstro, li kaj lia intimulo povas parole komunikiĝi tiel kiel ili havus komunan lingvon. Aliaj estaĵoj ne povas kompreni tion sen magia helpo. </p>
 <p id="paroli-kun-bestoj-de-sia-speco"><b>Paroli kun bestoj de sia speco (EE):</b> Se la majstro atingis la 7an nivelon, lia intimulo povas komunikiĝi kun bestoj de ĉirkaŭ la sama speco (inkluzive teruraj variantoj) vespertoj kun vespertoj, katoj kun katsimilaj, falkoj, strigoj, korvoj kun birdoj, lacertoj kaj viperoj kun reptiloj, bufoj kun amfibioj, musteloj kun musteledoj. La komunikiĝo estas limigita de la inteligenteco de la partoprenantaj bestoj. </p>
@@ -509,4 +520,5 @@
 <h2>Arkanaj sorĉoj kaj armaĵoj</h2>
 <p>Armaĵoj malhelpas la komplikajn gestojn kiujn devas fari magiisto por efektivigi sorĉon kun gesta komponanto. En la priskribo de armiloj kaj armaĵoj la probablecoj por sorĉfuŝoj estas listigitaj. </p>
 <p>Se sorĉo ne havas gestajn komponantojn, ĝi efektiviĝas sen probableco por sorĉfuŝo. Tiuj sorĉoj eĉ povas esti efektivigataj kiam la manoj de la magiisto estas en katenoj aŭ li estas luktanta (tamen necesas koncentriĝoĵetoj). La metamagia talento sorĉi sen gestoj permesas sorĉi sorĉon sen gesta komponanto anstataŭ sorĉo de grado kiu estas unu pli alta. Tiel oni povas efektivigi sorĉon kun gestaj komponantoj kiam oni portas armaĵon sen la danĝero fari sorĉfuŝon. </p>
-<?php require '../../pagxpiedo.php' ?>
+
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

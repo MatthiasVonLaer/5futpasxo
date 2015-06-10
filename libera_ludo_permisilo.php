@@ -1,8 +1,8 @@
-<?php require 'pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require 'pagxkapo.php' ?>
 
-<title>Libera ludpermisilo</title>
+<title>Libera-Ludo-Permisilo</title>
 
-<h1>Libera ludpermisilo</h1>
+<h1>Libera-Ludo-Permisilo</h1>
 
 <p><b>Product Identity:</b> The following items are hereby identified as Product Identity, as defined in the Open Game License 1.0a, Section 1(e), and are not Open Content: All trademarks, registered trademarks, proper names (characters, deities, etc.), dialogue, plots, storylines, locations, characters, artworks, and trade dress. (Elements that have previously been designated as Open Game Content are not included in this declaration.)</p><p><b> Open Content:</b> Except for material designated as Product Identity (see above), the game mechanics of this Paizo Publishing game product are Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.</p>
 <p>OPEN GAME LICENSE Version 1.0a</p>
@@ -183,4 +183,4 @@
                                 
 <p><b>Zombie, Juju from the <i>Tome of Horrors, Revised</b></i>, &copy; 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.</b></p>
 
-<?php require 'pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require 'pagxpiedo.php' ?>

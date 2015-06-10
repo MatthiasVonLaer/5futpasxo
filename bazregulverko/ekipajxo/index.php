@@ -1,6 +1,7 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Ekipaĵo</title>
+<h1>Ekipaĵo</h1>
 
 <h2>Armiloj</h2>
 <h3>Ecoj de armiloj</h3>
@@ -53,7 +54,7 @@
     <li><em>Trafopovo:</em> Per armilo kun trafopovo oni nur povas ataki malamikojn kiuj estas 3 m distance, sed ne malamikojn en apudaj kampoj. </li>
 </ul>
 
-<table>
+<table class="granda">
     <caption>Tabelo: Armiloj</caption>
     <thead>
         <tr>
@@ -301,7 +302,7 @@
 
 <h2>Armaĵoj</h2>
 
-<table>
+<table class="granda">
     <thead>
         <tr>
             <th rowspan="2">Armature</th>
@@ -581,4 +582,4 @@
     </tbody>
 </table>
 
-<?php require '../../pagxpiedo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

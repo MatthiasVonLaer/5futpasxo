@@ -4,7 +4,6 @@
 
 <h1>Statoj</h1>
 
-<p id=""><b></b></p>
 <p id="blinda"><b>Blinda:</b></p>
 <p id="blindeta"><b>Blindeta:</b></p>
 <p id="cxirkauxvolvita"><b>Ĉirkaŭvolvita:</b></p>

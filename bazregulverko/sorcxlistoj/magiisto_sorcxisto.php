@@ -1,10 +1,10 @@
-<?php require '../../pagxkapo.php' ?>
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Sorĉoj de magiisto/sorĉisto</title>
 
 <h1>Sorĉoj de magiisto/sorĉisto</h1>
 
-<table>
+<table class="granda">
     <caption>Sorĉoj de magiisto/sorĉisto de la 0a grado</caption>
     <tbody>
         <tr class="nova-sekcio">
@@ -117,7 +117,7 @@
     </tbody>
 </table>
 
-<table>
+<table class="granda">
     <caption>Sorĉoj de magiisto/sorĉisto de la 1a grado</caption>
     <tbody>
         <tr class="nova-sekcio">
@@ -256,7 +256,7 @@
         </tr>
         <tr>
             <td><a href="venigi_monstron_1.php">Venigi monstron 1</a></td>
-            <td>Venigas eksterplanana kreaĵon kiu batalas apud vi.</td>
+            <td>Venigas eksterplananan kreaĵon kiu batalas apud vi.</td>
         </tr>
         <tr>
             <td><a href="vualanta_nebulo.php">Vualanta nebulo</a></td>
@@ -314,4 +314,5 @@
         </tr>
     </tbody>
 </table>
-<?php require '../../pagxpiedo.php' ?>
+
+<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
