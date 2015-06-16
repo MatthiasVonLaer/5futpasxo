@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Paladino</title>
@@ -11,7 +20,7 @@
 <p><b>Vivkubetoj:</b> k10</p>
 <p><b>Oro je la komenco:</b> 5k6 &times; 10mo (mezkvanta 175mo)
 <p><b>Klaskapablecoj:</b> Diplomatio&nbsp;(KAR), Malkovri&nbsp;motivon&nbsp;(SAĜ), Interrilati&nbsp;kun&nbsp;bestoj&nbsp;(KAR), Kuraci&nbsp;(SAĜ), Metio&nbsp;(INT), Profesio&nbsp;(SAĜ), Rajdi&nbsp;(LER), Scio&nbsp;(nobeleco)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sorĉkono&nbsp;(INT)
-<p><b>Kapablecpoentoj po nivelo:</b> 2 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 2 + INT-modifilo
 
 <table>
     <caption>Tabelo: Paladino</caption>
@@ -292,7 +301,7 @@
 
 <p id="dia-graco"><b>Dia graco (SNE):</b> Je la 2a nivelo la paladino aldonas sian KAR-bonon (se li havas) al ĉiuj savĵetoj. </p>
 
-<p id="surmeti-manon"><b>Surmeti manon (SNE):</b> Ekde la 2a nivelo la paladino povas sanigi vundojn per tuŝo al si mem aŭ al aliancanoj. Li povas uzi tiun eblecon tiom ofte kiel egalas lia duona paladinonivelo plus lia KAR-modifilo. Per unu aplikado li povas sanigi 1k6 vivpoentojn por ĉiuj 2 paladinoniveloj. Por uzi tiun eblecon li devas uzi unu bazagon krom li mem estas la celo. Tiukaze tio nur estas rapida ago. La paladino nur bezonas unu liberan manon por surmeti manon. </p>
+<p id="surmeti-manon"><b>Surmeti manon (SNE):</b> Ekde la 2a nivelo la paladino povas sanigi vundojn per tuŝo al si mem aŭ al aliancanoj. Li povas uzi tiun eblecon tiom ofte kiom egalas al lia duona paladinonivelo plus lia KAR-modifilo. Per unu aplikado li povas sanigi po 1k6 vivpoentojn por ĉiuj 2 paladinoniveloj. Por uzi tiun eblecon li devas uzi unu bazagon krom li mem estas la celo. Tiukaze tio nur estas rapida ago. La paladino nur bezonas unu liberan manon por surmeti manon. </p>
 <p>Alternative la paladino povas uzi surmeti manon por lezi malmortulojn anstataŭ sanigi kaj kaŭzas 1k6 damaĝon por ĉiuj du paladinoniveloj. Por uzi la eblecon tiamaniere la paladino devas sukcese fari tuŝatakon. Tiu atako ne provokas okazatakon. Malmortuloj ne havas savĵeton kontraŭ tiun damaĝon. </p>
 
 <p id="auxro-de-braveco"><b>Aŭro de braveco (SNE):</b> Je la 3a nivelo la paladino iĝas imuna kontraŭ ĉiu tipo de timo ĉu de natura ĉu de magia deveno. Aldone ĉiu aliancano en la ĉirkaŭaĵo de 3 metroj ĉirkaŭ la paladino ricevas moralbonon +4 por siaj savĵetoj kontraŭ timo. Tiu ebleco nur funkcias se la paladino estas konscienca. Se li estas senkonscia aŭ morta li ne plu povas doni bonon al aliancanoj. </p>

@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Sorĉisto</title>
@@ -9,7 +18,7 @@
 <p><b>Vivkubetoj:</b> k6</p>
 <p><b>Oro je la komenco:</b> 2k6 &times; 10mo (mezkvanta 70mo)
 <p><b>Klaskapablecoj:</b> Blufi&nbsp;(KAR), Flugi&nbsp;(LER), Metio&nbsp;(INT), Profesio&nbsp;(SAĜ), Scio&nbsp;(arkano)&nbsp;(INT), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT), Timigi&nbsp;(KAR), Uzi&nbsp;magian&nbsp;objekton&nbsp;(KAR)
-<p><b>Kapablecpoentoj po nivelo:</b> 2 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 2 + INT-modifilo
 
 <table>
     <caption>Tabelo: Sorĉisto</caption>

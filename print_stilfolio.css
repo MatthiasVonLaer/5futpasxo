@@ -11,6 +11,7 @@ body {
 }
 
 img {
+    display: none;
     border: 7px solid #554433;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
@@ -57,7 +58,6 @@ h1 {
     margin-top: 10px;
     margin-bottom: 25px;
     font-size: 20px;
-    page-break-before: always;
 }
 
 h2 {

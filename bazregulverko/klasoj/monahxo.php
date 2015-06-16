@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Monaĥo</title>
@@ -11,7 +20,7 @@
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 1k6 &times; 10mo (mezkvanta 35mo)
 <p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Malkovri&nbsp;motivon&nbsp;(SAĜ), Grimpi&nbsp;(FOR), Malkateni&nbsp;(LER), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Rajdi&nbsp;(LER), Scio&nbsp;(historio)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sekreteco&nbsp;(LER), Timigi&nbsp;(KAR)
-<p><b>Kapablecpoentoj po nivelo:</b> 4 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 4 + INT-modifilo
 
 <table class="sen-sub-linio">
     <caption>Tabelo: Monaĥo</caption>

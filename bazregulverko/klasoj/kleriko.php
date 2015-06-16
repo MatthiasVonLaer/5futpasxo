@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Kleriko</title>
@@ -10,7 +19,7 @@
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 4k6 &times; 10mo (mezkvanta 140mo)
 <p><b>Klaskapablecoj:</b> Diplomatio&nbsp;(KAR), Malkovri&nbsp;motivon&nbsp;(SAĜ), Kuraci&nbsp;(SAĜ), Lingvoscio&nbsp;(INT), Metio&nbsp;(INT), Profesio&nbsp;(SAĜ), Scio&nbsp;(arkano)&nbsp;(INT), Scio&nbsp;(la ebenoj)&nbsp;(INT), Scio&nbsp;(historio)&nbsp;(INT), Scio&nbsp;(nobeleco)&nbsp;(INT), Scio&nbsp;(religio)&nbsp;(INT), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT)
-<p><b>Kapablecpoentoj po nivelo:</b> 2 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 2 + INT-modifilo
 
 <table>
     <caption>Tabelo: Kleriko</caption>

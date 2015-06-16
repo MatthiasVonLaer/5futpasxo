@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Barbaro</title>
@@ -12,7 +21,7 @@
 <p><b>Vivkubetoj:</b> k12</p>
 <p><b>Oro je la komenco:</b> 3k6 &times; 10mo (mezkvanta 105mo)
 <p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Grimpi&nbsp;(FOR), Interrilati kun bestoj&nbsp;(KAR), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Rajdi&nbsp;(LER), Scio&nbsp;(naturo)&nbsp;(INT), Timigi&nbsp;(KAR), Transvivado&nbsp;(SAĜ)
-<p><b>Kapablecpoentoj po nivelo:</b> 4 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 4 + INT-modifilo
 
 <table>
     <caption>Tabelo: Barbaro</caption>

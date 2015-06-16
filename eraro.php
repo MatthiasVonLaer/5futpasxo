@@ -7,8 +7,8 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php require '../../pagxkapo.php' ?>
+<?php require 'pagxkapo.php' ?>
 
-<title>Kapablecoj</title>
+<p>Tiu paĝo ne ekzistas. </p>
 
-<?php require '../../pagxpiedo.php' ?>
+<?php require 'pagxpiedo.php' ?>

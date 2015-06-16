@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Ekipaĵo</title>
@@ -298,8 +307,9 @@
     <tbody>
 </table>
 
-<h3>Armiloj [Majstroverko]</h3>
+<h3 class="tradukinda">Armiloj [Majstroverko]</h3>
 
+<!--
 <h2>Armaĵoj</h2>
 
 <table class="granda">
@@ -581,5 +591,6 @@
         </tr>
     </tbody>
 </table>
+-->
 
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>

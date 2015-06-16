@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Bardo</title>
@@ -9,7 +18,7 @@
 <p><b>Vivkubetoj:</b> k8</p>
 <p><b>Oro je la komenco:</b> 3k6 &times; 10mo (mezkvanta 105mo)
 <p><b>Klaskapablecoj:</b> Akrobataĵo&nbsp;(GE), Alivesti&nbsp;(KAR), Blufi&nbsp;(KAR), Diplomatio&nbsp;(KAR), Malkovri&nbsp;motivon&nbsp;(SAĜ), Fingrolerteco&nbsp;(LER), Grimpi&nbsp;(FOR), Lingvoscio&nbsp;(INT), Malkateni&nbsp;(LER), Metio&nbsp;(INT), Percepto&nbsp;(SAĜ), Prezentado&nbsp;(KAR), Profesio&nbsp;(SAĜ), Scio&nbsp;(ĉiuj)&nbsp;(INT), Sekreteco&nbsp;(LER), Sorĉkono&nbsp;(INT), Taksi&nbsp;(INT), Timigi&nbsp;(KAR), Uzi&nbsp;magian&nbsp;objekton&nbsp;(KAR)
-<p><b>Kapablecpoentoj po nivelo:</b> 6 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 6 + INT-modifilo
 
 <table>
     <caption>Tabelo: Bardo</caption>

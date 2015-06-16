@@ -1,3 +1,12 @@
+<?php /*
+    Copyright © 2015  Matthias von Laer
+    email: matthias-vonlaer@web.de
+
+    All content of this website is Open Game Content; you can redistribute it
+    and/or modify it under the terms of the Open Game Licence which can
+    be found in libera-ludo-permisilo.php
+ */ ?>
+
 <?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
 
 <title>Arbarano</title>
@@ -11,7 +20,7 @@
 <p><b>Vivkubetoj:</b> k10</p>
 <p><b>Oro je la komenco:</b> 5k6 &times; 10mo (mezkvanta 175mo)
 <p><b>Klaskapablecoj:</b> Grimpi&nbsp;(FOR), Interrilati kun bestoj&nbsp;(KAR), Kuraci&nbsp;(SAĜ), Metio&nbsp;(INT), Naĝi&nbsp;(FOR), Percepto&nbsp;(SAĜ), Profesio&nbsp;(SAĜ), Rajdi&nbsp;(LER), Scio&nbsp;(geografio)&nbsp;(INT), Scio&nbsp;(naturo)&nbsp;(INT), Scio&nbsp;(subterejoj)&nbsp;(INT), Sorĉkono&nbsp;(INT), Timigi&nbsp;(KAR), Transvivado&nbsp;(SAĜ)
-<p><b>Kapablecpoentoj po nivelo:</b> 6 + INT-modifilo
+<p><b>Kapablecopoentoj por ĉiu nivelo:</b> 6 + INT-modifilo
 
 <table>
     <caption>Tabelo: Arbarano</caption>
