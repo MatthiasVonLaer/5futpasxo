@@ -77,4 +77,13 @@ function kalkuli()
     file_put_contents(__DIR__ . "/kalkulo/" . date("Y_m_d"), $_SERVER['REQUEST_URI'] . "\n", FILE_APPEND);
 }
 
+function tradukinda_sorcxo($angla)
+{
+    echo '
+        <div class="informo">
+            Tiu sorĉo ne jam estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/spells/'.$angla.'" target="_blank">la anglan priskribon</a>.
+        </div>
+        ';
+}
+
 ?>

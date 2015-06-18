@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Arbarano</title>
 <h1>Arbarano</h1>
@@ -446,4 +446,4 @@
 <p id="majstra_cxasisto"><b>Majstra ĉasisto (EE):</b> Je la 20a nivelo la arbarano iĝas majstra ĉasisto. Li ĉiam povas moviĝi per plena moviĝrapideco kaj sekvi piedsignon per transvivado sen malbonoj. Per bazago li povas fari unu solan atakon kontraŭ unu ĝismorta malamiko per sia plej alta bazataka bono. Se li trafas, la malamiko suferas la normalan damaĝon kaj devas sukcese fari persistecoĵeton aŭ mortas. La MFG estas 10 + duona arbaranonivelo + SAĜ-modifilo de la arbarano. Anstataŭe la arbarano povas ankaŭ fari nemortigan damaĝon kiu egalas la nunajn vivpoentojn de la malamiko. Sukcesa savĵeto nuligas tiun damaĝon. La arbarano nur povas uzi tiun eblecon po unufoje tage por ĉiu tipo de ĝismorta malamiko. Li nur povas uzi la eblecon unufoje dum 24 horoj kontraŭ la sama malamiko. </p>
 
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Talentoj</title>
 <h1>Talentoj</h1>
@@ -981,7 +981,7 @@
 <h3 id="disbati-defendon">Disbati defendon [batalo]</h3>
 <p> Viaj eblecoj kun via preferata armilo forprenas de malamikoj la kapablon defendi sin, se ilia defendo jam estas trafata.</p>
 <p> <b>Kondiĉoj:</b> Armilofokuso, minaca prezentado, sperto kun armiloj, bazataka bono +6</p>
-<p> <b>Avantaĝo:</b> Ĉiu emociita, timigita aŭ panika malamiko, kiu estas trafata de vi tiuronde, estas ĝis la fino de la venonta rondo sur la malĝusta piedo. Tiu validas ankaŭ por ĉiuj aliaj atakoj kiujn vi faras tiuronde. </p>
+<p> <b>Avantaĝo:</b> Ĉiu maltrankvila, timplena aŭ panika malamiko, kiu estas trafata de vi tiuronde, estas ĝis la fino de la venonta rondo sur la malĝusta piedo. Tiu validas ankaŭ por ĉiuj aliaj atakoj kiujn vi faras tiuronde. </p>
 
 <h3 id="distancpafo">Distancpafo [batalo]</h3>
 <p> Vi pli bone trafas ĉe grandaj distancoj.</p>
@@ -1699,7 +1699,7 @@
 <h3 id="meduza-kolero">Meduza kolero [batalo]</h3>
 <p> Vi povas uzi la konfuzon de viaj malamikoj por fari plurajn trafojn.</p>
 <p> <b>Kondiĉoj:</b> Gorgona pugno, skorpia pikilo, senarma bato progresita, bazataka bono +11 </p>
-<p> <b>Avantaĝo:</b> Per plena atako kaj minimume unu senarma bato vi povas fari du pliajn senarmajn batojn per via plej alta bazataka bono. La senarmaj batoj devas esti celataj al duonsvenanta, sur malĝusta piedo surprizita, paralizata, ŝanceliĝanta, svenanta aŭ senkonscia malamiko. </p>
+<p> <b>Avantaĝo:</b> Per plena atako kaj minimume unu senarma bato vi povas fari du pliajn senarmajn batojn per via plej alta bazataka bono. La senarmaj batoj devas esti celataj al kapturnanta, sur malĝusta piedo surprizita, paralizata, ŝanceliĝanta, svenanta aŭ senkonscia malamiko. </p>
 
 <h3 id="minaca-prezentado">Minaca prezentado [batalo]</h3>
 <p> Viaj eblecoj kun via preferata armilo estas timigaj por malamikoj.</p>
@@ -2072,4 +2072,4 @@
 <p> Per viaj subtilaj sensoj vi kaptas aĵojn kiuj restas kaŝitaj por aliaj.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por kapablecĵetoj de percepto kaj rekoni motivon. Se vi havas pli ol 10 rangoj en unu kapableco, la bono altiĝas ĉe tiu kapableco al +4. </p>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Ekipaĵo</title>
 <h1>Ekipaĵo</h1>
@@ -593,4 +593,4 @@
 </table>
 -->
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

@@ -2,7 +2,6 @@ body {
     color: #2A201A;
     background-color: #FEF9F0;
     font-family: Georgia;
-    text-align: justify;
     /*background: url(bildoj/papero5.jpg);*/
     background-size: 130%;
 }
@@ -24,6 +23,10 @@ img {
 .tradukinda {
     color: #AAAAAA;
     /*display: none;*/
+}
+
+h4.tradukinda {
+    background-color: #555555;
 }
 
 .informo {
@@ -66,11 +69,14 @@ h2 {
 }
 
 h4 {
-    font-family: Arial;
     background-color: #000000;
     color: #FFFFFF;
     padding: 2px;
     clear: right;
+}
+
+h5 {
+    font-size: 16px;
 }
 
 h1 + p, h2 + p {
@@ -81,9 +87,18 @@ h3 + p {
     margin-top: 5px;
 }
 
+h4 + h5 {
+    margin-top: 10px;
+}
+
+h5 + p {
+    margin-top: 5px;
+}
+
 p {
     margin-bottom: 0.5em;
     line-height: 1.6em;
+    text-align: justify;
 }
 
 p + p {
@@ -95,7 +110,7 @@ a {
     text-decoration: none;
 }
 
-a.eksterna {
+a[target] {
     color: #337733;
 }
 
@@ -132,10 +147,22 @@ ul li {
     line-height: 1.5em;
 }
 
+.apudaj {
+    padding-left: 0;
+    margin-left: 0;
+    width: 100%;
+}
+
+.apudaj li {
+    overflow: visible;
+    text-indent: 0em;
+    display: inline-block;
+    width: 30%;
+}
+
 table {
     font-family: Arial;
     font-size: 10pt;
-    text-align: left;
     border-collapse: collapse;
     border-left: none;
     border-right: none;

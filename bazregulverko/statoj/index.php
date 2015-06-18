@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Statoj</title>
 
@@ -31,15 +31,15 @@
     <li>Nemagiaj objektoj povas esti riparataj sammaniere aŭ per sukcesa ĵeto por metio kiu necesas por krei la objekton. La MFG por la ĵeto estas kutime 20 kaj unu horo necesas por ripari unu damaĝopoenton. Plejmultaj metiistoj prenas 1/10 de la tuta prezo por la objekto por ripari tiajn damaĝojn (pli, se la objekto estas grave difektita aŭ kaduka). </li>
 </ul>
 
-<p id="duonsvenanta"><b>Duonsvenanta:</b>  Duonsvenanta kreaĵo ne povas normale agi, tamen ne havas malbonon por la AK. Duonsveno daŭras kutime unu rondo. </p>
-
 <p id="elcxerpita"><b>Elĉerpita:</b>  Elĉerpita rolulo nek povas kuri nek povas fari sturmatakojn. Li ricevas malbonon -2 por forto kaj lerteco. Se elĉerpita rolulo faras ion kio kutime igus lin elĉerpita, li tiam estas senforta. Se la rolulo ripozas dum 8 horoj, li ne plu estas elĉerpita. </p>
 
-<p id="emociita"><b>Emociita:</b>  Emociita rolulo ricevas malbonon -2 por atako-, savo-, kapableco- kaj atributoĵetoj. Emociita estas malpli grava stato de timo ol timplena kaj panika. </p>
+<p id="maltrankvila"><b>Maltrankvila:</b> Maltrankvila rolulo ricevas malbonon -2 por atako-, savo-, kapableco- kaj atributoĵetoj. Maltrankvila estas malpli grava stato de timo ol timplena kaj panika. </p>
 
 <p id="fascinita"><b>Fascinita:</b> Fascinita kreaĵo estas fascinita per supernatura efiko aŭ per sorĉo. Ĝi staras aŭ sidas trankvile kaj faras nenion krom spekti la efikon kiu fascinas ĝin. La kreaĵo havas malbonon -4 por kapablecoĵetoj por reagi al io kiel ekzemple ĵetoj de percepto. Ĉiam kiam ebla danĝero aproksimiĝas al la fascinita kreaĵo, ĝi denove rajtas fari savĵeton kontraŭ la fascinanta efiko. Evidentaj danĝeroj kiel nudigo de armilo aŭ efektivigo de sorĉo aŭ se distancarmilo estas direktata al la fascinita kreaĵo, tuj nuligas la efikon. La aliancanoj de la fascinita kreaĵo povas liberigi ĝin per bazago. </p>
 
 <p id="kaptita"><b>Kaptita:</b> Kaptita kreaĵo vere estas fiksita kaj nur povas fari malmultajn agojn. Ĝi ne povas moviĝi kaj perdas sian LER-bono de la AK kaj ricevas krome malbonon -4 por la AK. Kaptita kreaĵo nur povas fari malmultajn agojn: ĝi povas provi sin liberigi aŭ per batalmanovra ĵeto aŭ per ĵeto de malkateni. Ĝi povas fari parolajn aŭ mensajn agojn, sed ne povas efektivigi sorĉojn kiuj bezonas gestan aŭ materialan komponanton. Kreaĵo kiu volas efektivigi sorĉon aŭ uzi sorĉsimilan eblecon devas fari koncentriĝoĵeton (MFG 10 + BMB de tiu kiu kaptas ĝin + sorĉogrado). Se tio malsukcesas, la sorĉo estas perdita. Kaptita estas pli grava versio de la stato luktanta kaj tiuj statoj ne estas akumulaj. </p>
+
+<p id="kapturnanta"><b>Kapturnanta:</b>  Kapturnanta kreaĵo ne povas normale agi, tamen ne havas malbonon por la AK. La stato kapturnanta daŭras kutime unu rondo. </p>
 
 <p id="kauxranta"><b>Kaŭranta:</b> La rolulo estas paralizita de timo kaj ne povas agi. Krome li havas malbonon -2 por la AK kaj perdas la LER-bonon (se ekzistas) de la AK. </p>
 
@@ -78,7 +78,7 @@
 <p id="paralizita"><b>Paralizita:</b> Paralizita rolulo estas fiksita surloke kaj nek povas moviĝi nek povas agi. Li havas efikajn forto- kaj lertecovalorojn de 0 kaj estas senkapabla, tamen li povas fari mensajn aktivaĵojn. Kreaĵo kun flugiloj kiu estas fluganta kiam ĝi estas paralizata, ne plu povas uzi siajn flugilojn kaj falas. Paralizita naĝanto ne plu povas naĝi kaj povas droni pro tio. Ĉiu kreaĵo rajtas moviĝi trans kampo kie staras paralizita kreaĵo sendepende ĉu ĝi estas aliancano aŭ malamiko. Tamen ĉiu kampo kie staras paralizita kreaĵo, kalkuliĝas kiel du kampoj, se oni moviĝas trans tiu kampo. </p>
 
 <p id="panika"><b>Panika:</b> Panika kreaĵo devas lasi fali ĉion kion ĝi tenas en siaj manoj kaj devas fuĝi tiel rapide kiel eblas de la fonto de la timo kaj ĉiuj danĝeroj. Ĝi elektas hazardan vojon kaj ne povas fari aliajn agojn. Krome la panika kreaĵo ricevas malbonon -2 por ĉiuj savo-, kapableco- kaj atributoĵetoj. Se ĝi estas kaptita en angulo, ĝi kaŭriĝas kaj ne atakas. Plejofte ĝi uzas en batalo la agon plena defendo. La panika kreaĵo povas uzi siajn eksterordinarajn eblecojn kaj sorĉojn por fuĝi, ja devas fari tion se tio estas la sola ebleco por fuĝi.</p>
-<p>Panika estas pli intensa stato ol timplena kaj emociita. </p>
+<p>Panika estas pli intensa stato ol timplena kaj maltrankvila. </p>
 
 <p id="sxanceligxanta"><b>Ŝanceliĝanta:</b> Ŝanceliĝanta kreaĵo povas fari unu movago aŭ unu bazago ĉiuronde (sed ne ambaŭ kaj ne plenan agon). Ĝi tamen ankoraŭ povas fari rapidajn kaj subitajn agojn. Kreaĵo kiu havas tiom da nemortigan damaĝon kiel nunaj vivpoentoj, iĝas ŝanceliĝanta. </p>
 
@@ -105,8 +105,8 @@
 
 <p id="svenanta"><b>Svenanta:</b> Svenanta rolulo lasas fali ĉiun kiun li tenas en siaj manoj, povas fari neniun agon, ricevas malbonon -2 por la AK kaj perdas sian LER-bonon (se li havas) por la AK. </p>
 
-<p id="timplena"><b>Timplena:</b> Timplena kreaĵo fuĝas de la fonto de la timo tiel bone kiel ĝi povas. Se ĝi ne povas fuĝi, ĝi rajtas batali. Timplenulo ricevas malbonon -2 por ĉiuj atako-, savo-, kapableco- kaj atributoĵetoj. Tamen li povas apliki eksterordinarajn eblecojn kaj sorĉojn por fuĝi. La rolulo eĉ devas uzi tiujn rimedojn se ne eblas fuĝi alie. Timplena estas kiel la stato emociita krom ke la kreaĵo devas fuĝi se eblas. Panika estas pli intensa timostato ol timplena. </p>
+<p id="timplena"><b>Timplena:</b> Timplena kreaĵo fuĝas de la fonto de la timo tiel bone kiel ĝi povas. Se ĝi ne povas fuĝi, ĝi rajtas batali. Timplenulo ricevas malbonon -2 por ĉiuj atako-, savo-, kapableco- kaj atributoĵetoj. Tamen li povas apliki eksterordinarajn eblecojn kaj sorĉojn por fuĝi. La rolulo eĉ devas uzi tiujn rimedojn se ne eblas fuĝi alie. Timplena estas kiel la stato maltrankvila krom ke la kreaĵo devas fuĝi se eblas. Panika estas pli intensa timostato ol timplena. </p>
 
 <p id="vomema"><b>Vomema:</b> Kreaĵoj kiuj estas vomemaj havas problemojn kun sia stomako. Ili ne kapablas ataki, efektivigi sorĉojn, koncentriĝi al sorĉoj, aŭ fari ion ajn kiu postulas atentemon. Rolulo kiu estas vomema nur povas fari unu movagon ĉiuronde. </p>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

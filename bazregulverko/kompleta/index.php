@@ -15,7 +15,7 @@
 <img src="../../bildoj/sxirmo_korvo.jpg" style="width:100%;">
 &nbsp;
 <?php
-$sen_kapo_piedo = true;
+$kompleta = true;
 require '../ekludi/index.php';
 require '../popoloj/index.php';
 require '../klasoj/index.php';
@@ -32,8 +32,7 @@ require '../klasoj/paladino.php';
 require '../klasoj/sorcxisto.php';
 require '../talentoj/index.php';
 require '../ekipajxo/index.php';
-require '../sorcxlistoj/index.php';
-require '../sorcxlistoj/magiisto_sorcxisto.php';
+require '../sorcxoj/index.php';
 require '../statoj/index.php';
 require '../../mallongigoj.php';
 require '../../libera_ludo_permisilo.php';

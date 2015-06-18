@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Druido</title>
 
@@ -679,4 +679,4 @@ Bestkunuloj povas elekti el la sekvantaj talentoj:
     </ul>
 </div>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

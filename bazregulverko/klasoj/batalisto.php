@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Batalisto</title>
 
@@ -236,4 +236,4 @@
 
 <p id="armilomajstreco"><b>Armilomajstreco (EE):</b> Je la 20a nivelo la batalisto elektas armilon kiel ekzemple la <a href="../ekipajxo/#glavo-longa">glavo longa</a>, <a href="../ekipajxo/#labriso">labriso</a> aŭ <a href="../ekipajxo/#arko-longa">arko longa</a>. Kun tiu armilo li aŭtomate konfirmas ĉiun ŝancon por kritia trafo. Aldone la multiplikanto por la kritika trafo altiĝas je unu (&times;2 iĝas &times;3 ktp.). Se la batalisto tenas tiun armilon li ne povas esti senarmigita. </p>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

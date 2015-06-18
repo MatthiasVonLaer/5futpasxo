@@ -11,4 +11,10 @@
 
 <title>Magiaj objektoj</title>
 
+<h1>Magiaj objektoj</h1>
+
+<div class="informo">
+Tiu ĉi ĉapitro ne jam estas tradukita. Ĉi tie vi trovas <a href="http://paizo.com/pathfinderRPG/prd/magicItems.html" target="_blank">la anglan version</a>.
+</div>
+
 <?php require '../../pagxpiedo.php' ?>

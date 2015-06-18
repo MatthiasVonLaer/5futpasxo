@@ -11,4 +11,10 @@
 
 <title>Pliaj Reguloj</title>
 
+<h1>Pliaj Reguloj</h1>
+
+<div class="informo">
+Tiu ĉi ĉapitro ne jam estas tradukita. Ĉi tie vi trovas <a href="http://paizo.com/pathfinderRPG/prd/additionalRules.html" target="_blank">la anglan version</a>.
+</div>
+
 <?php require '../../pagxpiedo.php' ?>

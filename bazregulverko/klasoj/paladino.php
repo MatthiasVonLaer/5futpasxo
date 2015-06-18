@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Paladino</title>
 
@@ -312,12 +312,12 @@
 <p> Je la 3a nivelo al paladino povas esti donata unu el la sekvantaj benoj. </p>
 <ul>
     <li><em>Elĉerpita:</em> La celo ne plu estas elĉerpita. </li>
-    <li><em>Emociita:</em> La celo ne plu estas emociita. </li>
+    <li><em>Maltrankvila:</em> La celo ne plu estas maltrankvila. </li>
     <li><em>Malsaneta:</em> La celo ne plu estas malsaneta. </li>
 </ul>
 <p>Je la 6a nivelo aldoniĝas la sekvantaj benoj el kiuj la paladino povas elekti sian novan benon. </p>
 <ul>
-    <li><em>Duonsvenanta:</em> La celo ne plu estas duonsvenanta. </li>
+    <li><em>Kapturnanta:</em> La celo ne plu estas kapturnanta. </li>
     <li><em>Malsaneta:</em> La surmeti manon ankaŭ funkcias kiel sanigi malsanon kie la paladinonivelo servas kiel sorĉonivelo.</li>
     <li><em>Ŝanceliĝanta:</em> La celo ne plu estas ŝanceliĝanta krom li havas ekzakte 0 vivpoentojn.</li>
 </ul>
@@ -325,7 +325,7 @@
 <ul>
     <li><em>Senforta:</em> La celo ne plu estas senforta. La paladino devas elekti la benon elĉerpita antaŭ li povas elekti ĉi tiun benon. </li>
     <li><em>Malbenita:</em> La surmeti manon ankaŭ funkcias kiel rompi malbenon kie la paladinonivelo servas kiel sorĉonivelo.</li>
-    <li><em>Timplena:</em> La celo ne plu estas timplena. La paladino devas elekti la benon emociita antaŭ li povas elekti ĉi tiun benon. </li>
+    <li><em>Timplena:</em> La celo ne plu estas timplena. La paladino devas elekti la benon maltrankvila antaŭ li povas elekti ĉi tiun benon. </li>
     <li><em>Venenita:</em> La surmeti manon ankaŭ funkcias kiel neŭtraligi venenon kie la paladinonivelo servas kiel sorĉonivelo.</li>
     <li><em>Vomema:</em> La celo ne plu estas vomema. La paladino devas elekti la benon malsaneta antaŭ li povas elekti ĉi tiun benon. </li>
 </ul>
@@ -374,4 +374,4 @@
 <h2>Estintaj paladinoj</h2>
 <p>Paladino kiu ŝanĝas sian pensmanieron, faras malbonan agon aŭ kontraŭas sian kondutan normon, perdas ĉiujn paladinosorĉojn kaj -eblecojn (krom sperto kun armiloj kaj armaĵoj). Li ne plu povas altiĝi kiel paladino. Nur kiam li sufiĉe pentofaris (vidu la sorĉon pentofari), li povas reakiri siajn eblecojn kaj la eblon por altiĝi. </p>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

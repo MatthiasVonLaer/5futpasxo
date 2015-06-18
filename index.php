@@ -14,11 +14,11 @@
 <img src="bildoj/sxirmo_korvo.jpg" style="width:40%;">
 
 <ul>
-    <li> <a class="eksterna" href="http://paizo.com/pathfinderRPG/prd/">Angla PRD</a> </li>
-    <li> <a class="eksterna" href="http://www.pathfinder-fr.org/Wiki/">Franca PRD</a> </li>
-    <li> <a class="eksterna" href="http://prd.5footstep.de/">Germana PRD</a> </li>
-    <li> <a class="eksterna" href="http://rolroyce.com/rol/DDP/">Hispana PRD</a> </li>
-    <li> <a class="eksterna" href="http://prd.5clone.com/">Itala PRD</a> </li>
+    <li> <a href="http://paizo.com/pathfinderRPG/prd/" target="_blank">Angla PRD</a> </li>
+    <li> <a href="http://www.pathfinder-fr.org/Wiki/" target="_blank">Franca PRD</a> </li>
+    <li> <a href="http://prd.5footstep.de/" target="_blank">Germana PRD</a> </li>
+    <li> <a href="http://rolroyce.com/rol/DDP/" target="_blank">Hispana PRD</a> </li>
+    <li> <a href="http://prd.5clone.com/" target="_blank">Itala PRD</a> </li>
 </ul>
 
 <?php require 'pagxpiedo.php' ?>

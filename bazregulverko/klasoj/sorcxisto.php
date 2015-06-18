@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Sorĉisto</title>
 
@@ -454,7 +454,7 @@
 <h3>Demona sangolinio</h3>
 <p>Antaŭ generacioj demono lasis sian semon en via familio. Tiu ne evidentas por ĉiuj familianoj, sed ĉe vi la demona heredaĵo estas aparte forta kaj instigas vin ruini aliajn. </p>
 <p><b>Klaskapableco:</b> Scio (la ebenoj) </p>
-<p><b>Kromaj sorĉoj:</b> Kaŭzi timon (3a), ursoforto (5a), kolero (7a), ŝtonhaŭto (9a), forsendi (11a), transformi (13a), teleporti potence (15a), malsankta aŭro (17a), venigi monstron IX (19a). </p>
+<p><b>Kromaj sorĉoj:</b> Kaŭzi timon (3a), bovoforto (5a), kolero (7a), ŝtonhaŭto (9a), forsendi (11a), transformi (13a), teleporti potence (15a), malsankta aŭro (17a), venigi monstron IX (19a). </p>
 <p><b>Kromaj talentoj:</b> Duobla bato, impeta atako, granda persisteco, kapablecfokuso (scio (la ebenoj)), puŝatako progresita, petrui objekton progresite, porĉvenigo plifortigita, plifortigi sorĉojn. </p>
 <p><b>Sekreto de sango:</b> Se la sorĉisto efektivigas sorĉon de la subskolo alvenigsorĉi, la alvenigitaj kreaĵoj ricevas damaĝredukton de &frac12; sorĉistonivelo/bona (minimume 1). Tio ne sumiĝas kun io alia damaĝredukto kiun la kreaĵo jam havas. </p>
 <p><b>Povo de sango:</b> Dum onidiroj rakontas ke vi estas obsedata, vi certas pri tio. La demona influo en via sango kreskas kiam vi fariĝas pli potenca. </p>
@@ -472,4 +472,4 @@
 <h3 class="tradukinda">Malnorma sangolinio</h3>
 <h3 class="tradukinda">Sorta sangolinio</h3>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

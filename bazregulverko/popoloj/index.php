@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Popoloj</title>
 
@@ -109,4 +109,4 @@
     <li><b>Lingvoj:</b> Je la ludkomenco nanoj parolas la komunan lingvon kaj la nanan. Nanoj kun alta inteligenteco povas ankaŭ elekti inter la sekvantaj lingvoj: giganta, gnoma, goblina, orka, terana, subkomuna.
 </ul>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

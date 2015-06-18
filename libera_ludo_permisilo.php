@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require 'pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require 'pagxkapo.php' ?>
 
 <title>Libera-Ludo-Permisilo</title>
 
@@ -192,4 +192,4 @@
                                 
 <p><b>Zombie, Juju from the <i>Tome of Horrors, Revised</b></i>, &copy; 2002, Necromancer Games, Inc.; Author Scott Greene, based on original material by Gary Gygax.</b></p>
 
-<?php if(!isset($sen_kapo_piedo)) require 'pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require 'pagxpiedo.php' ?>

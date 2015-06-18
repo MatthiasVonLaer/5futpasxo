@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Magiisto</title>
 
@@ -530,4 +530,4 @@
 <p>Armaĵoj malhelpas la komplikajn gestojn kiujn devas fari magiisto por efektivigi sorĉon kun gesta komponanto. En la priskribo de armiloj kaj armaĵoj la probablecoj por sorĉfuŝoj estas listigitaj. </p>
 <p>Se sorĉo ne havas gestajn komponantojn, ĝi efektiviĝas sen probableco por sorĉfuŝo. Tiuj sorĉoj eĉ povas esti efektivigataj kiam la manoj de la magiisto estas en katenoj aŭ li estas luktanta (tamen necesas koncentriĝoĵetoj). La metamagia talento sorĉi sen gestoj permesas sorĉi sorĉon sen gesta komponanto anstataŭ sorĉo de grado kiu estas unu pli alta. Tiel oni povas efektivigi sorĉon kun gestaj komponantoj kiam oni portas armaĵon sen la danĝero fari sorĉfuŝon. </p>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

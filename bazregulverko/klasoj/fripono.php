@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Fripono</title>
 
@@ -263,4 +263,4 @@
 
 <p id="majstra-atako"><b>Majstra atako (EE):</b> Je la 20a nivelo la embuskaj atakoj de la fripono fariĝas ankoraŭ pli mortigaj. Ĉiu embuska atako povas havi unu el tri kromaj efikoj. La celon li povas endormigi por 1k4 horoj, paralizi por 2k6 rondoj aŭ mortigi. Sendepende de la efiko la celo havas refleksĵeton por eviti la efikon. La MFG egalas al 10 + &frac12; + fripononivelo + INT-modifilo. La atako kaŭzas plenan damaĝon. Post malamiko estis celo de majstra atako, li estas imuna por 24 horoj kontraŭ la majstra atako de tiu fripono sendepende ĉu li sukcesis kun la savĵeto. Malamikoj kiuj estas imunaj kontraŭ embuskaj atakoj ankaŭ ne povas esti la celo de la majstra atako.
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

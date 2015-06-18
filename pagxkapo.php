@@ -63,7 +63,7 @@ kalkuli();
                     <a href="<?php echo $indikilo; ?>/bazregulverko/magio">Magio</a>
                 </li>
                 <li class="en-traduko">
-                    <a href="<?php echo $indikilo; ?>/bazregulverko/sorcxlistoj">Sorĉlistoj</a>
+                    <a href="<?php echo $indikilo; ?>/bazregulverko/sorcxoj">Sorĉoj</a>
                 </li>
                 <li class="malplena">
                     <a href="<?php echo $indikilo; ?>/bazregulverko/prestigxklasoj">Prestiĝklasoj</a>
@@ -101,6 +101,9 @@ kalkuli();
                     <a href="<?php echo $indikilo; ?>/mallongigoj.php">Mallongigoj</a>
                 </li>
                 <li>
+                    <a href="<?php echo $indikilo; ?>/vortaro.php">Vortaro</a>
+                </li>
+                <li>
                     <a href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>
                 </li>
             </ul>
@@ -123,11 +126,11 @@ kalkuli();
                     <br>
                     <textarea name="redaktita_enhavo" style="width: 100%; height: 500px;"><?php echo $enhavo; ?></textarea>
                     <br>
-                    <label>Retpoŝtadreso (malnepra):</label>
+                    <label>Retpoŝtadreso:</label>
                     <br>
                     <textarea name="adreso" style="width: 100%; height: 20px;"></textarea>
                     <br>
-                    <label>Komento (malnepra):</label>
+                    <label>Komento:</label>
                     <br>
                     <textarea name="komento" style="width: 100%; height: 50px;"></textarea>
                     <br>

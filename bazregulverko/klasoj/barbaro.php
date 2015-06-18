@@ -7,7 +7,7 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxkapo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
 <title>Barbaro</title>
 
@@ -266,4 +266,4 @@
 <h2>Estintaj barbaroj</h2>
 <p>Se barbaro iĝas laŭleĝa li perdas la eblecon ĵeti sin en batalekstazon. Li ankaŭ ne plu povas altiĝi kiel barbaro. Tamen li gardas ĉiujn aliajn avantaĝojn de la klaso.</p>
 
-<?php if(!isset($sen_kapo_piedo)) require '../../pagxpiedo.php' ?>
+<?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
