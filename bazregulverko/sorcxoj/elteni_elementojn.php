@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Forigi</title>
-<h4 class="tradukinda" id="forigi">Forigi</h4>
-<?php tradukinda_sorcxo("erase.html#erase"); ?>
+<title>Elteni elementojn</title>
+<h4 class="tradukinda" id="elteni-elementojn">Elteni elementojn</h4>
+<?php tradukinda_sorcxo("endureElements.html#endure-elements"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

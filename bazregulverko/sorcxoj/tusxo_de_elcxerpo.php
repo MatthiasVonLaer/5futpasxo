@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Elvoki fulmojn</title>
-<h4 class="tradukinda" id="elvoki-fulmojn">Elvoki fulmojn</h4>
-<?php tradukinda_sorcxo("callLightning.html#call-lightning"); ?>
+<title>Tuŝo de elcxerpo</title>
+<h4 class="tradukinda" id="tusxo-de-elcxerpo">Tuŝo de elcxerpo</h4>
+<?php tradukinda_sorcxo("touchofFatigue.html#touch-of-fatigue"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

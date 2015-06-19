@@ -20,6 +20,14 @@ img {
     clear: right;
 }
 
+img.titolo {
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    float: left;
+}
+
 .tradukinda {
     color: #AAAAAA;
     /*display: none;*/
@@ -66,6 +74,12 @@ h2 {
     font-family: titolo;
     border-bottom: 2px solid #DDCCBB;
     clear: right;
+}
+
+h2.sub {
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: normal;
 }
 
 h4 {
@@ -350,6 +364,10 @@ tradukinda {
 
 .sercx-enhavo {
     color: #504940;
+}
+
+.sercx-enhavo b {
+    color: #2A201A;
 }
 
 ul.sercxrezulto li a {

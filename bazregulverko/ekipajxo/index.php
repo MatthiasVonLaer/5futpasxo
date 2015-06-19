@@ -307,8 +307,6 @@
     <tbody>
 </table>
 
-<h3 class="tradukinda">Armiloj [Majstroverko]</h3>
-
 <!--
 <h2>Armaĵoj</h2>
 

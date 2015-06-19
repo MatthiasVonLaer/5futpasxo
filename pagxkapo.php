@@ -27,9 +27,8 @@ kalkuli();
     </head>
     <body>
         <div class="navigado">
-            <div class="titolo">Danĝerejoj</br>kaj Nerdoj<hr></div>
+            <img class="titolo" src="<?php echo $indikilo; ?>/bildoj/pathfinder.png" style="width:95%;">
 
-            <br>
             <a href="<?php echo $indikilo; ?>/index.php">Enkonduko</a>
             <br>
             <em>Bazregulverko</em>
@@ -105,6 +104,9 @@ kalkuli();
                 </li>
                 <li>
                     <a href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>
+                </li>
+                <li>
+                    <a href="<?php echo $indikilo; ?>/komuna_uzo_direktivo.php">Komuna-uzo-direktivo</a>
                 </li>
             </ul>
         </div>

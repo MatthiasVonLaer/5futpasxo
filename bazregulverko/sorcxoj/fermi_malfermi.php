@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Sveno</title>
-<h4 class="tradukinda" id="sveno">Sveno</h4>
-<?php tradukinda_sorcxo("daze.html#daze"); ?>
+<title>Fermi/Malfermi</title>
+<h4 class="tradukinda" id="fermi-malfermi">Fermi/Malfermi</h4>
+<?php tradukinda_sorcxo("openClose.html#open-close"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

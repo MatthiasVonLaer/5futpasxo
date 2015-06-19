@@ -9,14 +9,14 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Saniĝo</title>
-<h4 class="tradukinda" id="sanigxo">Saniĝo</h4>
+<title>Refortiĝo</title>
+<h4 class="tradukinda" id="refortigxo">Refortiĝo</h4>
 <?php tradukinda_sorcxo("restoration.html#restoration"); ?>
 
-<h4 class="tradukinda" id="sanigxo-malpotenca">Saniĝo malpotenca</h4>
+<h4 class="tradukinda" id="refortigxo-malpotenca">Refortiĝo malpotenca</h4>
 <?php tradukinda_sorcxo("restoration.html#restoration-lesser"); ?>
 
-<h4 class="tradukinda" id="sanigxo-potenca">Saniĝo potenca</h4>
+<h4 class="tradukinda" id="refortigxo-potenca">Refortiĝo potenca</h4>
 <?php tradukinda_sorcxo("restoration.html#restoration-greater"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>

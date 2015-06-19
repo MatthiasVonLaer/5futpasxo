@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Ŝokanta ekpreno</title>
-<h4 class="tradukinda" id="sxokanta-ekpreno">Ŝokanta ekpreno</h4>
-<?php tradukinda_sorcxo("shockingGrasp.html#shocking-grasp"); ?>
+<title>Magia pafaĵo</title>
+<h4 class="tradukinda" id="magia-pafajxo">Magia pafaĵo</h4>
+<?php tradukinda_sorcxo("magicMissile.html#magic-missile"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

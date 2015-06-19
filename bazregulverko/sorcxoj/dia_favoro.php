@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Protekto de ĥaoso</title>
-<h4 class="tradukinda" id="protekto-de-hxaoso">Protekto de ĥaoso</h4>
-<?php tradukinda_sorcxo("protectionfromChaos.html#protection-from-chaos"); ?>
+<title>Dia favoro</title>
+<h4 class="tradukinda" id="dia-favoro">Dia favoro</h4>
+<?php tradukinda_sorcxo("divineFavor.html#divine-favor"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

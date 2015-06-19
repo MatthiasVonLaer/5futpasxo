@@ -9,12 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Magia brako</title>
-<h4 class="tradukinda" id="magia-brako">Magia brako</h4>
-<?php tradukinda_sorcxo("magicFang.html#magic-fang"); ?>
-
-<h4 class="tradukinda" id="magia-brako-potenca">Magia brako potenca</h4>
-<?php tradukinda_sorcxo("magicFang.html#magic-fang-greater"); ?>
+<title>Identigi</title>
+<h4 class="tradukinda" id="identigi">Identigi</h4>
+<?php tradukinda_sorcxo("identify.html#identify"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

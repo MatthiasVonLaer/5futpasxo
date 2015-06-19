@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Identifi</title>
-<h4 class="tradukinda" id="identifi">Identifi</h4>
-<?php tradukinda_sorcxo("identify.html#identify"); ?>
+<title>Malkovri sekretajn pordojn</title>
+<h4 class="tradukinda" id="malkovri-sekretajn-pordojn">Malkovri sekretajn pordojn</h4>
+<?php tradukinda_sorcxo("detectSecretDoors.html#detect-secret-doors"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

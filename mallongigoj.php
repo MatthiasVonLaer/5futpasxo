@@ -38,10 +38,16 @@
             <td>EE</td><td>Ekstraordinara ebleco</td>
         </tr>
         <tr>
+            <td>G</td><td>Gesta komponanto</td>
+        </tr>
+        <tr>
             <td>LR</td><td>Ludantroluloj</td>
         </tr>
         <tr>
             <td>LG</td><td>Ludgvidanto</td>
+        </tr>
+        <tr>
+            <td>M</td><td>Materialkomponanto</td>
         </tr>
         <tr>
             <td>MK</td><td>Monero kupra</td>
@@ -60,6 +66,9 @@
         </tr>
         <tr>
             <td>NLR</td><td>Neludantroluloj</td>
+        </tr>
+        <tr>
+            <td>P</td><td>Parola komponanto</td>
         </tr>
         <tr>
             <td>PM</td><td>Pensmaniero</td>

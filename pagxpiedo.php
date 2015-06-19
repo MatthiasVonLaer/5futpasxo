@@ -15,5 +15,5 @@
             </style>
         </div>
     </body>
-    <title>Danĝerejoj kaj Nerdoj</title>
+    <title>5FutPaŝo</title>
 </html>

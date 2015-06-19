@@ -35,6 +35,7 @@
 <h2>Sorĉindekso</h2>
 <p>En la sekvanta estas indikitaj ĉiuj sorĉoj laŭ alfabeta ordo krom tiuj kiuj enhavas la vortojn malpotenca, potenca aŭ amasa.</p>
 
+<h5>A sorĉoj</h5>
 <ul class="apudaj">
     <li><a href="acida_nebulo.php#acida-nebulo">Acida nebulo</a></li>
     <li><a href="acida_sago.php#acida-sago">Acida sago</a></li>
@@ -61,6 +62,8 @@
     <li><a href="antipatio.php#antipatio">Antipatio</a></li>
     <li><a href="antiplanta_sxelo.php#antiplanta-sxelo">Antiplanta ŝelo</a></li>
     <li><a href="antiviva_sxelo.php#antiviva-sxelo">Antiviva ŝelo</a></li>
+    <li><a href="aperigi_fulmojn.php#aperigi-fulmojn">Aperigi fulmojn</a></li>
+    <li><a href="aperigi_fulmotondran_sxtormon.php#aperigi-fulmotondran-sxtormon">Aperigi fulmotondran ŝtormon</a></li>
     <li><a href="arangxi_armilon.php#arangxi-armilon">Aranĝi armilon</a></li>
     <li><a href="arba_vojo.php#arba-vojo">Arba vojo</a></li>
     <li><a href="arboformo.php#arboformo">Arboformo</a></li>
@@ -77,6 +80,9 @@
     <li><a href="artfajrajxo.php#artfajrajxo">Artfajraĵo</a></li>
     <li><a href="aspergi.php#aspergi">Aspergi</a></li>
     <li><a href="astrala_projekcio.php#astrala-projekcio">Astrala projekcio</a></li>
+</ul>
+<h5>B sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="barilo_de_klingoj.php#barilo-de-klingoj">Barilo de klingoj</a></li>
     <li><a href="bastontransformigxo.php#bastontransformigxo">Bastontransformiĝo</a></li>
     <li><a href="beni.php#beni">Beni</a></li>
@@ -90,18 +96,28 @@
     <li><a href="brili.php#brili">Brili</a></li>
     <li><a href="brulantaj_manoj.php#brulantaj-manoj">Brulantaj manoj</a></li>
     <li><a href="bruliga_radio.php#bruliga-radio">Bruliga radio</a></li>
+</ul>
+<h5>C sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="cirklo_de_teleporto.php#cirklo-de-teleporto">Cirklo de teleporto</a></li>
+</ul>
+<h5>Ĉ sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="cxarmi_beston.php#cxarmi-beston">Ĉarmi beston</a></li>
     <li><a href="cxarmi_monstron.php#cxarmi-monstron">Ĉarmi monstron</a></li>
     <li><a href="cxarmi_monstron.php#cxarmi-monstron-amasa">Ĉarmi monstron amasa</a></li>
     <li><a href="cxarmi_personon.php#cxarmi-personon">Ĉarmi personon</a></li>
     <li><a href="cxenofulmo.php#cxenofulmo">Ĉenofulmo</a></li>
     <li><a href="cxirkauxvolvi.php#cxirkauxvolvi">Ĉirkaŭvolvi</a></li>
+</ul>
+<h5>D sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="dancantaj_lumoj.php#dancantaj-lumoj">Dancantaj lumoj</a></li>
     <li><a href="dauxra_flamo.php#dauxra-flamo">Daŭra flamo</a></li>
     <li><a href="detruo.php#detruo">Detruo</a></li>
     <li><a href="deziro.php#deziro">Deziro</a></li>
-    <li><a href="dia_komplezo.php#dia-komplezo">Dia komplezo</a></li>
+    <li><a href="dia_favoro.php#dia-favoro">Dia favoro</a></li>
+    <li><a href="dia_gvido.php#dia-gvido">Dia gvido</a></li>
     <li><a href="dia_potenco.php#dia-potenco">Dia potenco</a></li>
     <li><a href="dimensioankro.php#dimensioankro">Dimensioankro</a></li>
     <li><a href="dimensiopordo.php#dimensiopordo">Dimensiopordo</a></li>
@@ -117,6 +133,9 @@
     <li><a href="dragoformo.php#dragoformo-i">Dragoformo I</a></li>
     <li><a href="dragoformo.php#dragoformo-ii">Dragoformo II</a></li>
     <li><a href="dragoformo.php#dragoformo-iii">Dragoformo III</a></li>
+</ul>
+<h5>E sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="ekkoni_lokon.php#ekkoni-lokon">Ekkoni lokon</a></li>
     <li><a href="ekkoni_mensogojn.php#ekkoni-mensogojn">Ekkoni mensogojn</a></li>
     <li><a href="ekprena_mano.php#ekprena-mano">Ekprena mano</a></li>
@@ -125,14 +144,17 @@
     <li><a href="ektimigi.php#ektimigi">Ektimigi</a></li>
     <li><a href="ekzili.php#ekzili">Ekzili</a></li>
     <li><a href="elementularo.php#elementularo">Elementularo</a></li>
-    <li><a href="elvoki_fulmojn.php#elvoki-fulmojn">Elvoki fulmojn</a></li>
-    <li><a href="elvoki_fulmotondran_sxtormon.php#elvoki-fulmotondran-sxtormon">Elvoki fulmotondran ŝtormon</a></li>
+    <li><a href="elsangigi.php#elsangigi">Elsangigi</a></li>
+    <li><a href="elteni_elementojn.php#elteni-elementojn">Elteni elementojn</a></li>
     <li><a href="energikagxo.php#energikagxo">Energikaĝo</a></li>
     <li><a href="enkarcerigo.php#enkarcerigo">Enkarcerigo</a></li>
     <li><a href="estingi_fajron.php#estingi-fajron">Estingi fajron</a></li>
     <li><a href="etera_promenado.php#etera-promenado">Etera promenado</a></li>
     <li><a href="etereco.php#etereco">Etereco</a></li>
     <li><a href="eterpordo.php#eterpordo">Eterpordo</a></li>
+</ul>
+<h5>F sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="fabriki.php#fabriki">Fabriki</a></li>
     <li><a href="fajroglobo.php#fajroglobo">Fajroglobo</a></li>
     <li><a href="fajrokaptilo.php#fajrokaptilo">Fajrokaptilo</a></li>
@@ -147,6 +169,7 @@
     <li><a href="fatala_transformigxo.php#fatala-transformigxo">Fatala transformiĝo</a></li>
     <li><a href="fea_fajro.php#fea-fajro">Fea fajro</a></li>
     <li><a href="fera_korpo.php#fera-korpo">Fera korpo</a></li>
+    <li><a href="fermi_malfermi.php#fermi-malfermi">Fermi/Malfermi</a></li>
     <li><a href="ferligno.php#ferligno">Ferligno</a></li>
     <li><a href="figursxangxo.php#figursxangxo">Figurŝanĝo</a></li>
     <li><a href="fingroj_de_morto.php#fingroj-de-morto">Fingroj de morto</a></li>
@@ -165,7 +188,7 @@
     <li><a href="flamsfero.php#flamsfero">Flamsfero</a></li>
     <li><a href="flugi.php#flugi">Flugi</a></li>
     <li><a href="flustranta_vento.php#flustranta-vento">Flustranta vento</a></li>
-    <li><a href="forigi.php#forigi">Forigi</a></li>
+    <li><a href="forgumi.php#forgumi">Forgumi</a></li>
     <li><a href="formi_lignon.php#formi-lignon">Formi lignon</a></li>
     <li><a href="formi_sxtonon.php#formi-sxtonon">Formi ŝtonon</a></li>
     <li><a href="formigi_sonon.php#formigi-sonon">Formigi sonon</a></li>
@@ -191,6 +214,9 @@
     <li><a href="frostsfero.php#frostsfero">Frostsfero</a></li>
     <li><a href="fulmo.php#fulmo">Fulmo</a></li>
     <li><a href="furiozigi.php#furiozigi">Furiozigi</a></li>
+</ul>
+<h5>G sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="gardistoj_kaj_Vartistoj.php#gardistoj-kaj-Vartistoj">Gardistoj kaj Vartistoj</a></li>
     <li><a href="gardo_de_morto.php#gardo-de-morto">Gardo de morto</a></li>
     <li><a href="gardokverko.php#gardokverko">Gardokverko</a></li>
@@ -204,7 +230,9 @@
     <li><a href="grava_kreajxo.php#grava-kreajxo">Grava kreaĵo</a></li>
     <li><a href="grava_sxajnbildo.php#grava-sxajnbildo">Grava ŝajnbildo</a></li>
     <li><a href="grimpi_kiel_araneo.php#grimpi-kiel-araneo">Grimpi kiel araneo</a></li>
-    <li><a href="gvido.php#gvido">Gvido</a></li>
+</ul>
+<h5>H sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="haltigi_malmortulojn.php#haltigi-malmortulojn">Haltigi malmortulojn</a></li>
     <li><a href="halto_de_tempo.php#halto-de-tempo">Halto de tempo</a></li>
     <li><a href="harmona_vibrado.php#harmona-vibrado">Harmona vibrado</a></li>
@@ -216,7 +244,10 @@
     <li><a href="hipnota_strukturo.php#hipnota-strukturo">Hipnota strukturo</a></li>
     <li><a href="hipnoto.php#hipnoto">Hipnoto</a></li>
     <li><a href="hxaosmartelo.php#hxaosmartelo">Ĥaosmartelo</a></li>
-    <li><a href="identifi.php#identifi">Identifi</a></li>
+</ul>
+<h5>I sorĉoj</h5>
+<ul class="apudaj">
+    <li><a href="identigi.php#identigi">Identigi</a></li>
     <li><a href="igi_malklara.php#igi-malklara">Igi malklara</a></li>
     <li><a href="iluzia_muro.php#iluzia-muro">Iluzia muro</a></li>
     <li><a href="iluzia_skribajxo.php#iluzia-skribajxo">Iluzia skribaĵo</a></li>
@@ -229,8 +260,15 @@
     <li><a href="iri_kun_la_vento.php#iri-kun-la-vento">Iri kun la vento</a></li>
     <li><a href="iri_sur_akvon.php#iri-sur-akvon">Iri sur akvon</a></li>
     <li><a href="iri_traaere.php#iri-traaere">Iri traaere</a></li>
+</ul>
+<h5>J sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="justa_potenco.php#justa-potenco">Justa potenco</a></li>
+</ul>
+<h5>K sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="kanto_de_ambivalenco.php#kanto-de-ambivalenco">Kanto de ambivalenco</a></li>
+    <li><a href="kapturniga.php#kapturniga">Kapturniga</a></li>
     <li><a href="karno_al_sxtono.php#karno-al-sxtono">Karno al ŝtono</a></li>
     <li><a href="kateni.php#kateni">Kateni</a></li>
     <li><a href="katsama_gracieco.php#katsama-gracieco">Katsama gracieco</a></li>
@@ -288,6 +326,9 @@
     <li><a href="kriego.php#kriego-potenca">Kriego potenca</a></li>
     <li><a href="kunfando_kun_sxtono.php#kunfando-kun-sxtono">Kunfando kun ŝtono</a></li>
     <li><a href="kurbigi_lignon.php#kurbigi-lignon">Kurbigi lignon</a></li>
+</ul>
+<h5>L sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="labirinto.php#labirinto">Labirinto</a></li>
     <li><a href="langoj.php#langoj">Langoj</a></li>
     <li><a href="langolerteco.php#langolerteco">Langolerteco</a></li>
@@ -300,30 +341,32 @@
     <li><a href="longaj_pasxoj.php#longaj-pasxoj">Longaj paŝoj</a></li>
     <li><a href="lulkanto.php#lulkanto">Lulkanto</a></li>
     <li><a href="lumo.php#lumo">Lumo</a></li>
-    <li><a href="magi_sxtono.php#magi-sxtono">Magi ŝtono</a></li>
+</ul>
+<h5>M sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="magia_armajxo.php#magia-armajxo">Magia armaĵo</a></li>
     <li><a href="magia_armilo.php#magia-armilo">Magia armilo</a></li>
     <li><a href="magia_armilo.php#magia-armilo-potenca">Magia armilo potenca</a></li>
     <li><a href="magia_auxro.php#magia-auxro">Magia aŭro</a></li>
     <li><a href="magia_belega_palaceto.php#magia-belega-palaceto">Magia belega palaceto</a></li>
-    <li><a href="magia_brako.php#magia-brako">Magia brako</a></li>
-    <li><a href="magia_brako.php#magia-brako-potenca">Magia brako potenca</a></li>
     <li><a href="magia_busxo.php#magia-busxo">Magia buŝo</a></li>
     <li><a href="magia_disigo.php#magia-disigo">Magia disigo</a></li>
     <li><a href="magia_fidela_hundo.php#magia-fidela-hundo">Magia fidela hundo</a></li>
     <li><a href="magia_glavo.php#magia-glavo">Magia glavo</a></li>
     <li><a href="magia_mano.php#magia-mano">Magia mano</a></li>
     <li><a href="magia_memoro.php#magia-memoro">Magia memoro</a></li>
-    <li><a href="magia_pajajxo.php#magia-pajajxo">Magia pajaĵo</a></li>
+    <li><a href="magia_pafajxo.php#magia-pafajxo">Magia pafaĵo</a></li>
     <li><a href="magia_privata_sanktejo.php#magia-privata-sanktejo">Magia privata sanktejo</a></li>
+    <li><a href="magia_sxtono.php#magia-sxtono">Magia ŝtono</a></li>
     <li><a href="magia_ujo.php#magia-ujo">Magia ujo</a></li>
     <li><a href="magia_vestajxo.php#magia-vestajxo">Magia vestaĵo</a></li>
     <li><a href="magiaj_bendoj.php#magiaj-bendoj">Magiaj bendoj</a></li>
+    <li><a href="magiaj_kaptajxoj.php#magiaj-kaptajxoj">Magiaj kaptaĵoj</a></li>
+    <li><a href="magiaj_kaptajxoj.php#magiaj-kaptajxoj-potencaj">Magiaj kaptaĵoj potenca</a></li>
     <li><a href="malaspergi.php#malaspergi">Malaspergi</a></li>
     <li><a href="malbeno.php#malbeno">Malbeno</a></li>
     <li><a href="malbonodora_nubo.php#malbonodora-nubo">Malbonodora nubo</a></li>
     <li><a href="maleksplodo.php#maleksplodo">Maleksplodo</a></li>
-    <li><a href="malfermi_fermi.php#malfermi-fermi">Malfermi/Fermi</a></li>
     <li><a href="malfortigi_malmortulojn.php#malfortigi-malmortulojn">Malfortigi malmortulojn</a></li>
     <li><a href="malfortigi.php#malfortigi">Malfortigi</a></li>
     <li><a href="malfrue_eksploda_fajroglobo.php#malfrue-eksploda-fajroglobo">Malfrue eksploda fajroglobo</a></li>
@@ -347,7 +390,7 @@
     <li><a href="malkovri_masxojn_kaj_kaptilojn.php#malkovri-masxojn-kaj-kaptilojn">Malkovri maŝojn kaj kaptilojn</a></li>
     <li><a href="malkovri_observon.php#malkovri-observon">Malkovri observon</a></li>
     <li><a href="malkovri_pensojn.php#malkovri-pensojn">Malkovri pensojn</a></li>
-    <li><a href="malkovri_sektretajn_pordojn.php#malkovri-sektretajn-pordojn">Malkovri sektretajn pordojn</a></li>
+    <li><a href="malkovri_sekretajn_pordojn.php#malkovri-sekretajn-pordojn">Malkovri sekretajn pordojn</a></li>
     <li><a href="malkovri_venenon.php#malkovri-venenon">Malkovri venenon</a></li>
     <li><a href="malkovri_hxaoson.php#malkovri-hxaoson">Malkovri ĥaoson</a></li>
     <li><a href="malkreskigi_plantojn.php#malkreskigi-plantojn">Malkreskigi plantojn</a></li>
@@ -387,6 +430,9 @@
     <li><a href="muro_de_forto.php#muro-de-forto">Muro de forto</a></li>
     <li><a href="muro_de_glacio.php#muro-de-glacio">Muro de glacio</a></li>
     <li><a href="muro_de_sxtono.php#muro-de-sxtono">Muro de ŝtono</a></li>
+</ul>
+<h5>N sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="nebulnubo.php#nebulnubo">Nebulnubo</a></li>
     <li><a href="nedetruebla_sfero.php#nedetruebla-sfero">Nedetruebla sfero</a></li>
     <li><a href="neniigi_nevideblecon.php#neniigi-nevideblecon">Neniigi nevideblecon</a></li>
@@ -400,6 +446,9 @@
     <li><a href="negxoventego.php#negxoventego">Neĝoventego</a></li>
     <li><a href="neuxtraligi_venenon.php#neuxtraligi-venenon">Neŭtraligi venenon</a></li>
     <li><a href="nigraj_tentakloj.php#nigraj-tentakloj">Nigraj tentakloj</a></li>
+</ul>
+<h5>O sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="observado.php#observado">Observado</a></li>
     <li><a href="observado.php#observado-potenca">Observado potenca</a></li>
     <li><a href="observantaj_okuloj.php#observantaj-okuloj">Observantaj okuloj</a></li>
@@ -416,6 +465,9 @@
     <li><a href="orakoli.php#orakoli">Orakoli</a></li>
     <li><a href="ordono.php#ordono">Ordono</a></li>
     <li><a href="ordono.php#ordono-malpotenca">Ordono malpotenca</a></li>
+</ul>
+<h5>P sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="parolantaj_sxtonoj.php#parolantaj-sxtonoj">Parolantaj ŝtonoj</a></li>
     <li><a href="paroli_kun_bestoj.php#paroli-kun-bestoj">Paroli kun bestoj</a></li>
     <li><a href="paroli_kun_mortoj.php#paroli-kun-mortoj">Paroli kun mortoj</a></li>
@@ -437,6 +489,7 @@
     <li><a href="pompo_de_aglo.php#pompo-de-aglo-amasa">Pompo de aglo amasa</a></li>
     <li><a href="pordego.php#pordego">Pordego</a></li>
     <li><a href="postulo.php#postulo">Postulo</a></li>
+    <li><a href="preciza_bato.php#preciza-bato">Preciza bato</a></li>
     <li><a href="pregxo.php#pregxo">Preĝo</a></li>
     <li><a href="profunda_dormo.php#profunda-dormo">Profunda dormo</a></li>
     <li><a href="profunda_malespero.php#profunda-malespero">Profunda malespero</a></li>
@@ -444,19 +497,22 @@
     <li><a href="programita_sxajnbildo.php#programita-sxajnbildo">Programita ŝajnbildo</a></li>
     <li><a href="projekciita_bildo.php#projekciita-bildo">Projekciita bildo</a></li>
     <li><a href="protekti_alian.php#protekti-alian">Protekti alian</a></li>
-    <li><a href="protekto_de_bono.php#protekto-de-bono">Protekto de bono</a></li>
+    <li><a href="protekto_de_bono_hxaoso_legxo_malbono.php#protekto-de-bono">Protekto de bono</a></li>
     <li><a href="protekto_de_energio.php#protekto-de-energio">Protekto de energio</a></li>
-    <li><a href="protekto_de_legxo.php#protekto-de-legxo">Protekto de leĝo</a></li>
-    <li><a href="protekto_de_malbono.php#protekto-de-malbono">Protekto de malbono</a></li>
+    <li><a href="protekto_de_bono_hxaoso_legxo_malbono.php#protekto-de-hxaoso">Protekto de ĥaoso</a></li>
+    <li><a href="protekto_de_bono_hxaoso_legxo_malbono.php#protekto-de-legxo">Protekto de leĝo</a></li>
+    <li><a href="protekto_de_bono_hxaoso_legxo_malbono.php#protekto-de-malbono">Protekto de malbono</a></li>
     <li><a href="protekto_de_morto.php#protekto-de-morto">Protekto de morto</a></li>
     <li><a href="protekto_de_sagoj.php#protekto-de-sagoj">Protekto de sagoj</a></li>
     <li><a href="protekto_de_sorcxoj.php#protekto-de-sorcxoj">Protekto de sorĉoj</a></li>
-    <li><a href="protekto_de_hxaoso.php#protekto-de-hxaoso">Protekto de ĥaoso</a></li>
     <li><a href="protektocirklo_kontraux_bono.php#protektocirklo-kontraux-bono">Protektocirklo kontraŭ bono</a></li>
     <li><a href="protektocirklo_kontraux_legxo.php#protektocirklo-kontraux-legxo">Protektocirklo kontraŭ leĝo</a></li>
     <li><a href="protektocirklo_kontraux_malbono.php#protektocirklo-kontraux-malbono">Protektocirklo kontraŭ malbono</a></li>
     <li><a href="protektocirklo_kontraux_hxaoso.php#protektocirklo-kontraux-hxaoso">Protektocirklo kontraŭ ĥaoso</a></li>
     <li><a href="purigi_mangxajxojn_kaj_trinkajxojn.php#purigi-mangxajxojn-kaj-trinkajxojn">Purigi manĝaĵojn kaj trinkaĵojn</a></li>
+</ul>
+<h5>R sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="radio_de_frosto.php#radio-de-frosto">Radio de frosto</a></li>
     <li><a href="radio_de_malforto.php#radio-de-malforto">Radio de malforto</a></li>
     <li><a href="radio_de_senfortigo.php#radio-de-senfortigo">Radio de senfortigo</a></li>
@@ -464,6 +520,9 @@
     <li><a href="rampanta_morto.php#rampanta-morto">Rampanta morto</a></li>
     <li><a href="rapida_morto.php#rapida-morto">Rapida morto</a></li>
     <li><a href="rapida_retirigxo.php#rapida-retirigxo">Rapida retiriĝo</a></li>
+    <li><a href="refortigxo.php#refortigxo">Refortiĝo</a></li>
+    <li><a href="refortigxo.php#refortigxo-malpotenca">Refortiĝo malpotenca</a></li>
+    <li><a href="refortigxo.php#refortigxo-potenca">Refortiĝo potenca</a></li>
     <li><a href="regeneri.php#regeneri">Regeneri</a></li>
     <li><a href="regiono_de_silento.php#regiono-de-silento">Regiono de silento</a></li>
     <li><a href="regiono_de_vero.php#regiono-de-vero">Regiono de vero</a></li>
@@ -477,7 +536,6 @@
     <li><a href="resanigo.php#resanigo-amasa">Resanigo amasa</a></li>
     <li><a href="resurekto.php#resurekto">Resurekto</a></li>
     <li><a href="reto.php#reto">Reto</a></li>
-    <li><a href="rezisti_elementojn.php#rezisti-elementojn">Rezisti elementojn</a></li>
     <li><a href="rezisti_energion.php#rezisti-energion">Rezisti energion</a></li>
     <li><a href="rezisto.php#rezisto">Rezisto</a></li>
     <li><a href="rejxeti_sorcxon.php#rejxeti-sorcxon">Reĵeti sorĉon</a></li>
@@ -487,8 +545,10 @@
     <li><a href="rusta_ekpreno.php#rusta-ekpreno">Rusta ekpreno</a></li>
     <li><a href="ruzeco_de_vulpo.php#ruzeco-de-vulpo">Ruzeco de vulpo</a></li>
     <li><a href="ruzeco_de_vulpo.php#ruzeco-de-vulpo-amasa">Ruzeco de vulpo amasa</a></li>
+</ul>
+<h5>S sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="salto.php#salto">Salto</a></li>
-    <li><a href="sangi.php#sangi">Sangi</a></li>
     <li><a href="sanigi_gravajn_vundojn.php#sanigi-gravajn-vundojn">Sanigi gravajn vundojn</a></li>
     <li><a href="sanigi_gravajn_vundojn.php#sanigi-gravajn-vundojn-amase-">Sanigi gravajn vundojn amase </a></li>
     <li><a href="sanigi_kritikan_vundojn.php#sanigi-kritikan-vundojn">Sanigi kritikan vundojn</a></li>
@@ -497,9 +557,6 @@
     <li><a href="sanigi_malgravajn_vundojn.php#sanigi-malgravajn-vundojn-amase">Sanigi malgravajn vundojn amase</a></li>
     <li><a href="sanigi_mezgravajn_vundojn.php#sanigi-mezgravajn-vundojn">Sanigi mezgravajn vundojn</a></li>
     <li><a href="sanigi_mezgravajn_vundojn.php#sanigi-mezgravajn-vundojn-amase">Sanigi mezgravajn vundojn amase</a></li>
-    <li><a href="sanigxo.php#sanigxo">Saniĝo</a></li>
-    <li><a href="sanigxo.php#sanigxo-malpotenca">Saniĝo malpotenca</a></li>
-    <li><a href="sanigxo.php#sanigxo-potenca">Saniĝo potenca</a></li>
     <li><a href="sankta_auxro.php#sankta-auxro">Sankta aŭro</a></li>
     <li><a href="sankta_bato.php#sankta-bato">Sankta bato</a></li>
     <li><a href="sankta_glavo.php#sankta-glavo">Sankta glavo</a></li>
@@ -534,9 +591,9 @@
     <li><a href="solida_nebulo.php#solida-nebulo">Solida nebulo</a></li>
     <li><a href="soneksplodo.php#soneksplodo">Soneksplodo</a></li>
     <li><a href="songxo.php#songxo">Sonĝo</a></li>
-    <li><a href="sorcxartifikoj.php#sorcxartifikoj">Sorĉartifikoj</a></li>
     <li><a href="sorcxbastoneto.php#sorcxbastoneto">Sorĉbastoneto</a></li>
     <li><a href="sorcxorezisto.php#sorcxorezisto">Sorĉorezisto</a></li>
+    <li><a href="sorcxtruko.php#sorcxtruko">Sorĉtruko</a></li>
     <li><a href="sorcxvenigi_aliancanon_de_naturo.php#sorcxvenigi-aliancanon-de-naturo-i">Sorĉvenigi aliancanon de naturo I</a></li>
     <li><a href="sorcxvenigi_aliancanon_de_naturo.php#sorcxvenigi-aliancanon-de-naturo-ii">Sorĉvenigi aliancanon de naturo II</a></li>
     <li><a href="sorcxvenigi_aliancanon_de_naturo.php#sorcxvenigi-aliancanon-de-naturo-iii">Sorĉvenigi aliancanon de naturo III</a></li>
@@ -573,8 +630,10 @@
     <li><a href="sunradio.php#sunradio">Sunradio</a></li>
     <li><a href="superlanda_flugo.php#superlanda-flugo">Superlanda flugo</a></li>
     <li><a href="svenigi_monstron.php#svenigi-monstron">Svenigi monstron</a></li>
-    <li><a href="sveno.php#sveno">Sveno</a></li>
     <li><a href="svingulo.php#svingulo">Svingulo</a></li>
+</ul>
+<h5>Ŝ sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="sxajnigi_pozicion.php#sxajnigi-pozicion">Ŝajnigi pozicion</a></li>
     <li><a href="sxajno.php#sxajno">Ŝajno</a></li>
     <li><a href="sxajntereno.php#sxajntereno">Ŝajntereno</a></li>
@@ -587,13 +646,16 @@
     <li><a href="sxirmo.php#sxirmo">Ŝirmo</a></li>
     <li><a href="sxmiri.php#sxmiri">Ŝmiri</a></li>
     <li><a href="sxnurartifiko.php#sxnurartifiko">Ŝnurartifiko</a></li>
-    <li><a href="sxokanta_ekpreno.php#sxokanta-ekpreno">Ŝokanta ekpreno</a></li>
+    <li><a href="sxokkapto.php#sxokkapto">Ŝokkapto</a></li>
     <li><a href="sxprucantaj_farboj.php#sxprucantaj-farboj">Ŝprucantaj farboj</a></li>
     <li><a href="sxtondornoj.php#sxtondornoj">Ŝtondornoj</a></li>
     <li><a href="sxtonhauxto.php#sxtonhauxto">Ŝtonhaŭto</a></li>
     <li><a href="sxtono_al_karno.php#sxtono-al-karno">Ŝtono al karno</a></li>
     <li><a href="sxtormo_de_vengxo.php#sxtormo-de-vengxo">Ŝtormo de venĝo</a></li>
     <li><a href="sxvebanta_disko.php#sxvebanta-disko">Ŝvebanta disko</a></li>
+</ul>
+<h5>T sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="taglumo.php#taglumo">Taglumo</a></li>
     <li><a href="telekineza_sfero.php#telekineza-sfero">Telekineza sfero</a></li>
     <li><a href="telekinezo.php#telekinezo">Telekinezo</a></li>
@@ -623,9 +685,15 @@
     <li><a href="trovi_kaptilojn.php#trovi-kaptilojn">Trovi kaptilojn</a></li>
     <li><a href="trovi_vojon.php#trovi-vojon">Trovi vojon</a></li>
     <li><a href="tusxo_de_gulo.php#tusxo-de-gulo">Tuŝo de gulo</a></li>
-    <li><a href="tusxo_de_lacigo.php#tusxo-de-lacigo">Tuŝo de lacigo</a></li>
+    <li><a href="tusxo_de_elcxerpo.php#tusxo-de-elcxerpo">Tuŝo de elcxerpo</a></li>
     <li><a href="tusxo_de_stulteco.php#tusxo-de-stulteco">Tuŝo de stulteco</a></li>
+</ul>
+<h5>U sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="unuigxi_kun_naturo.php#unuigxi-kun-naturo">Unuiĝi kun naturo</a></li>
+</ul>
+<h5>V sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="vampira_tusxo.php#vampira-tusxo">Vampira tuŝo</a></li>
     <li><a href="varmigi_metalon.php#varmigi-metalon">Varmigi metalon</a></li>
     <li><a href="veki.php#veki">Veki</a></li>
@@ -635,7 +703,6 @@
     <li><a href="ventopusxo.php#ventopusxo">Ventopuŝo</a></li>
     <li><a href="ventroparoli.php#ventroparoli">Ventroparoli</a></li>
     <li><a href="veo_de_mortfeo.php#veo-de-mortfeo">Veo de mortfeo</a></li>
-    <li><a href="vera_bato.php#vera-bato">Vera bato</a></li>
     <li><a href="vera_resurekto.php#vera-resurekto">Vera resurekto</a></li>
     <li><a href="vera_vido.php#vera-vido">Vera vido</a></li>
     <li><a href="verdikto.php#verdikto">Verdikto</a></li>
@@ -654,6 +721,9 @@
     <li><a href="vorto_de_hxaoso.php#vorto-de-hxaoso">Vorto de ĥaoso</a></li>
     <li><a href="vualanta_nebulo.php#vualanta-nebulo">Vualanta nebulo</a></li>
     <li><a href="vualo.php#vualo">Vualo</a></li>
+</ul>
+<h5>Z sorĉoj</h5>
+<ul class="apudaj">
     <li><a href="zooformigo.php#zooformigo">Zooformigo</a></li>
     <li><a href="zooformo.php#zooformo-i">Zooformo I</a></li>
     <li><a href="zooformo.php#zooformo-ii">Zooformo II</a></li>
@@ -696,6 +766,8 @@ else if(isset($kompleta)) {
     require "antipatio.php";
     require "antiplanta_sxelo.php";
     require "antiviva_sxelo.php";
+    require "aperigi_fulmojn.php";
+    require "aperigi_fulmotondran_sxtormon.php";
     require "arangxi_armilon.php";
     require "arba_vojo.php";
     require "arboformo.php";
@@ -734,7 +806,8 @@ else if(isset($kompleta)) {
     require "dauxra_flamo.php";
     require "detruo.php";
     require "deziro.php";
-    require "dia_komplezo.php";
+    require "dia_favoro.php";
+    require "dia_gvido.php";
     require "dia_potenco.php";
     require "dimensioankro.php";
     require "dimensiopordo.php";
@@ -756,8 +829,8 @@ else if(isset($kompleta)) {
     require "ektimigi.php";
     require "ekzili.php";
     require "elementularo.php";
-    require "elvoki_fulmojn.php";
-    require "elvoki_fulmotondran_sxtormon.php";
+    require "elsangigi.php";
+    require "elteni_elementojn.php";
     require "energikagxo.php";
     require "enkarcerigo.php";
     require "estingi_fajron.php";
@@ -779,6 +852,7 @@ else if(isset($kompleta)) {
     require "fea_fajro.php";
     require "fera_korpo.php";
     require "ferligno.php";
+    require "fermi_malfermi.php";
     require "figursxangxo.php";
     require "fingroj_de_morto.php";
     require "firma_espero.php";
@@ -794,7 +868,7 @@ else if(isset($kompleta)) {
     require "flamsfero.php";
     require "flugi.php";
     require "flustranta_vento.php";
-    require "forigi.php";
+    require "forgumi.php";
     require "formi_lignon.php";
     require "formi_sxtonon.php";
     require "formigi_sonon.php";
@@ -826,7 +900,6 @@ else if(isset($kompleta)) {
     require "grava_kreajxo.php";
     require "grava_sxajnbildo.php";
     require "grimpi_kiel_araneo.php";
-    require "gvido.php";
     require "haltigi_malmortulojn.php";
     require "halto_de_tempo.php";
     require "harmona_vibrado.php";
@@ -837,7 +910,7 @@ else if(isset($kompleta)) {
     require "hipnota_strukturo.php";
     require "hipnoto.php";
     require "hxaosmartelo.php";
-    require "identifi.php";
+    require "identigi.php";
     require "igi_malklara.php";
     require "iluzia_muro.php";
     require "iluzia_skribajxo.php";
@@ -851,6 +924,7 @@ else if(isset($kompleta)) {
     require "iri_traaere.php";
     require "justa_potenco.php";
     require "kanto_de_ambivalenco.php";
+    require "kapturniga.php";
     require "karno_al_sxtono.php";
     require "kateni.php";
     require "katsama_gracieco.php";
@@ -916,14 +990,14 @@ else if(isset($kompleta)) {
     require "magia_armilo.php";
     require "magia_auxro.php";
     require "magia_belega_palaceto.php";
-    require "magia_brako.php";
+    require "magiaj_kaptajxoj.php";
     require "magia_busxo.php";
     require "magia_disigo.php";
     require "magia_fidela_hundo.php";
     require "magia_glavo.php";
     require "magia_mano.php";
     require "magia_memoro.php";
-    require "magia_pajajxo.php";
+    require "magia_pafajxo.php";
     require "magia_privata_sanktejo.php";
     require "magia_ujo.php";
     require "magia_vestajxo.php";
@@ -932,7 +1006,6 @@ else if(isset($kompleta)) {
     require "malbeno.php";
     require "malbonodora_nubo.php";
     require "maleksplodo.php";
-    require "malfermi_fermi.php";
     require "malfortigi_malmortulojn.php";
     require "malfortigi.php";
     require "malfrue_eksploda_fajroglobo.php";
@@ -955,7 +1028,7 @@ else if(isset($kompleta)) {
     require "malkovri_masxojn_kaj_kaptilojn.php";
     require "malkovri_observon.php";
     require "malkovri_pensojn.php";
-    require "malkovri_sektretajn_pordojn.php";
+    require "malkovri_sekretajn_pordojn.php";
     require "malkovri_venenon.php";
     require "malkovri_hxaoson.php";
     require "malkreskigi_plantojn.php";
@@ -1034,6 +1107,7 @@ else if(isset($kompleta)) {
     require "pompo_de_aglo.php";
     require "pordego.php";
     require "postulo.php";
+    require "preciza_bato.php";
     require "pregxo.php";
     require "profunda_dormo.php";
     require "profunda_malespero.php";
@@ -1041,14 +1115,11 @@ else if(isset($kompleta)) {
     require "programita_sxajnbildo.php";
     require "projekciita_bildo.php";
     require "protekti_alian.php";
-    require "protekto_de_bono.php";
+    require "protekto_de_bono_hxaoso_legxo_malbono.php";
     require "protekto_de_energio.php";
-    require "protekto_de_legxo.php";
-    require "protekto_de_malbono.php";
     require "protekto_de_morto.php";
     require "protekto_de_sagoj.php";
     require "protekto_de_sorcxoj.php";
-    require "protekto_de_hxaoso.php";
     require "protektocirklo_kontraux_bono.php";
     require "protektocirklo_kontraux_legxo.php";
     require "protektocirklo_kontraux_malbono.php";
@@ -1061,6 +1132,7 @@ else if(isset($kompleta)) {
     require "rampanta_morto.php";
     require "rapida_morto.php";
     require "rapida_retirigxo.php";
+    require "refortigxo.php";
     require "regeneri.php";
     require "regiono_de_silento.php";
     require "regiono_de_vero.php";
@@ -1073,7 +1145,6 @@ else if(isset($kompleta)) {
     require "resanigo.php";
     require "resurekto.php";
     require "reto.php";
-    require "rezisti_elementojn.php";
     require "rezisti_energion.php";
     require "rezisto.php";
     require "rejxeti_sorcxon.php";
@@ -1083,12 +1154,10 @@ else if(isset($kompleta)) {
     require "rusta_ekpreno.php";
     require "ruzeco_de_vulpo.php";
     require "salto.php";
-    require "sangi.php";
     require "sanigi_gravajn_vundojn.php";
     require "sanigi_kritikan_vundojn.php";
     require "sanigi_malgravajn_vundojn.php";
     require "sanigi_mezgravajn_vundojn.php";
-    require "sanigxo.php";
     require "sankta_auxro.php";
     require "sankta_bato.php";
     require "sankta_glavo.php";
@@ -1121,9 +1190,9 @@ else if(isset($kompleta)) {
     require "solida_nebulo.php";
     require "soneksplodo.php";
     require "songxo.php";
-    require "sorcxartifikoj.php";
     require "sorcxbastoneto.php";
     require "sorcxorezisto.php";
+    require "sorcxtruko.php";
     require "sorcxvenigi_aliancanon_de_naturo.php";
     require "sorcxvenigi_instrumenton.php";
     require "sorcxvenigi_monstron.php";
@@ -1143,7 +1212,6 @@ else if(isset($kompleta)) {
     require "sunradio.php";
     require "superlanda_flugo.php";
     require "svenigi_monstron.php";
-    require "sveno.php";
     require "svingulo.php";
     require "sxajnigi_pozicion.php";
     require "sxajno.php";
@@ -1157,7 +1225,7 @@ else if(isset($kompleta)) {
     require "sxirmo.php";
     require "sxmiri.php";
     require "sxnurartifiko.php";
-    require "sxokanta_ekpreno.php";
+    require "sxokkapto.php";
     require "sxprucantaj_farboj.php";
     require "sxtondornoj.php";
     require "sxtonhauxto.php";
@@ -1189,7 +1257,7 @@ else if(isset($kompleta)) {
     require "trovi_kaptilojn.php";
     require "trovi_vojon.php";
     require "tusxo_de_gulo.php";
-    require "tusxo_de_lacigo.php";
+    require "tusxo_de_elcxerpo.php";
     require "tusxo_de_stulteco.php";
     require "unuigxi_kun_naturo.php";
     require "vampira_tusxo.php";
@@ -1201,7 +1269,6 @@ else if(isset($kompleta)) {
     require "ventopusxo.php";
     require "ventroparoli.php";
     require "veo_de_mortfeo.php";
-    require "vera_bato.php";
     require "vera_resurekto.php";
     require "vera_vido.php";
     require "verdikto.php";

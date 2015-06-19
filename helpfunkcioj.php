@@ -53,12 +53,13 @@ function krei_suprolinion()
     foreach($aro as $elemento) {
         if($cxu and $elemento != 'index.php' and $elemento != '') {
             $ligilo .= '/' . $elemento;
-            $poz = strpos($elemento, '.php');
-            if($poz != false)
-                $elemento = substr($elemento, 0, $poz);
+            $elemento = preg_replace("/_/", " ", $elemento);
+            $elemento = preg_replace("/\.php/", "", $elemento);
 
             if($elemento == "bazregulverko")
                 $supro_linio .= ' > <em>Bazregulverko</em>';
+            else if($elemento == "aventuroj")
+                $supro_linio .= ' > <em>Aventuroj</em>';
             else
                 $supro_linio .= ' > <a href="' . $ligilo . '">' . ucfirst($elemento) . '</a>';
         }
@@ -82,6 +83,15 @@ function tradukinda_sorcxo($angla)
     echo '
         <div class="informo">
             Tiu sorĉo ne jam estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/spells/'.$angla.'" target="_blank">la anglan priskribon</a>.
+        </div>
+        ';
+}
+
+function tradukinda_paragrafo($angla)
+{
+    echo '
+        <div class="informo">
+            Tiu paragrafo ne jam estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/'.$angla.'" target="_blank">la anglan priskribon</a>.
         </div>
         ';
 }

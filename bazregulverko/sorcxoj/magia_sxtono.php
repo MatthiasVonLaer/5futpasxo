@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Protekto de bono</title>
-<h4 class="tradukinda" id="protekto-de-bono">Protekto de bono</h4>
-<?php tradukinda_sorcxo("protectionfromGood.html#protection-from-good"); ?>
+<title>Magia ŝtono</title>
+<h4 class="tradukinda" id="magia-sxtono">Magia ŝtono</h4>
+<?php tradukinda_sorcxo("magicStone.html#magic-stone"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

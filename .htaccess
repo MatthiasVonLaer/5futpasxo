@@ -1,1 +1,3 @@
+Options -Indexes
 ErrorDocument 404 /~matti/drakoj_kaj_nerdoj/eraro.php
+ErrorDocument 403 /~matti/drakoj_kaj_nerdoj/eraro.php

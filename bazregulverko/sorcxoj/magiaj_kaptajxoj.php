@@ -9,9 +9,12 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Malkovri sektretajn pordojn</title>
-<h4 class="tradukinda" id="malkovri-sektretajn-pordojn">Malkovri sektretajn pordojn</h4>
-<?php tradukinda_sorcxo("detectSecretDoors.html#detect-secret-doors"); ?>
+<title>Magiaj kaptaĵoj</title>
+<h4 class="tradukinda" id="magiaj-kaptajxoj">Magiaj kaptaĵoj</h4>
+<?php tradukinda_sorcxo("magicFang.html#magic-fang"); ?>
+
+<h4 class="tradukinda" id="magiaj-kaptajxoj-potencaj">Magiaj kaptaĵoj potencaj</h4>
+<?php tradukinda_sorcxo("magicFang.html#magic-fang-greater"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

@@ -9,9 +9,9 @@
 
 <?php if(!isset($kompleta)) require '../../pagxkapo.php' ?>
 
-<title>Rezisti elementojn</title>
-<h4 class="tradukinda" id="rezisti-elementojn">Rezisti elementojn</h4>
-<?php tradukinda_sorcxo("endureElements.html#endure-elements"); ?>
+<title>Kapturniga</title>
+<h4 class="tradukinda" id="kapturniga">Kapturniga</h4>
+<?php tradukinda_sorcxo("daze.html#daze"); ?>
 
 <?php if(!isset($kompleta)) require '../../pagxpiedo.php' ?>
 

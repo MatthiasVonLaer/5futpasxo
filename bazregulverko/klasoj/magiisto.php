@@ -424,7 +424,7 @@
 <p><b>Lingvoj:</b> La magiisto povas interŝanĝi la drakonan kontraŭ unu el siaj kromaj lingvoj de sia popolo. </p>
 
 <p id="arkana-skolo"><b>Arkana skolo:</b> La magiisto elektas sorĉskolon por specialiĝo. Tiel li ricevas kromajn sorĉojn kaj eksterordinarajn eblecojn kiuj baziĝas sur tiu skolo. La elekto devas esti farita je la 1a nivelo kaj poste ne plu povas esti ŝanĝataj. Magiistoj kiuj ne specialiĝas, ricevas la ĝeneralan skolon de la magio. </p>
-<p> Magiisto kiu specialiĝas en unu skolo, devas elekti du skolojn kiujn li ne scipovas uzi. Tio reprezentas la mankon de scio en unu fako por atingi la majstrecon en alia. Magiisto kiu preparas sorĉon de malpermesata skolo devas uzi du sorĉunuojn de ties grado por memori la sorĉon. Ekzemple devas magiisto kiu elektis elvokadon kiel malpermesata skolo, uzi du el siaj disponeblaj sorĉunuoj de la tria grado por memori fajroglobon por tiu tago. Krome specialisto ricevas malbonon -4 por ĉiuj kapablecĵetoj por krei magiajn objektojn kiuj havas sorĉon de malpermesata skolo kiel kondiĉo. Universala magiisto povas prepari sorĉojn de ĉiuj skoloj sen restriktoj. </p>
+<p> Magiisto kiu specialiĝas en unu skolo, devas elekti du skolojn kiujn li ne scipovas uzi. Tio reprezentas la mankon de scio en unu fako por atingi la majstrecon en alia. Magiisto kiu preparas sorĉon de malpermesata skolo devas uzi du sorĉunuojn de ties grado por memori la sorĉon. Ekzemple devas magiisto kiu elektis aperigon kiel malpermesata skolo, uzi du el siaj disponeblaj sorĉunuoj de la tria grado por memori fajroglobon por tiu tago. Krome specialisto ricevas malbonon -4 por ĉiuj kapablecĵetoj por krei magiajn objektojn kiuj havas sorĉon de malpermesata skolo kiel kondiĉo. Universala magiisto povas prepari sorĉojn de ĉiuj skoloj sen restriktoj. </p>
 <p> Ĉiu arkana skolo donas al magiisto kelkajn skolajn eblecojn. Plie specialistaj magiistoj ricevas unu plian sorĉunuon por ĉiu sorĉgrado ekde la 1a kiujn ili povas efektivigi. Tiun sorĉunuon la magiisto povas plenumi per sorĉo de sia speciala skolo. Tiu sorĉo devas esti en la sorĉolibro de la magiisto. La magiisto ankaŭ povas prepari sorĉon kiu estas modifita per metamagia talento, sed tio uzas sorĉunuon de pli granda grado. Universalaj magiistoj ne ricevas aldonan sorĉunuon. </p>
 
 <p id="arkana-ligo"><b>Arkana ligo (EE aŭ SSE):</b> Je la 1a nivelo la magiisto faras potencan ligon kun objekto aŭ besto. Tiu ligo povas esti laŭ du formoj. La unua estas intimulo kiu sekvas la kutimajn regulojn (vidu <a href="#intimulo">intimulo</a>). La dua estas la fokuso, ligo kun objekto kiu subtenas la magiiston kun siaj sorĉoj kaj povas esti transsorĉata por plifortigi la povon de la fokuso. </p>
@@ -445,7 +445,7 @@
 
 <h2 id="arkanaj-skoloj" class="tradukinda">Arkanaj skoloj</h2>
 <h3 class="tradukinda">Skolo de proteksorĉoj</h3>
-<h3 class="tradukinda">Skolo de elvokado</h3>
+<h3 class="tradukinda">Skolo de aperigo</h3>
 <h3 class="tradukinda">Skolo de ekkono</h3>
 <h3 class="tradukinda">Skolo de sorĉvenigo</h3>
 <h3 class="tradukinda">Skolo de illuzio</h3>
