@@ -88,6 +88,11 @@ h4 {
     clear: right;
 }
 
+h5 {
+    font-size: 14px;
+}
+
+
 h1 + p, h2 + p {
     margin-top: 15px;
 }
