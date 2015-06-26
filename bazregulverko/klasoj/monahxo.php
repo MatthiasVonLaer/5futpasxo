@@ -146,7 +146,7 @@
             <td>+6</td>
             <td>+6</td>
             <td>+6</td>
-            <td><a href="#sinsavi-progresita">Sinsavi&nbsp;progresita</a></td>
+            <td><a href="#sinsavi-progresigita">Sinsavi&nbsp;progresigita</a></td>
             <td>+7/+7/+2/+2</td>
             <td>1k10</td>
             <td>+2</td>
@@ -303,13 +303,13 @@
 
 <p id="atakhajlo"><b>Atakhajlo (EE):</b> Je la 1a nivelo la monaĥo povas disdoni atakhajlon per plena ago. Se li volas li ricevas plian atakon kun sia plej alta bazataka bono. Li povas elekti ĉiun eblan kombinaĵon el senarmaj atakoj kaj atakoj per specialaj monaĥaj armiloj (bastono ferita, kamao, nunĉako, saio, sianghamo, ŝurikenoj), kiel se li uzus la talenton batalo per du armiloj (sendepende ĉu li plenumas la kondiĉojn por tio). Por tiu atako la bazataka bono egalas al sia monaĥa klasnivelo. Por ĉiuj aliaj situacioj li uzas sian kutiman bazatakan bonon.</p>
 
-<p> Je la 8a nivelo la monaĥo povas fari du aldonajn atakojn, se li disdonas la atakhajlon al siaj malamikoj, kiel se li uzus la talenton batalo per du armiloj progresita (sendepende ĉu li plenumas la kondiĉojn por tio). </p>
+<p> Je la 8a nivelo la monaĥo povas fari du aldonajn atakojn, se li disdonas la atakhajlon al siaj malamikoj, kiel se li uzus la talenton batalo per du armiloj progresigita (sendepende ĉu li plenumas la kondiĉojn por tio). </p>
 
 <p> Je la 15a nivelo li ricevas tri aldonajn atakojn se li uzas la atakhajlon, kiel se li uzus la talenton batalo per du armiloj potenca (sendepende ĉu li plenumas la kondiĉojn por tio).
 
 <p> La monaĥo ricevas por ĉiu atako dum la atakhajlo sian plenan fortbonon, egale se li atakas per sia dua mano aŭ per dumana armilo. La monaĥo ankaŭ povas anstataŭigi senarman atakon per batalmanovron de la tipo detrui objekton, faligi aŭ senarmigi. La monaĥo ne povas uzi armilon dum la atakhajlo kiu ne estas monaĥa. Monaĥo kun naturaj armiloj ne povas uzi ilin dum la atakhajlo nek povas uzi ilin aldone al la atakhajlo. </p>
 
-<p id="senarma-bato"><b>Senarma bato:</b> Je la 1a nivelo la monaĥo ricevas la talenton senarma bato progresita kiel kroma talento. Li povas ataki per sia genuo, kubuto, piedo aŭ pugno. Tio signifas ke la monaĥo povas ataki senarme eĉ se liaj manoj estas malliberaj. La monaĥo ne distingas unuan kaj duan manon. Li adicias la damaĝon de senarmaj batoj per sia plena fortbono. </p>
+<p id="senarma-bato"><b>Senarma bato:</b> Je la 1a nivelo la monaĥo ricevas la talenton senarma bato progresigita kiel kroma talento. Li povas ataki per sia genuo, kubuto, piedo aŭ pugno. Tio signifas ke la monaĥo povas ataki senarme eĉ se liaj manoj estas malliberaj. La monaĥo ne distingas unuan kaj duan manon. Li adicias la damaĝon de senarmaj batoj per sia plena fortbono. </p>
 
 <p> Kutime la monaĥo kaŭzas mortigan damaĝon per siaj senarmaj batoj. Tamen li povas elekti kaŭzi nemortigan damaĝon sen malbonoj. La saman elekton li havas dum luktado. </p>
 
@@ -348,7 +348,7 @@
 
 <p> La monaĥo kaŭzas per sia senarma atako pli da damaĝo ol aliaj batalistoj kiel troveblas en la tabelo "Monaĥo". La indikoj validas por mezgranda monaĥo. Malgranda monaĥo kaŭzas malpli kaj granda kaŭzas pli da damaĝo. </p>
 
-<p id="kroma-talento"><b>Kroma talento:</b> Je la 1a kaj 2a nivelo kaj poste je ĉiu kvara nivelo, la monaĥo rajtas elekti kroman talenton. Li devas elekti la talenton el la sekvanta listo: batalrefleksoj, evitmovo, luktado progresita, preterdirekti pafaĵon, improviza malproksimatako, improviza proksimatako, skorpia pikilo. Je la 6a nivelo aldoniĝas la ponstaj talentoj: faligi progresita, finto progresita, gorgona pugno, movebleco, senarmigi progresita, puŝatako progresita. Je la 10a nivelo aldoniĝas la sekvantaj talentoj: dancanta atako, kapti pafaĵon, meduza kolero, kritika trafo progresita. La monaĥo ne devas plenumi la kondiĉojn de la talentoj. </p>
+<p id="kroma-talento"><b>Kroma talento:</b> Je la 1a kaj 2a nivelo kaj poste je ĉiu kvara nivelo, la monaĥo rajtas elekti kroman talenton. Li devas elekti la talenton el la sekvanta listo: batalrefleksoj, evitmovo, luktado progresigita, preterdirekti pafaĵon, improviza malproksimatako, improviza proksimatako, skorpia pikilo. Je la 6a nivelo aldoniĝas la ponstaj talentoj: faligi progresigita, finto progresigita, gorgona pugno, movebleco, senarmigi progresigita, puŝatako progresigita. Je la 10a nivelo aldoniĝas la sekvantaj talentoj: dancanta atako, kapti pafaĵon, meduza kolero, kritika trafo progresigita. La monaĥo ne devas plenumi la kondiĉojn de la talentoj. </p>
 
 <p id="sveniga-bato"><b>Sveniga bato (EE):</b> Je la 1a nivelo la monaĥo ricevas svenigan baton kiel kroma talento ankaŭ se li ne plenumas la kondiĉojn. Je la 4a nivelo kaj je ĉiu plia kvara nivelo la monaĥo ricevas novan staton kiun li povas kaŭzi al la celo de la sveniga bato. Tiu stato anstataŭigas la la svenigo de la celo. La celo povas savi sin kontraŭ tiu stato per savĵeto. Ekde la 4a nivelo li povas elekti ke la celo estu elĉerpita. Ekde la 8a nivelo li povas malsanetigi la celon. Ekde la 12a nivelo povas elekti ke la celo estu ŝanceliĝa dum 1k6+1 vicoj. Ekde la 16a nivelo li povas elekti ke la celo daŭre blindiĝas aŭ surdiĝas. Je la 20a nivelo li povas elekti ke la celo estu paralizata dum 1k6+1 vicoj. La monaĥo devas decidi antaŭ la atakoĵeto kiun staton li volas kaŭzi. Tiuj efikoj ne sumiĝas (tio signifas, ke estaĵo kiu jam svenas ne naŭzas pro plia sveniga bato), sed pliaj trafoj plilongigas la daŭron de la stato. </p>
 
@@ -374,7 +374,7 @@
 
 <p id="integreco-de-la-korpo"><b>Integreco de la korpo (EE):</b> Ekde la 7a nivelo la monaĥo povas sanigi siajn vundojn per bazago. Li devas eluzi du <em>ki</em>-pontojn kaj tiam povas sanigi kvanton da vivpoentoj kiuj egalas al sia nivelo. </p>
 
-<p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Ekde la 9a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la monaĥo estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Monaĥo kiu estas senkapabla ne povas uzi tiun eblecon. </p>
+<p id="sinsavi-progresigita"><b>Sinsavi progresigita (EE):</b> Ekde la 9a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la monaĥo estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Monaĥo kiu estas senkapabla ne povas uzi tiun eblecon. </p>
 
 <p id="diamantkorpo"><b>Diamantokorpo (SNE):</b> Je la 11a nivelo la monaĥo ricevas imunecon kontraŭ ĉiuj tipoj da venenoj. </p>
 

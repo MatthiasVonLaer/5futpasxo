@@ -432,7 +432,7 @@
 
 <p> Je la 4a nivelo kaj je ĉiu para nivelo poste (6a, 8a, ktp.) la sorĉisto povas lerni novan sorĉon anstataŭe sorĉon kiun li jam konas. Efektive li perdas malnovan sorĉon por nova sorĉo. Tiuj sorĉoj devas havi la saman gradon. La sorĉisto ĉiam nur povas ŝanĝi unu sorĉon kaj devas fari la decidon kiam li ricevas novajn sorĉojn por tiu nivelo. </p>
 
-<p> Alie ol klerikoj aŭ magiistoj la sorĉisto ne devas prepari siajn sorĉojn. Li povas ĉiam efektivigi ĉiun sorĉon kiun li konas tiel longe ke li ne jam foruzis ĉiujn sorĉojn de tiu grado aŭ de pli alta grado. </p>
+<p> Alie ol klerikoj aŭ magiistoj la sorĉisto ne devas prepari siajn sorĉojn. Li povas ĉiam efektivigi ĉiun sorĉon kiun li konas tiel longe ke li ankoraŭ ne foruzis ĉiujn sorĉojn de tiu grado aŭ de pli alta grado. </p>
 
 <p id="sangolinioj"><b>Sangolinioj:</b> Ĉiu sorĉisto havas fonton de sia povo, ion de sia deveno kiu donas al li sorĉojn, kromajn talentojn, unu plian klaskapablecon kaj aliajn specialajn eblecojn. Tiu fonto povas esti rekta sanga parenceco kun estaĵo de granda magia povo aŭ iu okazaĵo en la familihistorio de la sorĉisto. Ekzemple li povus deveni de drako aŭ lia avo konkludi traktaton kun la diablo. Sendepende de la fonto la influo montriĝas en diversaj manieroj kiam la sorĉisto atingas novan nivelon. La sorĉisto devas elekti unu sangolinion kiam li elektas la unuan nivelon en tiu klaso. Poste li ne plu povas ŝanĝi sian elekton. </p>
 
@@ -455,7 +455,7 @@
 <p>Antaŭ generacioj demono lasis sian semon en via familio. Tiu ne evidentas por ĉiuj familianoj, sed ĉe vi la demona heredaĵo estas aparte forta kaj instigas vin ruini aliajn. </p>
 <p><b>Klaskapableco:</b> Scio (la ebenoj) </p>
 <p><b>Kromaj sorĉoj:</b> Kaŭzi timon (3a), bovoforto (5a), kolero (7a), ŝtonhaŭto (9a), forsendi (11a), transformi (13a), teleporti potence (15a), malsankta aŭro (17a), venigi monstron IX (19a). </p>
-<p><b>Kromaj talentoj:</b> Duobla bato, impeta atako, granda persisteco, kapablecfokuso (scio (la ebenoj)), puŝatako progresita, petrui objekton progresite, porĉvenigo plifortigita, plifortigi sorĉojn. </p>
+<p><b>Kromaj talentoj:</b> Duobla bato, impeta atako, granda persisteco, kapablecfokuso (scio (la ebenoj)), puŝatako progresigita, petrui objekton progresigita, porĉvenigo plifortigita, plifortigi sorĉojn. </p>
 <p><b>Sekreto de sango:</b> Se la sorĉisto efektivigas sorĉon de la subskolo alvenigsorĉi, la alvenigitaj kreaĵoj ricevas damaĝredukton de &frac12; sorĉistonivelo/bona (minimume 1). Tio ne sumiĝas kun io alia damaĝredukto kiun la kreaĵo jam havas. </p>
 <p><b>Povo de sango:</b> Dum onidiroj rakontas ke vi estas obsedata, vi certas pri tio. La demona influo en via sango kreskas kiam vi fariĝas pli potenca. </p>
 <p><em>Ungegoj (SNE):</em> Ekde la 1a nivelo la sorĉisto povas kreskigi ungegojn ĉe siaj manoj per libera ago. La ungegoj estas traktataj kiel naturaj armiloj, kiuj ebligas fari du ungegatakojn per plena ago per la plej alta atakbono. Do la sorĉisto ĉiam estas armita. La ungegoj kaŭzas 1k4 (1k3, se la sorĉisto estas malgranda) damaĝon plus lia fortomodifilo. Ekde la 5a nivelo liaj ungegoj estas traktataj kiel magiaj armiloj por preteriri damaĝredukton. Ekde la 7a nivelo la damaĝo altiĝas je unu paŝo al 1k6 aŭ 1k4, se li estas malgranda. Ekde la 11a nivelo la ungegoj estas traktataj kiel ekbrulantaj armiloj, kiuj kaŭzas 1k6 plian fajrodamaĝon se ili trafas. La sorĉisto povas uzi tiun eblecon (3 + KAR-modifilo) dum unu tago. La rondoj ne davas sinsekvi. </p>

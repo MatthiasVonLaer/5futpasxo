@@ -228,7 +228,7 @@
             <td>+10</td>
             <td>+5</td>
             <td>+10</td>
-            <td><a href="#sinsavi-progresita">Sinsavi progresita</a></td>
+            <td><a href="#sinsavi-progresigita">Sinsavi progresigita</a></td>
             <td>3</td>
             <td>3</td>
             <td>2</td>
@@ -264,7 +264,7 @@
             <td>+11</td>
             <td>+6</td>
             <td>+11</td>
-            <td><a href="#predo-progresita">Predo progresita</a></td>
+            <td><a href="#predo-progresigita">Predo progresigita</a></td>
             <td>4</td>
             <td>3</td>
             <td>3</td>
@@ -366,9 +366,9 @@
 
 <p id="batalstiltalento"> <b>Batalstiltalento (EE):</b> Je la 2a nivelo la arbarano devas elekti inter du batalstilojn: arkpafado aŭ batalo per du armiloj. Tiu elekto influas la klasajn karakterizaĵojn de la arbarano tamen ne restriktas siajn elektojn de talentoj kiujn li ricevas per nivelaltiĝo. La ekspertizo de la arbarano efektiviĝas en la kromtalentoj je la niveloj 2, 6, 10, 14 kaj 18. La arbarano povas elekti batalstiltalentojn ankaŭ se li ne plenumas la kondiĉojn. </p>
 
-<p> Se la arbarano elektas arkpafado, li povas ĉiufoje elekti el la sekvanta tabelo kiam li ricevas batalstiltalenton: kernpafo, malproksimpafo, precizpafo kaj rapida pafado. Je la 6a nivelo, la postajn talentojn estas aldonataj al la listo: precizpafo progresita kaj plurobla pafo. Je la 10a nivelo aldoniĝas la talentoj: punktpreciza celado kaj pafi kurante. </p>
+<p> Se la arbarano elektas arkpafado, li povas ĉiufoje elekti el la sekvanta tabelo kiam li ricevas batalstiltalenton: kernpafo, malproksimpafo, precizpafo kaj rapida pafado. Je la 6a nivelo, la postajn talentojn estas aldonataj al la listo: precizpafo progresigita kaj plurobla pafo. Je la 10a nivelo aldoniĝas la talentoj: punktpreciza celado kaj pafi kurante. </p>
 
-<p> Se la arbaranao elektas batalon per du armiloj, li povas ĉiufoje elekti el la posta listo kiam li ricevas batalstiltalenton: batalo per du armiloj, duobla tranĉo, rapida armpretigo kaj ŝildpuŝo progresita. Je la 6a nivelo la postaj talentoj aldoniĝas: batalo per du armiloj progresita kaj defendo per du armiloj. Je la 10a nivelo estas aldonataj la sekvantaj talentoj: batalo per du armiloj potenca kaj deŝiri per du armiloj. </p>
+<p> Se la arbaranao elektas batalon per du armiloj, li povas ĉiufoje elekti el la posta listo kiam li ricevas batalstiltalenton: batalo per du armiloj, duobla tranĉo, rapida armpretigo kaj ŝildpuŝo progresigita. Je la 6a nivelo la postaj talentoj aldoniĝas: batalo per du armiloj progresigita kaj defendo per du armiloj. Je la 10a nivelo estas aldonataj la sekvantaj talentoj: batalo per du armiloj potenca kaj deŝiri per du armiloj. </p>
 
 <p> La arbarano nur ricevas la avantaĝojn de siaj batalstiltalentoj se li portas malpezan, mezpezan aŭ neniun armaĵon. Li perdas ĉiujn avantaĝojn kiam li surmetas pezan armaĵon. Tuj kiam la arbarano elektas batalstilon, li ne povas malfari tiun elekton. </p>
 
@@ -437,11 +437,11 @@
 
 <p id="kamuflajxo"><b>Kamuflaĵo (EE):</b> Ekde la 12a nivelo la arbarano povas uzi la kapablecon sekretecon por kaŝiĝi en ĉiu sia preferata tereno, eĉ se kutime tie ne estus kamuflaĵo aŭ protekto. </p>
 
-<p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Ekde la 16a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la arbarano estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Arbarano kiu estas senkapabla ne povas uzi tiun eblecon. </p>
+<p id="sinsavi-progresigita"><b>Sinsavi progresigita (EE):</b> Ekde la 16a nivelo pliboniĝas la ebleco sinsavi de atakoj. Se la arbarano estas atakata tiel ke li rajtas fari refleksĵeton por duonigi la damaĝon, tiam li ricevas - kiel ĝis nun - neniun damaĝon se li sukcesas. Sed se li malsukcesas li ricevas nur duonon de la damaĝo. Arbarano kiu estas senkapabla ne povas uzi tiun eblecon. </p>
 
 <p id="kasxado-vidalvide"><b>Kaŝado vidalvide (EE):</b> Ekde la 17a nivelo la arbarano povas fari kapablecoĵeton de sekreteco en ĉiu sia preferata tereno eĉ se li estas observata. </p>
 
-<p id="predo-progresita"><b>Predo progresita (EE):</b> Je la 19a nivelo pliboniĝas la ebleco de la arbaro por ĉasi sian predon. Li nun povas elekti predon per libera ago. Se li sekvas la piedsignon de sia predo, la arbarano povas preni 20 kiam li moviĝas per normala moviĝrapideco. Lia komprenobono por atakoj altiĝas al +4. Se li delasas aŭ mortigas sian predon, li povas elekti novan post 10 minutoj. </p>
+<p id="predo-progresigita"><b>Predo progresigita (EE):</b> Je la 19a nivelo pliboniĝas la ebleco de la arbaro por ĉasi sian predon. Li nun povas elekti predon per libera ago. Se li sekvas la piedsignon de sia predo, la arbarano povas preni 20 kiam li moviĝas per normala moviĝrapideco. Lia komprenobono por atakoj altiĝas al +4. Se li delasas aŭ mortigas sian predon, li povas elekti novan post 10 minutoj. </p>
 
 <p id="majstra_cxasisto"><b>Majstra ĉasisto (EE):</b> Je la 20a nivelo la arbarano iĝas majstra ĉasisto. Li ĉiam povas moviĝi per plena moviĝrapideco kaj sekvi piedsignon per transvivado sen malbonoj. Per bazago li povas fari unu solan atakon kontraŭ unu ĝismorta malamiko per sia plej alta bazataka bono. Se li trafas, la malamiko suferas la normalan damaĝon kaj devas sukcese fari persistecoĵeton aŭ mortas. La MFG estas 10 + duona arbaranonivelo + SAĜ-modifilo de la arbarano. Anstataŭe la arbarano povas ankaŭ fari nemortigan damaĝon kiu egalas la nunajn vivpoentojn de la malamiko. Sukcesa savĵeto nuligas tiun damaĝon. La arbarano nur povas uzi tiun eblecon po unufoje tage por ĉiu tipo de ĝismorta malamiko. Li nur povas uzi la eblecon unufoje dum 24 horoj kontraŭ la sama malamiko. </p>
 

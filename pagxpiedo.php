@@ -7,11 +7,23 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
+            <div class="permisilo">
+                <hr>
+                <a href="<?php echo $indikilo; ?>/libera_ludo_permisilo.php">Libera-ludo-permisilo</a>
+                - <a href="<?php echo $indikilo; ?>/direktivo_de_komuna_uzo.php">Direktivo de komuna uzo</a>
+            <div>
             <style media="screen">
                 <?php
                     require_once 'kontrolilo.php';
                     kontrolilo();
                 ?>
+            </style>
+            <style media="print">
+                <?php if(!isset($kompleta)) { ?>
+                    img {
+                        display: none;
+                    }
+                <?php } ?>
             </style>
         </div>
     </body>

@@ -502,7 +502,7 @@
         <tr><td colspan="4"><sup>2</sup> La inteligentecvaloro de la intimulo.</td></tr>
     </tfoot>
     <tbody>
-        <tr><td>1-2</td><td>+1</td><td>6</td><td><a href="#vigleco">Vigleco</a>, <a href="#sinsavi-progresita">Sinsavi progresita</a>, <a href="#kunsenta-ligo">Kunsenta ligo</a>, <a href="#kundividi-sorcxojn">Kundividi sorĉojn</a></td></tr>
+        <tr><td>1-2</td><td>+1</td><td>6</td><td><a href="#vigleco">Vigleco</a>, <a href="#sinsavi-progresigita">Sinsavi progresigita</a>, <a href="#kunsenta-ligo">Kunsenta ligo</a>, <a href="#kundividi-sorcxojn">Kundividi sorĉojn</a></td></tr>
         <tr><td>3-4</td><td>+2</td><td>7</td><td><a href="#transdoni-tusxsorcxon">Transdoni tuŝsorĉon</a></td></tr>
         <tr><td>5-6</td><td>+3</td><td>8</td><td><a href="#paroli-kun-la-majstro">Paroli kun la majstro</a></td></tr>
         <tr><td>7-8</td><td>+4</td><td>9</td><td><a href="#paroli-kun-bestoj-de-sia-speco">Paroli kun bestoj de sia speco</a></td></tr>
@@ -517,7 +517,7 @@
 
 <p><b>Natura armaĵo:</b> Tiu valoro indikas la plifortikon de la natura armaĵo de la intimulo. </p>
 <p id="vigleco"><b>Vigleco (EE):</b> Tiam kiam la intimulo estas en la ĉirkaŭaĵo de unu brakolongeco de la majstro, li ricevas la talenton vigleco. </p>
-<p id="sinsavi-progresita"><b>Sinsavi progresite (EE):</b> Se la intimulo estas atakata tiel ke ĝi rajtas fari refleksĵeton por duonigi la damaĝon, tiam ĝi ricevas neniun damaĝon se ĝi sukcesas. Sed se ĝi malsukcesas ĝi ricevas nur duonon de la damaĝo. </p>
+<p id="sinsavi-progresigita"><b>Sinsavi progresigita (EE):</b> Se la intimulo estas atakata tiel ke ĝi rajtas fari refleksĵeton por duonigi la damaĝon, tiam ĝi ricevas neniun damaĝon se ĝi sukcesas. Sed se ĝi malsukcesas ĝi ricevas nur duonon de la damaĝo. </p>
 <p id="kundividi-sorcxojn"><b>Kundividi sorĉojn:</b> La majstro povas efektivigi ĉiun sorĉon kun la celo (vi) al la intiumulon anstataŭ al si mem. </p>
 <p id="kunsenta-ligo"><b>Kunsenta ligo:</b> La majstro havas kunsentan ligon al sia intimulo en la distanco de 1,5 km. La majstro ne povas vidi per la okuloj de la intimulo sed li povas komunikiĝi kunsente kun sia intimulo. Pro la limigata ligo ili nur povas komuniki ĝeneralajn sentojn. Kiel rezulto la majstro havas la saman rilaton al objekto aŭ loko kiel sia intimulo. Se la intimulo vidis lokon, estus kiel la majstro ankaŭ vidis ĝin. </p>
 <p id="transdoni-tusxsorcxon"><b>Transdoni tuŝsorĉon (SNE):</b> Ekde la majstro atingis la 3an nivelon, la intimulo povas transdoni tuŝsorĉon por li. Se la majstro kaj la intimulo estas en fizika kontakto kiam la sorĉo efektiviĝas, la majstro povas elekti la intimulon kiel tuŝanto. La intimulo transdonas la sorĉon ekzakte tiel kiel la majstro povas fari tion. Kiel kutime la sorĉo nuliĝas se la majstro efektivigas alian sorĉon antaŭ la tuŝsorĉo estas transdonita. </p>

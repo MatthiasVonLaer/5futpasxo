@@ -9,13 +9,17 @@
 
 <?php require '../../pagxkapo.php' ?>
 
-<title>Danĝerejoj kaj Nerdoj</title>
+<title>Bazregulverko</title>
 
-<div class="titolo-libro">Danĝerejoj kaj Nerdoj</div>
-<img src="../../bildoj/sxirmo_korvo.jpg" style="width:100%;">
-&nbsp;
+<div class="titolo-libro">Drakoj kaj Nerdoj</div>
+<img src="../../bildoj/sxirmo_korvo.jpg" style="width:95%;">
+
+<div class="nova-pagxo"></div>
+<div class="subtitolo-libro"><a href="www.drakoj.ikso.net" target="_blank">www.drakoj.ikso.net</a></div>
+
 <?php
 $kompleta = true;
+require '../../index.php';
 require '../ekludi/index.php';
 require '../popoloj/index.php';
 require '../klasoj/index.php';
@@ -35,8 +39,18 @@ require '../ekipajxo/index.php';
 require '../sorcxoj/index.php';
 require '../statoj/index.php';
 require '../../mallongigoj.php';
+?>
+<h1>Permisilo</h1>'
+<?php
+require '../../direktivo_de_komuna_uzo.php';
 require '../../libera_ludo_permisilo.php';
 ?>
+
+<div class="nova-pagxo"></div>
+&nbsp;
+<div class="nova-pagxo"></div>
+<div class="subtitolo-libro"><a href="www.drakoj.ikso.net" target="_blank">www.drakoj.ikso.net</a></div>
+<img src="../../bildoj/sxirmo_angxelo.jpg" style="width:98%;">
 
 <style>
 h1 {

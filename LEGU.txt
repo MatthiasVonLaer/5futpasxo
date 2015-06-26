@@ -1,6 +1,6 @@
 sudo apachectl start    // ruli lokan servilon
 
-cd Sites/drakoj_kaj_nerdoj
+cd Sites/5futpasxo
 
 git pull                // tiru el deponejo
 git add .               // aldoni novajn dosierojn al la deponejo

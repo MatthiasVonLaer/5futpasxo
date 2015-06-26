@@ -512,7 +512,7 @@
         <tr><td>12</td><td>10</td><td>+7</td><td>+7</td><td>+3</td><td>+7</td><td>10</td><td>5</td><td>+8</td><td>+4</td><td>5</td><td>- </td></tr>
         <tr><td>13</td><td>11</td><td>+8</td><td>+7</td><td>+3</td><td>+7</td><td>11</td><td>6</td><td>+8</td><td>+4</td><td>5</td><td>- </td></tr>
         <tr><td>14</td><td>12</td><td>+9</td><td>+8</td><td>+4</td><td>+8</td><td>12</td><td>6</td><td>+8</td><td>+4</td><td>5</td><td><a href="#altigxo-de-atributvaloro">Altiĝo de atributvaloro</a></td></tr>
-        <tr><td>15</td><td>12</td><td>+9</td><td>+8</td><td>+4</td><td>+8</td><td>12</td><td>6</td><td>+10</td><td>+5</td><td>6</td><td><a href="#sinsavi-progresita">Sinsavi progresita</a></td></tr>
+        <tr><td>15</td><td>12</td><td>+9</td><td>+8</td><td>+4</td><td>+8</td><td>12</td><td>6</td><td>+10</td><td>+5</td><td>6</td><td><a href="#sinsavi-progresigita">Sinsavi progresigita</a></td></tr>
         <tr><td>16</td><td>13</td><td>+9</td><td>+8</td><td>+4</td><td>+8</td><td>13</td><td>7</td><td>+10</td><td>+5</td><td>6</td><td>- </td></tr>
         <tr><td>17</td><td>14</td><td>+10</td><td>+9</td><td>+4</td><td>+9</td><td>14</td><td>7</td><td>+10</td><td>+5</td><td>6</td><td>- </td></tr>
         <tr><td>18</td><td>15</td><td>+11</td><td>+9</td><td>+5</td><td>+9</td><td>15</td><td>8</td><td>+12</td><td>+6</td><td>7</td><td>- </td></tr>
@@ -531,9 +531,9 @@
 
 <p id="sindedicxo"><b>Sindediĉo (EE):</b> La kunulo ricevas moralbonon +4 por voloĵetoj kontraŭ transsorĉoj kaj transsorĉaj efikoj. </p>
 
-<p id="multobla-atako"><b>Multobla atako:</b> La kunulo ricevas, se li ne jam havas, multoblan atakon kiel kroman talenton, se li havas tri aŭ pli naturajn atakojn. Se li ne havas tri naturajn atakojn li ricevas aldonan atakon per sia natura armilo kun malbono -5. </p>
+<p id="multobla-atako"><b>Multobla atako:</b> La kunulo ricevas, se li ankoraŭ ne havas, multoblan atakon kiel kroman talenton, se li havas tri aŭ pli naturajn atakojn. Se li ne havas tri naturajn atakojn li ricevas aldonan atakon per sia natura armilo kun malbono -5. </p>
 
-<p id="sinsavi-progresita"><b>Sinsavi progresita (EE):</b> Se la kunulo estas la celo de atako kiu permesas duonan damaĝon ĉe sukcesa refleksĵeto, la kunulo ricevas neniun damaĝon ĉe sukcesa savĵeto kaj duonan damaĝon ĉe malsukceso. </p>
+<p id="sinsavi-progresigita"><b>Sinsavi progresigita (EE):</b> Se la kunulo estas la celo de atako kiu permesas duonan damaĝon ĉe sukcesa refleksĵeto, la kunulo ricevas neniun damaĝon ĉe sukcesa savĵeto kaj duonan damaĝon ĉe malsukceso. </p>
 
 
 <h3>Bestokapablecoj</h3>
@@ -554,20 +554,20 @@ Bestkunuloj povas elekti el la sekvantaj talentoj:
 <a href="../talentoj/#fulmaj-refleksoj">fulmaj refleksoj</a>,
 <a href="../talentoj/#granda-persisteco">granda persisteco</a>,
 <a href="../talentoj/#impeta-atako">impeta atako</a>,
-<a href="../talentoj/#iniciato-progresita">iniciato progresita</a>,
+<a href="../talentoj/#iniciato-progresigita">iniciato progresigita</a>,
 <a href="../talentoj/#kapablecofokuso">kapablecofokuso</a>,
 <a href="../talentoj/#kuri">kuri</a>,
 <a href="../talentoj/#lertaj-manovroj">lertaj manovroj</a>,
 <a href="../talentoj/#movebleco">movebleco</a>,
-<a href="../../manlibro-de-monstroj/monstrotalentoj/#natura-armajxo-progresita">natura armaĵo progresita</a>,
-<a href="../../manlibro-de-monstroj/monstrotalentoj/#natura-atako-progresita">natura atako progresita</a>,
-<a href="../talentoj/#pusxatako-progresita">puŝatako progresita</a>,
+<a href="../../manlibro-de-monstroj/monstrotalentoj/#natura-armajxo-progresigita">natura armaĵo progresigita</a>,
+<a href="../../manlibro-de-monstroj/monstrotalentoj/#natura-atako-progresigita">natura atako progresigita</a>,
+<a href="../talentoj/#pusxatako-progresigita">puŝatako progresigita</a>,
 <a href="../talentoj/#ruzeco">ruzeco</a>,
 <a href="../talentoj/#sinhardado">sinhardado</a>,
 <a href="../talentoj/#sperto-kun-armajxoj-malpezaj">sperto kun armaĵoj malpezaj</a>,
 <a href="../talentoj/#sperto-kun-armajxoj-mezpezaj">sperto kun armaĵoj mezpezaj</a>,
 <a href="../talentoj/#sperto-kun-armajxoj-pezaj">sperto kun armaĵoj pezaj</a>,
-<a href="../talentoj/#superkuri-progresite">superkuri progresite</a>,
+<a href="../talentoj/#superkuri-progresigita">superkuri progresigita</a>,
 <a href="../talentoj/#timiga-forto">timiga forto</a>.
 
 

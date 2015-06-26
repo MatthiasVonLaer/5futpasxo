@@ -54,7 +54,7 @@
         <tr>
             <td><a href="#apudsekvi">Apudsekvi</a><sup>*</sup></td>
             <td>BAB +1</td>
-            <td>Kvinfut-paŝo kiel subita agoj</td>
+            <td>Kvinfut-paŝo kiel subita ago</td>
         </tr>
         <tr class="supra-linio">
             <td><a href="#arkana-armajxotrejnado">Arkana armaĵotrejnado</a><sup>*</sup></td>
@@ -132,13 +132,13 @@
             <td>Malbonoj de batalo per du manoj estas reduktitaj je +2</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#batalo-per-du-armiloj-progresita">Batalo per du armiloj progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#batalo-per-du-armiloj-progresigita">Batalo per du armiloj progresigita</a><sup>*</sup></td>
             <td>LER 17, batalo per du armiloj, BAB +6</td>
             <td>Plia atako per dua mano</td>
         </tr>
         <tr>
             <td class="desxovo-2"><a href="#batalo-per-du-armiloj-potenca">Batalo per du armiloj potenca</a><sup>*</sup></td>
-            <td>LER 19, batalo per du armiloj progresita, BAB +11</td>
+            <td>LER 19, batalo per du armiloj progresigita, BAB +11</td>
             <td>Tria atako per dua mano</td>
         </tr>
         <tr>
@@ -153,7 +153,7 @@
         </tr>
         <tr class="malsupra-linio">
             <td class="desxovo-2"><a href="#desxiri-per-du-armiloj">Deŝiri per du armiloj</a><sup>*</sup></td>
-            <td>Duobla tranĉo, batalo per du armiloj progresita, BAB +11</td>
+            <td>Duobla tranĉo, batalo per du armiloj progresigita, BAB +11</td>
             <td>Deŝiranta atako per du armiloj</td>
         </tr>
         <tr class="supra-linio">
@@ -177,23 +177,23 @@
             <td>Ŝanĝi atakbonon al armaĵbono</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#faligo-progresita">Faligo progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#faligo-progresigita">Faligo progresigita</a><sup>*</sup></td>
             <td>Defensiva batalmaniero</td>
             <td>Bono +2 por faligo, neniu okazatako</td>
         </tr>
         <tr>
             <td class="desxovo-2"><a href="#faligo-potenca">Faligo potenca</a><sup>*</sup></td>
-            <td>Faligo progresita, BAB +6</td>
+            <td>Faligo progresigita, BAB +6</td>
             <td>De vi faligitaj malamikoj provokas okazatakon</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#finto-progresita">Finto progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#finto-progresigita">Finto progresigita</a><sup>*</sup></td>
             <td>Defensiva batalmaniero</td>
             <td>Finto kiel movago</td>
         </tr>
         <tr>
             <td class="desxovo-2"><a href="#finto-potenca">Finto potenca</a><sup>*</sup></td>
-            <td>Finto progresita, BAB +6</td>
+            <td>Finto progresigita, BAB +6</td>
             <td>Atakitoj de tiu finto perdas sian LER-modifilon por 1 rondo</td>
         </tr>
         <tr>
@@ -202,13 +202,13 @@
             <td>Proksimatako kontraŭ ĉiuj malamikoj en trafopovo</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#senarmigo-progresita">Senarmigo progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#senarmigo-progresigita">Senarmigo progresigita</a><sup>*</sup></td>
             <td>Defensiva batalmaniero</td>
             <td>Bono +2 por senarmigi, neniu okazatako</td>
         </tr>
         <tr class="malsupra-linio">
             <td class="desxovo-2"><a href="#senarmigo-potenca">Senarmigo potenca</a><sup>*</sup></td>
-            <td>Senarmigo progresita, BAB +6</td>
+            <td>Senarmigo progresigita, BAB +6</td>
             <td>Senarmigitaj armiloj estas forĵetataj de la malamiko</td>
         </tr>
         <tr>
@@ -247,7 +247,7 @@
             <td>Enfokusigi energion povas lezi kaj sanigi eksterulojn</td>
         </tr>
         <tr>
-            <td><a href="#enfokusigi-progresita">Enfokusigi progresita</a></td>
+            <td><a href="#enfokusigi-progresigita">Enfokusigi progresigita</a></td>
             <td>Klasebleco enfokusigi energion</td>
             <td>Bono +2 por MFG de enfokusigi energion</td>
         </tr>
@@ -297,7 +297,7 @@
             <td>Bono +2 por voloĵetoj</td>
         </tr>
         <tr class="malsupra-linio">
-            <td class="desxovo-1"><a href="#fera-volo-progresita">Fera volo progresita</a></td>
+            <td class="desxovo-1"><a href="#fera-volo-progresigita">Fera volo progresigita</a></td>
             <td>Fera volo</td>
             <td>Unufoje tage ripeti voloĵeton</td>
         </tr>
@@ -307,19 +307,19 @@
             <td>Bono +2 por refleksĵetoj</td>
         </tr>
         <tr class="malsupra-linio">
-            <td class="desxovo-1"><a href="#fulmaj-refleksoj-progresitaj">Fulmaj refleksoj progresitaj</a></td>
+            <td class="desxovo-1"><a href="#fulmaj-refleksoj-progresigitaj">Fulmaj refleksoj progresigitaj</a></td>
             <td>Fulmaj refleksoj</td>
             <td>Unufoje tage refari refleksĵeton</td>
         </tr>
         <tr class="supra-linio">
             <td><a href="#granda-persisteco">Granda persisteco</a></td>
             <td>-</td>
-            <td>Bono +2 por por ĵetoj de persisteco</td>
+            <td>Bono +2 por ĵetoj de persisteco</td>
         </tr>
         <tr class="malsupra-linio">
-            <td class="desxovo-1"><a href="#granda-persisteco-progresita">Granda persisteco progresita</a></td>
+            <td class="desxovo-1"><a href="#granda-persisteco-progresigita">Granda persisteco progresigita</a></td>
             <td>Granda persisteco</td>
-            <td>Bono +2 por por ĵetoj de persisteco</td>
+            <td>Unufoje tage ripeti persistecoĵeton</td>
         </tr>
         <tr>
             <td><a href="#gvidi">Gvidi</a></td>
@@ -342,27 +342,27 @@
             <td>Aldona atako post ĉiu sukcesa bato</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#frakasi-objekton-progresite">Frakasi objekton progresite</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#frakasi-objekton-progresigita">Frakasi objekton progresigita</a><sup>*</sup></td>
             <td>Impeta atako</td>
             <td>Bono +2 por frakasi objekton, neniu okazatako</td>
         </tr>
         <tr>
             <td class="desxovo-2"><a href="#frakasi-objekton-potence">Frakasi objekton potence</a><sup>*</sup></td>
-            <td>Frakasi objekton progresite, BAB +6</td>
+            <td>Frakasi objekton progresigita, BAB +6</td>
             <td>Damaĝo de frakasi objekton transigas al la malamiko</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#pusxatako-progresita">Puŝatako progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#pusxatako-progresigita">Puŝatako progresigita</a><sup>*</sup></td>
             <td>Impeta atako</td>
             <td>Bono +2 por puŝatako, neniu okazatako</td>
         </tr>
         <tr>
             <td class="desxovo-2"><a href="#pusxatako-potenca">Puŝatako potenca</a><sup>*</sup></td>
-            <td>Puŝatako progresita, BAB +6</td>
+            <td>Puŝatako progresigita, BAB +6</td>
             <td>Celoj de puŝatako provokas okazatakoj</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#superkuri-progresite">Superkuri progresite</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#superkuri-progresigita">Superkuri progresigita</a><sup>*</sup></td>
             <td>Impeta atako</td>
             <td>Bono +2 por superkuri, neniu okazatako</td>
         </tr>
@@ -382,7 +382,7 @@
             <td>Neniuj malbonoj por improvizataj proksimarmiloj</td>
         </tr>
         <tr>
-            <td><a href="#iniciato-progresita">Iniciato progresita</a><sup>*</sup></td>
+            <td><a href="#iniciato-progresigita">Iniciato progresigita</a><sup>*</sup></td>
             <td>-</td>
             <td>Bono +4 por inciatoĵetoj</td>
         </tr>
@@ -392,7 +392,7 @@
             <td>Bono +2 por ĵetoj de interrilati kun bestoj kaj rajdi</td>
         </tr>
         <tr>
-            <td><a href="#intimulo-progresita">Intimulo progresita</a></td>
+            <td><a href="#intimulo-progresigita">Intimulo progresigita</a></td>
             <td>Povas havi kunulon, vidu talenton</td>
             <td>Ricevi pli potencan kunulon</td>
         </tr>
@@ -422,13 +422,13 @@
             <td>Neniu malbono por pafo en proksimbatalo</td>
         </tr>
         <tr>
-            <td class="desxovo-2"><a href="#preciza-pafo-progresita">Preciza pafo progresita</a><sup>*</sup></td>
+            <td class="desxovo-2"><a href="#preciza-pafo-progresigita">Preciza pafo progresigita</a><sup>*</sup></td>
             <td>LER 19, preciza pafo, BAB +11</td>
             <td>Ignori malpli ol 100% protekto/kamuflado ĉe distancatakoj</td>
         </tr>
         <tr>
             <td class="desxovo-3"><a href="#punktpreciza-celado">Punktpreciza celado</a><sup>*</sup></td>
-            <td>Preciza pafo progresita, BAB +16</td>
+            <td>Preciza pafo progresigita, BAB +16</td>
             <td>Neniu ŝildo- aŭ armaĵbono kontraŭ distancatako</td>
         </tr>
         <tr>
@@ -447,13 +447,13 @@
             <td>Duobla damaĝo ĉe sola atako</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#koncentrita-bato-progresita">Koncentrita bato progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#koncentrita-bato-progresigita">Koncentrita bato progresigita</a><sup>*</sup></td>
             <td>Koncentrita bato, BAB +11</td>
             <td>Triobla damaĝo ĉe sola atako</td>
         </tr>
         <tr class="malsupra-linio">
             <td class="desxovo-2"><a href="#koncentrita-bato-potenca">Koncentrita bato potenca</a><sup>*</sup></td>
-            <td>Koncentrita bato progresita, BAB +16</td>
+            <td>Koncentrita bato progresigita, BAB +16</td>
             <td>Kvarobla damaĝo ĉe sola atako</td>
         </tr>
         <tr>
@@ -462,7 +462,7 @@
             <td>Ataki malamikon, kiam ili atakas per trafdistanco</td>
         </tr>
         <tr>
-            <td><a href="#kontrauxsorcxo-progresita">Kontraŭsorĉo progresita</a></td>
+            <td><a href="#kontrauxsorcxo-progresigita">Kontraŭsorĉo progresigita</a></td>
             <td>-</td>
             <td>Ĉiu sorĉo de sama skolo de magio taŭgas kiel kontraŭsorĉo</td>
         </tr>
@@ -517,7 +517,7 @@
             <td>Celo estas surda ĉe kritika trafo</td>
         </tr>
         <tr>
-            <td><a href="#kritika-trafo-progresita">Kritika trafo progresita</a><sup>*</sup></td>
+            <td><a href="#kritika-trafo-progresigita">Kritika trafo progresigita</a><sup>*</sup></td>
             <td>Sperto kun armilo, BAB +8</td>
             <td>Duobligas ŝancon por kritika trafo de unu armilo</td>
         </tr>
@@ -613,7 +613,7 @@
         </tr>
         <tr>
             <td class="desxovo-1"><a href="#deseligi">Deseligi</a><sup>*</sup></td>
-            <td>Rajdante batali, impeta atako, puŝatako progresita, FOR 13</td>
+            <td>Rajdante batali, impeta atako, puŝatako progresigita, FOR 13</td>
             <td>Faligi malamikon de la selo</td>
         </tr>
         <tr>
@@ -652,23 +652,23 @@
             <td>Bono +2 por ĵetoj de malkateni kaj sekreteco</td>
         </tr>
         <tr class="supra-linio">
-            <td><a href="#senarma-bato-progresita">Senarma bato progresita</a><sup>*</sup></td>
+            <td><a href="#senarma-bato-progresigita">Senarma bato progresigita</a><sup>*</sup></td>
             <td>-</td>
             <td>Esti ĉiam armita</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#luktado-progresita">Luktado progresita</a><sup>*</sup></td>
-            <td>LER 13, senarma bato progresita</td>
+            <td class="desxovo-1"><a href="#luktado-progresigita">Luktado progresigita</a><sup>*</sup></td>
+            <td>LER 13, senarma bato progresigita</td>
             <td>Bono +2 por luktoĵetoj, neniu okazatako</td>
         </tr>
         <tr>
             <td class="desxovo-2"><a href="#luktado-potenca">Luktado potenca</a><sup>*</sup></td>
-            <td>ludtado progresita, BAB +6</td>
+            <td>ludtado progresigita, BAB +6</td>
             <td>Daŭrigi luktadon per movago</td>
         </tr>
         <tr>
             <td class="desxovo-1"><a href="#pafajxon-preterdirekti">Pafaĵon preterdirekti</a><sup>*</sup></td>
-            <td>LER 13, senarma bato progresita</td>
+            <td>LER 13, senarma bato progresigita</td>
             <td>Preterdirekti unu pafaĵon ĉiuronde</td>
         </tr>
         <tr>
@@ -678,7 +678,7 @@
         </tr>
         <tr>
             <td class="desxovo-1"><a href="#skorpia-pikilo">Skorpia pikilo</a><sup>*</sup></td>
-            <td>Senarma bato progresita</td>
+            <td>Senarma bato progresigita</td>
             <td>Redukti rapidecon de malamiko al 1,5 metroj</td>
         </tr>
         <tr>
@@ -693,7 +693,7 @@
         </tr>
         <tr class="malsupra-linio">
             <td class="desxovo-1"><a href="#sveniga-bato">Sveniga bato</a><sup>*</sup></td>
-            <td>LER 13, SAĜ 13, senarma bato progresita, BAB +8</td>
+            <td>LER 13, SAĜ 13, senarma bato progresigita, BAB +8</td>
             <td>Svenigi malamikon per senarma bato</td>
         </tr>
         <tr>
@@ -782,7 +782,7 @@
             <td>Neniu malbono por atakoj se vi uzas ŝildon</td>
         </tr>
         <tr>
-            <td class="desxovo-1"><a href="#sxildbato-progresita">Ŝildbato progresita</a><sup>*</sup></td>
+            <td class="desxovo-1"><a href="#sxildbato-progresigita">Ŝildbato progresigita</a><sup>*</sup></td>
             <td>Sperto kun ŝildoj</td>
             <td>Ĉe ŝildbato gardi la ŝildbonon</td>
         </tr>
@@ -851,7 +851,7 @@
 <h5 id="apudsekvi">Apudsekvi [batalo]</h5>
 <p> Vi povas mallongigi la distancon, se malamiko provas malproskimiĝi.</p>
 <p> <b>Kondiĉo:</b> Bazataka bono +1 </p>
-<p> <b>Avantaĝo:</b> Se malamiko en najbara kampo provas malproksimiĝi per kvinfut-paŝo, tiam vi faras same kvinfut-paŝon kiel subita ago por alveni al najbara kampo de la malamiko. Se vi faras la paŝon, vi ne plu povas fari kvinfut-paŝon dum via posta vico. Se vi moviĝas dum via posta vico, subtrahu la 1,5 m de la distanco kiun vi povus iri.</p>
+<p> <b>Avantaĝo:</b> Se malamiko en najbara kampo provas malproksimiĝi per kvinfut-paŝo, tiam vi faras same kvinfut-paŝon kiel subitan agon por alveni al najbara kampo de la malamiko. Se vi faras la paŝon, vi ne plu povas fari kvinfut-paŝon dum via posta vico. Se vi moviĝas dum via posta vico, subtrahu la 1,5 m de la distanco kiun vi povus iri.</p>
 
 <h5 id="arkana-armajxomajstro">Arkana armaĵomajstro [batalo]</h5>
 <p> Vi majstras ŝorĉi en armaĵoj.</p>
@@ -907,7 +907,7 @@
 <p> <b>Avantaĝo:</b> Viaj malbonoj por la batalo per du armiloj reduktiĝas. La malbono por vi ĉefarmilo reduktiĝas je +2, la malbono por via dua armilo je +6. Vidu la paragrafon <a href="../batalo/#batalo-per-du-armiloj">Batalo per du armiloj</a> en la ĉapitro <a href="../batalo">Batalo</a>. </p>
 <p> <b>Kutime:</b> Se vi tenas duan armilon en via dua mano, vi povas fari per tiu armilo ĉiuvice unu kroman atakon. Se vi batalas tiamaniere, vi ricevas malbonon -6 por atakoj per via ĉefmano kaj malbonon -10 por atakoj per la dua mano. Se via dua armilo estas malpeza la malbonoj reduktiĝas je +2. Senarmaj batoj kalkuliĝas kiel atakoj per malpezaj armiloj.</p>
 
-<h5 id="batalo-per-du-armiloj-progresita">Batalo per du armiloj progresita [batalo]</h5>
+<h5 id="batalo-per-du-armiloj-progresigita">Batalo per du armiloj progresigita [batalo]</h5>
 <p> Vi havas sperton en la batalo per du armiloj.</p>
 <p> <b>Kondiĉo:</b> LER 17, batalo per du armiloj, bazataka bono +6 </p>
 <p> <b>Avantaĝo:</b> Aldone al la kutima plia atako per la dua mano vi ricevas duan tian atakon tamen kun malbono -5. </p>
@@ -915,7 +915,7 @@
 
 <h5 id="batalo-per-du-armiloj-potenca">Batalo per du armiloj potenca [batalo]</h5>
 <p> Vi havas nekredeblajn eblecojn batalante per du armiloj.</p>
-<p> <b>Kondiĉo:</b> LER 19, batalo per du armiloj, batalo per du armiloj progresita, bazataka bono +11 </p>
+<p> <b>Kondiĉo:</b> LER 19, batalo per du armiloj, batalo per du armiloj progresigita, bazataka bono +11 </p>
 <p> <b>Avantaĝo:</b> Vi ricevas trian atakon per via dua mano tamen kun malbono -10. </p>
 
 <h5 id="batalrefleksoj">Batalrefleksoj [batalo]</h5>
@@ -940,7 +940,7 @@
 <p> <b>Kondiĉo:</b> Eltenemo</p>
 <p> <b>Avantaĝo:</b> Se viaj vivpoentoj estas sub 0 kaj vi ne estas morta, vi stabiliĝas aŭtomate. Vi ne bezonas fari ĵeton de konstitucio por ne perdi pliajn vivpoentojn. </p>
 <p> Se viaj vivpoentoj reduktiĝas sub 0, vi povas elekti agi kiel se vi estus nebatalkapabla, anstataŭ kuŝi mortante. Tiun decidon vi devas fari en la momento kiam viaj vivpoentoj reduktiĝas sub 0, eĉ se ne estas via vico. Se vi ne decidas uzi la talenton, vi perdas subite la konscion.</p>
-<p> Se vi elektas la talenton, vi estas ŝanceliĝanta. Vi povas fari unu movagon sen ricevi plian damaĝon. Tuj kiam vi faras bazagon aŭ faras alian agon kiun oni devas trakti kiel laciga (kiuj ankaŭ povas esti kelkaj liberaj agoj kiel efektivigi rapidan sorĉon), vi suferas unu damaĝpoenton. Se viaj negativaj vivpoentoj estas egalaj aŭ pli grandaj ol via konstituciovaloro, vi mortas subite. </p>
+<p> Se vi elektas la talenton, vi estas ŝanceliĝanta. Vi povas fari unu movagon sen ricevi plian damaĝon. Tuj kiam vi faras bazagon aŭ faras alian agon kiun oni devas trakti kiel lacigan agon (kiuj ankaŭ povas esti kelkaj liberaj agoj kiel efektivigi rapidan sorĉon), vi suferas unu damaĝpoenton. Se viaj negativaj vivpoentoj estas egalaj aŭ pli grandaj ol via konstituciovaloro, vi mortas subite. </p>
 <p> <b>Kutime:</b> Rolulo sen tiu talento kies vivpoentoj reduktiĝas sub 0, perdas la konscion kaj estas mortanta. </p>
 
 <h5 id="cxirkauxbato">Ĉirkaŭbato [batalo]</h5>
@@ -970,12 +970,12 @@
 
 <h5 id="deseligi">Deseligi [batalo]</h5>
 <p> Vi havas sperton kiel faligi viajn kontraŭulojn de la selo. </p>
-<p> <b>Kondiĉoj:</b> FOR 13, 1 rango en rajdi, rajdante batali, impeta atako, puŝatako progresita</p>
+<p> <b>Kondiĉoj:</b> FOR 13, 1 rango en rajdi, rajdante batali, impeta atako, puŝatako progresigita</p>
 <p> <b>Avantaĝo:</b> Se vi rajdante per lanco atakas malamikon, faru la atakon kiel kutime. Se la atako estas sukcesa vi povas - aldone al la normala damaĝo - provi liberan puŝatakon. Se tio ankaŭ sukcesas, la malamiko estas jetata de la selo kaj surteriĝas kuŝante sur unu najbara kampo de sia rajdbesto aliflanke de vi. </p>
 
 <h5 id="desxiri-per-du-armiloj">Deŝiri per du armiloj [batalo]</h5>
 <p> Se vi trafas per ambaŭ armiloj vi povas kaŭzi detruajn vundojn.</p>
-<p> <b>Kondiĉoj:</b> LER 17, duobla tranĉo, batalo per du armiloj progresita, batalo per du armiloj, bazataka bono +11</p>
+<p> <b>Kondiĉoj:</b> LER 17, duobla tranĉo, batalo per du armiloj progresigita, batalo per du armiloj, bazataka bono +11</p>
 <p> <b>Avantaĝo:</b> Se vi trafas malamikon per la armilo de via ĉefa mano kaj ankaŭ per via dua mano, vi kaŭzas aldonan 1k10 damaĝon + 1 &frac12; via FOR-modifilo. Tiun aldonan damaĝon vi nur povas kaŭzi unufoje en unu rondo. </p>
 
 <h5 id="disbati-defendon">Disbati defendon [batalo]</h5>
@@ -1026,7 +1026,7 @@
 <p> <b>Avantaĝo:</b> Anstataŭ la kutima funkciado vi povas decidi ke la ebleco "enfokusigi energion" lezas aŭ sanigas eksterulojn de la elektita pensmaniero. Vi devas fari la elekton ĉiam kiam vi enfokusigas energion. Se vi elektas lezi aŭ sanigi estaĵojn de la elektita pensmaniero, tiam la ebleco "enfokusigi energion" havas neniun efikon por aliaj estaĵoj. La kvanto da sanigo aŭ damaĝo kiel la MFG por duonigo de la damaĝo estas kiel kutime.  </p>
 <p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Ĝia efiko ne estas akumula. Ĉiam kiam vi denove elektas la talenton ĝi rilatas al alia pensmaniero. Se vi enfokusigas energion, vi devas elekti al kiu pensmaniero ĝi efikas. </p>
 
-<h5 id="enfokusigi-progresita">Enfokusigi progresita</h5>
+<h5 id="enfokusigi-progresigita">Enfokusigi progresigita</h5>
 <p> Estas pli malfacile rezisti vian enfukusigitan enegion ol kutime.</p>
 <p> <b>Kondiĉo:</b> Klasebleco enfokusigi energion</p>
 <p> <b>Avantaĝo:</b> La MFG de savĵetoj por rezisti vian eblecon enfokusigi energion altiĝas je +2.</p>
@@ -1053,12 +1053,12 @@
 <p> <b>Specife:</b> Vi povas elekti tiun talenton plurfoje. Via moviĝrapideco ĉiufoje altiĝas je 1,5 metroj. </p>
 
 <h5 id="faligo-potenca">Faligo potenca [batalo]</h5>
-<p> Vi povas fari atakojn kiel liberaj agoj kontraŭ malamikoj kiujn vi faligis.</p>
-<p> <b>Kondiĉoj:</b>Defensiva batalmaniero, faligo progresita, BAB +6, INT 13 </p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de faligo. Tiu bono validas aldone al la bono de la talento faligo progresita. Se vi faligas malamikon, okazatakoj povas esti farataj kontraŭ li.</p>
+<p> Vi povas fari atakojn kiel liberajn agojn kontraŭ malamikoj kiujn vi faligis.</p>
+<p> <b>Kondiĉoj:</b>Defensiva batalmaniero, faligo progresigita, BAB +6, INT 13 </p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de faligo. Tiu bono validas aldone al la bono de la talento faligo progresigita. Se vi faligas malamikon, okazatakoj povas esti farataj kontraŭ li.</p>
 <p> <b>Kutime:</b> Kreaĵoj ne suferas okazatakon, se oni faligas ilin.</p>
 
-<h5 id="faligo-progresita">Faligo progresita [batalo]</h5>
+<h5 id="faligo-progresigita">Faligo progresigita [batalo]</h5>
 <p> Vi havas sperton kiel surterigi viajn malamikojn.</p>
 <p> <b>Kondiĉoj:</b>Defensiva batalmaniero, INT 13 </p>
 <p> <b>Avantaĝo:</b> Se vi aplikas la batalmanovron faligo, vi ne provokas okazatakon. Krome vi ricevas bonon +2 por ĵetoj per kiuj vi provas faligi vian malamikon. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2.</p>
@@ -1068,18 +1068,18 @@
 <p> Vi pli facile rezistas mensinfluajn fortojn.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas por ĉiuj voloĵetoj bonon +2.</p>
 
-<h5 id="fera-volo-progresita">Fera volo progresita</h5>
+<h5 id="fera-volo-progresigita">Fera volo progresigita</h5>
 <p> Via vigla prudento donas al vi rezistokapablon kontraŭ mensinfluaj atakoj.</p>
 <p> <b>Kondiĝo:</b> Fera volo </p>
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas ripeti refleksĵeton. La decido apliki tiun talenton devas esti farita antaŭ vi malkovras la rezulton de via ĵeto. Se vi aplikas la talenton vi devas akcepti la duan rezulton eĉ se ĝi estas pli malbona ol la rezulto de la unua ĵeto.</p>
 
 <h5 id="finto-potenca">Finto potenca [batalo]</h5>
 <p> Vi scipovas kaŭzi ke viaj malamikoj troreagas al viaj atakoj.</p>
-<p> <b>Kondiĉoj:</b>Defensiva batalmaniero, finto progresita, BAB +6, INT 13 </p>
+<p> <b>Kondiĉoj:</b>Defensiva batalmaniero, finto progresigita, BAB +6, INT 13 </p>
 <p> <b>Avantaĝo:</b> Se vi uzas finton por ke la malamiko perdu sian LER-bonon, li ne nur perdas ĝin dum via posta atako sed ĝis la komenco de la sekvanta rondo. </p>
 <p> <b>Kutime:</b> Kreaĵo kontraŭ kiu vi uzas finton, perdas sian LER-bonon dum via posta atako.</p>
 
-<h5 id="finto-progresita">Finto progresita [batalo]</h5>
+<h5 id="finto-progresigita">Finto progresigita [batalo]</h5>
 <p> Vi havas talenton trompi viajn malamikojn en la batalo.</p>
 <p> <b>Kondiĉoj:</b>Defensiva batalmaniero, INT 13 </p>
 <p> <b>Avantaĝo:</b> Vi povas fari blufoĵeton por apliki finton en la batalo kiel movagon.</p>
@@ -1087,10 +1087,10 @@
 
 <h5 id="frakasi-objekton-potence">Frakasi objekton potence [batalo]</h5>
 <p> Viaj detruaj batoj trairas armilojn, armaĵojn kaj iliajn portantojn kaj damaĝas la objektojn kaj la portantojn per timiga bato. </p>
-<p> <b>Kondiĉoj:</b> FOR 13, impeta atako, frakasi objekton progresite, bazataka bono +6 </p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por frakasi objektojn. Tiu bono aldoniĝas al la bono de la talento frakasi objektojn progresite. Se vi frakasas armilon, armaĵon aŭ ŝildon kaj detruas ĝin, la kroma damaĝô efikas al la portanto de tiu objekto. Se vi decidas ke la vivpoentoj de la malamiko ne subiru sub unu vivpoento, tiam neniu damaĝo efikas al la malamiko. </p>
+<p> <b>Kondiĉoj:</b> FOR 13, impeta atako, frakasi objekton progresigita, bazataka bono +6 </p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por frakasi objektojn. Tiu bono aldoniĝas al la bono de la talento frakasi objektojn progresigita. Se vi frakasas armilon, armaĵon aŭ ŝildon kaj detruas ĝin, la kroma damaĝô efikas al la portanto de tiu objekto. Se vi decidas ke la vivpoentoj de la malamiko ne subiru sub unu vivpoento, tiam neniu damaĝo efikas al la malamiko. </p>
 
-<h5 id="frakasi-objekton-progresite">Frakasi objekton progresite [batalo]</h5>
+<h5 id="frakasi-objekton-progresigita">Frakasi objekton progresigita [batalo]</h5>
 <p> Vi havas sperton frakasi armilojn aŭ armaĵojn de viaj malamikoj. </p>
 <p> <b>Kondiĉoj:</b> FOR 13, impeta atako, bazataka bono +1 </p>
 <p> <b>Avantaĝo:</b> Se vi uzas la batalmanovro frakasi objekton, vi ne provokas okazatakon. Plie vi ricevas bonon +2 por ĵetoj per kiuj vi volas damaĝi objektojn. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2.</p>
@@ -1100,20 +1100,20 @@
 <p> Viaj refleksoj estas superaveraĝaj.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĉiuj refleksĵetoj. </p>
 
-<h5 id="fulmaj-refleksoj-progresitaj">Fulmaj refleksoj progresitaj</h5>
+<h5 id="fulmaj-refleksoj-progresigitaj">Fulmaj refleksoj progresigitaj</h5>
 <p> <b>Kondiĉo:</b> Fulmaj refleksoj</p>
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas refari refleksĵeton. La decido apliki tiun talenton devas esti farita antaŭ vi malkovras la rezulton de via ĵeto. Se vi aplikas la talenton vi devas akcepti la duan rezulton eĉ se ĝi estas pli malbona ol la rezulto de la unua ĵeto.</p>
 
 <h5 id="gorgona-pugno">Gorgona pugno [batalo]</h5>
 <p> Per ĝuste celata bato vi igas vian malamikon ŝanceliĝi.</p>
-<p> <b>Kondiĉoj:</b> Senarma bato progresita, skorpia pikilo, bazataka bono +6 </p>
+<p> <b>Kondiĉoj:</b> Senarma bato progresigita, skorpia pikilo, bazataka bono +6 </p>
 <p> <b>Avantaĝo:</b> Vi faras unu solan senamrman proksimatakon kontraŭ celo kies rapideco estas reduktita (ekz. per skorpia pikilo). La proksimatako devas esti farata per bazago. Ĉe trafo via atako kaŭzas normalan damaĝon. Krome la celo de via atako estas ŝanceliĝanta ĝis la fino de via venonta vico, se li ne sukcese faras savĵeton de persisteco (MFG 10 + &frac12; via rolulnivelo + via SAĜ-modifilo). Ĉe jam ŝanceliĝantaj celoj tiu talento ne havas efikon. </p>
 
 <h5 id="granda-persisteco">Granda persisteco</h5>
 <p> Vi estas pli persistema ol aliaj kontraŭ venenoj, malsanoj kaj aliaj mortigaj defioj. </p>
 <p> <b>Avantaĝo:</b> Por ĉiuj savĵetoj de persisteco vi ricevas bonon +2. </p>
 
-<h5 id="granda-persisteco-progresita">Granda persisteco progresita</h5>
+<h5 id="granda-persisteco-progresigita">Granda persisteco progresigita</h5>
 <p> El via interno vi povas gajni fortojn por rezisti malsanojn, venenojn kaj aliajn fizikajn suferojn. </p>
 <p> <b>Kondiĉo:</b> Granda persisteco </p>
 <p> <b>Avantaĝo:</b> Unufoje tage vi povas ripeti ĵeton de persisteco. La decido uzi tiun eblecon devas esti farita antaŭ vi faras la savĵeton. Se vi aplikas la talenton, vi devas akcepti la duan ĵeton ankaŭ se la rezulto estas malpli bona ol la unua. </p>
@@ -1497,11 +1497,11 @@
 <p> Vi estas edukita por labori kun rajdbestoj kaj aliaj bestoj. </p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por kapablecĵetoj de interrilati kun bestoj kaj rajdi. Se vi havas pli ol 10 rangoj en unu kapableco, la bono altiĝas ĉe tiu kapableco al +4. </p>
 
-<h5 id="iniciato-progresita">Iniciato progresita [batalo]</h5>
+<h5 id="iniciato-progresigita">Iniciato progresigita [batalo]</h5>
 <p> Viaj lertaj refleksoj ebligas al vi reagi rapide ĉe danĝeroj.</p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +4 por iniciatoĵetoj.</p>
 
-<h5 id="intimulo-progresita">Intimulo progresita</h5>
+<h5 id="intimulo-progresigita">Intimulo progresigita</h5>
 
 <table class="glita">
     <thead>
@@ -1529,7 +1529,7 @@
 <p> Kun tiu talento vi povas elekti novan intimulon de listo kun pliaj bestoj. La talento nur validas se vi ankaŭ sen la uzo de la talento ricevus novan intimulon.</p>
 <p> <b>Kondiĉoj:</b> Ebleco ricevi novan intimulon, konvena pensmaniero, sufiĉe alta nivelo (vidu apuden). </p>
 <p> <b>Avantaĝo:</b> Se vi elektas intimulon, ankaŭ la kreaĵoj en la apuda tabelo estas elekteblaj por vi (komparu la ludovaloroj de la kreaĵoj en la manlibro de monstroj). Vi rajtas elekti ĉiun intimulon kies pensmaniero maksimume devias unu paŝon sur ambaŭ aksoj (laŭleĝa ĝis ĥaosa, bona ĝis malbona) de via pensmaniero. </p>
-<p> Krome por intimuloj progresitaj validas la samaj reguloj kiel por normalaj intimuloj. Tamen estas du esceptoj: se la kreaĵo apartenas al alia speco ol besto, ĝia speco ne ŝanĝiĝas. Plie intimuloj progresitaj ne ricevas la eblecon paroli kun aliajn estaĵoj de sia speco (tamen multaj el ili jam havas la eblecon por komunikiĝo). </p>
+<p> Krome por intimuloj progresigitaj validas la samaj reguloj kiel por normalaj intimuloj. Tamen estas du esceptoj: se la kreaĵo apartenas al alia speco ol besto, ĝia speco ne ŝanĝiĝas. Plie intimuloj progresigitaj ne ricevas la eblecon paroli kun aliajn estaĵoj de sia speco (tamen multaj el ili jam havas la eblecon por komunikiĝo). </p>
 
 <h5 id="kapablecofokuso">Kapablecofokuso</h5>
 <p> Elektu kapablecon. Vi aparte havas sperton en tiu kapableco.</p>
@@ -1550,21 +1550,21 @@
 <p> <b>Kondiĉo:</b> Bazataka bono +11 </p>
 <p> <b>Avantaĝo:</b> Se vi atakas, vi povas fari unu solan atakon per via plej granda bazataka bono, kiu kaŭzas pli da damaĝo. Ĵetu la damaĝokubetojn de la armilo dufoje kaj adiciu la rezultojn antaŭ vi aldonas la modifilojn pro forto, ecoj de armilo (kiel ekflama), damaĝo pro precizeco (kiel ekz. embuska atako) kaj aliaj damaĝobonoj. La aldonaj damaĝokubetoj ne multiplikiĝas ĉe kritika trafo sed estas aldonitaj al la tuta rezulto.</p>
 
-<h5 id="koncentrita-bato-progresita">Koncentrita bato progresita [batalo]</h5>
+<h5 id="koncentrita-bato-progresigita">Koncentrita bato progresigita [batalo]</h5>
 <p> Vi faras unu solan atakon kiu kaŭzas rimarkinde pli da damaĝo ol kutime.</p>
 <p> <b>Kondiĉoj:</b> Koncentrita bato, bazataka bono +11 </p>
 <p> <b>Avantaĝo:</b> Se vi atakas, vi povas fari unu solan atakon per via plej granda bazataka bono, kiu kaŭzas pli da damaĝo. Ĵetu la damaĝokubetojn de la armilo trifoje kaj adiciu la rezultojn antaŭ vi aldonas la modifilojn pro forto, ecoj de armilo (kiel ekflama), damaĝo pro precizeco (kiel ekz. embuska atako) kaj aliaj damaĝobonoj. La aldonaj damaĝokubetoj ne multiplikiĝas ĉe kritika trafo sed estas aldonitaj al la tuta rezulto.</p>
 
 <h5 id="koncentrita-bato-potenca">Koncentrita bato potenca [batalo]</h5>
 <p> Vi faras unu solan atakon kiu kaŭzas nekredeble pli da damaĝo ol kutime.</p>
-<p> <b>Kondiĉoj:</b> Koncentrita bato, koncentrita bato progresita, bazataka bono +16 </p>
+<p> <b>Kondiĉoj:</b> Koncentrita bato, koncentrita bato progresigita, bazataka bono +16 </p>
 <p> <b>Avantaĝo:</b> Se vi atakas, vi povas fari unu solan atakon per via plej granda bazataka bono, kiu kaŭzas pli da damaĝo. Ĵetu la damaĝokubetojn de la armilo kvarfoje kaj adiciu la rezultojn antaŭ vi aldonas la modifilojn pro forto, ecoj de armilo (kiel ekflama), damaĝo pro precizeco (kiel ekz. embuska atako) kaj aliaj damaĝobonoj. La aldonaj damaĝokubetoj ne multiplikiĝas ĉe kritika trafo sed estas aldonitaj al la tuta rezulto.</p>
 
 <h5 id="kontrauxatako">Kontraŭatako [batalo]</h5>
 <p> Vi povas trafi malamikojn kiuj atakas vin per pli granda trafdistanco tiel ke vi atakas iliajn ekstremaĵojn aŭ armilojn. </p>
 <p> <b>Avantaĝo:</b> Vi povas prepari atakon kontraŭ iu malamiko kiu atakas vin en proksimbatalo. Tio ankaŭ funkcias se li estas ekster via trafpovo. </p>
 
-<h5 id="kontrauxsorcxo-progresita">Kontraŭsorĉo progresita</h5>
+<h5 id="kontrauxsorcxo-progresigita">Kontraŭsorĉo progresigita</h5>
 <p> Vi havas sperton por superi sorĉojn de aliaj per similaj sorĉoj.</p>
 <p> <b>Avantaĝo:</b> Se vi efektivigas kontraŭsorĉon, vi povas elekti iun sorĉon de sama skolo kiu havas pli altan gradon. </p>
 <p> <b>Kutime:</b> Sen tiu talento vi nur povas kontraŭsorĉi per sama sorĉo aŭ sorĉo kiu estas priskribita kiel kontraŭsorĉo por la celsorĉo. </p>
@@ -1628,11 +1628,11 @@
 <p> <b>Avantaĝo:</b> Se vi faras kritikan trafon, via malamiko estas svenanta dum 1k4 rondoj. Se li sukcese faras persistecoĵeton, li estas ŝanceliĝanta dum 1k4 rondoj. La MFG de la persistecoĵeto egalas 10 + via bazataka bono. La efiko de tiu talento ne estas akumula. Pliaj kritikaj trafoj kun tiu talento nur plidaŭrigas la efikon. </p>
 <p> <b>Specife:</b> Vi nur povas apliki unu kritika-trafo-talenton aldone al la damaĝo de la kritika trafo, krom vi havas la talenton kritika trafo majstreco. </p>
 
-<h5 id="kritika-trafo-progresita">Kritika trafo progresita [batalo]</h5>
+<h5 id="kritika-trafo-progresigita">Kritika trafo progresigita [batalo]</h5>
 <p> Elektu unu armilon. Atakoj per tiu armilo estas speciale mortigaj.</p>
 <p> <b>Kondiĉoj:</b> Sperto kun armilo, bazataka bono +8 </p>
 <p> <b>Avantaĝo:</b> Se vi batalas per la elektita armilo, duobliĝas la ŝanco por kritika trafo.</p>
-<p> <b>Specife:</b> Vi povas elekti la talenton kritikan trafon progresitan plurfoje, tamen vi devas elekti ĉiufoje alian armilon. </p>
+<p> <b>Specife:</b> Vi povas elekti la talenton kritikan trafon progresigitan plurfoje, tamen vi devas elekti ĉiufoje alian armilon. </p>
 <p> La efiko de tiu talento ne sumiĝas kun aliaj efikoj kiuj altigas la ŝancon por kritika trafo.</p>
 
 <h5 id="kuri">Kuri</h5>
@@ -1665,13 +1665,13 @@
 
 <h5 id="luktado-potenca">Luktado potenca [batalo]</h5>
 <p> Daŭrigi luktadon, estas facila tasko por vi. </p>
-<p> <b>Kondiĉoj:</b> Senarma bato progresita, luktado progresita, bazataka bono +6, LER 13 </p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de luktado. Tiu bono validas akumule kun la bono de la talento luktado progresita. Ekde tiam kiam vi sukcese komencis luktadon, la daŭrigo de la luktado estas movago. La talento ebligas al vi fari du ĵetoj de luktado ĉiuronde (por movi vian malamikon, lezi lin, aŭ firmteni lin). Tamen vi ne devas fari du ĵetojn. Sufiĉas unu sukcesa ĵeto por daŭrigi la luktadon.</p>
+<p> <b>Kondiĉoj:</b> Senarma bato progresigita, luktado progresigita, bazataka bono +6, LER 13 </p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de luktado. Tiu bono validas akumule kun la bono de la talento luktado progresigita. Ekde tiam kiam vi sukcese komencis luktadon, la daŭrigo de la luktado estas movago. La talento ebligas al vi fari du ĵetoj de luktado ĉiuronde (por movi vian malamikon, lezi lin, aŭ firmteni lin). Tamen vi ne devas fari du ĵetojn. Sufiĉas unu sukcesa ĵeto por daŭrigi la luktadon.</p>
 <p> <b>Kutime:</b> La daŭrigo de luktado estas bazago.</p>
 
-<h5 id="luktado-progresita">Luktado progresita [batalo]</h5>
+<h5 id="luktado-progresigita">Luktado progresigita [batalo]</h5>
 <p> Vi estas sperta por lukti kun aliaj personoj.</p>
-<p> <b>Kondiĉoj:</b> LER 13, senarma bato progresita </p>
+<p> <b>Kondiĉoj:</b> LER 13, senarma bato progresigita </p>
 <p> <b>Avantaĝo:</b> Se vi uzas la batalmanovron luktado, vi ne provokas okazatakojn. Krome vi ricevas bonon +2 por ataki malamikojn kun luktado. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2. </p>
 <p> <b>Kutime:</b> Se vi uzas la batalmanovron luktado, vi provokas okazatakon. </p>
 
@@ -1682,7 +1682,7 @@
 <p> <b>Kutime:</b> Nur sorĉkonantoj plenumas la kondiĉojn por la talentoj krei magian armilon kaj armaĵon kaj krei mirindan objekton. </p>
 
 <h5 id="majstro-de-armilimprovizado">Majstro de armilimprovizado [batalo]</h5>
-<p> Vi povas uzi preskaŭ ĉiun objekton kiel mortiga armilo kiel razilakra seĝokruro aŭ sako de faruno.</p>
+<p> Vi povas uzi preskaŭ ĉiun objekton kiel mortigan armilon kiel razilakran seĝokruron aŭ sakon de faruno.</p>
 <p> <b>Kondiĉoj:</b> Improvizata distancatako aŭ improvizata proksimatako, bazataka bono +8.</p>
 <p> <b>Avantaĝo:</b> Vi ne ricevas malbonon por la uzo de improvizataj armiloj. Altigu la damaĝon kiun kaŭzas la improvizita armilo je unu nivelo (ekz. 1k4 iĝas 1k6) ĝis maksimume 1k8 (aŭ 2k6 se estas ambaŭmana improvizata armilo). La ŝanco por kritika trafo de la improvizata armilo estas 19-20 kaj la damaĝomultiplikanto &times;2.</p>
 
@@ -1698,7 +1698,7 @@
 
 <h5 id="meduza-kolero">Meduza kolero [batalo]</h5>
 <p> Vi povas uzi la konfuzon de viaj malamikoj por fari plurajn trafojn.</p>
-<p> <b>Kondiĉoj:</b> Gorgona pugno, skorpia pikilo, senarma bato progresita, bazataka bono +11 </p>
+<p> <b>Kondiĉoj:</b> Gorgona pugno, skorpia pikilo, senarma bato progresigita, bazataka bono +11 </p>
 <p> <b>Avantaĝo:</b> Per plena atako kaj minimume unu senarma bato vi povas fari du pliajn senarmajn batojn per via plej alta bazataka bono. La senarmaj batoj devas esti celataj al kapturnanta, sur malĝusta piedo surprizita, paralizata, ŝanceliĝanta, svenanta aŭ senkonscia malamiko. </p>
 
 <h5 id="minaca-prezentado">Minaca prezentado [batalo]</h5>
@@ -1729,13 +1729,13 @@
 
 <h5 id="pafajxon-kapti">Pafaĵon kapti [batalo]</h5>
 <p> Anstataŭ preterbati sagojn aŭ alian distancatakon, vi ankaŭ povas kapti la pafaĵon en la aero.</p>
-<p> <b>Kondiĉoj:</b> LER 15, pafaĵon preterdirekti, senarma bato progresita</p>
+<p> <b>Kondiĉoj:</b> LER 15, pafaĵon preterdirekti, senarma bato progresigita</p>
 <p> <b>Avantaĝo:</b> Se vi uzas la talenton pafaĵon preterdirekti, vi povas kapti la pafaĵon anstataŭ nur preterdirekti ĝin. Ĵetarmiloj povas esti rekte reĵetataj al la atakanto (kvankam ne estas via vico) aŭ povas esti gardataj por posta uzo.</p>
 <p> Por uzi tiun talenton vi devas havi unu liberan manon (ĝi ne rajtas porti ion). </p>
 
 <h5 id="pafajxon-preterdirekti">Pafaĵon preterdirekti [batalo]</h5>
 <p> Vi povas preterdirekti sagojn kaj aliajn pafaĵojn de ilia trajektorio tiel kiel vi ne estas trafata.</p>
-<p> <b>Kondiĉoj:</b> LER 13, senarma bato progresita</p>
+<p> <b>Kondiĉoj:</b> LER 13, senarma bato progresigita</p>
 <p> <b>Avantaĝo:</b> Por uzi tiun talenton vi bezonas liberan manon (en kiu vi portas nenion). Unufoje ĉiuronde vi povas preterdirekti distancatakon kiu normale trafus vin kaj ne suferas damaĝon. Tamen vi ne rajtes esti sur la malĝusta piedo kaj vi devas konscii la atakon. La provo preterdirekti distancatakon ne kalkuliĝas kiel ago. Eksterordinaraj grandaj distancarmiloj (felsŝtonegoj, balistikaj pafaĵoj), naturaj kaj per sorĉo kreitaj distancatakoj ne povas esti preterdirektataj.</p>
 
 <h5 id="pafi-kurante">Pafi kurante [batalo]</h5>
@@ -1795,7 +1795,7 @@
 <p> <b>Kondiĉo:</b> Kernpafo</p>
 <p> <b>Avantaĝo:</b> Vi povas pafi per distancarmiloj al malamiko (aŭ ĵeti al li) kiu estas en proksimbatalo, sen ricevi la kutiman malbonon -4 por via atakĵeto. </p>
 
-<h5 id="preciza-pafo-progresita">Preciza pafo progresita [batalo]</h5>
+<h5 id="preciza-pafo-progresigita">Preciza pafo progresigita [batalo]</h5>
 <p> En la distancbatalo por vi nur kompletaj protektoj aŭ kamufladoj estas malhelpoj.</p>
 <p> <b>Kondiĉoj:</b> LER 19, kernpafo, preciza pafo, bazataka bono +11</p>
 <p> <b>Avantaĝo:</b> Viaj distancatakoj ignoras ĉiujn armaĵbonojn de la celo, kiuj ne estas kompletaj protektoj. Same por maltrafo-probablecoj ĉe atakoj al celo kiu havas malpli ol kompletan kamufladon. Kompleta protekto aŭ kompleta kamuflado donas al la celo la kutimajn avantaĝojn kontraŭ viaj distancatakoj.</p>
@@ -1803,16 +1803,16 @@
 
 <h5 id="punktpreciza-celado">Punktpreciza celado [batalo]</h5>
 <p> Vi kapablas celi al la malfortaĵoj de la armaĵo de la malamiko.</p>
-<p> <b>Kondiĉo:</b> LER 19, kernpafo, preciza pafo, preciza pafa progresita, BAB +16</p>
-<p> <b>Avantaĝo:</b> Vi faras unu solan distancatakon kiel bazago. Kontraŭ tiu pafo la celo perdas ĉiujn bonojn por armaĵo, natura armaĵo aŭ ŝildoj de la armaĵklaso.</p>
+<p> <b>Kondiĉo:</b> LER 19, kernpafo, preciza pafo, preciza pafa progresigita, BAB +16</p>
+<p> <b>Avantaĝo:</b> Vi faras unu solan distancatakon kiel bazagon. Kontraŭ tiu pafo la celo perdas ĉiujn bonojn por armaĵo, natura armaĵo aŭ ŝildoj de la armaĵklaso.</p>
 
 <h5 id="pusxatako-potenca">Puŝatako potenca [batalo]</h5>
 <p> Viaj puŝatakoj ŝanceligas viajn malamikojn. </p>
-<p> <b>Kondiĉoj:</b> FOR 13, impeta atako, puŝatako progresita, bazataka bono +6</p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por viaj ĵetoj de puŝatakoj. Tiu bono aldoniĝas al la bono de la talento puŝatako progresita. Se vi faras puŝatakon kontraŭ malamiko kaj puŝas lin malantaŭen, li provokas okazatakojn per viaj kamaradoj (ne per vi) kontraŭ si. </p>
+<p> <b>Kondiĉoj:</b> FOR 13, impeta atako, puŝatako progresigita, bazataka bono +6</p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por viaj ĵetoj de puŝatakoj. Tiu bono aldoniĝas al la bono de la talento puŝatako progresigita. Se vi faras puŝatakon kontraŭ malamiko kaj puŝas lin malantaŭen, li provokas okazatakojn per viaj kamaradoj (ne per vi) kontraŭ si. </p>
 <p> <b>Kutime:</b> Kreaĵoj kiuj estas puŝitaj per puŝatako ne provokas okazatakojn kontraŭ si.</p>
 
-<h5 id="pusxatako-progresita">Puŝatako progresita [batalo]</h5>
+<h5 id="pusxatako-progresigita">Puŝatako progresigita [batalo]</h5>
 <p> Vi estas lerta por puŝŝovi malamikojn.</p>
 <p> <b>Kondiĉoj:</b> FOR 13, impeta atako, bazataka bono +1</p>
 <p> <b>Avantaĝo:</b> Se vi uzas la batalmanovron puŝatakon, vi ne provokas okazatakon. Krome vi ricevas bonon +2 por ĵetoj de puŝatako. Plie via batalmanovra defendo altiĝas je +2 se malamiko faras puŝatakon kontraŭ vi. </p>
@@ -1870,24 +1870,24 @@
 <p> Vi scias kiel vivi en la sovaĝejo kaj kuraci vundojn. </p>
 <p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por kapablecĵetoj de sanigi kaj transvivado. Se vi havas pli ol 10 rangoj en unu kapableco, la bono altiĝas ĉe tiu kapableco al +4. </p>
 
-<h5 id="senarma-bato-progresita">Senarma bato progresita [batalo]</h5>
+<h5 id="senarma-bato-progresigita">Senarma bato progresigita [batalo]</h5>
 <p> Vi havas sperton por la batalo sen amriloj.</p>
 <p> <b>Avantaĝo:</b> Vi ankaŭ kalkuliĝas kiel armita kiam vi batalas sen armiloj. Vi ne provokas okazatakojn de armitaj malamikoj kiam vi atakas ilin per senarma bato. Krome vi havas la elekton ĉu viaj senarmaj batoj kaŭzas mortigan aŭ nemortigan damaĝôn. </p>
 <p> <b>Kutime:</b> Sen tiu talento vi kalkuliĝas kiel ne armita kiam vi faras senarman atakon kaj nur povas kaŭzi nemortigan damaĝon. </p>
 
 <h5 id="senarmigo-potenca">Senarmigo potenca [batalo]</h5>
-<p> Vi povas senarmigi malamikon tiel kiel lia armilo estas ĵetita malproksimen.</p>
-<p> <b>Kondiĉoj:</b>Defensiva batalmaniero, senarmigo progresita, BAB +6, INT 13 </p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de senarmigo. Tiu bono validas aldone al la bono de la talento senarmigo progresita. Se vi sukcese senarmigas malamikon, lia armilo estas ĵetita 5 m en hazardan direkton de sia antaŭa posedanto.</p>
+<p> Vi povas senarmigi malamikon tiamaniere ke lia armilo estas ĵetata malproksimen.</p>
+<p> <b>Kondiĉoj:</b>Defensiva batalmaniero, senarmigo progresigita, BAB +6, INT 13 </p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de senarmigo. Tiu bono validas aldone al la bono de la talento senarmigo progresigita. Se vi sukcese senarmigas malamikon, lia armilo estas ĵetita 5 m en hazardan direkton de sia antaŭa posedanto.</p>
 <p> <b>Kutime:</b> Perditaj armiloj per senarmigo surteriĝas je la piedoj de la senarmigita kreaĵo.</p>
 
-<h5 id="senarmigo-progresita">Senarmigo-progresita [batalo]</h5>
+<h5 id="senarmigo-progresigita">Senarmigo-progresigita [batalo]</h5>
 <p> Vi sperte forbatas la armilon el la mano de via malamiko.</p>
 <p> <b>Kondiĉoj:</b> Defensiva batalmaniero, INT 13</p>
 <p> <b>Avantaĝo:</b> Se vi aplikas la batalmanovron senarmigi, vi ne provokas okazatakon. Krome vi ricevas bonon +2 por viaj ĵetoj per kiuj vi provas senarmigi la malamikon. Se kontraŭulo atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2.</p>
 <p> <b>Kutime:</b> Se vi aplikas la batalmanovron senarmigi, vi provokas okazatakon. </p>
 
-<h5 id="sxildbato-progresita">Ŝildbato progresita [batalo]</h5>
+<h5 id="sxildbato-progresigita">Ŝildbato progresigita [batalo]</h5>
 <p> Vi povas defendi vin kontraŭ atakoj per via ŝildo kvankam vi uzas ĝin por atako.</p>
 <p> <b>Kondiĉo:</b> Sperto kun ŝildoj</p>
 <p> <b>Avantaĝo:</b> Se vi faras ŝildbaton, vi tamen povas aldoni la ŝildbonon de via ŝildo al via AK.</p>
@@ -1905,17 +1905,17 @@
 
 <h5 id="sxildmajstro">Ŝildmajstro [batalo]</h5>
 <p> Via majstra sperto kun ŝildoj ebligas al vi efike ataki per ŝildoj.</p>
-<p> <b>Kondiĉoj:</b> Sperto kun ŝildoj, ŝildbato progresita, ŝildpuŝo, batalo per du armiloj, LER 15, bazataka bono +11</p>
+<p> <b>Kondiĉoj:</b> Sperto kun ŝildoj, ŝildbato progresigita, ŝildpuŝo, batalo per du armiloj, LER 15, bazataka bono +11</p>
 <p> <b>Avantaĝo:</b> Vi ne ricevas malbonojn por atakoj per ŝildo, se vi portas alian armilon. Aldonu vian plibonigan bonon de via ŝildo al atak- kaj damaĝoĵetoj tiel kiel ĝi estus pliboniga bono por armilo.</p>
 
 <h5 id="sxildpusxo">Ŝildpuŝo [batalo]</h5>
 <p> En ĝusta posicio vi povas uzi vian ŝildon por puŝi malamikojn.</p>
-<p> <b>Kondiĉoj:</b> Sperto kun ŝildoj, ŝildbato progresita, batalo per du armiloj, LER 15, bazataka bono +6</p>
+<p> <b>Kondiĉoj:</b> Sperto kun ŝildoj, ŝildbato progresigita, batalo per du armiloj, LER 15, bazataka bono +6</p>
 <p> <b>Avantaĝo:</b> Ĉiuj malamikoj kiuj estas trafitaj de ŝildbato de vi ankaŭ estas trafataj de aldona puŝatako kio anstataŭigas la kutime necesan ĵeton por la batalmanovro (vidu ĉapitron <a href="../batalo">batalo</a>). Tiu puŝatako ne provokas okazatakojn. Malamikoj kiuj ne povas moviĝi malantaŭen pro muro aŭ alia barilo falas surteren post ili moviĝis la maksimume eblan distancon. Vi povas elekti moviĝi kun via celo se vi povas fari kvinfut-paŝon aŭ uzi agon por movi en tiu vico.</p>
 
 <h5 id="skorpia-pikilo">Skorpia pikilo [batalo]</h5>
 <p> Vi povas fari senarman baton kiu grave malhelpas la movadon de via celo.</p>
-<p> <b>Kondiĉo:</b> Senarma bato progresita </p>
+<p> <b>Kondiĉo:</b> Senarma bato progresigita </p>
 <p> <b>Avantaĝo:</b> Faru unu solan senarman baton per bazago. Se vi trafas, vi kaŭzas normalan damaĝôn. Aldone la moviĝrapideco de via celo reduktiĝas al 1,5 metroj, se li ne sukcese faras persistecoĵeton (MFG 10 + &frac12; rolulnivelo + via SAĜ-modifilo). Se lia persistecoĵeto ne estas sukcesa, lia moviĝrapideco estas reduktita dum la nombro da rondoj kiu egalas al via SAĜ-modifilo.  </p>
 
 <h5 id="sorcxi-en-la-batalo">Sorĉi en la batalo</h5>
@@ -1969,21 +1969,21 @@
 <p> Vi havas sperton por porti malpezajn armaĵojn.</p>
 <p> <b>Avantaĝo:</b> Se vi portas armaĵon kun kiu vi havas sperton, la armaĵomalbono nur validas por kapablecĵetoj kiuj estas rilataj al forto aŭ lerteco.</p>
 <p> <b>Kutime:</b> Rolulo kiu portas armaĵon kun kiu li ne havas sperton, devas aldoni la armaĵomalbonon al siaj atakĵetoj kaj al ĉiuj kapablecĵetoj kun movado.</p>
-<p> <b>Specife:</b> Krom magiistoj, monaĥoj kaj sorĉistoj, ĉiuj roluloj aŭtomate havas la talenton sperto pri armaĵoj malpezaj kiel kroma talento. Ili ne devas elekti ĝin.</p>
+<p> <b>Specife:</b> Krom magiistoj, monaĥoj kaj sorĉistoj, ĉiuj roluloj aŭtomate havas la talenton sperto kun armaĵoj malpezaj kiel kroman talenton. Ili ne devas elekti ĝin.</p>
 
 <h5 id="sperto-kun-armajxoj-mezpezaj">Sperto kun armaĵoj mezpezaj [batalo]</h5>
 <p> Vi havas sperton por porti mezpezajn armaĵojn.</p>
 <p> <b>Kondiĉo:</b> Sperto kun armaĵoj malpezaj</p>
 <p> <b>Avantaĝo:</b> Vidu sperto kun armaĵoj malpezaj.</p>
 <p> <b>Kutime:</b> Vidu sperto kun armaĵoj malpezaj.</p>
-<p> <b>Specife:</b> Barbaroj, batalistoj, druidoj, klerikoj kaj paladinoj aŭtomate havas la talenton sperton kun armaĵoj mezpezaj kiel kroma talento kaj ne devas elekti ĝin. </p>
+<p> <b>Specife:</b> Barbaroj, batalistoj, druidoj, klerikoj kaj paladinoj aŭtomate havas la talenton sperto kun armaĵoj mezpezaj kiel kroman talenton kaj ne devas elekti ĝin. </p>
 
 <h5 id="sperto-kun-armajxoj-pezaj">Sperto kun armaĵoj pezaj [batalo]</h5>
 <p> Vi havas sperton por porti pezajn armaĵojn.</p>
 <p> <b>Kondiĉo:</b> Sperto kun armaĵoj malpezaj, sperto kun armaĵoj mezpezaj</p>
 <p> <b>Avantaĝo:</b> Vidu sperto kun armaĵoj malpezaj.</p>
 <p> <b>Kutime:</b> Vidu sperto kun armaĵoj malpezaj.</p>
-<p> <b>Specife:</b> Batalistoj kaj paladinoj aŭtomate havas la talenton sperton kun armaĵoj pezaj kiel kroma talento kaj ne devas elekti ĝin. </p>
+<p> <b>Specife:</b> Batalistoj kaj paladinoj aŭtomate havas la talenton sperto kun armaĵoj pezaj kiel kroman talenton kaj ne devas elekti ĝin. </p>
 
 <h5 id="sperto-kun-eksotikaj-armiloj">Sperto kun eksotiakj armiloj [batalo]</h5>
 <p> Elektu unu eksotikan armilon kiel ekzemple la katenon najlitan aŭ la vipon. Vi scipovas uzi tiun armilon en la batalo kaj povas uzi ĉiujn eblajn ruzaĵojn aŭ ecojn de la armilo.</p>
@@ -2003,7 +2003,7 @@
 <p> Vi estas trajnita por ĝuste uzi ŝildojn.</p>
 <p> <b>Avantaĝo:</b> Se vi uzas ŝildon (krom turŝildo), la armaĵomalbono nur validas por kapablecĵetoj rilataj al forto aŭ lerteco.</p>
 <p> <b>Kutime:</b> Se vi uzas ŝildon kun kiu vi ne havas sperton, vi devas aldoni la armaĵomalbonon al viaj atakĵetoj kaj al ĉiuj kapablecĵetoj kun movado.</p>
-<p> <b>Specife:</b> Arbaranoj, barbaroj, bardoj, batalistoj, druidoj, klerikoj kaj paladinoj aŭtomate havas la talenton sperton kun ŝildoj kiel kroma talento kaj ne devas elekti ĝin.</p>
+<p> <b>Specife:</b> Arbaranoj, barbaroj, bardoj, batalistoj, druidoj, klerikoj kaj paladinoj aŭtomate havas la talenton sperto kun ŝildoj kiel kroman talenton kaj ne devas elekti ĝin.</p>
 
 <h5 id="sperto-kun-simplaj-armiloj">Sperto kun simplaj armiloj [batalo]</h5>
 <p> Vi estas trajnita por la uzo de simplaj armiloj.</p>
@@ -2016,7 +2016,7 @@
 <p> <b>Kondiĉo:</b> Sperto kun ŝildoj </p>
 <p> <b>Avantaĝo:</b> Se vi uzas turŝildon, la armaĵomalbono nur validas por kapablecĵetoj rilataj al forto aŭ lerteco.</p>
 <p> <b>Kutime:</b> Se vi uzas ŝildon kun kiu vi ne havas sperton, vi devas aldoni la armaĵomalbonon al viaj atakĵetoj kaj al ĉiuj kapablecĵetoj kun movado, inkluzive rajdi.</p>
-<p> <b>Specife:</b> Batalistoj aŭtomate havas la talenton sperton kun turŝildoj kiel kroma talento kaj ne devas elekti ĝin.</p>
+<p> <b>Specife:</b> Batalistoj aŭtomate havas la talenton sperto kun turŝildoj kiel kroman talenton kaj ne devas elekti ĝin.</p>
 
 <h5 id="superfortigaj-sorcxoj">Superfortigaj sorĉoj</h5>
 <p> Viaj sorĉoj superas la sorĉreziston de viaj celoj pli facile ol kutime. </p>
@@ -2029,11 +2029,11 @@
 
 <h5 id="superkuri-potence">Superkuri potence [batalo]</h5>
 <p> Malamikoj devas salti flanken por eviti viajn danĝerajn atakojn. </p>
-<p> <b>Kondiĉoj:</b> FOR 13, impeta atako, superkuri progresite, bazataka bono +6</p>
-<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de superkuri. Tiu bono aldoniĝas al la bono de la talento superkuri progresite. Se vi superiras malamikojn kaj ili estas ĵetitaj sur la plankon, ili provokas okazatakojn. </p>
+<p> <b>Kondiĉoj:</b> FOR 13, impeta atako, superkuri progresigita, bazataka bono +6</p>
+<p> <b>Avantaĝo:</b> Vi ricevas bonon +2 por ĵetoj de superkuri. Tiu bono aldoniĝas al la bono de la talento superkuri progresigita. Se vi superiras malamikojn kaj ili estas ĵetitaj sur la plankon, ili provokas okazatakojn. </p>
 <p> <b>Kutime:</b> Malamikoj kiuj estas ĵetitaj sur la plankon per superkurado ne kaŭzas okazatakojn.</p>
 
-<h5 id="superkuri-progresite">Superkuri progresite [batalo]</h5>
+<h5 id="superkuri-progresigita">Superkuri progresigita [batalo]</h5>
 <p> Vi sperte superkuras viajn malamikojn.</p>
 <p> <b>Kondiĉoj:</b> FOR 13, impeta atako, bazataka bono +1</p>
 <p> <b>Avantaĝo:</b> Se vi uzas la batalmanovron superkuri, vi ne provokas okazatakojn. Krome vi ricevas bonon +2 por ĵetoj per kiuj vi provas superkuri malamikojn. Se malamiko atakas vin per tiu batalmanovro, via batalmanovra defendo altiĝas je +2. Celoj de la superkurado ne povas elekti evitmoviĝi.</p>
@@ -2046,9 +2046,9 @@
 
 <h5 id="sveniga-bato">Sveniga bato [batalo]</h5>
 <p> Vi ekzakte scias kie vi devas trafi malamikon.</p>
-<p> <b>Kondiĉoj:</b> LER 13, SAĜ 13, senarma bato progresita, bazataka bono +8</p>
+<p> <b>Kondiĉoj:</b> LER 13, SAĜ 13, senarma bato progresigita, bazataka bono +8</p>
 <p> <b>Avantaĝo:</b> Vi devas anonci la uzon de tiu talento antaŭ vi faras vian atakĵeton (malsukcesa atakĵeto do nuligas la atakon). La sveniga bato kaŭzas normalan damaĝon kaj devigas vian malamikon fari persistecoĵeton (MFG 10 + &frac12; via rolulnivelo + via SAĜ-modifilo). Defendanto, kies savĵeto malsukcesas, estas svenanta dum unu rondo (ekzakte ĝis via venonta ago de via venonta vico). Svenanta rolulo lasas fali ĉiun kiun li tenas en siaj manoj, ne plu povas agi, perdas sian lertecomodifilon de sia AK kaj ricevas malbonon -2 por sia AK. Por ĉiuj kvar niveloj kiujn havas via rolulo (vidu ankaŭ sub specife), vi povas fari unu tian svenigan baton ĉiutage. Dum unu rondo vi nur rajtas fari unu svenigan baton. Konstruoj, ŝlimuloj, plantoj, malmortuloj, senkorpaj estaĵoj kaj kreaĵoj kiuj estas imunaj kontraŭ kritiakj trafoj, ne povas esti svenigataj. </p>
-<p> <b>Specife:</b> Monaĥoj ricevas la talenton svenigan baton kiel kroma talento je la 1a nivelo, eĉ se ili ne plenumas la kondiĉojn. Monaĥoj povas fari ĉiutage tiom da svenigaj batoj kiom egalas al siaj monaĥoniveloj plus unufoje por ĉiuj kvar niveloj kiujn li havas en aliaj klasoj krom monaĥo. </p>
+<p> <b>Specife:</b> Monaĥoj ricevas la talenton svenigan baton kiel kroman talenton je la 1a nivelo, eĉ se ili ne plenumas la kondiĉojn. Monaĥoj povas fari ĉiutage tiom da svenigaj batoj kiom egalas al siaj monaĥoniveloj plus unufoje por ĉiuj kvar niveloj kiujn li havas en aliaj klasoj krom monaĥo. </p>
 
 <h5 id="timiga-forto">Timiga forto [batalo]</h5>
 <p> Via fizika forto aspektas timiga.</p>

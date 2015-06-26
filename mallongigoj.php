@@ -9,8 +9,8 @@
 
 <?php if(!isset($kompleta)) require 'pagxkapo.php' ?>
 
-<title>Mallongiloj</title>
-<h1>Mallongiloj</h1>
+<title>Mallongigoj</title>
+<h1>Mallongigoj</h1>
 
 <table>
     <thead>

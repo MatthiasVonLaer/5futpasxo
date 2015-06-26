@@ -97,7 +97,7 @@
             <td>+6</td>
             <td>+2</td>
             <td>+2</td>
-            <td><a href="#ruzajxoj">Ruzaĵo</a>, <a href="#refleksmovo-progresita">Refleksmovo progresita</a></td>
+            <td><a href="#ruzajxoj">Ruzaĵo</a>, <a href="#refleksmovo-progresigita">Refleksmovo progresigita</a></td>
         </tr>
         <tr>
             <td>9</td>
@@ -113,7 +113,7 @@
             <td>+7</td>
             <td>+3</td>
             <td>+3</td>
-            <td><a href="#ruzajxoj-progresitaj">Ruzaĵoj progresitaj</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
+            <td><a href="#ruzajxoj-progresigitaj">Ruzaĵoj progresigitaj</a>, <a href="#ruzajxoj">Ruzaĵo</a></td>
         </tr>
         <tr>
             <td>11</td>
@@ -240,15 +240,15 @@
 
 <p id="kaptilsensiveco"><b>Kaptilsensiveco (EE):</b> Ekde la tria nivelo la fripono havas intuician sensivecon por kaptiloj. Li ricevas bonon de +1 por refleksĵetoj por evitmoviĝi de kaptiloj kaj evitbonon de +1 por sia AK kontraŭ atakoj de kaptiloj. Tiu bono altiĝas al +2, kiam la fripono alvenas ĉe la 6a nivelo, al +3 ĉe la 9a nivelo, al +4 ĉe la 12a nivelo, al +5 ĉe la 15a nivelo kaj al +6 ĉe la 18a nivelo. Bonoj por kaptilsensiveco de diversaj klasoj sumiĝas. </p>
 
-<p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 4a nivelo la fripono povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la AK kiam la atakanto estas nevidebla. Li tamen daŭre perdas sian LER-bonon se li estas nemovkapabla. Fripono kun tiu ebleco ankaŭ povas perdi sian LER-bonon se lia malamiko sukcesa faras finton kontraŭ li (vidu ĉapitron <a href="../batalo">Batalo</a>). Se la fripono jam havas refleksmovon de alia klaso, li aŭtomate ricevas la eblecon refleksmovon progresitan (vidu malsupren). </p>
+<p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 4a nivelo la fripono povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la AK kiam la atakanto estas nevidebla. Li tamen daŭre perdas sian LER-bonon se li estas nemovkapabla. Fripono kun tiu ebleco ankaŭ povas perdi sian LER-bonon se lia malamiko sukcesa faras finton kontraŭ li (vidu ĉapitron <a href="../batalo">Batalo</a>). Se la fripono jam havas refleksmovon de alia klaso, li aŭtomate ricevas la eblecon refleksmovon progresigitan (vidu malsupren). </p>
 
-<p id="refleksmovo-progresita"><b>Refleksmovo progresita (EE):</b> Fripono de la 8a nivelo aŭ pli alta nivelo ne plu povas esti ambaŭflankata. </p>
+<p id="refleksmovo-progresigita"><b>Refleksmovo progresigita (EE):</b> Fripono de la 8a nivelo aŭ pli alta nivelo ne plu povas esti ambaŭflankata. </p>
 
 <p> Tiu defendo malebligas ke alia fripono uzas sian embuskan atakon se la fripono estas ambaŭflankata, krom se la fripononivelo de la atakanto estas kvar nivelojn pli alta. </p>
 
-<p> Se fripono jam havas la eblecon refleksmovon, li aŭtomate ricevas la eblecon refleksmovon progresitan kaj liaj niveloj de fripono sumiĝas kun la niveloj de aliaj klasoj, kiuj donas al li refleksmovon, por determini lian nivelon se temas pri ambaŭflanki aŭ esti ambaŭflankata. </p>
+<p> Se fripono jam havas la eblecon refleksmovon, li aŭtomate ricevas la eblecon refleksmovon progresigitan kaj liaj niveloj de fripono sumiĝas kun la niveloj de aliaj klasoj, kiuj donas al li refleksmovon, por determini lian nivelon se temas pri ambaŭflanki aŭ esti ambaŭflankata. </p>
 
-<p id="ruzajxoj-progresitaj"><b>Ruzaĵoj progresitaj:</b> Je la 10a nivelo kaj je ĉiu plia dua nivelo la fripono povas lerni ruzaĵon progresitan anstataŭ ruzaĵon. </p>
+<p id="ruzajxoj-progresigitaj"><b>Ruzaĵoj progresigitaj:</b> Je la 10a nivelo kaj je ĉiu plia dua nivelo la fripono povas lerni ruzaĵon progresigitan anstataŭ ruzaĵon. </p>
 
 <ul>
     <li><em>Protektsorĉa bato<sup>*</sup> (EE):</em> Malamikoj kiuj ricevas damaĝon per embuska atako, ankaŭ estas la celo de protektsorĉa magio kontraŭ la sorĉo de la plej malalta nivelo kiu estas sur la malamiko. La sorĉnivelo por tiu ebleco egalas la nivelon de la fripono. Por lerni la protektsorĉan baton la fripono devas scipovi la ruzaĵon altan magion. </li>
@@ -256,7 +256,7 @@
     <li><em>Glita menso (EE):</em> Tiu ruzaĵo reprezentas la eblecon de la fripono eliri el magiaj efikoj, kiuj provas kontroli lin. Se la fripono estas la celo de transsorĉado kaj ne sukcesas kun la savĵeto, li povas dum sia venonta vico denove provi la ĵeton kun sama MFG. Li nur ricevas unu ŝancon eliri el la transsorĉado. </li>
     <li><em>Kapablecmajstreco (EE):</em> La fripono estas tiel lerta ĉe certaj kapablecoj ke li ankaŭ povas fidinde utiligi ilin en stresigaj situacioj. La fripono povas elekti (3 + INT-bono) kapablecoj. Por tiuj kapablecoj li ĉiam povas uzi preni 10, eĉ se streso aŭ aliaj eksteraj ĉirkumstancoj malpermesus tion. Li povas lerni tiun ruzaĵon plioble kaj elekti ĉiufoje aliajn kapablecojn. </li>
     <li><em>Malfortiga bato<sup>*</sup> (EE):</em> Fripono kun tiu ruzaĵo povas fari embuskajn atakojn tiel precize ke liaj malamikoj malfortiĝas kaj handikapiĝas. Malamiko kiu ricevas damaĝon per embuska atako, ricevas plie du poentojn da portempa FOR-damaĝo. </li>
-    <li><em>Sinsavi progresite (EE):</em> Tiu ebleco funkcias kiel sinsavi kun la diferenco ke la fripono eĉ nur ricevas duonan damaĝon se la savĵeto malsukcesas. Se la fripono estas senkapabla, li ne povas uzi sinsavi progresite. </li>
+    <li><em>Sinsavi progresigita (EE):</em> Tiu ebleco funkcias kiel sinsavi kun la diferenco ke la fripono eĉ nur ricevas duonan damaĝon se la savĵeto malsukcesas. Se la fripono estas senkapabla, li ne povas uzi sinsavi progresigita. </li>
     <li><em>Talento (EE):</em> Anstatŭ ruzaĵon la fripono povas elekti talenton laŭ sia elekto, por kiu li plenumas la kondiĉojn. </li>
     <li><em>Uzi okazon (EE):</em> Unufoje dum rondo la fripono povas fari okazatakon kontraŭ malamikoj, kiuj ĵus estas trafitaj en proksimbatalo. Tiu atako kalkuliĝas kiel okazatako. Eĉ se la fripono havas batalrefleksojn li nur povas uzi tiun eblecon unufoje en rondo. </li>
 </ul>

@@ -16,7 +16,7 @@
 <h3>Ecoj de armiloj</h3>
 
 <p>Sekvas priskribo de la formato de la posta tabelo "Armiloj".</p>
-<p><b>Prezo:</b> Tiu valoro egalas la prezon de la armilo en moneroj oraj (mo) aŭ moneroj arĝentaj (ma). En la prezo inkluzive estas ankaŭ la akcesoraĵoj kiujn oni bezonas por la armilon kiel glavingo aŭ sagujo. La prezoj estas samaj por la malgranda kaj la mezgranda versio de armilo. La granda versio kostas duoble pli ol la listprezo. </p>
+<p><b>Prezo:</b> Tiu valoro egalas la prezon de la armilo en moneroj oraj (mo) aŭ moneroj arĝentaj (ma). En la prezo inkluzive estas ankaŭ la akcesoraĵoj kiujn oni bezonas por la armilo kiel glavingo aŭ sagujo. La prezoj estas samaj por la malgranda kaj la mezgranda versio de armilo. La granda versio kostas duoble pli ol la listprezo. </p>
 <table class="glita">
     <caption>Damaĝo de tre malgrandaj kaj grandaj armiloj</caption>
     <thead>
@@ -37,7 +37,7 @@
     </tbody>
 </table>
 <p><b>Damaĝo:</b> En tiu kolumno estas indikita kiom da damaĝo la armilo kaŭzas ĉe sukcesa trafo. Unu kolumno indikas la damaĝon por malgrandaj armiloj kaj unu por mezgrandaj. Se estas du valoroj indikitaj, temas pri duobla armilo. La dua damaĝo estas por la plia atako de la duobla armilo. La damaĝo por tre malgrandaj kaj grandaj armiloj troveblas en la tabelo apude. </p>
-<p><b>Kritika trafo:</b> Tiu kolumno indikas kio okazas ĉe kritika trafo. Se via rolulo faras kritikan trafon, vi ĵetas laŭ la multiplikanto la damaĝon duoble, trioble aŭ kvaroble (inkluzive ĉiuj modifiloj po ĵeto) kaj sumigas la rezulton. </p>
+<p><b>Kritika trafo:</b> Tiu kolumno indikas kio okazas ĉe kritika trafo. Se via rolulo faras kritikan trafon, vi ĵetas laŭ la multiplikanto la damaĝon duoble, trioble aŭ kvaroble (inkluzive ĉiuj modifiloj por ĉiu ĵeto) kaj sumigas la rezulton. </p>
 <p> Aldona damaĝo kiu ne apartenas al la armilo ne multiplikiĝas ĉe kritika trafo.</p>
 <ul>
     <li><em>&times;2:</em> La armilo kaŭzas duoblan damaĝon ĉe kritika trafo. </li>
@@ -48,11 +48,11 @@
     <li><em>18-20/&times;2:</em> La armilo kaŭzas ĉe origina 18, 19 aŭ 20 minacon (ne nur ĉe 20) kaj kaŭzas ĉe kritika trafo duoblan damaĝon.</li>
 </ul>
 <p><b>Baza trafopovo:</b> Ĉiu atako al celoj pli distancaj ol tiu indiko ricevas malbonon pro la distanco. Por ĉiu distanco kiu superas la bazan trafopovon kaj egalas al la tuta aŭ parta trafopovo, la atakoĵeto ricevas po unu akumulan malbonon -2. Se ponardo (baza trafopovo 3 m) estas ĵetata al 8 m distanca celo, ĝi ekzemple ricevas malbonon -4 por la atakĵeto. Ĵetarmiloj havas maksimuman trafopovon de la kvinobla baza trafopovo. Pafarmiloj povas esti uzataj por celoj ĝis la dekobla trafopovo. </p>
-<p><b>Pezo:</b> En tiu kolumno estas indikita la pezo por la mezgranda versio de la armilo. Ĉe malgrandaj armilo la pezo duoniĝas, ĉe grandaj duobliĝas. Kelkaj armiloj havas specifan pezon kio estas klarigita en la armilopriskriboj. </p>
+<p><b>Pezo:</b> En tiu kolumno estas indikita la pezo por la mezgranda versio de la armilo. Ĉe malgrandaj armiloj la pezo duoniĝas, ĉe grandaj duobliĝas. Kelkaj armiloj havas specifan pezon kio estas klarigita en la armilopriskriboj. </p>
 <p><b>Tipo:</b> Armiloj kaŭzas certan damaĝotipon kaj estas tiel klasigitaj laŭ la kategorioj: (P) por pikarmiloj, (K) por klingarmiloj kaj (B) por batarmiloj. Kelkaj monstroj povas esti rezistemaj aŭ imunaj kontraŭ certaj ataktipoj. </p>
 <p>Estas armiloj kiuj povas kaŭzi diversajn tipojn da damaĝo. Se armilo povas kaŭzi du tipojn da damaĝo, la damaĝo ne dividiĝas en la du damaĝotipoj. La kompleta damaĝo estas entute de du tipoj. La kreaĵo devus esti imuna kontraŭ ambaŭ tipoj por eviti tiun damaĝon. </p>
-<p>Alie estas armiloj kiuj povas unu el du tipojn da damaĝo. Se okazas situacio kie tio gravas, la uzanto povas decidi kiun tipon da damaĝo li volas kaŭzi. </p>
-<p><b>Specife:</b> Kelkaj armiloj havas specifajn ecojn. Vidu la armilpriskribo por detaloj. </p>
+<p>Alie estas armiloj kiuj povas kaŭzi unu el du tipoj de damaĝo. Se okazas situacio en kiu tio gravas, la uzanto povas decidi kiun tipon de damaĝo li volas kaŭzi. </p>
+<p><b>Specife:</b> Kelkaj armiloj havas specifajn ecojn. Vidu la armilpriskribon por detaloj. </p>
 <ul>
     <li><em>Apogdefendi:</em> Se oni uzas tian armilon per prepara ago kontraŭ sturmatako, ĝi kaŭzas duoblan damaĝon al la atakanto se ĝi trafas.</li>
     <li><em>Duobla (armilo):</em> Duoblan armilon oni povas uzi tiel kiel oni batalas per du armiloj. Oni ricevas la samajn malbonojn kiel kun unu unumana armilo kaj unu malpeza armilo. Se oni uzas duoblan armilon kiel unumana armilo, oni nur povas ataki per unu flanko. Ĝi tiam ne kalkuliĝas kiel duobla armilo. </li>

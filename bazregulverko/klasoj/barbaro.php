@@ -74,7 +74,7 @@
             <td>+1</td>
             <td>+1</td>
             <td>+4</td>
-            <td><a href="#refleksmovo-progresita">Refleksmovo progresita</a></td>
+            <td><a href="#refleksmovo-progresigita">Refleksmovo progresigita</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -247,11 +247,11 @@
 
 <p id="refleksmovo"><b>Refleksmovo (EE):</b> Ekde la 2a nivelo la barbaro povas reagi al danĝeroj antaŭ liaj sensoj kutime permesus tion. Li ne plu povas esti surprizita sur la malĝusta piedo kaj ne perdas sian lertecbonon por la armaĵklaso se la atakanto estas nevidebla. Barbaro kun tiu ebleco tamen povas perdi sian lertecbonon por la armaĵklaso se li estas nemovkapabla aŭ se la kontraŭulo sukcese faras finton kontraŭ li. </p>
 
-<p>Se la barbaro jam havas la eblecon refleksmovo per alia klaso, li ricevas anstaŭe refleksmovon progresitan (vidu malsupren). </p>
+<p>Se la barbaro jam havas la eblecon refleksmovo per alia klaso, li ricevas anstaŭe refleksmovon progresigitan (vidu malsupren). </p>
 
 <p id="kaptilsensiveco"><b>Kaptilsensiveco (EE):</b> Je la 3a nivelo la barbaro ricevas bonon de +1 por siaj refleksĵetoj por evitmovi de kaptiloj kaj bonon de +1 por la armaĵklaso kontraŭ atakoj de kaptiloj. Tiu bono altiĝas je +1 je ĉiu tria nivelaltiĝo (6a, 9a, 12a, 15a, 18a). La bonoj de kaptilsensiveco de malsamaj klasoj sumiĝas. </p>
 
-<p id="refleksmovo-progresita"><b>Refleksmovo progresita (EE):</b> Ekde la 5a nivelo la barbaro ne plu povas esti ambaŭflankita. Friponoj ne plu povas ataki la barbaron per embuska atako kaŭze de la ambaŭflankado, krom se la fipononivelo estas kvar niveloj pli alta ol la barbarnivelo. Se la barbaro jam havas la eblecon refleksmovon per alia klaso la du klasniveloj sumiĝas por la komparo de niveloj. </p>
+<p id="refleksmovo-progresigita"><b>Refleksmovo progresigita (EE):</b> Ekde la 5a nivelo la barbaro ne plu povas esti ambaŭflankita. Friponoj ne plu povas ataki la barbaron per embuska atako kaŭze de la ambaŭflankado, krom se la fipononivelo estas kvar niveloj pli alta ol la barbarnivelo. Se la barbaro jam havas la eblecon refleksmovon per alia klaso la du klasniveloj sumiĝas por la komparo de niveloj. </p>
 
 <p id="damaĝoredukto"><b>Damaĝoredukto (EE):</b> Ekde la 7a nivelo la barbaro povas subtrahi unu poenton de la damaĝo de ĉiu armilo aŭ natura armilo. Ekde la 10a nivelo kaj je ĉiu tria plia nivelo (13a, 16a, 19a) la damaĝoredukto altiĝas je unu. La damaĝoredukto povas redukti damaĝon al nul sed ne sub nul. </p>
 

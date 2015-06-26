@@ -58,7 +58,7 @@ if (strlen($sercxvorto) >= $minimumo and $dosierujo = opendir("sercxo")) {
             $indikilo = preg_replace("/\.txt/", ".php", $indikilo);
             $indikilo = '<a href="' . $indikilo . '">' . $nomo . '</a>';
 
-            preg_match_all("/(\s.{0,20})(" . preg_quote($sercxvorto) . ")(.{0,30})\s/i", $enhavo, $trovoj, PREG_SET_ORDER);
+            preg_match_all("/(\s.{0,40})(" . preg_quote($sercxvorto) . ")(.{0,40})\s/i", $enhavo, $trovoj, PREG_SET_ORDER);
             if(count($trovoj) > 0)
                 $tabelo[$indikilo] = "";
             foreach($trovoj as $trovo) {

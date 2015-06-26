@@ -1,8 +1,6 @@
 body {
     font-family: Georgia;
     font-size: 12px;
-    text-align: justify;
-    margin: 1cm;
 }
 
 @font-face {
@@ -10,14 +8,23 @@ body {
     src: url('Prida65.otf');
 }
 
+@page {
+    margin: 15mm 15mm 15mm 15mm;
+}
+
+.nova-pagxo {
+    height: 100%;
+    page-break-after: always;
+}
+
 img {
-    display: none;
     border: 7px solid #554433;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
     margin-left: 2.5em;
     float: right;
     clear: right;
+    page-break-inside: avoid;
 }
 
 .titolo-libro {
@@ -26,12 +33,17 @@ img {
     text-align: center;
 }
 
-.informo, .tradukinda, .navigado, .senerarigo, .supra-navigilo {
+.subtitolo-libro {
+    font-size: 20px;
+    text-align: center;
+}
+
+.permisilo, .informo, .tradukinda, .navigado, .senerarigo, .supra-navigilo {
     display: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #6B3510;
+    color: #58352C;
     font-family: Arial;
     letter-spacing: 0.1em;
     margin-bottom: 0px;
@@ -50,20 +62,22 @@ h4 + p {
 h1 {
     font-family: titolo;
     text-align: center;
-    border-bottom: 3px solid #DDCCBB;
-    border-left: 3px solid #DDCCBB;
-    border-right: 3px solid #DDCCBB;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    margin-top: 10px;
+    border-bottom: 2px solid #D8CCC0;
     margin-bottom: 25px;
-    font-size: 20px;
+    margin-top: 10px;
+    font-size: 30px;
 }
 
 h2 {
-    border-bottom: 2px solid #DDCCBB;
+    border-bottom: 2px solid #D8CCC0;
     clear: right;
     font-size: 16px;
+}
+
+h2.sub {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: normal;
 }
 
 h4 {
@@ -75,20 +89,29 @@ h4 {
 }
 
 h1 + p, h2 + p {
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 h3 + p {
-    margin-top: 3px;
+    margin-top: 5px;
+}
+
+h4 + h5 {
+    margin-top: 10px;
+}
+
+h5 + p {
+    margin-top: 5px;
 }
 
 p {
-    margin-bottom: 0.2em;
-    line-height: 1.3em;
+    margin-bottom: 0.5em;
+    line-height: 1.4em;
+    text-align: justify;
 }
 
 p + p {
-    margin-top: 0.2em;
+    margin-top: 0.5em;
 }
 
 a {
@@ -98,23 +121,6 @@ a {
 
 a:hover {
     text-decoration: underline;
-}
-
-.rubriko {
-    font-variant: small-caps;
-}
-
-h2 + .rubriko {
-    margin-top: 1em;
-}
-
-.rubriko + ul {
-    margin-top: -.50em;
-    margin-bottom: -.50em;
-}
-
-ul + .rubriko {
-    margin-top: -.5em;
 }
 
 ul {
@@ -133,7 +139,6 @@ ul li {
 table {
     font-family: Arial;
     font-size: 9px;
-    text-align: left;
     border-collapse: collapse;
     border-left: none;
     border-right: none;
@@ -148,10 +153,9 @@ table.granda {
     page-break-inside: auto;
 }
 
-
 tbody {
-    border-top: 2px solid #2A201A;
-    border-bottom: 2px solid #2A201A;
+    border-top: 2px solid #202020;
+    border-bottom: 2px solid #202020;
 }
 
 table.glita {
@@ -162,7 +166,7 @@ table.glita {
 }
 
 table caption {
-    color: #6B3510;
+    color: #58352C;
     font-family: Arial;
     font-weight: bold;
     font-size: 13;
@@ -186,21 +190,21 @@ th[colspan] {
 }
 
 tr.nova-sekcio {
-    border-top: 2px solid #2A201A;
+    border-top: 2px solid #202020;
     font-weight: bold;
     font-variant: small-caps;
 }
 
 tbody tr {
-    border-bottom: 1px solid #DDCCBB;
+    border-bottom: 1px solid #E0E0E0;
 }
 
 tr.malsupra-linio {
-    border-bottom: 2px solid #2A201A;
+    border-bottom: 2px solid #202020;
 }
 
 tr.supra-linio {
-    border-top: 2px solid #2A201A;
+    border-top: 2px solid #202020;
 }
 
 td {
@@ -223,11 +227,8 @@ td {
     text-indent: 3em;
 }
 
-.enhavo {
-}
-
 .sercx-enhavo {
-    color: #504940;
+    color: #58352C;
 }
 
 ul.sercxrezulto li a {

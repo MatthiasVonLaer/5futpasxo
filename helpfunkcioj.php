@@ -11,7 +11,7 @@
 
 function bazdosierujo()
 {
-    return "drakoj_kaj_nerdoj";
+    return "5futpasxo";
 }
 
 function akiri_bazindikilon()
@@ -58,8 +58,6 @@ function krei_suprolinion()
 
             if($elemento == "bazregulverko")
                 $supro_linio .= ' > <em>Bazregulverko</em>';
-            else if($elemento == "aventuroj")
-                $supro_linio .= ' > <em>Aventuroj</em>';
             else
                 $supro_linio .= ' > <a href="' . $ligilo . '">' . ucfirst($elemento) . '</a>';
         }

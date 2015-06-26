@@ -15,6 +15,11 @@
 
 <table>
     <caption>Terminoj</caption>
+    <thead>
+        <tr>
+            <th>Esperanto</th><th>Angla</th><th>Germana</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>Eblecoj</td><td>Abilities</td><td>Fähigkeiten</td>
@@ -28,6 +33,11 @@
 
 <table>
     <caption>Rasoj</caption>
+    <thead>
+        <tr>
+            <th>Esperanto</th><th>Angla</th><th>Germana</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>Goblino</td><td>Goblin</td><td>Goblin</td>
@@ -39,6 +49,11 @@
 
 <table>
     <caption>Lingvoj</caption>
+    <thead>
+        <tr>
+            <th>Esperanto</th><th>Angla</th><th>Germana</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>Abisa</td><td>Abyssal</td><td>Abyssisch</td>
@@ -58,6 +73,11 @@
 
 <table>
     <caption>Statoj</caption>
+    <thead>
+        <tr>
+            <th>Esperanto</th><th>Angla</th><th>Germana</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>Blinda</td><td>Blinded</td> <td> Blind </td>
@@ -133,6 +153,11 @@
 
 <table>
     <caption>Sorĉoskoloj</caption>
+    <thead>
+        <tr>
+            <th>Esperanto</th><th>Angla</th><th>Germana</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>Aperigo</td><td>Evocation</td><td>Hervorrufung</td>
@@ -184,6 +209,11 @@
 
 <table>
     <caption>Sorĉoj</caption>
+    <thead>
+        <tr>
+            <th>Esperanto</th><th>Angla</th><th>Germana</th>
+        </tr>
+    </thead>
     <tbody>
         <tr>
             <td>Acida nebulo</td><td>Acid Fog</td><td>Säurenebel</td>

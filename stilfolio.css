@@ -61,10 +61,6 @@ h1 {
     font-family: titolo;
     text-align: center;
     border-bottom: 3px solid #DDCCBB;
-    border-left: 3px solid #DDCCBB;
-    border-right: 3px solid #DDCCBB;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
     margin-top: 10px;
     margin-bottom: 25px;
     font-size: 40px;
@@ -115,6 +111,27 @@ p {
     text-align: justify;
 }
 
+tr:target td {
+    margin-top: -45px;
+    padding-top: 45px;
+    margin-bottom: -45px;
+    padding-bottom: 45px;
+}
+
+p:target:before {
+    content: " ";
+    display: block;
+    margin-top: -45px;
+    padding-top: 45px;
+}
+
+li:target {
+    content: " ";
+    display: block;
+    margin-top: -45px;
+    padding-top: 45px;
+}
+
 p + p {
     margin-top: 0.5em;
 }
@@ -130,23 +147,6 @@ a[target] {
 
 a:hover {
     text-decoration: underline;
-}
-
-.rubriko {
-    font-variant: small-caps;
-}
-
-h2 + .rubriko {
-    margin-top: 1em;
-}
-
-.rubriko + ul {
-    margin-top: -.50em;
-    margin-bottom: -.50em;
-}
-
-ul + .rubriko {
-    margin-top: -.5em;
 }
 
 ul {
@@ -248,10 +248,6 @@ td {
     border-right: none;
 }
 
-tr:target {
-    background-color: #FFDDBB;
-}
-
 tradukinda {
     background-color: yellow;
 }
@@ -271,7 +267,7 @@ tradukinda {
 .enhavo {
     z-index: -1;
     margin-left: 180px;
-    margin-bottom: 65px;
+    margin-bottom: 15px;
     margin-top: 65px;
     padding-left: 50px;
     padding-right: 50px;
@@ -357,6 +353,17 @@ tradukinda {
     line-height: 1.4em;
 }
 
+.permisilo {
+    font-family: Arial;
+    font-size: 14px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.permisilo hr {
+    border: solid #DDCCBB 1px;
+}
+
 .senerarigo {
     margin-top: 10em;
     color: #BBBBBB;
@@ -412,6 +419,11 @@ textarea {
 .titolo-libro {
     font-size: 50px;
     font-family: titolo;
+    text-align: center;
+}
+
+.subtitolo-libro {
+    font-size: 20px;
     text-align: center;
 }
 

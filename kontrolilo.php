@@ -43,7 +43,7 @@ function kontrolilo()
         if($indikilo == "")
             $indikilo = $nuna_dosiero;
 
-        if(strpos($indikilo, ".php") === false)
+        if(strpos($indikilo, ".php") === false and strpos($indikilo, ".pdf") === false)
             $indikilo .= "/index.php";
 
         if(!file_exists($indikilo)) {
