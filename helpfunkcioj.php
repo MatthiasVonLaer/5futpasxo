@@ -9,24 +9,9 @@
 
 <?php
 
-function bazdosierujo()
-{
-    return "5futpasxo";
-}
-
-function akiri_bazindikilon()
-{
-    $dosierujo = bazdosierujo();
-    $poz = strlen($dosierujo) + strpos($_SERVER['REQUEST_URI'], $dosierujo);
-    $indikilo = substr($_SERVER['REQUEST_URI'], 0, $poz);
-    return $indikilo;
-}
-
 function akiri_lokan_indikilon()
 {
-    $uri = akiri_uri();
-    $poz = strpos($uri, bazdosierujo()) + strlen(bazdosierujo()) + 1;
-    $indikilo = substr($uri, $poz);
+    $indikilo = akiri_uri();
     if(strpos($indikilo, ".php") == false) $indikilo .= "index.php";
     return $indikilo;
 }
@@ -42,16 +27,17 @@ function akiri_uri()
 
 function krei_suprolinion()
 {
-    $indikilo = akiri_bazindikilon();
-    $cxu = false;
     $supro_linio = "";
     $ligilo = "";
+
+    $supro_linio = '<a href="/">Hejmo</a>';
+    $ligilo = akiri_lokan_indikilon();
 
     $uri = akiri_uri();
 
     $aro = explode('/', $uri);
     foreach($aro as $elemento) {
-        if($cxu and $elemento != 'index.php' and $elemento != '') {
+        if($elemento != 'index.php' and $elemento != '') {
             $ligilo .= '/' . $elemento;
             $elemento = preg_replace("/_/", " ", $elemento);
             $elemento = preg_replace("/\.php/", "", $elemento);
@@ -61,11 +47,6 @@ function krei_suprolinion()
             else
                 $supro_linio .= ' > <a href="' . $ligilo . '">' . ucfirst($elemento) . '</a>';
         }
-        if($elemento == bazdosierujo()) {
-            $supro_linio = '<a href="' . $indikilo . '">Hejmo</a>';
-            $ligilo = $indikilo;
-            $cxu = true;
-        }
     }
     $supro_linio .= '  (<a href="?redakti">redakti</a>)';
     return $supro_linio;
@@ -73,7 +54,12 @@ function krei_suprolinion()
 
 function kalkuli()
 {
-    file_put_contents(__DIR__ . "/kalkulo/" . date("Y_m_d"), $_SERVER['REQUEST_URI'] . "\n", FILE_APPEND);
+    if(!isset($_SESSION['ekzistas'])) {
+        file_put_contents(__DIR__ . "/kalkulilo.txt", "SEANCO    " . date("H:i d/M/Y") . "\n", FILE_APPEND);
+        $_SESSION['ekzistas'] = true;
+    }
+
+    file_put_contents(__DIR__ . "/kalkulilo.txt", $_SERVER['REQUEST_URI'] . "    " . date("H:i d/M/Y") . "\n", FILE_APPEND);
 }
 
 function tradukinda_sorcxo($angla)

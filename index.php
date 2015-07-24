@@ -12,7 +12,7 @@
 <title>Enkonduko</title>
 <h1>Enkonduko</h1>
 
-<img src="<?php echo $indikilo;?>/bildoj/sxirmo_negxo.jpg" style="width:40%;">
+<img src="/bildoj/sxirmo_negxo.jpg" style="width:40%;">
 
 <p><em>Saluton karaj drakoj kaj nerdoj!</em></p>
 <p>Tiu ĉi paĝaro estas dediĉita por ĉiuj ludemuloj, nigraj sorĉistinoj, friponoj kaj duonorkoj kiujn la aventuro allogas al foraj landoj.</p>
@@ -27,7 +27,7 @@
     <li> En la hispana: <a href="http://rolroyce.com/rol/DDP/" target="_blank">http://rolroyce.com/rol/DDP/</a> </li>
     <li> En la itala: <a href="http://prd.5clone.com/" target="_blank">http://prd.5clone.com/</a> </li>
 </ul>
-<img src="<?php echo $indikilo;?>/bildoj/kubetoj.jpg" style="width:50%;">
+<img src="/bildoj/kubetoj.jpg" style="width:50%;">
 <p>Por ekludi fakte nur necesas sep kubetoj, unu 20-flanka, unu 12-flanka, du 10-flankaj, unu 8-flanka, unu 6-flanka kaj unu 4-flanka. Ĉio alia dependas de la preferoj de via grupo. Vi povas desegni kradon sur paperon, enkadrigi ĝin kaj desegni sur la vitron la danĝerejojn kie la roluloj batalas. Sed ankaŭ eblas simple ludi sur la tablo kaj uzi mezurilon por distancoj aŭ entute ludi fantazie. </p>
 <p>Ne estas limoj en tiu ludo nek por fantazio, kreemo aŭ eĉ nerdeco. Imagu ke ion devis fari la nerdoj en siaj vivoj kiam ankoraŭ ne estis la komputilo, kiel ni jam menciis antaŭe. Nun kiam la nerdoj havas komputilojn, la tempoj ŝanĝiĝas kaj la kampo de tablaj rolludoj malfermiĝas ankaŭ al malnerdoj kiuj ektrovas la plezuron de plenumado de rolulformularoj por si!</p>
 <p>Nun nur ankoraŭ mankas roluloj kaj aventuro. Por krei rolulon vi trovas instrukciojn en la paragrafo <a href="bazregulverko/ekludi/index.php#kiel-krei-rolulon">Kiel krei rolulon</a>. Por la aventuro vi aŭ povas elpensi propran aŭ serĉi aventuron ĉe <a href="aventuroj/index.php">Aventuroj</a> kie troveblas konsiloj.</p>

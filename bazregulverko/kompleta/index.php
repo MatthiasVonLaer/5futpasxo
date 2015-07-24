@@ -11,11 +11,11 @@
 
 <title>Bazregulverko</title>
 
-<div class="titolo-libro">Drakoj kaj Nerdoj</div>
+<div class="titolo-libro">drakoj.ikso.net</div>
 <img src="../../bildoj/sxirmo_korvo.jpg" style="width:95%;">
 
 <div class="nova-pagxo"></div>
-<div class="subtitolo-libro"><a href="www.drakoj.ikso.net" target="_blank">www.drakoj.ikso.net</a></div>
+<div class="subtitolo-libro"><a href="http://drakoj.ikso.net" target="_blank">http://drakoj.ikso.net</a></div>
 
 <?php
 $kompleta = true;
@@ -49,7 +49,7 @@ require '../../libera_ludo_permisilo.php';
 <div class="nova-pagxo"></div>
 &nbsp;
 <div class="nova-pagxo"></div>
-<div class="subtitolo-libro"><a href="www.drakoj.ikso.net" target="_blank">www.drakoj.ikso.net</a></div>
+<div class="subtitolo-libro"><a href="http://drakoj.ikso.net" target="_blank">http://drakoj.ikso.net</a></div>
 <img src="../../bildoj/sxirmo_angxelo.jpg" style="width:98%;">
 
 <style>

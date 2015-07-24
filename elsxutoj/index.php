@@ -7,11 +7,11 @@
     be found in libera-ludo-permisilo.php
  */ ?>
 
-<?php require 'pagxkapo.php' ?>
+<?php require '../pagxkapo.php' ?>
 
 <title>Elŝutoj</title>
 <h1>Elŝutoj</h1>
 
 <p>Kompleta bazregulverko (<a href="kompleta_bazregulverko.pdf">pdf</a>)</p>
 
-<?php require 'pagxpiedo.php' ?>
+<?php require '../pagxpiedo.php' ?>

@@ -76,7 +76,7 @@
         </tr><tr id="armganto">
             <td>Armganto</td><td>2 mo</td><td>1k2</td><td>1k3</td><td>&times;2</td><td>-</td><td>0,5 kg</td><td>b</td><td>-</td>
         </tr><tr id="bato-sen-armilo">
-            <td>Bato sen armilo</td><td>-</td><td>1k2</td><td>1k3</td><td>&times;2</td><td>-</td><td>-</td><td>b</td><td>ne mortiga</td>
+            <td>Bato sen armilo</td><td>-</td><td>1k2</td><td>1k3</td><td>&times;2</td><td>-</td><td>-</td><td>b</td><td>Ne mortiga</td>
         </tr>
         <tr class="nova-sekcio">
             <td colspan="9">Leĝeraj armiloj</td>
@@ -89,7 +89,7 @@
         </tr><tr id="pusxponardo">
             <td>Puŝponardo</td><td>2 mo</td><td>1k3</td><td>1k4</td><td>&times;3</td><td>-</td><td>0,5 kg</td><td>p</td><td>-</td>
         </tr><tr id="serpo">
-            <td>Serpo</td><td>6 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>k</td><td>faligi</td>
+            <td>Serpo</td><td>6 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>k</td><td>Faligi</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Unumanaj armiloj</td>
@@ -105,11 +105,11 @@
         <tr class="nova-sekcio">
         <td colspan="9">Ambaŭmanaj armiloj</td>
         </tr><tr id="bastono-ferita">
-            <td>Bastono ferita</td><td>-</td><td>1k4/1k4</td><td>1k6/1k6</td><td>&times;2</td><td>-</td><td>2 kg</td><td>b</td><td>duobla, monaĥo</td>
+            <td>Bastono ferita</td><td>-</td><td>1k4/1k4</td><td>1k6/1k6</td><td>&times;2</td><td>-</td><td>2 kg</td><td>b</td><td>Duobla, monaĥo</td>
         </tr><tr id="lanco">
-            <td>Lanco</td><td>2 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>6 m</td><td>3 kg</td><td>p</td><td>apogdefendi</td>
+            <td>Lanco</td><td>2 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>6 m</td><td>3 kg</td><td>p</td><td>Apogdefendi</td>
         </tr><tr id="lanco-longa">
-            <td>Lanco longa</td><td>5 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>-</td><td>4,5 kg</td><td>p</td><td>apogdefendi, trafopovo</td>
+            <td>Lanco longa</td><td>5 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>-</td><td>4,5 kg</td><td>p</td><td>Apogdefendi, trafopovo</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Distancarmiloj</td>
@@ -135,10 +135,12 @@
             <td class="desxovo-1">Ŝtonĵetkugloj (10)</td><td>1 ma</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2,5 kg</td><td>-</td><td>-</td>
         </tr>
     </tbody>
+</table>
 
+<table class="granda">
     <thead> 
-        <tr class="nova-sekcio">
-            <td>Militarmiloj</td><td>Prezo</td><td>Damaĝo<br>(malgranda)</td><td>Damaĝo<br>(mezgranda)</td><td>Kritika trafo</td><td>Baza trafopovo</td><td>Pezo</td><td>Tipo</td><td>Specife</td>
+        <tr>
+            <th>Militarmiloj</th><th>Prezo</th><th>Damaĝo<br>(malgranda)</th><th>Damaĝo<br>(mezgranda)</th><th>Kritika trafo</th><th>Baza trafopovo</th><th>Pezo</th><th>Tipo</th><th>Specife</th>
         </tr>
     </thead>
     <tbody>
@@ -159,7 +161,7 @@
         </tr><tr id="martelo-legxera">
             <td>Martelo leĝera</td><td>1 mo</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>6 m</td><td>1 kg</td><td>b</td><td>-</td>
         </tr><tr id="metalkapa-klabo">
-            <td>Metalkapa klabo</td><td>1 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>b</td><td>ne mortiga</td>
+            <td>Metalkapa klabo</td><td>1 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>b</td><td>Ne mortiga</td>
         </tr><tr id="najlita-sxildo-legxera">
             <td>Najlita ŝildo leĝera</td><td>ekstra</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>-</td><td>ekstra</td><td>p</td><td>-</td>
         </tr><tr id="piocxo-legxera">
@@ -186,34 +188,34 @@
         </tr><tr id="sxildo-peza">
             <td>Ŝildo peza</td><td>ekstra</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>-</td><td>ekstra</td><td>b</td><td>-</td>
         </tr><tr id="tridento">
-            <td>Tridento</td><td>15 mo</td><td>1k6</td><td>1k6</td><td>&times;2</td><td>3 m</td><td>2 kg</td><td>p</td><td>apogdefendi</td>
+            <td>Tridento</td><td>15 mo</td><td>1k6</td><td>1k6</td><td>&times;2</td><td>3 m</td><td>2 kg</td><td>p</td><td>Apogdefendi</td>
         </tr><tr id="vipmadzo">
-            <td>Vipmadzo</td><td>8 mo</td><td>1k6</td><td>1k8</td><td>&times;2</td><td>-</td><td>2,5 kg</td><td>b</td><td>senarmigi, faligi</td>
+            <td>Vipmadzo</td><td>8 mo</td><td>1k6</td><td>1k8</td><td>&times;2</td><td>-</td><td>2,5 kg</td><td>b</td><td>Senarmigi, faligi</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Ambaŭmanaj armiloj</td>
         </tr><tr id="falcxilo">
-            <td>Falĉilo</td><td>18 mo</td><td>1k6</td><td>2k4</td><td>&times;4</td><td>-</td><td>5 kg</td><td>p&nbsp;aŭ&nbsp;k</td><td>faligi</td>
+            <td>Falĉilo</td><td>18 mo</td><td>1k6</td><td>2k4</td><td>&times;4</td><td>-</td><td>5 kg</td><td>p&nbsp;aŭ&nbsp;k</td><td>Faligi</td>
         </tr><tr id="falkato">
             <td>Falkato</td><td>75 mo</td><td>1k6</td><td>2k4</td><td>18-20 / &times;2</td><td>-</td><td>4 kg</td><td>k</td><td>-</td>
         </tr><tr id="gisarmo">
-            <td>Gisarmo</td><td>9 mo</td><td>1k6</td><td>2k4</td><td>&times;3</td><td>-</td><td>6 kg</td><td>k</td><td>trafopovo, faligi</td>
+            <td>Gisarmo</td><td>9 mo</td><td>1k6</td><td>2k4</td><td>&times;3</td><td>-</td><td>6 kg</td><td>k</td><td>Trafopovo, faligi</td>
         </tr><tr id="glavego">
             <td>Glavego</td><td>50 mo</td><td>1k10</td><td>2k6</td><td>19-20 / &times;2</td><td>-</td><td>4kg</td><td>k</td><td>-</td>
         </tr><tr id="glefo">
-            <td>Glefo</td><td>8 mo</td><td>1k8</td><td>1k10</td><td>&times;3</td><td>-</td><td>5 kg</td><td>k</td><td>trafopovo</td>
+            <td>Glefo</td><td>8 mo</td><td>1k8</td><td>1k10</td><td>&times;3</td><td>-</td><td>5 kg</td><td>k</td><td>Trafopovo</td>
         </tr><tr id="halebardo">
-            <td>Halebardo</td><td>10 mo</td><td>1k8</td><td>1k8</td><td>&times;3</td><td>-</td><td>6 kg</td><td>p&nbsp;aŭ&nbsp;k</td><td>apogdefendi, faligi</td>
+            <td>Halebardo</td><td>10 mo</td><td>1k8</td><td>1k8</td><td>&times;3</td><td>-</td><td>6 kg</td><td>p&nbsp;aŭ&nbsp;k</td><td>Apogdefendi, faligi</td>
         </tr><tr id="klabo-ambauxmana">
             <td>Klabo ambaŭmana</td><td>5 mo</td><td>1k8</td><td>1k10</td><td>&times;2</td><td>-</td><td>4 kg</td><td>b</td><td>-</td>
         </tr><tr id="labriso">
             <td>Labriso</td><td>20 mo</td><td>1k10</td><td>1k12</td><td>&times;3</td><td>-</td><td>6 kg</td><td>k</td><td>-</td>
         </tr><tr id="lanco-de-kavaleriano">
-            <td>Lanco de kavaleriano</td><td>10 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>-</td><td>5 kg</td><td>p</td><td>trafopovo</td>
+            <td>Lanco de kavaleriano</td><td>10 mo</td><td>1k6</td><td>1k8</td><td>&times;3</td><td>-</td><td>5 kg</td><td>p</td><td>Trafopovo</td>
         </tr><tr id="runko">
-            <td>Runko</td><td>10 mo</td><td>1k6</td><td>2k4</td><td>&times;3</td><td>-</td><td>6 kg</td><td>p</td><td>senarmigi, trafopovo</td>
+            <td>Runko</td><td>10 mo</td><td>1k6</td><td>2k4</td><td>&times;3</td><td>-</td><td>6 kg</td><td>p</td><td>Senarmigi, trafopovo</td>
         </tr><tr id="vipmadzo-peza">
-            <td>Vipmadzo peza</td><td>15 mo</td><td>1k8</td><td>1k10</td><td>19-20 / &times;2</td><td>-</td><td>5 kg</td><td>b</td><td>senarmigi, faligi</td>
+            <td>Vipmadzo peza</td><td>15 mo</td><td>1k8</td><td>1k10</td><td>19-20 / &times;2</td><td>-</td><td>5 kg</td><td>b</td><td>Senarmigi, faligi</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Distancaj armiloj</td>
@@ -235,23 +237,25 @@
             <td class="desxovo-1">Sagoj (20)</td><td>1 mo</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1,5 kg</td><td>-</td><td>-</td>
         </tr>
     </tbody>
+</table>
        
+<table class="granda">
     <thead>
-        <tr class="nova-sekcio">
-            <td>Eksotikaj armiloj</td><td>Prezo</td><td>Damaĝo<br>(malgranda)</td><td>Damaĝo<br>(mezgranda)</td><td>Kritika trafo</td><td>Baza trafopovo</td><td>Pezo</td><td>Tipo</td><td>Specife</td>
+        <tr>
+            <th>Eksotikaj armiloj</th><th>Prezo</th><th>Damaĝo<br>(malgranda)</th><th>Damaĝo<br>(mezgranda)</th><th>Kritika trafo</th><th>Baza trafopovo</th><th>Pezo</th><th>Tipo</th><th>Specife</th>
         </tr>
     </thead>
     <tbody>
         <tr class="nova-sekcio">
         <td colspan="9">Leĝeraj armiloj</td>
         </tr><tr id="kamao">
-            <td>Kamao</td><td>2 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>k</td><td>monaĥo, faligi</td>
+            <td>Kamao</td><td>2 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>k</td><td>Monaĥo, faligi</td>
         </tr><tr id="nuncxako">
-            <td>Nunĉako</td><td>2 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>b</td><td>monaĥo, senarmigi</td>
+            <td>Nunĉako</td><td>2 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>1 kg</td><td>b</td><td>Monaĥo, senarmigi</td>
         </tr><tr id="saio">
-            <td>Saio</td><td>1 mo</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>-</td><td>0,5 kg</td><td>b</td><td>monaĥo, senarmigi</td>
+            <td>Saio</td><td>1 mo</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>-</td><td>0,5 kg</td><td>b</td><td>Monaĥo, senarmigi</td>
         </tr><tr id="sianghamo">
-            <td>Sianghamo</td><td>3 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>0,5 kg</td><td>p</td><td>monaĥo</td>
+            <td>Sianghamo</td><td>3 mo</td><td>1k4</td><td>1k6</td><td>&times;2</td><td>-</td><td>0,5 kg</td><td>p</td><td>Monaĥo</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Unumanaj armiloj</td>
@@ -260,24 +264,24 @@
         </tr><tr id="glavo-bastarda">
             <td>Glavo bastarda</td><td>35 mo</td><td>1k8</td><td>1k10</td><td>19-20 / &times;2</td><td>-</td><td>3 kg</td><td>k</td><td>-</td>
         </tr><tr id="vipo">
-            <td>Vipo</td><td>1 mo</td><td>1k2</td><td>1k3</td><td>&times;2</td><td>-</td><td>1 kg</td><td>k</td><td>senarmigi, ne mortiga, trafopovo, faligi</td>
+            <td>Vipo</td><td>1 mo</td><td>1k2</td><td>1k3</td><td>&times;2</td><td>-</td><td>1 kg</td><td>k</td><td>Senarmigi, ne mortiga, trafopovo, faligi</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Ambaŭmanaj armiloj</td>
         </tr><tr id="duobla-hakilo-orka">
-            <td>Duobla hakilo orka</td><td>60 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>&times;3</td><td>-</td><td>7,5 kg</td><td>k</td><td>duobla</td>
+            <td>Duobla hakilo orka</td><td>60 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>&times;3</td><td>-</td><td>7,5 kg</td><td>k</td><td>Duobla</td>
         </tr><tr id="glavo-duklinga">
-            <td>Glavo duklinga</td><td>100 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>19-20 / &times;2</td><td>-</td><td>5 kg</td><td>k</td><td>duobla</td>
+            <td>Glavo duklinga</td><td>100 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>19-20 / &times;2</td><td>-</td><td>5 kg</td><td>k</td><td>Duobla</td>
         </tr><tr id="hokmartelo-gnoma">
-            <td>Hokmartelo gnoma</td><td>20 mo</td><td>1k6/1k4</td><td>1k8/1k6</td><td>&times;3/&times;4</td><td>-</td><td>3 kg</td><td>b&nbsp;aŭ&nbsp;p</td><td>duobla, faligi</td>
+            <td>Hokmartelo gnoma</td><td>20 mo</td><td>1k6/1k4</td><td>1k8/1k6</td><td>&times;3/&times;4</td><td>-</td><td>3 kg</td><td>b&nbsp;aŭ&nbsp;p</td><td>Duobla, faligi</td>
         </tr><tr id="kateno-najlita">
-            <td>Kateno najlita</td><td>25 mo</td><td>1k6</td><td>2k4</td><td>&times;2</td><td>-</td><td>5 kg</td><td>p</td><td>senarmigi, faligi</td>
+            <td>Kateno najlita</td><td>25 mo</td><td>1k6</td><td>2k4</td><td>&times;2</td><td>-</td><td>5 kg</td><td>p</td><td>Senarmigi, faligi</td>
         </tr><tr id="vipmadzo-duobla">
-            <td>Vipmadzo duobla</td><td>90 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>&times;2</td><td>-</td><td>5 kg</td><td>b</td><td>senarmigi, duobla, faligi</td>
+            <td>Vipmadzo duobla</td><td>90 mo</td><td>1k6/1k6</td><td>1k8/1k8</td><td>&times;2</td><td>-</td><td>5 kg</td><td>b</td><td>Senarmigi, duobla, faligi</td>
         </tr><tr id="sabro-elfa">
             <td>Sabro elfa</td><td>80 mo</td><td>1k8</td><td>1k10</td><td>18-20 / &times;2</td><td>-</td><td>3,5 kg</td><td>k</td><td>-</td>
         </tr><tr id="urgrosxo-nana">
-            <td>Urgroŝo nana</td><td>50 mo</td><td>1k6/1k4</td><td>1k8/1k6</td><td>&times;3</td><td>-</td><td>6 kg</td><td>p&nbsp;aŭ&nbsp;k</td><td>apogdefendi, duobla</td>
+            <td>Urgroŝo nana</td><td>50 mo</td><td>1k6/1k4</td><td>1k8/1k6</td><td>&times;3</td><td>-</td><td>6 kg</td><td>p&nbsp;aŭ&nbsp;k</td><td>Apogdefendi, duobla</td>
         </tr>
         <tr class="nova-sekcio">
         <td colspan="9">Distancaj armiloj</td>
@@ -294,7 +298,7 @@
         </tr><tr>
             <td class="desxovo-1">Ŝtonĵetkugloj (10)</td><td>1 ma</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2,5 kg</td><td>-</td><td>-</td>
         </tr><tr id="bolaso">
-            <td>Bolaso</td><td>5 mo</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>3 m</td><td>1 kg</td><td>b</td><td>ne mortiga, faligi</td>
+            <td>Bolaso</td><td>5 mo</td><td>1k3</td><td>1k4</td><td>&times;2</td><td>3 m</td><td>1 kg</td><td>b</td><td>Ne mortiga, faligi</td>
         </tr><tr id="manarbalesto">
             <td>Manarbalesto</td><td>100 mo</td><td>1k3</td><td>1k4</td><td>19-20 / &times;2</td><td>9 m</td><td>1 kg</td><td>p</td><td>-</td>
         </tr><tr>
@@ -302,7 +306,7 @@
         </tr><tr id="reto">
             <td>Reto</td><td>20 mo</td><td>-</td><td>-</td><td>-</td><td>3 m</td><td>3 kg</td><td>-</td><td>-</td>
         </tr><tr id="sxurikenoj">
-            <td>Ŝurikenoj (5)</td><td>1 mo</td><td>1</td><td>1k2</td><td>&times;2</td><td>3 m</td><td>0,25 kg</td><td>p</td><td>monaĥo</td>
+            <td>Ŝurikenoj (5)</td><td>1 mo</td><td>1</td><td>1k2</td><td>&times;2</td><td>3 m</td><td>0,25 kg</td><td>p</td><td>Monaĥo</td>
         </tr>
     <tbody>
 </table>
