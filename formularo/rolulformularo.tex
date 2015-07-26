@@ -1,0 +1,470 @@
+\input{header_lua.tex}
+\input{definoj.tex}
+
+\newcommand{\atributoMaldekstro}{0}
+\newcommand{\atributoSupro}{2}
+\newcommand{\atributoDy}{.6}
+\newcommand{\kapablecoMaldekstro}{10.7}
+\newcommand{\kapablecoSupro}{5.3}
+\newcommand{\kapablecoDy}{0.425}
+
+\begin{document}
+\begin{tikzpicture}[y=-1cm]
+
+\titolo{0}{.5}{ROLULFORMULARO}
+
+\tekstaLinio{7.5}{0}{4.7}{ROLULNOMO}
+\tekstaLinio{12.5}{0}{1.7}{PENSMANIERO}
+\tekstaLinio{14.5}{0}{4.5}{ROLANTO}
+\tekstaLinio{7.5}{.8}{5.2}{KLASO KAJ NIVELO}
+\tekstaLinio{13}{.8}{2.7}{DIO}
+\tekstaLinio{16}{.8}{3}{HEJMLANDO}
+\tekstaLinio{7.5}{1.6}{2.2}{POPOLO}
+\tekstaLinio{10}{1.6}{1.2}{GRANDECO}
+\tekstaLinio{11.5}{1.6}{1}{SEKSO}
+\tekstaLinio{12.8}{1.6}{1}{AĜO}
+\tekstaLinio{14.1}{1.6}{1}{ALTECO}
+\tekstaLinio{15.3}{1.6}{1}{PEZO}
+\tekstaLinio{16.7}{1.6}{1}{HAROJ}
+\tekstaLinio{18.0}{1.6}{1}{OKULOJ}
+
+\linio{\atributoMaldekstro}{\atributoSupro}{1.5}{ATRIBUTO}
+\duLinioj{\atributoMaldekstro+1.7}{\atributoSupro}{.8}{ATRIBUT-}{POENTOJ}
+\duLinioj{\atributoMaldekstro+2.7}{\atributoSupro}{.8}{ATRIBUT-}{MODIFILO}
+\duLinioj{\atributoMaldekstro+3.7}{\atributoSupro}{.8}{TEMPA}{ADAPTIĜO}
+\duLinioj{\atributoMaldekstro+4.7}{\atributoSupro}{.8}{TEMPA}{MODIFILO}
+\atributo{\atributoMaldekstro}{\atributoSupro+\atributoDy}{FOR}{FORTO}
+\atributo{\atributoMaldekstro}{\atributoSupro+2*\atributoDy}{LER}{LERTECO}
+\atributo{\atributoMaldekstro}{\atributoSupro+3*\atributoDy}{KON}{KONSTITUCIO}
+\atributo{\atributoMaldekstro}{\atributoSupro+4*\atributoDy}{INT}{INTELIGENTECO}
+\atributo{\atributoMaldekstro}{\atributoSupro+5*\atributoDy}{SAĜ}{SAĜECO}
+\atributo{\atributoMaldekstro}{\atributoSupro+6*\atributoDy}{KAR}{KARISMO}
+
+\nigraKesto{5.7}{2.3}{1.3}{VP}{VIVPOENTOJ}
+\kesto{7.1}{2.3}{2.0}{.5}{ENTUTE}
+\kesto{9.2}{2.3}{1.2}{.5}{DR}
+\kesto{5.7}{3}{4.7}{1.4}{TEMPAJ VIVPOENTOJ}
+\kesto{5.7}{4.6}{4.7}{0.7}{NEMORTIGA DAMAĜO}
+
+\nigraKesto{5.7}{5.6}{1.9}{INICIATO}{MODIFILO}
+\kestoI{7.7}{5.6}{.7}{.5}{ENTUTE}
+\signo{8.7}{5.6}{=}
+\kestoII{8.7}{5.6}{.7}{.5}{LERTEC-}{MODIFILO}
+\signo{9.7}{5.6}{+}
+\kestoII{9.7}{5.6}{.7}{.5}{CETERA}{MODIFILO}
+
+\nigraKesto{0}{6.7}{1.5}{AK}{ARMAĴKLASO}
+\kestoI{1.7}{6.7}{.7}{.5}{ENTUTE}
+\signo{2.7}{6.7}{=}
+\teksto{2.6}{6.7}{10}
+\signo{3.4}{6.7}{+}
+\kestoII{3.4}{6.7}{.7}{.5}{ARMAĴO-}{BONO}
+\signo{4.45}{6.7}{+}
+\kestoII{4.45}{6.7}{.7}{.5}{ŜILD-}{BONO}
+\signo{5.5}{6.7}{+}
+\kestoII{5.5}{6.7}{.7}{.5}{LERTEC-}{MODIFILO}
+\signo{6.55}{6.7}{+}
+\kestoII{6.55}{6.7}{.7}{.5}{GRANDEC-}{MODIFILO}
+\signo{7.6}{6.7}{+}
+\kestoII{7.6}{6.7}{.7}{.5}{NATURA}{ARMAĴO}
+\signo{8.65}{6.7}{+}
+\kestoII{8.65}{6.7}{.7}{.5}{DEVIO-}{MODIFILO}
+\signo{9.7}{6.7}{+}
+\kestoII{9.7}{6.7}{.7}{.5}{CETERA}{MODIFILO}
+
+\nigraKesto{0}{7.8}{1.5}{TUŜO}{ARMAĴKLASO}
+\kesto{1.7}{7.8}{.7}{.5}{}
+\nigraKesto{2.7}{7.8}{2.2}{SURPRIZO}{ARMAĴKLASO}
+\kesto{5.1}{7.8}{.7}{.5}{}
+\kesto{6.1}{7.8}{4.3}{.5}{MODIFILOJ}
+
+\linio{0}{8.5}{2.5}{SAVĴETOJ}
+\linio{2.7}{8.5}{.7}{ENTUTE}
+\duLinioj{3.7}{8.5}{.7}{BAZA}{SAVO}
+\duLinioj{4.7}{8.5}{.7}{ATRIBUT-}{MODIFILO}
+\duLinioj{5.7}{8.5}{.7}{MAGIA}{MODIFILO}
+\duLinioj{6.7}{8.5}{.7}{CETERA}{MODIFILO}
+\duLinioj{7.7}{8.5}{.7}{TEMPA}{MODIFILO}
+\nigraKesto{0}{9.0}{2.5}{PERSISTECO}{KONSTITUCIO}
+\kesto{2.7}{9.0}{.7}{.5}{}
+\signo{3.7}{9.0}{=}
+\kesto{3.7}{9.0}{.7}{.5}{}
+\signo{4.7}{9.0}{+}
+\kesto{4.7}{9.0}{.7}{.5}{}
+\signo{5.7}{9.0}{+}
+\kesto{5.7}{9.0}{.7}{.5}{}
+\signo{6.7}{9.0}{+}
+\kesto{6.7}{9.0}{.7}{.5}{}
+\signo{7.7}{9.0}{+}
+\kesto{7.7}{9.0}{.7}{.5}{}
+\nigraKesto{0}{9.6}{2.5}{REFLEKSO}{LERTECO}
+\kesto{2.7}{9.6}{.7}{.5}{}
+\signo{3.7}{9.6}{=}
+\kesto{3.7}{9.6}{.7}{.5}{}
+\signo{4.7}{9.6}{+}
+\kesto{4.7}{9.6}{.7}{.5}{}
+\signo{5.7}{9.6}{+}
+\kesto{5.7}{9.6}{.7}{.5}{}
+\signo{6.7}{9.6}{+}
+\kesto{6.7}{9.6}{.7}{.5}{}
+\signo{7.7}{9.6}{+}
+\kesto{7.7}{9.6}{.7}{.5}{}
+\nigraKesto{0}{10.2}{2.5}{VOLO}{SAĜECO}
+\kesto{2.7}{10.2}{.7}{.5}{}
+\signo{3.7}{10.2}{=}
+\kesto{3.7}{10.2}{.7}{.5}{}
+\signo{4.7}{10.2}{+}
+\kesto{4.7}{10.2}{.7}{.5}{}
+\signo{5.7}{10.2}{+}
+\kesto{5.7}{10.2}{.7}{.5}{}
+\signo{6.7}{10.2}{+}
+\kesto{6.7}{10.2}{.7}{.5}{}
+\signo{7.7}{10.2}{+}
+\kesto{7.7}{10.2}{.7}{.5}{}
+\kesto{8.6}{8.6}{1.8}{2.1}{MODIFILOJ}
+
+\temo{0}{11.0}{4.5}{BAZATAKA BONO}
+\kesto{4.7}{11.0}{2}{.5}{}
+\nigraKesto{6.9}{11.0}{2}{SR}{SORĈREZISTO}
+\kesto{9.1}{11.0}{1.3}{.5}{}
+\temo{0}{11.7}{2.5}{BMB}
+\kestoI{2.7}{11.7}{.9}{.5}{ENTUTE}
+\signo{3.95}{11.7}{=}
+\kestoII{4.0}{11.7}{.7}{.5}{BAZATAKA}{BONO}
+\signo{5.05}{11.7}{+}
+\kestoII{5.1}{11.7}{.7}{.5}{FORT-}{MODIFILO}
+\signo{6.15}{11.7}{+}
+\kestoII{6.2}{11.7}{.7}{.5}{GRANDEC-}{MODIFILO}
+\kesto{7.25}{11.7}{3.15}{.8}{MODIFILOJ}
+\temo{0}{12.7}{2.5}{BMD}
+\kestoI{2.7}{12.7}{.9}{.5}{ENTUTE}
+\signo{3.95}{12.7}{=}
+\kestoII{4.0}{12.7}{.7}{.5}{BAZATAKA}{BONO}
+\signo{5.05}{12.7}{+}
+\kestoII{5.1}{12.7}{.7}{.5}{FORT-}{MODIFILO}
+\signo{6.15}{12.7}{+}
+\kestoII{6.2}{12.7}{.7}{.5}{LERTEC-}{MODIFILO}
+\signo{7.25}{12.7}{+}
+\kestoII{7.3}{12.7}{.7}{.5}{GRANDEC-}{MODIFILO}
+\signo{8.35}{12.7}{+}
+\teksto{8.3}{12.7}{10}
+
+\armilo{0}{13.9}
+\armilo{0}{16.3}
+\armilo{0}{18.7}
+\armilo{0}{21.1}
+\armilo{0}{23.5}
+
+\nigraKesto{10.7}{2.3}{2.2}{RAPIDECO}{SURGRUNDE}
+\kestoII{13}{2.3}{2.9}{.5}{BAZA RAPIDECO}{}
+\linio{13.4}{2.15}{1.2}{METROJN}
+\linio{14.8}{2.15}{1.2}{KESTOJN}
+\kestoII{16.1}{2.3}{2.9}{.5}{KUN ARMAĴO}{}
+\linio{16.5}{2.15}{1.2}{METROJN}
+\linio{17.9}{2.15}{1.2}{KESTOJN}
+\kestoII{10.7}{3.2}{2.9}{.5}{FLUGANTE}{}
+\linio{11.1}{3.05}{1.2}{METROJN}
+\linio{12.5}{3.05}{1.2}{KESTOJN}
+\kestoII{13.8}{3.2}{1.6}{.5}{NAĜANTE}{}
+\linio{14.3}{3.05}{1.2}{METROJN}
+\kestoII{15.6}{3.2}{1.6}{.5}{GRIMPANTE}{}
+\linio{16.1}{3.05}{1.2}{METROJN}
+\kestoII{17.4}{3.2}{1.6}{.5}{FOSANTE}{}
+\linio{17.9}{3.05}{1.2}{METROJN}
+
+\temo{\kapablecoMaldekstro}{4.1}{8.3}{KAPABLECOJ}
+\linio{\kapablecoMaldekstro}{\kapablecoSupro-.7}{1.5}{KAPABLECO}
+\duLinioj{\kapablecoMaldekstro+3.3}{\kapablecoSupro-.7}{1.5}{BONO}{ENTUTE}
+\duLinioj{\kapablecoMaldekstro+5.2}{\kapablecoSupro-.7}{1.5}{ATRIBUT-}{MODIFILO}
+\linio{\kapablecoMaldekstro+6.2}{\kapablecoSupro-.7}{1.5}{RANGOJ}
+\duLinioj{\kapablecoMaldekstro+7.2}{\kapablecoSupro-.7}{1.5}{CETERA}{MODIFILO}
+
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+0*\kapablecoDy}{Akrobataĵo}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+1*\kapablecoDy}{Alivesti}{KAR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+2*\kapablecoDy}{Blufi}{KAR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+3*\kapablecoDy}{Diplomatio}{KAR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+4*\kapablecoDy}{Fingrolerteco*}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+5*\kapablecoDy}{Flugi}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+6*\kapablecoDy}{Grimpi}{FOR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+7*\kapablecoDy}{Interrilati kun bestoj*}{KAR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+8*\kapablecoDy}{Kuraci}{SAĜ}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+9*\kapablecoDy}{Lingvoj*}{SAĜ}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+10*\kapablecoDy}{Malfunkciigi mekanismon*}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+11*\kapablecoDy}{Malkateni}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+12*\kapablecoDy}{Malkovri motivon}{SAĜ}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+13*\kapablecoDy}{Metio}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+14*\kapablecoDy}{Metio}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+15*\kapablecoDy}{Metio}{INT}
+\streko{\kapablecoMaldekstro+1.2}{\kapablecoSupro+13*\kapablecoDy+.2}{2.2}
+\streko{\kapablecoMaldekstro+1.2}{\kapablecoSupro+14*\kapablecoDy+.2}{2.2}
+\streko{\kapablecoMaldekstro+1.2}{\kapablecoSupro+15*\kapablecoDy+.2}{2.2}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+16*\kapablecoDy}{Naĝi}{FOR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+17*\kapablecoDy}{Percepto}{SAĜ}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+18*\kapablecoDy}{Profesio*}{SAĜ}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+19*\kapablecoDy}{Profesio*}{SAĜ}
+\streko{\kapablecoMaldekstro+1.6}{\kapablecoSupro+18*\kapablecoDy+.2}{1.8}
+\streko{\kapablecoMaldekstro+1.6}{\kapablecoSupro+19*\kapablecoDy+.2}{1.8}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+20*\kapablecoDy}{Rajdi}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+21*\kapablecoDy}{Roli}{KAR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+22*\kapablecoDy}{Roli}{KAR}
+\streko{\kapablecoMaldekstro+1.0}{\kapablecoSupro+21*\kapablecoDy+.2}{2.4}
+\streko{\kapablecoMaldekstro+1.0}{\kapablecoSupro+22*\kapablecoDy+.2}{2.4}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+23*\kapablecoDy}{Scio (arkano)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+24*\kapablecoDy}{Scio (ebenoj)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+25*\kapablecoDy}{Scio (geografio)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+26*\kapablecoDy}{Scio (historio)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+27*\kapablecoDy}{Scio (konstruaĵoj)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+28*\kapablecoDy}{Scio (loka)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+29*\kapablecoDy}{Scio (naturo)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+30*\kapablecoDy}{Scio (nobeleco)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+31*\kapablecoDy}{Scio (religio)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+32*\kapablecoDy}{Scio (subterejoj)*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+33*\kapablecoDy}{Sekreteco}{LER}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+34*\kapablecoDy}{Sorĉkono*}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+35*\kapablecoDy}{Taksi}{INT}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+36*\kapablecoDy}{Timigi}{KAR}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+37*\kapablecoDy}{Transvivado}{SAĜ}
+\kapableco{\kapablecoMaldekstro}{\kapablecoSupro+38*\kapablecoDy}{Uzi magian objekton*}{KAR}
+\kapablecoKlarigoj{\kapablecoMaldekstro}{\kapablecoSupro+39*\kapablecoDy}
+
+\teksto{\kapablecoMaldekstro-.1}{22.3}{\footnotesize Situaciaj modifiloj:}
+\streko{\kapablecoMaldekstro}{23.2}{8.3}
+\streko{\kapablecoMaldekstro}{23.7}{8.3}
+\teksto{\kapablecoMaldekstro-.1}{23.8}{\footnotesize Lingvoj:}
+\streko{\kapablecoMaldekstro}{24.7}{8.3}
+\streko{\kapablecoMaldekstro}{25.2}{8.3}
+\streko{\kapablecoMaldekstro}{25.7}{8.3}
+
+\linio{0}{25.8}{19}{THIS CHARACTER SHEET USES TRADEMARKS AND/OR COPYRIGHTS OWNED BY PAIZO INC., WHICH ARE USED UNDER PAIZO'S COMMUNITY USE POLICY. WE ARE EXPRESSLY PROHIBITED FROM}
+\linio{0}{26.0}{19}{CHARGING YOU TO USE OR ACCESS THIS CONTENT. THIS CHARACTER SHEET IS NOT PUBLISHED, ENDORSED, OR SPECIFICALLY APPROVED BY PAIZO INC. FOR MORE INFORMATION ABOUT}
+\linio{0}{26.2}{19}{PAIZO'S COMMUNITY USE POLICY, PLEASE VISIT PAIZO.COM/COMMUNITYUSE. FOR MORE INFORMATION ABOUT PAIZO INC. AND PAIZO PRODUCTS, PLEASE VISIT PAIZO.COM.}
+
+\end{tikzpicture}
+
+\clearpage
+
+\begin{tikzpicture}[y=-1cm]
+
+\linio{14.5}{0}{4}{\scriptsize TRADUKO AL ESPERANTO DE} 
+\linio{14.5}{0.3}{4}{\footnotesize http://drakoj.ikso.net}
+\teksto{1.5}{0}{ROLULFORMULARO}
+
+\temo{0}{1}{4}{ARMAĴOJ}
+\temoMalgranda{3.6}{1}{2.5}{BONO}
+\temoMalgranda{5.5}{1}{1.5}{TIPO}
+\temoMalgranda{7}{1}{1.9}{MALBONO}
+\temoMalgranda{8.9}{1}{1.7}{SORĈFUŜO}
+\temoMalgranda{10.6}{1}{1.5}{PEZO}
+\temoMalgranda{12.1}{1}{1.5}{ECOJ}
+\streko{0}{2.15}{13.6}
+\streko{0}{2.8}{13.6}
+\streko{0}{3.45}{13.6}
+\streko{0}{4.1}{13.6}
+\streko{0}{4.75}{13.6}
+\streko{0}{5.4}{13.6}
+\vStreko{0}{1.26}{4.2}
+\vStreko{4}{1.2}{4.2}
+\vStreko{5.5}{1.2}{4.2}
+\vStreko{7}{1.2}{4.2}
+\vStreko{8.9}{1.2}{4.2}
+\vStreko{10.6}{1.2}{4.2}
+\vStreko{12.1}{1.2}{4.2}
+\vStreko{13.6}{1.2}{4.2}
+\fill[black] (0,4.75) rectangle (4,5.4);
+\node[left,color=white] at (4,5.1) {ENTUTE\,};
+
+\temo{0}{5.7}{4.8}{EKIPAĴO}
+\linio{0}{6.2}{4.2}{OBJEKTO}
+\linio{4.2}{6.2}{.6}{PEZO}
+\vStreko{0}{5.96}{14.14}
+\vStreko{4.2}{5.96}{14.14}
+\vStreko{4.8}{5.96}{14.14}
+\streko{0}{6.6}{4.8}
+\streko{0}{7.1}{4.8}
+\streko{0}{7.6}{4.8}
+\streko{0}{8.1}{4.8}
+\streko{0}{8.6}{4.8}
+\streko{0}{9.1}{4.8}
+\streko{0}{9.6}{4.8}
+\streko{0}{10.1}{4.8}
+\streko{0}{10.6}{4.8}
+\streko{0}{11.1}{4.8}
+\streko{0}{11.6}{4.8}
+\streko{0}{12.1}{4.8}
+\streko{0}{12.6}{4.8}
+\streko{0}{13.1}{4.8}
+\streko{0}{13.6}{4.8}
+\streko{0}{14.1}{4.8}
+\streko{0}{14.6}{4.8}
+\streko{0}{15.1}{4.8}
+\streko{0}{15.6}{4.8}
+\streko{0}{16.1}{4.8}
+\streko{0}{16.6}{4.8}
+\streko{0}{17.1}{4.8}
+\streko{0}{17.6}{4.8}
+\streko{0}{18.1}{4.8}
+\streko{0}{18.6}{4.8}
+\streko{0}{19.1}{4.8}
+\streko{0}{19.6}{4.8}
+\streko{0}{20.1}{4.8}
+\fill[black] (0,19.6) rectangle (4.2,20.1);
+\node[left,color=white] at (4.2,19.85) {PEZO ENTUTE};
+
+\duLinioj{0}{20.3}{.8}{MALPEZA}{ŜARĜO}
+\kesto{1.1}{20.3}{.8}{.5}{}
+\duLinioj{0}{21.0}{.8}{MEZPEZA}{ŜARĜO}
+\kesto{1.1}{21.0}{.8}{.5}{}
+\duLinioj{0}{21.7}{.8}{PEZA}{ŜARĜO}
+\kesto{1.1}{21.7}{.8}{.5}{}
+
+\duLinioj{2.6}{20.3}{.8}{LEVI SUPER}{KAPON}
+\kesto{3.7}{20.3}{.8}{.5}{}
+\duLinioj{2.6}{21.0}{.8}{LEVI DE}{GRUNDO}
+\kesto{3.7}{21.0}{.8}{.5}{}
+\duLinioj{2.6}{21.7}{.8}{TIRI AŬ}{ŜOVI}
+\kesto{3.7}{21.7}{.8}{.5}{}
+
+\kesto{0}{22.76}{4.8}{3}{}
+\temo{0}{22.5}{4.8}{MONO}
+\teksto{0}{23.3}{\scriptsize KUPRO}
+\teksto{0}{23.9}{\scriptsize ARĜENTO}
+\teksto{0}{24.5}{\scriptsize ORO}
+\teksto{0}{25.1}{\scriptsize PLATENO}
+
+\temo{5.2}{5.7}{8.4}{TALENTOJ}
+\streko{5.2}{6.8}{8.4}
+\streko{5.2}{7.3}{8.4}
+\streko{5.2}{7.8}{8.4}
+\streko{5.2}{8.3}{8.4}
+\streko{5.2}{8.8}{8.4}
+\streko{5.2}{9.3}{8.4}
+\streko{5.2}{9.8}{8.4}
+\streko{5.2}{10.3}{8.4}
+\streko{5.2}{10.8}{8.4}
+\streko{5.2}{11.3}{8.4}
+\streko{5.2}{11.8}{8.4}
+\streko{5.2}{12.3}{8.4}
+\streko{5.2}{12.8}{8.4}
+\streko{5.2}{13.3}{8.4}
+\temo{5.2}{13.7}{8.4}{SPECIFAJ EBLECOJ}
+\streko{5.2}{14.8}{8.4}
+\streko{5.2}{15.3}{8.4}
+\streko{5.2}{15.8}{8.4}
+\streko{5.2}{16.3}{8.4}
+\streko{5.2}{16.8}{8.4}
+\streko{5.2}{17.3}{8.4}
+\streko{5.2}{17.8}{8.4}
+\streko{5.2}{18.3}{8.4}
+\streko{5.2}{18.8}{8.4}
+\streko{5.2}{19.3}{8.4}
+\streko{5.2}{19.8}{8.4}
+\streko{5.2}{20.3}{8.4}
+\streko{5.2}{20.8}{8.4}
+\streko{5.2}{21.3}{8.4}
+\streko{5.2}{21.8}{8.4}
+\streko{5.2}{22.3}{8.4}
+\streko{5.2}{22.8}{8.4}
+\streko{5.2}{23.3}{8.4}
+\streko{5.2}{23.8}{8.4}
+\streko{5.2}{24.3}{8.4}
+
+\temo{5.2}{24.5}{5.8}{SPERTPOENTOJ}
+\temoMalgranda{10.7}{24.5}{3}{VENONTA NIVELO}
+\vStreko{5.2}{24.76}{1}
+\vStreko{10.8}{24.76}{1}
+\vStreko{13.7}{24.76}{1}
+\streko{5.2}{25.76}{8.5}
+
+\temo{14}{1}{5}{SORĈOJ}
+\duLinioj{14}{1.6}{1}{KONATAJ}{SORĈOJ}
+\duLinioj{15}{1.6}{1}{SORĈ-}{SAVĴETO}
+\linio{16}{1.6}{1}{GRADO}
+\duLinioj{17}{1.6}{1}{SORĈOJ}{POR TAGO}
+\duLinioj{18}{1.6}{1}{KROMAJ}{SORĈOJ}
+
+\kesto{14.15}{2.2}{.7}{.45}{}
+\kesto{14.15}{2.75}{.7}{.45}{}
+\kesto{14.15}{3.3}{.7}{.45}{}
+\kesto{14.15}{3.85}{.7}{.45}{}
+\kesto{14.15}{4.4}{.7}{.45}{}
+\kesto{14.15}{4.95}{.7}{.45}{}
+\kesto{14.15}{5.5}{.7}{.45}{}
+\kesto{14.15}{6.05}{.7}{.45}{}
+\kesto{14.15}{6.6}{.7}{.45}{}
+\kesto{14.15}{7.15}{.7}{.45}{}
+
+\kesto{15.15}{2.2}{.7}{.45}{}
+\kesto{15.15}{2.75}{.7}{.45}{}
+\kesto{15.15}{3.3}{.7}{.45}{}
+\kesto{15.15}{3.85}{.7}{.45}{}
+\kesto{15.15}{4.4}{.7}{.45}{}
+\kesto{15.15}{4.95}{.7}{.45}{}
+\kesto{15.15}{5.5}{.7}{.45}{}
+\kesto{15.15}{6.05}{.7}{.45}{}
+\kesto{15.15}{6.6}{.7}{.45}{}
+\kesto{15.15}{7.15}{.7}{.45}{}
+
+\kesto{17.15}{2.2}{.7}{.45}{}
+\kesto{17.15}{2.75}{.7}{.45}{}
+\kesto{17.15}{3.3}{.7}{.45}{}
+\kesto{17.15}{3.85}{.7}{.45}{}
+\kesto{17.15}{4.4}{.7}{.45}{}
+\kesto{17.15}{4.95}{.7}{.45}{}
+\kesto{17.15}{5.5}{.7}{.45}{}
+\kesto{17.15}{6.05}{.7}{.45}{}
+\kesto{17.15}{6.6}{.7}{.45}{}
+\kesto{17.15}{7.15}{.7}{.45}{}
+
+\teksto{18.3}{2.2}{-}
+\kesto{18.15}{2.75}{.7}{.45}{}
+\kesto{18.15}{3.3}{.7}{.45}{}
+\kesto{18.15}{3.85}{.7}{.45}{}
+\kesto{18.15}{4.4}{.7}{.45}{}
+\kesto{18.15}{4.95}{.7}{.45}{}
+\kesto{18.15}{5.5}{.7}{.45}{}
+\kesto{18.15}{6.05}{.7}{.45}{}
+\kesto{18.15}{6.6}{.7}{.45}{}
+\kesto{18.15}{7.15}{.7}{.45}{}
+
+\teksto{16.155}{2.2}{0a}
+\teksto{16.15}{2.75}{1a}
+\teksto{16.15}{3.3}{2a}
+\teksto{16.15}{3.85}{3a}
+\teksto{16.15}{4.4}{4a}
+\teksto{16.15}{4.95}{5a}
+\teksto{16.15}{5.5}{6a}
+\teksto{16.15}{6.05}{7a}
+\teksto{16.15}{6.6}{8a}
+\teksto{16.15}{7.15}{9a}
+
+\kesto{14}{7.9}{5}{1}{SITUACIAJ MODIFILOJ}
+\teksto{13.9}{9.2}{\footnotesize SFEROJ / SKOLOJ}
+\streko{14}{9.7}{5}
+\linio{17.5}{9.6}{2}{0-A GRADO}
+\streko{14}{12}{5}
+\linio{17.5}{11.9}{2}{1-A GRADO}
+\streko{14}{14}{5}
+\linio{17.5}{13.9}{2}{2-A GRADO}
+\streko{14}{16}{5}
+\linio{17.5}{15.9}{2}{3-A GRADO}
+\streko{14}{18}{5}
+\linio{17.5}{17.9}{2}{4-A GRADO}
+\streko{14}{20}{5}
+\linio{17.5}{19.9}{2}{5-A GRADO}
+\streko{14}{22}{5}
+\linio{17.5}{21.9}{2}{6-A GRADO}
+\streko{14}{23}{5}
+\linio{17.5}{22.9}{2}{7-A GRADO}
+\streko{14}{24}{5}
+\linio{17.5}{23.9}{2}{8-A GRADO}
+\streko{14}{25}{5}
+\linio{17.5}{24.9}{2}{9-A GRADO}
+\streko{14}{25.76}{5}
+
+\linio{0}{25.8}{19}{THIS CHARACTER SHEET USES TRADEMARKS AND/OR COPYRIGHTS OWNED BY PAIZO INC., WHICH ARE USED UNDER PAIZO'S COMMUNITY USE POLICY. WE ARE EXPRESSLY PROHIBITED FROM}
+\linio{0}{26.0}{19}{CHARGING YOU TO USE OR ACCESS THIS CONTENT. THIS CHARACTER SHEET IS NOT PUBLISHED, ENDORSED, OR SPECIFICALLY APPROVED BY PAIZO INC. FOR MORE INFORMATION ABOUT}
+\linio{0}{26.2}{19}{PAIZO'S COMMUNITY USE POLICY, PLEASE VISIT PAIZO.COM/COMMUNITYUSE. FOR MORE INFORMATION ABOUT PAIZO INC. AND PAIZO PRODUCTS, PLEASE VISIT PAIZO.COM.}
+
+\end{tikzpicture}
+
+\end{document}

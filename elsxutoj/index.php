@@ -12,6 +12,7 @@
 <title>Elŝutoj</title>
 <h1>Elŝutoj</h1>
 
+<p>Rolulformularo (<a href="Rolulformularo.pdf">pdf</a>)</p>
 <p>Kompleta bazregulverko (<a href="kompleta_bazregulverko.pdf">pdf</a>)</p>
 
 <?php require '../pagxpiedo.php' ?>

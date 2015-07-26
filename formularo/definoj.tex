@@ -1,0 +1,114 @@
+\newcommand{\titolo}[3] {
+\node[right] at (#1, #2) {\includegraphics[width=0.33\textwidth]{../bildoj/Pathfinder.png}};
+\node[right] at (#1 + 1, #2 + .9) {#3};
+}
+
+\newcommand{\tekstaLinio}[4] {
+\draw (#1,#2) -- +(#3,0);
+\node[right] at (#1,#2+.15) {\tiny #4};
+}
+
+\newcommand{\kesto}[5] {
+\draw (#1,#2) rectangle +(#3,#4);
+\node[left] at (#1+#3,#2+.15) {\tiny #5};
+}
+
+\newcommand{\signo}[3] {
+\node[left] at (#1+.035, #2+.25) {\tiny #3};
+}
+
+\newcommand{\nigraKesto}[5] {
+\fill[black] (#1,#2) rectangle +(#3,.52);
+\node[color=white] at (#1+#3/2,#2+.16) {#4};
+\node[color=white] at (#1+#3/2,#2+.41) {\tiny #5};
+}
+
+\newcommand{\temo}[4] {
+\fill[black] (#1+.25,#2) rectangle +(#3-.5,.52);
+\draw (#1, #2+.26) to +(#3, 0);
+\fill[black] (#1,#2+.26) -- plot [domain=#1:#1+.26] (\x,{#2+.26+(\x-#1)^2/.26})  -- (#1+.26,#2+.26) -- cycle;
+\fill[black] (#1,#2+.26) -- plot [domain=#1:#1+.26] (\x,{#2+.26-(\x-#1)^2/.26}) -- (#1+.26,#2+.26) -- cycle;
+\fill[black] (#1+#3-.26,#2+.26) -- plot [domain=#1+#3-.26:#1+#3] (\x,{#2+.26+(\x-#1-#3)^2/.26})  -- (#1+#3,#2+.26) -- cycle;
+\fill[black] (#1+#3-.26,#2+.26) -- plot [domain=#1+#3-.26:#1+#3] (\x,{#2+.26-(\x-#1-#3)^2/.26}) -- (#1+#3,#2+.26) -- cycle;
+\node[color=white] at (#1+#3/2,#2+.24) {#4};
+}
+
+\newcommand{\temoMalgranda}[4] {
+\fill[black] (#1,#2+.18) rectangle +(#3,.34);
+\node[color=white] at (#1+#3/2,#2+.34) {\scriptsize {#4}};
+}
+
+\newcommand{\atributo}[4] {
+\nigraKesto{#1}{#2}{1.5}{#3}{#4}
+\draw (#1+1.7, #2) rectangle +(.8, .52);
+\draw (#1+2.7, #2) rectangle +(.8, .52);
+\draw (#1+3.7, #2) rectangle +(.8, .52);
+\draw (#1+4.7, #2) rectangle +(.8, .52);
+}
+
+\newcommand{\linio}[4] {
+\node at (#1+#3/2, #2+.25) {\tiny #4};
+}
+
+\newcommand{\teksto}[3] {
+\node[right] at (#1, #2+.25) {#3};
+}
+
+\newcommand{\streko}[3] {
+\draw (#1, #2) to +(#3, 0);
+}
+
+\newcommand{\vStreko}[3] {
+\draw (#1, #2) to +(0, #3);
+}
+
+\newcommand{\duLinioj}[5] {
+\node at (#1+#3/2, #2+.15) {\tiny #4};
+\node at (#1+#3/2, #2+.35) {\tiny #5};
+}
+
+\newcommand{\kestoI}[5] {
+\kesto{#1}{#2}{#3}{#4}{};
+\duLinioj{#1}{#2+.6}{#3}{#5}{};
+}
+
+\newcommand{\kestoII}[6] {
+\kesto{#1}{#2}{#3}{#4}{};
+\duLinioj{#1}{#2+.5}{#3}{#5}{#6};
+}
+
+\newcommand{\kapableco}[4] {
+\kesto{#1}{#2}{.2}{.2}{};
+\node[right] at (#1+.2, #2+.1) {\footnotesize #3};
+\draw (#1+3.7,#2+.2) to +(.7,0);
+\node[right] at (#1+4.4, #2+.1) {\footnotesize = #4};
+\draw (#1+5.6,#2+.2) to +(.7,0);
+\node[right] at (#1+6.2, #2+.1) {\small +};
+\draw (#1+6.6,#2+.2) to +(.7,0);
+\node[right] at (#1+7.2, #2+.1) {\small +};
+\draw (#1+7.6,#2+.2) to +(.7,0);
+}
+
+\newcommand{\kapablecoKlarigoj}[2] {
+\kesto{#1}{#2}{.2}{.2}{};
+\draw (#1,#2) to +(.2,.2);
+\draw (#1,#2+.2) to +(.2,-.2);
+\node[right] at (#1+.2, #2+.1) {\footnotesize \em Klaskapableco\hspace{2em}* Nur ekzercita};
+}
+
+\newcommand{\armilo}[2] {
+\temo{#1}{#2}{6.4}{ARMILO}
+\temoMalgranda{#1+6.0}{#2}{2.8}{ATAKBONO}
+\temoMalgranda{#1+8.4}{#2}{2}{KRITIKA}
+\vStreko{#1}{#2+.26}{1.8}
+\vStreko{#1+6.4}{#2+.26}{1.8}
+\vStreko{#1+8.4}{#2+.26}{.86}
+\vStreko{#1+10.4}{#2+.26}{1.8}
+\temoMalgranda{#1}{#2+.94}{1}{TIPO}
+\temoMalgranda{#1+1}{#2+.94}{2.7}{TRAFOPOVO}
+\temoMalgranda{#1+3.7}{#2+.94}{2.7}{MUNICIO}
+\temoMalgranda{#1+6.4}{#2+.94}{4}{DAMAĜO}
+\vStreko{#1+1}{#2+1.14}{.92}
+\vStreko{#1+3.7}{#2+1.14}{.92}
+\streko{#1}{#2+2.06}{10.4}
+}

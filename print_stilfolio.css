@@ -25,6 +25,7 @@ img {
     float: right;
     clear: right;
     page-break-inside: avoid;
+    display: none
 }
 
 .titolo-libro {
