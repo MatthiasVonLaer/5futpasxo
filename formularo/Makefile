@@ -6,6 +6,9 @@ pdf:
 lua:
 	lualatex rolulformularo
 
+toki:
+	lualatex toki_pona
+
 todo: 
 	grep -R -s -n TODO *.tex
 

@@ -105,6 +105,9 @@ kalkuli();
                 <li>
                     <a href="/elsxutoj">Elŝutoj</a>
                 </li>
+                <li>
+                    <a href="/kontakto.php">Kontakto</a>
+                </li>
             </ul>
         </div>
         <div class="supra-navigilo">

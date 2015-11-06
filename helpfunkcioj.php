@@ -66,7 +66,7 @@ function tradukinda_sorcxo($angla)
 {
     echo '
         <div class="informo">
-            Tiu sorĉo ne jam estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/spells/'.$angla.'" target="_blank">la anglan priskribon</a>.
+            Tiu sorĉo ankoraŭ ne estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/spells/'.$angla.'" target="_blank">la anglan priskribon</a>.
         </div>
         ';
 }
@@ -75,7 +75,7 @@ function tradukinda_paragrafo($angla)
 {
     echo '
         <div class="informo">
-            Tiu paragrafo ne jam estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/'.$angla.'" target="_blank">la anglan priskribon</a>.
+            Tiu paragrafo ankoraŭ ne estas tradukita. Ĉi tie vi trovas la <a href="http://paizo.com/pathfinderRPG/prd/'.$angla.'" target="_blank">la anglan priskribon</a>.
         </div>
         ';
 }

@@ -15,7 +15,7 @@
 <p>Tiu paĝaro estas tute nekomerca kaj estas tradukita de ludantoj por ludantoj. Se vi trovas parton kiun vi emas traduki, vi volonte povas fari tion kaj tiel helpi kompletigi la paĝaron. Ankaŭ se vi trovas mistajpojn aŭ erarojn, vi povas korekti ilin. </p>
 <p>Por tio vi povas klaki al (redakti, aperos en la venontaj tagoj) kio troveblas en la supra navigilo por traduki rekte en la retumilo.</p>
 <p>Alia maniero estas ke vi elŝutas la projekton de GitHub kie la projekto haveblas kiel git-deponejo: <a href="https://github.com/oneironauto/5futpasxo" target="_blank">https://github.com/oneironauto/5futpasxo</a>.</p>
-<p>Tria eblo estas simple kontakti nin (<a href="mailto:matthias-vonlaer@web.de" target="_blank">Kontakto</a>).</p>
+<p>Tria eblo estas simple kontakti nin (<a href="kontakto.php">Kontakto</a>).</p>
 <p>Tradukindaj partoj ekzemple estas:</p>
 <ul>
     <li>Skoloj de magiisto</li>
